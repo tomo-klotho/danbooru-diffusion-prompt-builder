@@ -3,62 +3,62 @@
 </p>
 <div align="center">
 
-# Danbooru 标签超市
+# Danbooru ラベルスーパーマーケット
 
 https://tags.novelai.dev
 
 </div>
 
-## 主要功能
+## 主な機能
 
--   标签分类、释义与配图
--   即时搜索
--   构建标签组合并调配权重
--   支持调配高级标签工程（[Prompt Editing](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#prompt-editing) / [Alternating Words](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#alternating-words)）
--   导入已有标签组合并自动匹配，支持解析复杂标签
--   预设（固定标签组合）整理、说明与配图
--   嵌入模型索引与下载
--   超网络模型索引与下载
+-   タグの分類、解釈、図解
+-   インスタント検索
+-   タグの組み合わせの構築とウェイトの展開
+-   アドバンストラベルエンジニアリングのブレンドに対応([Prompt Editing](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#prompt-editing) / [Alternating Words](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#alternating-words)）
+-   既存のタグの組み合わせをインポートして自動的にマッチングさせ、複雑なタグの解析をサポート
+-   プリセット（固定ラベルの組み合わせ）照合、図版、イラストレーション
+-   エンベデッドモデルインデックスとダウンロード
+-   ハイパーネットワークモデルのインデックスとダウンロード
 
-## 开发与改进
+## 開発・改善
 
-### 修改标签或预设
+### ラベルやプリセットの修正
 
-请编辑 `data/tags/**/*.yaml` 与 `data/presets/**/*.yaml` 文件。
+ファイル `data/tags/**/*.yaml` と `data/presets/**/*.yaml` を編集してください。
 
-#### 拓广
+#### 広める
 
-添加标签的最低标准是拥有标签的英文名与中文名。
+ラベルの追加には、ラベルの英語名と中国語名の両方が必要であることが最低条件です。
 
-对于标签名，请将下划线替换为空格。请注意不要与其他标签重复。使用 `npm run dupcheck` 或
-`yarn dupcheck` 检查是否存在重复问题。
+タグ名の場合は、アンダースコアをスペースに置き換えてください。他のタグと重複しないようにご注意ください。`npm run dupcheck`を使用するか、または
+`yarn dupcheck` で重複をチェックします。
 
-##### 标签
+##### タグ
 
 ```yaml
-name: <分类名>
+name: <分類名>
 category: 
-  - <分类层级1>
-  - <分类层级2>
-restricted: false # 是否限制级
+  - <分類レベル1>
+  - <分類レベル2>
+restricted: false # 制限の有無
 content:
-    tag-name1: # 英文标签
-        name: <标签中文名1>
-    tag-name2: # 英文标签
-        name: <标签中文名2>
+    tag-name1: # 英語ラベル
+        name: <ラベル 中国語名 1>
+    tag-name2: # 英語ラベル
+        name: <ラベル 中国語名 2>
 ```
 
-##### 预设
+##### プリセット
 
 ```yaml
-name: <预设分类名>
+name: <プリセットカテゴリー名>
 category: 
-  - <分类层级1>
-  - <分类层级2>
-restricted: false # 是否限制级
+  - <分類レベル1>
+  - <分類レベル2>
+restricted: false # 制限の有無
 content:
     预设中文名:
-        description: 预设描述
+        description: プリセットの説明
         content:
             - tag1
             - tag2
@@ -66,145 +66,145 @@ content:
 
 #### 精修
 
-一个优质标签应当拥有配图、说明、别名与 Danbooru Wiki 链接。
+クオリティタグには、画像、説明文、エイリアス、だんぼーるWikiへのリンクが必要です。
 
-图片大小应当尽量符合 512px \* 512px 以获得最佳显示效果。
+画像サイズはなるべく512pxに近い方がきれいに表示されます。
 
-请通过 `npm run importimage <path>` 或 `yarn importimage <path>` 将图片添加到公共目录。
-这将会自动裁剪图片并进行适当的压缩。
+`npm run importimage <path>` または `yarn importimage <path>` で、公開ディレクトリに画像を追加してください。
+これにより、自動的に画像が切り取られ、適切に圧縮されます。
 
-使用 `npm run importuncroppedimage <path>` 或 `yarn importuncroppedimage <path>`
-添加的图片将不经裁剪直接加入。适用于宽幅预设演示图。
+`npm run importuncroppedimage <path>` または `yarn importuncroppedimage <path>` を使用します。
+追加された画像は、トリミングされずにそのまま追加されます。ワイドプリセットデモ画像に適しています。
 
-请不要添加儿童色情相关、或违反 GitHub 使用协议的图片到项目中。
+児童ポルノに関連する画像や、GitHubの利用規約に違反する画像をプロジェクトに追加しないでください。
 
-##### 标签
+##### タグ
 
 ```yaml
-name: <分类名>
+name: <分類名>
 category: 
-  - <分类层级1>
-  - <分类层级2>
-restricted: false # 是否限制级
+  - <分類レベル1>
+  - <分類レベル2>
+restricted: false # 制限の有無
 content:
-    tag-name1: # 英文标签
-        name: <标签中文名1>
-        description: <标签说明>
-        wikiURL: <Danbooru Wiki 链接>
-        image: <图片 SHA256>
-        restricted: false # 是否限制级
+    tag-name1: # 英語ラベル
+        name: <ラベル 中国語名 1>
+        description: <ラベルの説明>
+        wikiURL: <Danbooru Wiki リンク>
+        image: <写真 SHA256>
+        restricted: false # 制限の有無
 ```
 
-##### 预设
+##### プリセット
 
 ```yaml
-name: <预设分类名>
+name: <プリセットカテゴリー名>
 category: 
-  - <分类层级1>
-  - <分类层级2>
-restricted: false # 是否限制级
-description: <预设分类说明>
+  - <分類レベル1>
+  - <分類レベル2>
+restricted: false # 制限の有無
+description: <プリセットされた分類の説明>
 content:
     预设中文名:
-        description: 预设描述
+        description: プリセットの説明
         content:
             - tag1
             - tag2
-        preview: # 预览图片 SHA256 (可选)
+        preview: # プレビュー画像 SHA256 (オプション)
             - <hash1>
             - <hash2>
 ```
 
-### 上传嵌入模型 (TI Embeddings)
+### エンベッディングモデルのアップロード (TI Embeddings)
 
-嵌入模型只支持最新版图片格式（`Save images with embedding in PNG chunks`）。
-为安全起见，暂不接受 `.pt` 模型文件。
+モデルの埋め込みは、最新版の画像形式（`Save images with embedding in PNG chunks`）にのみ対応しています。
+セキュリティ上の理由から、現時点では `.pt` モデルファイルは受け付けられません。
 
-`.pt` 格式的模型文件请通过 [这个 Colab 笔记本](https://colab.research.google.com/gist/wfjsw/2b2a26349bef1ce891f6ab4d4fb3030a/convert-pt-embedding-to-png.ipynb) 进行格式转换。
+`.pt` 形式のモデルファイルについては [このColab notebook](https://colab.research.google.com/gist/wfjsw/2b2a26349bef1ce891f6ab4d4fb3030a/convert-pt-embedding-to-png.ipynb) フォーマット変換を行う。
 
-请通过 `npm run importembedding <path>` 或 `yarn importembedding <path>`
-将模型图片添加到公共目录。然后，在 `data/embeddings/**/*.yaml` 创建描述文件。
+`npm run importembedding <path>` または `yarn importembedding <path>` を使ってください。
+モデル画像を公開ディレクトリに追加します。次に、`data/embeddings/**/*.yaml`に記述ファイルを作成します。
 
 ```yaml
-# 调用该模型使用的命令 (模型图片左上角尖括号内容)
+# モデルを呼び出すのに使用したコマンド（モデル画像左上の括弧の内容）
 prompt: victorian-lace
-# 模型名称
+# モデル名
 name: Victorian Lace
-# 模型作者/来源
+# モデル作成者／出典
 author: u/depfakacc @ Reddit
-# 模型描述
+# モデル説明
 description: 'A lace pattern that looks like it was made in the Victorian era.'
-# 模型分类
+# モデル分類
 category: 
-  - 未分类
-# 该模型对应的主模型名称
+  - 未分類
+# このモデルに対応するマスターモデルの名前
 modelName: model-aa-waifu
-# 该模型对应的主模型 Hash （显示在 WebUI 下拉框中的 Hash）
+# このモデルに対応するマスターモデルのHash（WebUIドロップダウン・ボックスに表示されるHash）。
 modelHash: '2037c511'
-# 模型图片右下角 v 字符旁的数字
+# モデル写真の右下にあるv文字の横の数字
 vectorSize: 10
-# 模型图片右下角 s 字符旁的数字
+# モデル写真の右下にあるsの文字の横にある数字
 steps: 675
-# 模型文件的 SHA256 Hash
+# モデルファイルのSHA256ハッシュ値
 payloadHash: df0641662fb2fc8190a4508c34926243843484495e6d9b0e500f8a8e409aa84e
-# 是否限制级 (可选)
+# 制限の有無（任意）
 restricted: false
-# 推荐正向标签 (可选)
+# 推奨ポジティブラベル（オプション）
 suggestPositive:
     - cute
-# 推荐反向标签 (可选)
+# 推奨リバースタギング（オプション）
 suggestNegative:
     - futa
 ```
 
-### 上传超网络模型 (Hypernetworks)
+### スーパーネットワークモデルのアップロード (Hypernetworks)
 
-超网络模型的描述文件位于 `data/hypernetworks/**/*.yaml`。
+スーパーネットワークモデルの記述ファイルは、以下の場所にあります。 `data/hypernetworks/**/*.yaml`。
 
-模型的演示图片上传流程与普通标签类似，其他项目与嵌入式模型类似。由于超网络模型本身体积较大，网站服务器与 GitHub 均无法存放，
-请将 `.pt` 模型文件上传到我们的 [HuggingFace 模型库](https://huggingface.co/novelai-dev/DDPB-hypernetworks/tree/main)，
-并在描述文件中填写文件的下载地址。
+モデル用のデモ画像をアップロードする手順は通常のタグと同様で、それ以外は埋め込みモデルと同様です。スーパーネットモデル自体のサイズが大きいため、ウェブサーバーもGitHubも保存できない。
+モデルファイル `.pt` は、私たちの [HuggingFace モデルリポジトリ](https://huggingface.co/novelai-dev/DDPB-hypernetworks/tree/main) にアップロードしてください。
+をダウンロードし、そのアドレスを記述ファイルに記載する。
 
 ```yaml
-prompt: demo-model # 模型内置英文名
-name: 演示模型 # 模型中文名称
-author: John Doe @ Tieba # 模型来源
-category: # 模型分类
+prompt: demo-model # 英語名内蔵モデル
+name: 演示模型 # 機種名（中国語
+author: John Doe @ Tieba # モデルソース
+category: # モデル分類
   - 风景
-modelName: demo model # 该模型对应的主模型名称
-modelHash: 'deadbeef' # 该模型对应的主模型 Hash （显示在 WebUI 下拉框中的 Hash）
-steps: 2600 # 模型内记录的训练步数
+modelName: demo model # このモデルに対応するマスターモデルの名前
+modelHash: 'deadbeef' # このモデルに対応するマスターモデルのHash（WebUIドロップダウン・ボックスに表示されるHash）。
+steps: 2600 # モデル内に記録されたトレーニングステップの数
 
-# 模型预览图的 SHA256 Hash (可选)
+# モデルプレビュー画像のSHA256ハッシュ（オプション）
 previewHash: 9b55d1f1a03861c01cd72b4952191660f87c7bc0e9a0dfc4447022852a2be147
 
-# 模型文件的 HuggingFace 下载地址
+# HuggingFaceのモデルファイルのダウンロード
 payloadURL: https://huggingface.co/novelai-dev/DDPB-hypernetworks/resolve/main/demo.pt
 
-# 推荐正向标签 (可选)
+# 推奨ポジティブラベル（オプション）
 suggestPositive:
     - demo tag
-# 推荐反向标签 (可选)
+# 推奨リバースタギング（オプション）
 suggestNegative:
     - demo tag 2
 ```
 
-### 开发环境
+### 開発環境
 
-> 由于使用了部分 Pro 图标，构建该项目将需要 [Font Awesome v6 Pro 授权](https://fontawesome.com/plans)，
-> 并连接到 Font Awesome 私有 NPM 服务器。在开发过程中您可以暂时替换为 Free 图标。
+> Proのアイコンを一部使用しているため、このプロジェクトの構築には[Font Awesome v6 Proライセンス](https://fontawesome.com/plans)が必要になります。
+> を実行し、Font AwesomeのプライベートNPMサーバーに接続します。開発中に一時的にFreeアイコンに置き換えることができます。
 
 ```bash
-# 安装依赖
+# 依存関係のインストール
 yarn
-# 启动开发服务器
+# 開発サーバーの起動
 yarn dev
-# 构建项目
+# 建築プロジェクト
 yarn build
 ```
 
 ### TODO
 
-尚需改进之处：
+改善すべき点
 
--   [ ] Masonry 与许多界面优化 (如 Collapse) 不兼容
+-   [ ] Masonry 多くのインターフェース最適化（例：Collapse）と非互換

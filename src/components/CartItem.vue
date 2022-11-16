@@ -30,7 +30,7 @@ import {
     faRepeat,
     faScaleUnbalanced,
     faScaleUnbalancedFlip,
-} from '@fortawesome/pro-regular-svg-icons'
+} from '@fortawesome/free-solid-svg-icons'
 import LiteralWeightIdentifier from './LiteralWeightIdentifier.vue'
 import { useCartStore } from '../stores/cart'
 import type { CartChildItem, CartItem, CartItemSimple } from '../types/cart'
@@ -165,7 +165,7 @@ const editingChildWeight = computed<Decimal>({
         <div class="tag-button">
             <ElTooltip
                 v-if="['tag', 'embedding'].includes(data.type)"
-                content="创建混合组"
+                content="ハイブリッドグループの作成"
                 :show-after="750">
                 <ElButton
                     link
@@ -183,7 +183,7 @@ const editingChildWeight = computed<Decimal>({
                         data.type === 'group') &&
                     cartStore.isMixtureSwitchable(data)
                 "
-                content="切换混合方式"
+                content="ミックスの切り替え"
                 :show-after="750">
                 <ElButton
                     link
@@ -199,7 +199,7 @@ const editingChildWeight = computed<Decimal>({
             </ElTooltip>
 
             <template v-if="data.type === 'editing'">
-                <ElTooltip content="断点后移" :show-after="750">
+                <ElTooltip content="ブレークポイントセットバック" :show-after="750">
                     <ElButton
                         link
                         type="primary"
@@ -207,7 +207,7 @@ const editingChildWeight = computed<Decimal>({
                         <FontAwesomeIcon :icon="faScaleUnbalanced" />
                     </ElButton>
                 </ElTooltip>
-                <ElTooltip content="断点前移" :show-after="750">
+                <ElTooltip content="ブレークポイント前進" :show-after="750">
                     <ElButton
                         link
                         type="primary"
@@ -218,7 +218,7 @@ const editingChildWeight = computed<Decimal>({
             </template>
 
             <template v-if="data.type !== 'null'">
-                <ElTooltip content="提高权重" :show-after="750">
+                <ElTooltip content="ウェイトを増やす" :show-after="750">
                     <ElButton
                         link
                         type="primary"
@@ -226,7 +226,7 @@ const editingChildWeight = computed<Decimal>({
                         <FontAwesomeIcon :icon="faCirclePlus" />
                     </ElButton>
                 </ElTooltip>
-                <ElTooltip content="降低权重" :show-after="750">
+                <ElTooltip content="ウェイトの削減" :show-after="750">
                     <ElButton
                         link
                         type="primary"
@@ -239,7 +239,7 @@ const editingChildWeight = computed<Decimal>({
             <template v-if="data.parent === null">
                 <ElTooltip
                     v-if="direction === 'positive'"
-                    content="转为反向"
+                    content="リバースへの切り替え"
                     :show-after="750">
                     <ElButton
                         link
@@ -250,7 +250,7 @@ const editingChildWeight = computed<Decimal>({
                 </ElTooltip>
                 <ElTooltip
                     v-if="direction === 'negative'"
-                    content="转为正向"
+                    content="プラスへのシフト"
                     :show-after="750">
                     <ElButton
                         link
@@ -262,7 +262,7 @@ const editingChildWeight = computed<Decimal>({
             </template>
             <ElTooltip
                 v-if="!(data.type === 'null')"
-                content="删除"
+                content="削除"
                 :show-after="750">
                 <ElButton
                     link

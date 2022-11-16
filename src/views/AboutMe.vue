@@ -20,8 +20,8 @@
 <script lang="ts" setup>
 import {ElButton, ElSwitch, ElScrollbar} from 'element-plus'
 import {FontAwesomeIcon} from '@fortawesome/vue-fontawesome'
-import {faEye, faEyeSlash, faClipboard, faThumbsDown, faThumbsUp, faLightbulbOn, faLightbulbSlash} from '@fortawesome/pro-light-svg-icons'
-import {faCircleMinus, faCirclePlus, faTrash, faThumbsDown as faThumbsDownRegular, faThumbsUp as faThumbsUpRegular, faBlender as faBlenderRegular} from '@fortawesome/pro-regular-svg-icons'
+import {faEye, faEyeSlash, faClipboard, faThumbsDown, faThumbsUp, faLightbulb, faSlash} from '@fortawesome/free-solid-svg-icons'
+import {faCircleMinus, faCirclePlus, faTrash, faThumbsDown as faThumbsDownRegular, faThumbsUp as faThumbsUpRegular, faBlender as faBlenderRegular} from '@fortawesome/free-solid-svg-icons'
 import {useSettingsStore} from '../stores/settings'
 import {useTagStore} from '../stores/tags'
 import {usePresetStore} from '../stores/presets'
@@ -43,32 +43,32 @@ const hypernetworkStore = useHypernetworkStore()
 
 const activeIcon = h(FontAwesomeIcon, { icon: faEye })
 const inactiveIcon = h(FontAwesomeIcon, { icon: faEyeSlash })
-const lightIcon = h(FontAwesomeIcon, { icon: faLightbulbOn })
-const darkIcon = h(FontAwesomeIcon, { icon: faLightbulbSlash })
+const lightIcon = h(FontAwesomeIcon, { icon: faLightbulb })
+const darkIcon = h(FontAwesomeIcon, { icon: faSlash })
 const ax = h('span', {class: 'switch-text-icon math-style'}, ['a', h('sup', {}, 'x')])
 const plus = h('span', { class: 'switch-text-icon' }, ['+'])
 
 const buildTime = dayjs(__BUILD_TIMESTAMP__).format('YYYY-MM-DD HH:mm:ss Z')
-const buildType = import.meta.env.PROD ? '生产' : '开发'
+const buildType = import.meta.env.PROD ? 'プロダクション' : '開発'
 
 </script>
 
 <template>
     <ElScrollbar>
-        <h1>关于</h1>
-        <p>这是一个用于构建 Danbooru 标签组合的网站。</p>
+        <h1>このサイトについて</h1>
+        <p>Danbooruのタグポートフォリオを構築するためのサイトです。</p>
         <p>
-当前版本为 {{ buildTime }} 构建的{{ buildType }}版本。目前共收录 {{ tagStore.allTagCount }} 个标签，共 {{ tagStore.tagWithPhotosCount }} 个标签有配图。
-            共收录 {{ presetStore.count }} 组预设标签、{{ embeddingStore.count }} 个嵌入模型、{{ hypernetworkStore.count }} 个超网络模型。
-</p>
-        <p>
-本站的源码与所有原始数据于
-            <a href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder" target="_blank">danbooru-diffusion-prompt-builder @ GitHub</a>
-            遵循 GNU AGPL-3.0 协议开放。如果您觉得本站对您有帮助，请在 GitHub 上点一个 Star。
-            同时，也欢迎您通过 <a href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder/issues" target="_blank">GitHub Issues</a> 提出问题建议，
-            或通过 <a href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder/pulls" target="_blank">Pull Request</a> 对本站进行修改或补充。
+            現在のバージョンは {{ buildTime }} にビルドされた{{ buildType }}バージョンです。
+            現在合計 {{ tagStore.allTagCount }} 個のタグが含まれており、合計 {{ tagStore.tagWithPhotosCount }} 個のタグに写真があります。合計 {{ presetStore.count }} セットのプリセットラベル、{{ embeddingStore.count }} の組み込みモデル、および {{ hypernetworkStore.count }} のハイパーネットワーク モデルが含まれています。
         </p>
-        <p>如何使用：</p>
+        <p>
+            このサイトのソースコードとすべての生データは
+            <a href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder" target="_blank">danbooru-diffusion-prompt-builder @ GitHub</a>
+            GNU AGPL-3.0 契約に基づいて公開されています。このサイトが役に立ったと思われる場合は、GitHub のスターをクリックしてください。
+            同時に、 <a href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder/issues" target="_blank">GitHub Issues</a> を通じて質問や提案を提起したり、
+            または <a href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder/pulls" target="_blank">Pull Request</a> を通じてこのサイトを変更または補足したりすることも歓迎します。
+        </p>
+        <p>使い方：</p>
         <ul>
             <li>
                 <p>

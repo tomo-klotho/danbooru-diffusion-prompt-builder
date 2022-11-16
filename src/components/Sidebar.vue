@@ -58,7 +58,7 @@ function select(index: string, indexPath: string[]) {
             <ElIcon>
                 <IconGuide />
             </ElIcon>
-            关于
+            について
         </ElMenuItem>
 
         <ElSubMenu v-loading="!tagStore.loaded" index="tags">
@@ -66,7 +66,7 @@ function select(index: string, indexPath: string[]) {
                 <ElIcon>
                     <IconDocument />
                 </ElIcon>
-                标签
+                タグ
             </template>
             <SidebarItem type="tags"
                 :hierarchy="tagStore.categoryHierarchy"
@@ -78,7 +78,7 @@ function select(index: string, indexPath: string[]) {
                 <ElIcon>
                     <IconFolder />
                 </ElIcon>
-                预设
+                プリセット
             </template>
             <SidebarItem type="presets"
                 :hierarchy="presetStore.categoryHierarchy"
@@ -102,7 +102,7 @@ function select(index: string, indexPath: string[]) {
                 <ElIcon>
                     <IconBox />
                 </ElIcon>
-                超网络模型
+                スーパーネットワークモデル
             </template>
             <SidebarItem type="hypernetworks"
                 :hierarchy="hypernetworkStore.categoryHierarchy"

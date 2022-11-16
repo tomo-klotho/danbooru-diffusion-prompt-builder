@@ -26,11 +26,11 @@ import {
     faClipboard,
     faThumbsDown,
     faThumbsUp,
-} from '@fortawesome/pro-light-svg-icons'
+} from '@fortawesome/free-solid-svg-icons'
 import {
     faCloudArrowDown,
-    faImageSlash,
-} from '@fortawesome/pro-regular-svg-icons'
+    faEyeSlash,
+} from '@fortawesome/free-solid-svg-icons'
 import type { Embedding } from '../types/data'
 import { useCartStore } from '../stores/cart'
 import ToggleableTag from './ToggleableTag.vue'
@@ -98,7 +98,7 @@ function toggleNegative(tag: string = prompt.value) {
             <ElImage :src="imageUrl" fit="cover" loading="lazy">
                 <template #error>
                     <div class="image-slot">
-                        <FontAwesomeIcon :icon="faImageSlash" size="lg" />
+                        <FontAwesomeIcon :icon="faEyeSlash" size="lg" />
                     </div>
                 </template>
             </ElImage>
@@ -124,21 +124,21 @@ function toggleNegative(tag: string = prompt.value) {
                                 <FontAwesomeIcon
                                     :icon="faCloudArrowDown"
                                     class="icon" />
-                                下载模型
+                                モデルのダウンロード
                             </ElButton>
                         </a>
                     </div>
                     <div class="buttons">
                         <ElTooltip :visible="copied">
                             <template #content>
-                                <span>已复制到剪贴板</span>
+                                <span>クリップボードにコピーされる</span>
                             </template>
                             <ElButton circle type="primary" @click="copy()">
                                 <FontAwesomeIcon :icon="faClipboard" />
                             </ElButton>
                         </ElTooltip>
 
-                        <ElTooltip content="我想要" :show-after="750">
+                        <ElTooltip content="必要" :show-after="750">
                             <ElButton
                                 :type="inPositive ? 'success' : 'default'"
                                 circle
@@ -146,7 +146,7 @@ function toggleNegative(tag: string = prompt.value) {
                                 <FontAwesomeIcon :icon="faThumbsUp" />
                             </ElButton>
                         </ElTooltip>
-                        <ElTooltip content="我不想要" :show-after="750">
+                        <ElTooltip content="不必要" :show-after="750">
                             <ElButton
                                 :type="inNegative ? 'danger' : 'default'"
                                 circle
@@ -159,29 +159,29 @@ function toggleNegative(tag: string = prompt.value) {
             </div>
             <div v-if="data.name" class="text name">{{ data.name }}</div>
             <div v-if="showCategory" class="text category">
-                类别：{{ data.category.join('/') }}
+                カテゴリー：{{ data.category.join('/') }}
             </div>
             <div v-if="data.author" class="text author">
-                来源：{{ data.author }}
+                出典：{{ data.author }}
             </div>
             <p v-if="data.description" class="text description">
                 {{ data.description }}
             </p>
             <div v-if="data.modelName" class="text meta">
-                模型名：<code>{{ data.modelName }}</code> (<code>{{
+                モデル名：<code>{{ data.modelName }}</code> (<code>{{
                     data.modelHash
                 }}</code
                 >)
             </div>
             <div v-if="data.vectorSize" class="text meta">
-                向量数量：{{ data.vectorSize }}
+                ベクター数：{{ data.vectorSize }}
             </div>
             <div v-if="data.steps" class="text meta">
-                训练步数：{{ data.steps }}
+                トレーニングステップ：{{ data.steps }}
             </div>
 
             <div v-if="data.suggestPositive" class="tag-suggestion">
-                <div>推荐正向标签：</div>
+                <div>推奨ポジティブラベル：</div>
                 <div class="tags">
                     <ToggleableTag
                         v-for="tag in data.suggestPositive"
@@ -193,7 +193,7 @@ function toggleNegative(tag: string = prompt.value) {
             </div>
 
             <div v-if="data.suggestNegative" class="tag-suggestion">
-                <div>推荐反向标签</div>
+                <div>推奨されるリバースタギング</div>
                 <div class="tags">
                     <ToggleableTag
                         v-for="tag in data.suggestNegative"

@@ -25,22 +25,22 @@ import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import {
     faEye,
     faEyeSlash,
-    faLightbulbOn,
-    faLightbulbSlash,
-    faShieldCheck,
-    faShieldExclamation,
-} from '@fortawesome/pro-light-svg-icons'
+    faLightbulb,
+    faBoltLightning,
+    faShield,
+    faShieldHalved,
+} from '@fortawesome/free-solid-svg-icons'
 import { useSettingsStore } from '../stores/settings'
 
 const settingsStore = useSettingsStore()
 const activeIcon = h(FontAwesomeIcon, { icon: faEye })
 const inactiveIcon = h(FontAwesomeIcon, { icon: faEyeSlash })
 
-const safeIcon = h(FontAwesomeIcon, { icon: faShieldCheck })
-const unsafeIcon = h(FontAwesomeIcon, { icon: faShieldExclamation })
+const safeIcon = h(FontAwesomeIcon, { icon: faShield })
+const unsafeIcon = h(FontAwesomeIcon, { icon: faShieldHalved })
 
-const lightIcon = h(FontAwesomeIcon, { icon: faLightbulbOn })
-const darkIcon = h(FontAwesomeIcon, { icon: faLightbulbSlash })
+const lightIcon = h(FontAwesomeIcon, { icon: faLightbulb })
+const darkIcon = h(FontAwesomeIcon, { icon: faBoltLightning })
 
 const ax = h('span', { class: 'switch-text-icon math-style' }, [
     'a',
@@ -51,7 +51,7 @@ const plus = h('span', { class: 'switch-text-icon' }, ['+'])
 
 <template>
     <div class="feature-switches">
-        <ElTooltip content="暗黑模式" :show-after="750">
+        <ElTooltip content="ダークモード" :show-after="750">
             <ElSwitch
                 v-model="isDark"
                 :active-icon="darkIcon"
@@ -59,7 +59,7 @@ const plus = h('span', { class: 'switch-text-icon' }, ['+'])
                 inline-prompt
                 size="large" />
         </ElTooltip>
-        <ElTooltip content="显示图片" :show-after="750">
+        <ElTooltip content="画像を表示する" :show-after="750">
             <ElSwitch
                 v-model="settingsStore.showImage"
                 :active-icon="activeIcon"
@@ -67,7 +67,7 @@ const plus = h('span', { class: 'switch-text-icon' }, ['+'])
                 inline-prompt
                 size="large" />
         </ElTooltip>
-        <ElTooltip content="步进速率" :show-after="750">
+        <ElTooltip content="ステップ率" :show-after="750">
             <ElSwitch
                 v-model="settingsStore.useFixedMultiplier"
                 :active-icon="plus"
@@ -75,7 +75,7 @@ const plus = h('span', { class: 'switch-text-icon' }, ['+'])
                 inline-prompt
                 size="large" />
         </ElTooltip>
-        <ElTooltip content="强调类型" :show-after="750">
+        <ElTooltip content="強調記号の種類" :show-after="750">
             <ElSwitch
                 v-model="settingsStore.newEmphasis"
                 active-text="()"
@@ -83,7 +83,7 @@ const plus = h('span', { class: 'switch-text-icon' }, ['+'])
                 inline-prompt
                 size="large" />
         </ElTooltip>
-        <ElTooltip content="分级限制" :show-after="750">
+        <ElTooltip content="制限" :show-after="750">
             <ElSwitch
                 v-model="settingsStore.showRestricted"
                 :active-icon="unsafeIcon"

@@ -57,11 +57,11 @@ async function save(newEmphasis: boolean) {
                 try {
                     const checkParenResult = checkParen(positiveTagsValue)
                     if (checkParenResult !== null) {
-                        throw new Error(`括号不匹配：在第 ${checkParenResult.i} 个字符上，期望 "${checkParenResult.expected}"，但是实际遇到 "${checkParenResult.char}"。`)
+                        throw new Error(`ブラケットの不一致：段落内 ${checkParenResult.i} 登場人物，期待すること "${checkParenResult.expected}"，しかし、実際の出会いは "${checkParenResult.char}"。`)
                     }
                     const checkBoundaryParenResult = checkBoundaryParen(positiveTagsValue)
                     if (checkBoundaryParenResult !== null) {
-                        throw new Error(`括号在预期位置外：在第 ${checkBoundaryParenResult.i} 个字符上，期望括号贴合逗号，实际遇到 "${checkBoundaryParenResult.char}"。`)
+                        throw new Error(`括弧が想定外の位置にある：段落内 ${checkBoundaryParenResult.i} 登場人物，カンマに合わせたカッコを期待する，実際の出会い "${checkBoundaryParenResult.char}"。`)
                     }
                     parse(positiveTags.value, newEmphasis)
                 } catch (e: any) {
@@ -73,11 +73,11 @@ async function save(newEmphasis: boolean) {
                 try {
                     const checkParenResult = checkParen(negativeTagsValue)
                     if (checkParenResult !== null) {
-                        throw new Error(`括号不匹配：在第 ${checkParenResult.i} 个字符上，期望 "${checkParenResult.expected}"，但是实际遇到 "${checkParenResult.char}"。`)
+                        throw new Error(`ブラケットの不一致：段落内 ${checkParenResult.i} 登場人物，期待すること "${checkParenResult.expected}"，しかし、実際の出会いは "${checkParenResult.char}"。`)
                     }
                     const checkBoundaryParenResult = checkBoundaryParen(negativeTagsValue)
                     if (checkBoundaryParenResult !== null) {
-                        throw new Error(`括号在预期位置外：在第 ${checkBoundaryParenResult.i} 个字符上，期望括号贴合逗号，实际遇到 "${checkBoundaryParenResult.char}"。`)
+                        throw new Error(`括弧が想定外の位置にある：段落内 ${checkBoundaryParenResult.i} 登場人物，カンマに合わせたカッコを期待する，実際の出会い "${checkBoundaryParenResult.char}"。`)
                     }
                     parse(negativeTags.value, newEmphasis)
                 } catch (e: any) {
@@ -107,11 +107,11 @@ function saveOld() {
 <template>
     <ElDialog v-model="mv" title="导入标签" width="50%">
         <p>
-            注：由于标签格式千变万化，不能保证完全成功导入。
-            为确保成功导入，请检查标签之间是否使用逗号隔开且括号双向闭合完全。
+            注：タグのフォーマットは非常に多様であるため、インポートが完全に成功することを保証するものではありません。
+            インポートを成功させるために、タグがカンマで区切られていること、ブラケットが両方向に完全に閉じられていることを確認してください。
         </p>
         <div class="tag-positive">
-            <div class="title">正向标签</div>
+            <div class="title">ポジティブラベル</div>
             <ElInput
                 v-model="positiveTags"
                 type="textarea"
@@ -128,7 +128,7 @@ function saveOld() {
                 @close="positiveError = ''" />
         </div>
         <div class="tag-negative">
-            <div class="title">反向标签</div>
+            <div class="title">リバースラベル</div>
             <ElInput
                 v-model="negativeTags"
                 type="textarea"
@@ -148,8 +148,8 @@ function saveOld() {
             <span class="dialog-footer">
                 <ElButton @click="cancel()">取消</ElButton>
                 <ElButton type="info" @click="saveOld()">朴素解析器</ElButton>
-                <ElButton type="primary" @click="save(false)">解析 NAI 语法</ElButton>
-                <ElButton type="primary" @click="save(true)">解析 WebUI 语法</ElButton>
+                <ElButton type="primary" @click="save(false)">NAI構文のパース</ElButton>
+                <ElButton type="primary" @click="save(true)">WebUIの文法を解析する</ElButton>
             </span>
         </template>
     </ElDialog>

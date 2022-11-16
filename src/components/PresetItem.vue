@@ -29,12 +29,12 @@ import {
 import type { Preset } from '../types/data'
 import { computed, ref } from 'vue'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
-import { faImageSlash } from '@fortawesome/pro-regular-svg-icons'
+import { faEyeSlash } from '@fortawesome/free-solid-svg-icons'
 import {
     faClipboard,
     faThumbsDown,
     faThumbsUp,
-} from '@fortawesome/pro-light-svg-icons'
+} from '@fortawesome/free-solid-svg-icons'
 import { useCartStore } from '../stores/cart'
 import { wrapParenByWeight } from '../prompt/serializer'
 import ToggleableTag from './ToggleableTag.vue'
@@ -101,7 +101,7 @@ function toggleNegative() {
                 <div class="buttons">
                     <ElTooltip :visible="copyHintVisible">
                         <template #content>
-                            <span>已复制到剪贴板</span>
+                            <span>クリップボードにコピーされる</span>
                         </template>
                         <ElButton
                             circle
@@ -111,7 +111,7 @@ function toggleNegative() {
                             <FontAwesomeIcon :icon="faClipboard" />
                         </ElButton>
                     </ElTooltip>
-                    <ElTooltip content="我想要" :show-after="750">
+                    <ElTooltip content="必要" :show-after="750">
                         <ElButton
                             :type="inPositive ? 'success' : 'default'"
                             circle
@@ -119,7 +119,7 @@ function toggleNegative() {
                             <FontAwesomeIcon :icon="faThumbsUp" />
                         </ElButton>
                     </ElTooltip>
-                    <ElTooltip content="我不想要" :show-after="750">
+                    <ElTooltip content="不必要" :show-after="750">
                         <ElButton
                             :type="inNegative ? 'danger' : 'default'"
                             circle
@@ -139,7 +139,7 @@ function toggleNegative() {
             </p>
         </div>
         <div>
-            <div class="tags-title">包含以下标签：</div>
+            <div class="tags-title">以下のタグが含まれています。：</div>
             <div class="tags">
                 <ToggleableTag
                     v-for="tag in meta.content"
@@ -159,7 +159,7 @@ function toggleNegative() {
                         <template #error>
                             <div class="image-slot">
                                 <FontAwesomeIcon
-                                    :icon="faImageSlash"
+                                    :icon="faEyeSlash"
                                     size="lg" />
                             </div>
                         </template>

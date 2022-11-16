@@ -27,8 +27,8 @@ import {
     faThumbsDown,
     faThumbsUp,
     faLink,
-    faImageSlash,
-} from '@fortawesome/pro-light-svg-icons'
+    faEyeSlash,
+} from '@fortawesome/free-solid-svg-icons'
 import TagPostCount from './TagPostCount.vue'
 import type { Tag } from '../types/data'
 import { useCartStore } from '../stores/cart'
@@ -128,7 +128,7 @@ function toggleNegative(tag: string = props.meta.key) {
             <ElImage :src="imageUrl" fit="cover" loading="lazy">
                 <template #error>
                     <div class="image-slot">
-                        <FontAwesomeIcon :icon="faImageSlash" size="lg" />
+                        <FontAwesomeIcon :icon="faEyeSlash" size="lg" />
                     </div>
                 </template>
             </ElImage>
@@ -143,7 +143,7 @@ function toggleNegative(tag: string = props.meta.key) {
                 <div class="buttons">
                     <ElTooltip :visible="copied">
                         <template #content>
-                            <span>已复制到剪贴板</span>
+                            <span>クリップボードにコピーされる</span>
                         </template>
                         <ElButton circle type="primary" @click="copy()">
                             <FontAwesomeIcon :icon="faClipboard" />
@@ -156,7 +156,7 @@ function toggleNegative(tag: string = props.meta.key) {
                             </ElButton>
                         </ElTooltip>
                     </a>
-                    <ElTooltip content="我想要" :show-after="750">
+                    <ElTooltip content="必要" :show-after="750">
                         <ElButton
                             :type="inPositive ? 'success' : 'default'"
                             circle
@@ -164,7 +164,7 @@ function toggleNegative(tag: string = props.meta.key) {
                             <FontAwesomeIcon :icon="faThumbsUp" />
                         </ElButton>
                     </ElTooltip>
-                    <ElTooltip content="我不想要" :show-after="750">
+                    <ElTooltip content="不必要" :show-after="750">
                         <ElButton
                             :type="inNegative ? 'danger' : 'default'"
                             circle
@@ -176,7 +176,7 @@ function toggleNegative(tag: string = props.meta.key) {
             </div>
             <div v-if="meta.name" class="text name">{{ meta.name }}</div>
             <div v-if="showCategory" class="text category">
-                类别：{{ meta.category.join('/') }}
+                カテゴリー：{{ meta.category.join('/') }}
             </div>
             <div v-if="meta.description">
                 <p
@@ -187,7 +187,7 @@ function toggleNegative(tag: string = props.meta.key) {
                 </p>
             </div>
             <div v-if="meta.alias">
-                <span class="text">别名：</span>
+                <span class="text">同義語：</span>
                 <ul>
                     <li
                         v-for="alias in meta.alias"
@@ -198,7 +198,7 @@ function toggleNegative(tag: string = props.meta.key) {
                                 <code class="tag-name">{{ alias }}</code>
                             </div>
                             <div class="buttons">
-                                <ElTooltip content="我想要" :show-after="750">
+                                <ElTooltip content="必要" :show-after="750">
                                     <ElButton
                                         :type="aliasInPositive![alias] ? 'success' : 'default'"
                                         circle
@@ -207,7 +207,7 @@ function toggleNegative(tag: string = props.meta.key) {
                                         <FontAwesomeIcon :icon="faThumbsUp" />
                                     </ElButton>
                                 </ElTooltip>
-                                <ElTooltip content="我不想要" :show-after="750">
+                                <ElTooltip content="不必要" :show-after="750">
                                     <ElButton
                                         :type="aliasInNegative![alias] ? 'danger' : 'default'"
                                         circle

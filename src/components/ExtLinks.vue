@@ -18,12 +18,12 @@
   ----------------------------------------------------------------------------->
 
 <script setup lang="ts">
-import { faGithub } from '@fortawesome/pro-brands-svg-icons'
+import { faCodeCommit } from '@fortawesome/free-solid-svg-icons'
 import {
-    faMessageBot,
+    faMessage,
     faMagnifyingGlassChart,
     faHouse,
-} from '@fortawesome/pro-solid-svg-icons'
+} from '@fortawesome/free-solid-svg-icons'
 import { ElTooltip, ElButton } from 'element-plus'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 </script>
@@ -42,14 +42,14 @@ import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
                 href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder"
                 target="_blank">
                 <ElButton link size="large">
-                    <FontAwesomeIcon :icon="faGithub" class="square-icon" />
+                    <FontAwesomeIcon :icon="faCodeCommit" class="square-icon" />
                 </ElButton>
             </a>
         </ElTooltip>
         <ElTooltip content="Koishi.js NovelAI 插件" :show-after="750">
             <a href="https://bot.novelai.dev" target="_blank">
                 <ElButton link size="large">
-                    <FontAwesomeIcon :icon="faMessageBot" class="square-icon" />
+                    <FontAwesomeIcon :icon="faMessage" class="square-icon" />
                 </ElButton>
             </a>
         </ElTooltip>
