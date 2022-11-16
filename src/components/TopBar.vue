@@ -53,7 +53,7 @@ const searchTerms = computed({
                 <FontAwesomeIcon :icon="faBars" />
             </ElButton>
             <span class="app-title text-large font-600 mr-3">
-                Danbooru 标签超市
+                Danbooru タグビルダー
             </span>
         </div>
         <div class="right split">
@@ -61,7 +61,7 @@ const searchTerms = computed({
                 v-model="searchTerms"
                 :prefix-icon="IconSearch"
                 class="search"
-                placeholder="搜索" />
+                placeholder="検索" />
             <div class="mobile-topbar-orig-el">
                 <FeatureSwitches class="switches" />
                 <ExtLinks class="extlinks" />

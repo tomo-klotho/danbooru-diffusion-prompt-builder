@@ -17,271 +17,266 @@
   -
   ----------------------------------------------------------------------------->
 
-<script lang="ts" setup>
-import {ElButton, ElSwitch, ElScrollbar} from 'element-plus'
-import {FontAwesomeIcon} from '@fortawesome/vue-fontawesome'
-import {faEye, faEyeSlash, faClipboard, faThumbsDown, faThumbsUp, faLightbulb, faSlash} from '@fortawesome/free-solid-svg-icons'
-import {faCircleMinus, faCirclePlus, faTrash, faThumbsDown as faThumbsDownRegular, faThumbsUp as faThumbsUpRegular, faBlender as faBlenderRegular} from '@fortawesome/free-solid-svg-icons'
-import {useSettingsStore} from '../stores/settings'
-import {useTagStore} from '../stores/tags'
-import {usePresetStore} from '../stores/presets'
-import {useEmbeddingStore} from '../stores/embeddings'
-import {useHypernetworkStore} from '../stores/hypernetworks'
-import {h} from 'vue'
-import { isDark } from '../composables/dark'
-import dayjs from 'dayjs'
-
-defineProps<{
-    category: undefined
-}>()
-
-const settingsStore = useSettingsStore()
-const tagStore = useTagStore()
-const presetStore = usePresetStore()
-const embeddingStore = useEmbeddingStore()
-const hypernetworkStore = useHypernetworkStore()
-
-const activeIcon = h(FontAwesomeIcon, { icon: faEye })
-const inactiveIcon = h(FontAwesomeIcon, { icon: faEyeSlash })
-const lightIcon = h(FontAwesomeIcon, { icon: faLightbulb })
-const darkIcon = h(FontAwesomeIcon, { icon: faSlash })
-const ax = h('span', {class: 'switch-text-icon math-style'}, ['a', h('sup', {}, 'x')])
-const plus = h('span', { class: 'switch-text-icon' }, ['+'])
-
-const buildTime = dayjs(__BUILD_TIMESTAMP__).format('YYYY-MM-DD HH:mm:ss Z')
-const buildType = import.meta.env.PROD ? 'プロダクション' : '開発'
-
-</script>
-
-<template>
-    <ElScrollbar>
-        <h1>このサイトについて</h1>
-        <p>Danbooruのタグポートフォリオを構築するためのサイトです。</p>
-        <p>
-            現在のバージョンは {{ buildTime }} にビルドされた{{ buildType }}バージョンです。
-            現在合計 {{ tagStore.allTagCount }} 個のタグが含まれており、合計 {{ tagStore.tagWithPhotosCount }} 個のタグに写真があります。合計 {{ presetStore.count }} セットのプリセットラベル、{{ embeddingStore.count }} の組み込みモデル、および {{ hypernetworkStore.count }} のハイパーネットワーク モデルが含まれています。
-        </p>
-        <p>
-            このサイトのソースコードとすべての生データは
-            <a href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder" target="_blank">danbooru-diffusion-prompt-builder @ GitHub</a>
-            GNU AGPL-3.0 契約に基づいて公開されています。このサイトが役に立ったと思われる場合は、GitHub のスターをクリックしてください。
-            同時に、 <a href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder/issues" target="_blank">GitHub Issues</a> を通じて質問や提案を提起したり、
-            または <a href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder/pulls" target="_blank">Pull Request</a> を通じてこのサイトを変更または補足したりすることも歓迎します。
-        </p>
-        <p>使い方：</p>
-        <ul>
-            <li>
-                <p>
-在侧边栏中选择一个分类。在分类标签卡片中，您可以点击
-                    <span class="inline-control">
-                        <ElButton type="success" circle>
-                            <FontAwesomeIcon :icon="faThumbsUp" />
-                        </ElButton>
-                    </span>
-                    将标签添加到正向标签列表，点击
-                    <span class="inline-control">
-                        <ElButton type="danger" circle>
-                            <FontAwesomeIcon :icon="faThumbsDown" />
-                        </ElButton>
-                    </span>
-                    添加到负向标签列表。点击两次可从列表中移除这个标签。点击
-                    <span class="inline-control">
-                        <ElButton circle type="primary">
-                            <FontAwesomeIcon :icon="faClipboard" />
-                        </ElButton>
-                    </span>
-                    可将单个标签复制到剪贴板。
-                </p>
-            </li>
-            <li>
-                <p>
-由于配图中可能包含不适宜工作场合下浏览的内容，请通过调整右上角第二个开关
-                    <span class="inline-control">
-                        <ElSwitch
-                            v-model="settingsStore.showImage"
-                            :active-icon="activeIcon"
-                            :inactive-icon="inactiveIcon"
-                            inline-prompt
-                            size="large"
-                        />
-                    </span>
-                    选择是否显示标签配图。
-                </p>
-            </li>
-            <li>
-                <p>
-                    使用右上角第四个开关
-                    <span class="inline-control">
-                        <ElSwitch
-                            v-model="settingsStore.newEmphasis"
-                            active-text="()"
-                            inactive-text="{}"
-                            inline-prompt
-                            size="large"
-                        />
-                    </span>
-                    可在 Stable-Diffusion-WebUI 格式强调符号 <code>()</code> 与
-                    NovelAI 格式强调符号 <code>{}</code> 之间进行选择。注意，
-                    改变这个选项将会使得每个括号的权重从
-                    {{ settingsStore.newEmphasis ? '1.10' : '1.05' }}
-                    倍变更为
-                    {{ settingsStore.newEmphasis ? '1.05' : '1.10' }}
-                    倍。
-                </p>
-            </li>
-            <li>
-                <p>
-                    在购物车中，您可以自由拖动标签，调整前后顺序。位置靠前的标签拥有更高权重。
-                    通过改变右上角第三个开关
-                    <span class="inline-control">
-                        <ElSwitch
-                            v-model="settingsStore.useFixedMultiplier"
-                            :active-icon="plus"
-                            :inactive-icon="ax"
-                            inline-prompt
-                            size="large"
-                        />
-                    </span>
-                    可将步进速率在线性变换与指数级变换之间选择。
-                    点击
-                    <span class="inline-control">
-                        <ElButton link type="primary">
-                            <FontAwesomeIcon :icon="faCirclePlus" />
-                        </ElButton>
-                    </span>
-                    按钮将标签权重提升 {{ settingsStore.useFixedMultiplier ? '5%' : (settingsStore.newEmphasis ? '1.10' : '1.05') + ' 倍' }}，
-                    点击
-                    <span class="inline-control">
-                        <ElButton link type="primary">
-                            <FontAwesomeIcon :icon="faCircleMinus" />
-                        </ElButton>
-                    </span>
-                    按钮可将标签权重降低{{ settingsStore.useFixedMultiplier ? ' 5%' : '为原先的 ' + (settingsStore.newEmphasis ? '90.91' : '95.24') + '%' }}。
-                    点击
-                    <span class="inline-control">
-                        <ElButton link type="primary">
-                            <FontAwesomeIcon :icon="faThumbsUpRegular" />
-                        </ElButton>
-                        <ElButton link type="primary">
-                            <FontAwesomeIcon :icon="faThumbsDownRegular" />
-                        </ElButton>
-                    </span>
-                    可将标签在正负两个方向之间移动。
-                    点击
-                    <span class="inline-control">
-                        <ElButton link type="danger">
-                            <FontAwesomeIcon :icon="faTrash" />
-                        </ElButton>
-                    </span>
-                    可将标签从购物车中删除。
-                </p>
-            </li>
-            <li>
-                <p>
-                    通过点击购物车中
-                    <span class="inline-control">
-                        <ElButton link type="primary">
-                            <FontAwesomeIcon :icon="faBlenderRegular" />
-                        </ElButton>
-                    </span>
-                    按键，或将其他标签拖动到某一标签之上，可创建混合组。混合组可无限嵌套。当前应用支持三种混合组：
-                </p>
-                <ul>
-                    <li>
-                        <p>
-                            <b>标签替换 (<a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#prompt-editing" target="_blank">Prompt Editing</a>，又名分步渲染): </b>
-                            该混合组接受一至两个标签和一个百分数。在百分数所代表的生成步数前，生成引擎将采用组内第一个标签。到达该步数后，生成引擎将自动改为采用组内第二个标签。该标签仅在 Stable-Diffusion-WebUI 格式中可用。
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            <b>标签轮转 (<a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#alternating-words" target="_blank">Alternating Words</a>): </b>
-                            该混合组接受两个或更多标签。在生成过程中，生成引擎将在生成的每一步中依次轮换采用组内的标签。该标签仅在 Stable-Diffusion-WebUI 格式中可用。
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            <b>标签组: </b>
-                            单纯的一些标签组成的一个组合。该标签在 Stable-Diffusion-WebUI 格式与 NovelAI 格式中均可用。
-                        </p>
-                    </li>
-                </ul>
-            </li>
-            <li>
-                <p>关于 标签混合 (<a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/#:~:text=Composable%2DDiffusion%2C%20a,a%20penguin%20%3A2.2" target="_blank">Composable-Diffusion</a>, 即 <code>AND</code> 语法)：</p>
-                <p>
-对于标签混合语法的支持在提交 <a href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder/commit/483896ae32a7504f2359e2f6bab389e49d834613" target="_blank">483896a</a> 被移除，
-是由于这个实现存在严重问题，与该语法的实际效果相背离。值得注意的是，<code>AND</code> 语法的作用范围为完整的提示词语句，它的优先级高于其他所有语法，
-会将整个语句分切为多个部分并分别送往后续处理过程。因此，使用括号、逗号等字符试图限定 <code>AND</code> 作用范围、或是将其嵌套在其他复杂语句中的行为均是无效的。
-在 <code>AND</code> 分隔符前后都应当是完整的提示词语句。因此，在配合 <code>AND</code> 语法使用 Danbooru 标签超市时，您应当分别处理 <code>AND</code> 语法两侧的子句，
-例如将结算输出结果手动使用该连接词拼接，或是在使用导入功能时手动拆分 <code>AND</code> 连接词两旁的句子并分别导入。
-</p>
-            </li>
-
-            <li>
-                <p>
-                    使用右上角第一个开关
-                    <span class="inline-control">
-                        <ElSwitch
-                            v-model="isDark"
-                            :active-icon="darkIcon"
-                            :inactive-icon="lightIcon"
-                            inline-prompt
-                            size="large"
-                        />
-                    </span>
-                    可切换亮色背景。
-                </p>
-            </li>
-            <li>
-                <p>
-                    关于“导入标签”中提供的两种解析器：
-                </p>
-                <ul>
-                    <li>
-                        <p>
-                            <b>朴素解析器: </b>
-                            旧版手制简易解析器，可用于解析大括号与小括号混合的标签。对于不平衡括号与奇怪符号的容错度较高，少见崩溃，但可能难以解析出准确结果。该解析器无法解析复杂的混合组。
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            <b>WebUI / NAI 语法解析器: </b>
-                            使用 Earley DSL 构建的新版语法分析器。支持准确解析复杂语法，但不支持混合括号的情形。容错度较低，可能存在卡死的情况。
-                        </p>
-                    </li>
-                </ul>
-                <p>
-                    解析时请确保标签之间用逗号隔开，以便准确区分标签边界。括号（包括大括号、中括号、小括号；使用 <kbd>\</kbd> 转义的括号除外）必须与逗号相邻，不支持括号在标签中间的情形。
-                </p>
-            </li>
-        </ul>
-    </ElScrollbar>
-</template>
-
-<style scoped lang="scss">
-h1 {
-    font-size: 1.25rem;
-}
-
-p {
-    line-height: 2rem;
-    margin-bottom: 1rem;
-}
-
-.scrollable {
-    //height: calc(100vh - 64px - 20px - 10px - 2rem - 6em);
-    height: 100%;
-    overflow-y: auto;
-}
-
-.inline-control > div {
-    position: relative;
-    top: -.75px;
-}
-
-a {
-    text-decoration: none;
-    color: hsl(210, 100%, 62%);
-}
-</style>
+  <script lang="ts" setup>
+  import {ElButton, ElSwitch, ElScrollbar} from 'element-plus'
+  import {FontAwesomeIcon} from '@fortawesome/vue-fontawesome'
+  import {faEye, faEyeSlash, faClipboard, faThumbsDown, faThumbsUp, faLightbulb, faSlash} from '@fortawesome/free-solid-svg-icons'
+  import {faCircleMinus, faCirclePlus, faTrash, faThumbsDown as faThumbsDownRegular, faThumbsUp as faThumbsUpRegular, faBlender as faBlenderRegular} from '@fortawesome/free-solid-svg-icons'
+  import {useSettingsStore} from '../stores/settings'
+  import {useTagStore} from '../stores/tags'
+  import {usePresetStore} from '../stores/presets'
+  import {useEmbeddingStore} from '../stores/embeddings'
+  import {useHypernetworkStore} from '../stores/hypernetworks'
+  import {h} from 'vue'
+  import { isDark } from '../composables/dark'
+  import dayjs from 'dayjs'
+  
+  defineProps<{
+      category: undefined
+  }>()
+  
+  const settingsStore = useSettingsStore()
+  const tagStore = useTagStore()
+  const presetStore = usePresetStore()
+  const embeddingStore = useEmbeddingStore()
+  const hypernetworkStore = useHypernetworkStore()
+  
+  const activeIcon = h(FontAwesomeIcon, { icon: faEye })
+  const inactiveIcon = h(FontAwesomeIcon, { icon: faEyeSlash })
+  const lightIcon = h(FontAwesomeIcon, { icon: faLightbulb })
+  const darkIcon = h(FontAwesomeIcon, { icon: faSlash })
+  const ax = h('span', {class: 'switch-text-icon math-style'}, ['a', h('sup', {}, 'x')])
+  const plus = h('span', { class: 'switch-text-icon' }, ['+'])
+  
+  const buildTime = dayjs(__BUILD_TIMESTAMP__).format('YYYY-MM-DD HH:mm:ss Z')
+  const buildType = import.meta.env.PROD ? 'プロダクション' : '開発'
+  
+  </script>
+  
+  <template>
+      <ElScrollbar>
+          <h1>このサイトについて</h1>
+          <p>Danbooruのタグポートフォリオを構築するためのサイトです。</p>
+          <p>
+              現在のバージョンは {{ buildTime }} にビルドされた{{ buildType }}バージョンです。
+              現在合計 {{ tagStore.allTagCount }} 個のタグが含まれており、合計 {{ tagStore.tagWithPhotosCount }} 個のタグに写真があります。合計 {{ presetStore.count }} セットのプリセットラベル、{{ embeddingStore.count }} の組み込みモデル、および {{ hypernetworkStore.count }} のハイパーネットワーク モデルが含まれています。
+          </p>
+          <p>
+              このサイトのソースコードとすべての生データは
+              <a href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder" target="_blank">danbooru-diffusion-prompt-builder @ GitHub</a>
+              GNU AGPL-3.0 契約に基づいて公開されています。このサイトが役に立ったと思われる場合は、GitHub のスターをクリックしてください。
+              同時に、 <a href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder/issues" target="_blank">GitHub Issues</a> を通じて質問や提案を提起したり、
+              または <a href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder/pulls" target="_blank">Pull Request</a> を通じてこのサイトを変更または補足したりすることも歓迎します。
+          </p>
+          <p>使い方：</p>
+          <ul>
+              <li>
+                  <p>
+                      サイドバーでカテゴリを選択します。カテゴリ タブ カードで、
+                      <span class="inline-control">
+                          <ElButton type="success" circle>
+                              <FontAwesomeIcon :icon="faThumbsUp" />
+                          </ElButton>
+                      </span>
+                      転送ラベル リストにラベルを追加するには、
+                      <span class="inline-control">
+                          <ElButton type="danger" circle>
+                              <FontAwesomeIcon :icon="faThumbsDown" />
+                          </ElButton>
+                      </span>
+                      除外ラベルのリストに追加します。このラベルをリストから削除するには、2 回クリックします。クリック
+                      <span class="inline-control">
+                          <ElButton circle type="primary">
+                              <FontAwesomeIcon :icon="faClipboard" />
+                          </ElButton>
+                      </span>
+                      個々のタグをクリップボードにコピーできます。
+                  </p>
+              </li>
+              <li>
+                  <p>
+                      画像には職場での閲覧に適さない内容が含まれている可能性があるため、右上隅の2番目のスイッチを調整してください
+                      <span class="inline-control">
+                          <ElSwitch
+                              v-model="settingsStore.showImage"
+                              :active-icon="activeIcon"
+                              :inactive-icon="inactiveIcon"
+                              inline-prompt
+                              size="large"
+                          />
+                      </span>
+                      ラベル画像を表示するかどうかを選択します。
+                  </p>
+              </li>
+              <li>
+                  <p>
+                      右上の 4 番目のスイッチを使用します
+                      <span class="inline-control">
+                          <ElSwitch
+                              v-model="settingsStore.newEmphasis"
+                              active-text="()"
+                              inactive-text="{}"
+                              inline-prompt
+                              size="large"
+                          />
+                      </span>
+                      Stable-Diffusion-WebUI 形式で利用可能なアクセント <code>()</code> と
+                      NovelAI フォーマット強調 <code>{}</code> の中から選ぶ。注意、
+                      このオプションを変更すると、各括弧の重みが
+                      {{ settingsStore.newEmphasis ? '1.10' : '1.05' }}
+                      から
+                      {{ settingsStore.newEmphasis ? '1.05' : '1.10' }}
+                      に変更されることに注意してください。
+                  </p>
+              </li>
+              <li>
+                  <p>
+                      ショッピングカートでは、ラベルを自由にドラッグして、前後の順序を調整できます。位置が高いラベルほど重みが高くなります。右上隅にある 3 番目のスイッチを変更することによって
+                      <span class="inline-control">
+                          <ElSwitch
+                              v-model="settingsStore.useFixedMultiplier"
+                              :active-icon="plus"
+                              :inactive-icon="ax"
+                              inline-prompt
+                              size="large"
+                          />
+                      </span>
+                      ステップレートは、線形スケーリングと指数スケーリングの間で選択できます。クリック
+                      <span class="inline-control">
+                          <ElButton link type="primary">
+                              <FontAwesomeIcon :icon="faCirclePlus" />
+                          </ElButton>
+                      </span>
+                      ボタンをクリックして、ラベルの重みを {{ settingsStore.useFixedMultiplier ? '5%' : (settingsStore.newEmphasis ? '1.10' : '1.05') + ' 倍' }}に増やします。
+                      <span class="inline-control">
+                          <ElButton link type="primary">
+                              <FontAwesomeIcon :icon="faCircleMinus" />
+                          </ElButton>
+                      </span>
+                      ボタンをクリックして、ラベルの重量を元の値の{{ settingsStore.useFixedMultiplier ? ' 5%' : '为原先的 ' + (settingsStore.newEmphasis ? '90.91' : '95.24') + '%' }}に減らします。
+                      クリック
+                      <span class="inline-control">
+                          <ElButton link type="primary">
+                              <FontAwesomeIcon :icon="faThumbsUpRegular" />
+                          </ElButton>
+                          <ElButton link type="primary">
+                              <FontAwesomeIcon :icon="faThumbsDownRegular" />
+                          </ElButton>
+                      </span>
+                      ラベルは、正方向と負方向の間で移動できます。
+                      クリック
+                      <span class="inline-control">
+                          <ElButton link type="danger">
+                              <FontAwesomeIcon :icon="faTrash" />
+                          </ElButton>
+                      </span>
+                      タグはカートから削除できます。
+                  </p>
+              </li>
+              <li>
+                  <p>
+                      カートをクリックして
+                      <span class="inline-control">
+                          <ElButton link type="primary">
+                              <FontAwesomeIcon :icon="faBlenderRegular" />
+                          </ElButton>
+                      </span>
+                      キーを押すか、別のラベルをラベルにドラッグして混合グループを作成します。混合グループは無限にネストできます。現在のアプリは、次の3つのミックスグループをサポートしています。
+                  </p>
+                  <ul>
+                      <li>
+                          <p>
+                              <b>タブの置換 (<a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#prompt-editing" target="_blank">Prompt Editing</a>別名ステップレンダリング): </b>
+                              このmixinは、1つまたは2つのタブとパーセンテージを受け入れます。パーセンテージで表される生成ステップ数の前に、生成エンジンはグループ内の最初のラベルを使用します。このステップ数に達すると、生成エンジンは自動的にグループの 2 番目のラベルに切り替えます。このタブは、Stable-Diffusion-WebUI 形式でのみ使用できます。
+                          </p>
+                      </li>
+                      <li>
+                          <p>
+                              <b>タグローテーション (<a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#alternating-words" target="_blank">Alternating Words</a>): </b>
+                              この混合グループは、2つ以上のタグを受け入れます。ビルド プロセス中、ビルド エンジンは、ビルドの各ステップでグループ内のラベルを順番にローテーションします。このタブは、Stable-Diffusion-WebUI 形式でのみ使用できます。
+                          </p>
+                      </li>
+                      <li>
+                          <p>
+                              <b>タググループ: </b>
+                              単純なタグの組み合わせ。このタブは、Stable-Diffusion-WebUI 形式と NovelAI 形式の両方で使用できます。
+                          </p>
+                      </li>
+                  </ul>
+              </li>
+              <li>
+                  <p>ラベルの混合について (<a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/#:~:text=Composable%2DDiffusion%2C%20a,a%20penguin%20%3A2.2" target="_blank">Composable-Diffusion</a>, つまり <code>AND</code> 文法)：</p>
+                  <p>
+                      タグ mixin 構文のサポートは、コミット <a href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder/commit/483896ae32a7504f2359e2f6bab389e49d834613" target="_blank">483896a</a> で削除されました。
+                      これは、構文の実際の効果から逸脱した実装に関する深刻な問題のためです。文法の<code>AND</code>範囲は完全なプロンプトワードステートメントであり、その優先度は他のすべての文法よりも高く、ステートメント全体が複数の部分に分割され、後続の処理プロセスに送信されることに注意してください。したがって、括弧やコンマなどの文字を使用してスコープを<code>AND</code>制限です。<code>AND</code>デリミタの前後は、完全なプロンプト ワード ステートメントにする必要があります。したがって、ダンボールタグスーパーマーケットを<code>AND</code>文法場合<code>AND</code>は、文法の両側の節を別々に処理する必要があります。たとえば、接続語を使用して決済出力結果を手動でつなぎ合わせるか、<code>AND</code>接続語個別にインポートしてください。
+                  </p>
+              </li>
+  
+              <li>
+                  <p>
+                      右上の最初のスイッチを使用します
+                      <span class="inline-control">
+                          <ElSwitch
+                              v-model="isDark"
+                              :active-icon="darkIcon"
+                              :inactive-icon="lightIcon"
+                              inline-prompt
+                              size="large"
+                          />
+                      </span>
+                      切り替え可能な明るい背景。
+                  </p>
+              </li>
+              <li>
+                  <p>
+                      「Import Tags」で提供される 2 つのパーサーについて:
+                  </p>
+                  <ul>
+                      <li>
+                          <p>
+                              <b>Naive パーサー: </b>
+                              古い手作りの単純なパーサーで、波括弧と括弧が混在するタグを解析するために使用できます。アンバランスな括弧や奇妙な記号に対する許容度が高く、クラッシュはまれですが、正確な結果を解析するのは難しい場合があります。このパーサーは、複雑な混合グループを解析できません。
+                          </p>
+                      </li>
+                      <li>
+                          <p>
+                              <b>WebUI / NAI パーサー: </b>
+                              Earley DSL を使用して構築されたパーサーの新しいバージョン。複雑な構文の正確な解析をサポートしますが、括弧が混在するケースはサポートしません。耐障害性が低く、スタック状態になる可能性があります。
+                          </p>
+                      </li>
+                  </ul>
+                  <p>
+                      解析するときは、タグの境界を正確に区別するために、タグがカンマで区切られていることを確認してください。角かっこ (中かっこ、角かっこ、括弧を含む。\エスケープ) はコンマに隣接する必要があり、タグの途中にある角かっこはサポートされていません。
+                  </p>
+              </li>
+          </ul>
+      </ElScrollbar>
+  </template>
+  
+  <style scoped lang="scss">
+  h1 {
+      font-size: 1.25rem;
+  }
+  
+  p {
+      line-height: 2rem;
+      margin-bottom: 1rem;
+  }
+  
+  .scrollable {
+      //height: calc(100vh - 64px - 20px - 10px - 2rem - 6em);
+      height: 100%;
+      overflow-y: auto;
+  }
+  
+  .inline-control > div {
+      position: relative;
+      top: -.75px;
+  }
+  
+  a {
+      text-decoration: none;
+      color: hsl(210, 100%, 62%);
+  }
+  </style>
+  

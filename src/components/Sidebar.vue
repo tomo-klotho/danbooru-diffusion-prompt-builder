@@ -58,7 +58,7 @@ function select(index: string, indexPath: string[]) {
             <ElIcon>
                 <IconGuide />
             </ElIcon>
-            について
+            このサイトについて
         </ElMenuItem>
 
         <ElSubMenu v-loading="!tagStore.loaded" index="tags">
