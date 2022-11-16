@@ -1,21 +1,21 @@
-name: 图片杂件
+name: その他
 category:
-  - 构图
+  - 構成
 content:
   text:
-    name: 含文字
+    name: テキスト付き
     wikiURL: https://danbooru.donmai.us/wiki_pages/text.html
   signature:
-    name: 含签名
+    name: サイン付き
     wikiURL: https://danbooru.donmai.us/wiki_pages/signature.html
     alias:
       - artist signature
       - autograph
       - signed
   watermark:
-    name: 含水印
+    name: ウォーターマーク付き
     wikiURL: https://danbooru.donmai.us/wiki_pages/watermark.html
     alias:
       - watermarked
   username:
-    name: 含用户名
+    name: ユーザー名付き

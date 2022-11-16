@@ -1,173 +1,173 @@
-name: 室外
+name: 屋外
 category:
-  - 人文景观
+  - 文化的風景
   - 位置
 content:
   airfield:
-    name: 飞机场
+    name: 飛行場
     wikiURL: https://danbooru.donmai.us/wiki_pages/airfield.html
   runway:
-    name: 跑道
+    name: 滑走路
     wikiURL: https://danbooru.donmai.us/wiki_pages/runway.html
   amusement park:
-    name: 游乐园
+    name: 遊園地
     wikiURL: https://danbooru.donmai.us/wiki_pages/amusement_park.html
   carousel:
-    name: 旋转木马
+    name: メリーゴーランド
     wikiURL: https://danbooru.donmai.us/wiki_pages/carousel.html
     alias:
       - merry-go-round
       - merry go round
   ferris wheel:
-    name: 摩天轮
+    name: 観覧車
     wikiURL: https://danbooru.donmai.us/wiki_pages/ferris_wheel.html
   roller coaster:
-    name: 过山车
+    name: ジェットコースター
     wikiURL: https://danbooru.donmai.us/wiki_pages/roller_coaster.html
   aqueduct:
-    name: 渡槽
+    name: 水道橋
     wikiURL: https://danbooru.donmai.us/wiki_pages/aqueduct.html
   bridge:
-    name: 桥
+    name: 橋
     wikiURL: https://danbooru.donmai.us/wiki_pages/bridge.html
   rope bridge:
-    name: 绳桥
+    name: ロープ橋
   wooden bridge:
-    name: 木桥
+    name: 木製の橋
     wikiURL: https://danbooru.donmai.us/wiki_pages/wooden_bridge.html
   canal:
-    name: 运河
+    name: 運河/水路
     wikiURL: https://danbooru.donmai.us/wiki_pages/canal.html
   city:
-    name: 城市
+    name: 都市
     image: 1c36b2caa411350095436af96a1f275baed42c6d2269c9e1ed62a362267bd26a
     wikiURL: https://danbooru.donmai.us/wiki_pages/city.html
   floating city:
-    name: 浮动城堡
+    name: 浮遊する都市
     wikiURL: https://danbooru.donmai.us/wiki_pages/floating_city.html
   rural:
-    name: 田园
+    name: 田舎/田園
     wikiURL: https://danbooru.donmai.us/wiki_pages/rural.html
   town:
-    name: 城镇
+    name: 街/町
     wikiURL: https://danbooru.donmai.us/wiki_pages/town.html
   village:
-    name: 村庄
+    name: 村
   dam:
-    name: 大坝
+    name: ダム
     wikiURL: https://danbooru.donmai.us/wiki_pages/dam.html
   dock:
-    name: 码头
+    name: ドック
     wikiURL: https://danbooru.donmai.us/wiki_pages/dock.html
   drydock:
-    name: 旱坞
+    name: ドライドック
   shipyard:
-    name: 船厂
+    name: 造船所
   graveyard:
     name: 墓地
     wikiURL: https://danbooru.donmai.us/wiki_pages/graveyard.html
     alias:
       - cemetery
   jetty:
-    name: 码头/栈桥
+    name: 波止場
   field:
-    name: 田野
+    name: 畑
     wikiURL: https://danbooru.donmai.us/wiki_pages/field.html
   rice paddy:
-    name: 稻田
+    name: 田んぼ/水田
     wikiURL: https://danbooru.donmai.us/wiki_pages/rice_paddy.html
     alias:
       - rice field
   wheat field:
-    name: 麦田
+    name: 麦畑
   fountain:
-    name: 喷泉
+    name: 噴水
     wikiURL: https://danbooru.donmai.us/wiki_pages/fountain.html
   harbor:
-    name: 港口
+    name: 港
     wikiURL: https://danbooru.donmai.us/wiki_pages/harbor.html
     alias:
       - harbour
   market:
-    name: 市场
+    name: 市場
     wikiURL: https://danbooru.donmai.us/wiki_pages/market.html
     alias:
       - marketplace
   market stall:
-    name: 市场摊位
+    name: 露店
     wikiURL: https://danbooru.donmai.us/wiki_pages/market_stall.html
   pier:
-    name: 码头
+    name: 橋脚
     wikiURL: https://danbooru.donmai.us/wiki_pages/pier.html
   phone booth:
-    name: 电话亭
+    name: 電話ボックス
     wikiURL: https://danbooru.donmai.us/wiki_pages/phone_booth.html
     alias:
       - phonebooth
       - telephone booth
   poolside:
-    name: 泳池边
+    name: プールサイド
     wikiURL: https://danbooru.donmai.us/wiki_pages/poolside.html
   waterpark:
-    name: 水上乐园
+    name: ウォーターパーク
   railroad tracks:
-    name: 铁轨
+    name: 線路
     wikiURL: https://danbooru.donmai.us/wiki_pages/railroad_tracks.html
     alias:
       - train tracks
       - railway tracks
       - railroad
   railroad crossing:
-    name: 铁路道口
+    name: 踏切
     wikiURL: https://danbooru.donmai.us/wiki_pages/railroad_crossing.html
     alias:
       - railway crossing
       - train crossing
   road:
-    name: 路
+    name: 道路
     wikiURL: https://danbooru.donmai.us/wiki_pages/road.html
   alley:
-    name: 胡同/小巷
+    name: 路地
     wikiURL: https://danbooru.donmai.us/wiki_pages/alley.html
   crosswalk:
-    name: 人行横道
+    name: 横断歩道
     wikiURL: https://danbooru.donmai.us/wiki_pages/crosswalk.html
     alias:
       - zebra crossing
       - pedestrian crossing
   dirt road:
-    name: 泥路
+    name: 未舗装道路
     wikiURL: https://danbooru.donmai.us/wiki_pages/dirt_road.html
   highway:
-    name: 高速公路
+    name: 高速道路
     wikiURL: https://danbooru.donmai.us/wiki_pages/highway.html
   path:
-    name: 小径
+    name: 小道
     wikiURL: https://danbooru.donmai.us/wiki_pages/path.html
   sidewalk:
-    name: 人行道
+    name: 歩道
   stone walkway:
-    name: 石制人行道
+    name: 石の通路
     wikiURL: https://danbooru.donmai.us/wiki_pages/stone_walkway.html
   street:
-    name: 街道
+    name: 街の道路
     wikiURL: https://danbooru.donmai.us/wiki_pages/street.html
   soccer field:
-    name: 足球场
+    name: サッカー場
   running track:
-    name: 运行轨道
+    name: ランニングトラック
   trench:
-    name: 战壕
+    name: 塹壕
     wikiURL: https://danbooru.donmai.us/wiki_pages/trench.html
     alias:
       - trenches
   tunnel:
-    name: 隧道
+    name: トンネル
   well:
-    name: 出色地
+    name: 井戸
   zoo:
-    name: 动物园
+    name: 動物園
     wikiURL: https://danbooru.donmai.us/wiki_pages/zoo.html
   garden:
-    name: 花园
+    name: 庭園
     wikiURL: https://danbooru.donmai.us/wiki_pages/garden.html

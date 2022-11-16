@@ -1,6 +1,6 @@
-name: 打码方式
+name: 検閲方式
 category:
-  - 构图
+  - 構成
 content:
   censored:
     name: 有码
@@ -9,111 +9,111 @@ content:
       - censoring
       - censor
   uncensored:
-    name: 无码
+    name: 無修正
     wikiURL: https://danbooru.donmai.us/wiki_pages/uncensored.html
     alias:
       - uncensoring
   bar censor:
-    name: 黑条打码
+    name: 黒塗り
     wikiURL: https://danbooru.donmai.us/wiki_pages/bar_censor.html
     alias:
       - censor bars
   convenient censoring:
-    name: 简单巧妙的打码
+    name: 見えない構図
     wikiURL: https://danbooru.donmai.us/wiki_pages/convenient_censoring.html
     alias:
       - convenient censorship
   bubble filter:
-    name: 泡泡打码
+    name: 水玉コラ
     wikiURL: https://danbooru.donmai.us/wiki_pages/bubble_filter.html
   hair censor:
-    name: 头发遮住了乳头(三点)
+    name: 髪で隠す
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_censor.html
   hair over breasts:
-    name: 头发披在胸上
+    name: 髪ブラ
     image: 0f510f3988d945d93df7d0cd928a62a432fcd8b922b17979bf77318ad34beb39
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_over_breasts.html
     alias:
       - hair on breasts
   hair over crotch:
-    name: 头发盖在胯下
+    name: 髪が股間にかかる
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_over_crotch.html
   hair over one breast:
-    name: 头发盖在一边胸上
+    name: 髪が方乳にかかる
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_over_one_breast.html
   steam censor:
-    name: 蒸汽/雾气打码
+    name: 蒸気
     wikiURL: https://danbooru.donmai.us/wiki_pages/steam_censor.html
     alias:
       - convenient bath steam
   tail censor:
-    name: 尾巴遮住三点/用尾巴打码
+    name: しっぽで隠す
     wikiURL: https://danbooru.donmai.us/wiki_pages/tail_censor.html
     alias:
       - convenient tail
   wing censor:
-    name: 用翅膀打码
+    name: 羽で隠す
     wikiURL: https://danbooru.donmai.us/wiki_pages/wing_censor.html
     alias:
       - censor wings
   intimate covering:
-    name: 自然的打码
+    name: 自然に隠す
   nude cover:
-    name: 裸体封面
+    name: ヌードカバー
     wikiURL: https://danbooru.donmai.us/wiki_pages/nude_cover.html
   clothes in front:
-    name: 衣服在前面挡着
+    name: 服で隠す
     wikiURL: https://danbooru.donmai.us/wiki_pages/clothes_in_front.html
   mosaic censoring:
-    name: 马赛克
+    name: モザイク
     wikiURL: https://danbooru.donmai.us/wiki_pages/mosaic_censoring.html
     alias:
       - mosaic censor
       - rough censoring
       - pixel censor
   non-intimate covering:
-    name: 不自然的打码
+    name: 不自然に隠す
   novelty censor:
-    name: 恶搞的马赛克
+    name: ノベルティで隠す
     wikiURL: https://danbooru.donmai.us/wiki_pages/novelty_censor.html
   can't show this:
-    name: 不能显示这个
+    name: 自主規制
     wikiURL: https://danbooru.donmai.us/wiki_pages/can't_show_this.html
   character censor:
-    name: 用人脸打码
+    name: キャラクターで隠す
     wikiURL: https://danbooru.donmai.us/wiki_pages/character_censor.html
   heart censor:
-    name: 心形马赛克
+    name: ハートで隠す
     wikiURL: https://danbooru.donmai.us/wiki_pages/heart_censor.html
   outside of play area:
-    name: 离开了可游玩区域
+    name: プレイエリア外
     wikiURL: https://danbooru.donmai.us/wiki_pages/outside_of_play_area.html
   treasure mark censor:
-    name: 宝藏标记打码
+    name: お宝マーク
     wikiURL: https://danbooru.donmai.us/wiki_pages/treasure_mark_censor.html
   out-of-frame censoring:
-    name: 关键部位在画面外
+    name: カメラの外
     wikiURL: https://danbooru.donmai.us/wiki_pages/out-of-frame_censoring.html
   one finger selfie challenge:
-    name: 单指自拍挑战
+    name: 一本指自撮りチャレンジ
   fake censor:
-    name: 假打码
+    name: 偽のコーディング
     wikiURL: https://danbooru.donmai.us/wiki_pages/fake_censor.html
     alias:
       - unnecessary censorship
   censored food:
-    name: 打码食品
+    name: 食品で隠す
     wikiURL: https://danbooru.donmai.us/wiki_pages/censored_food.html
   censored violence:
-    name: 打码暴力行为
+    name: バイオレンス
     wikiURL: https://danbooru.donmai.us/wiki_pages/censored_violence.html
   identity censor:
-    name: 眼部打码
+    name: 目線
     wikiURL: https://danbooru.donmai.us/wiki_pages/identity_censor.html
     alias:
       - eye censor
   pointless censoring:
-    name: 敷衍的打码
+    name: 定型的なコーディング
     wikiURL: https://danbooru.donmai.us/wiki_pages/pointless_censoring.html
     alias:
       - pointless censorship

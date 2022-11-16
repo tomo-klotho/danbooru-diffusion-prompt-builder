@@ -1,19 +1,19 @@
-name: 天空/气象
+name: 空/天気
 category:
-  - 自然景观
+  - 自然景観
 content:
   cloud:
-    name: 云
+    name: 雲
     image: ca0db455278ecfcadb93105e4d5d1b92976f88bb3b10a39659841f6129e29911
     wikiURL: https://danbooru.donmai.us/wiki_pages/cloud.html
     alias:
       - clouds
   full moon:
-    name: 满月
+    name: 満月
     image: 2d1912b34dc9348d0fe001063512e1f62af2958651023ea65b8bb08558c10c62
     wikiURL: https://danbooru.donmai.us/wiki_pages/full_moon.html
   moon:
-    name: 月亮
+    name: 付き
     image: fc3030523cd95c1fad962e78b8eb2b0d24a5692f690ff6836a586719eb605edd
     wikiURL: https://danbooru.donmai.us/wiki_pages/moon.html
   moonlight:
@@ -21,18 +21,18 @@ content:
     image: 14462edfb54e62be5b8ad95110c081b7bbe554a6af3c438814f5c5562e80965b
     wikiURL: https://danbooru.donmai.us/wiki_pages/moonlight.html
   night:
-    name: 夜晚
+    name: 夜
     wikiURL: https://danbooru.donmai.us/wiki_pages/night.html
   night sky:
     name: 夜空
     image: 37f193389a5c06d7f45ddf6c7b27786c5bd2950cfa84fae2120e64fb2db8b7f2
     wikiURL: https://danbooru.donmai.us/wiki_pages/night_sky.html
   blue moon:
-    name: 蓝月
+    name: ブルームーン
     image: 2ebe9c431b9367939e13f6f7a9ac1ca0f6c68ecde9fdaf245fae5c74e436e24b
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_moon.html
   sky:
-    name: 天空
+    name: 空
     image: bff80a4443a0a31602f052bfbb01e375be64cbd3b374cf042f4d4e0d6ba4e32f
     wikiURL: https://danbooru.donmai.us/wiki_pages/sky.html
   starry sky:
@@ -42,11 +42,11 @@ content:
     image: 0f2a70eef1d64b011a956f1cd9eec3a3cdcd79842a8822a852cea6edd21b8ff2
     wikiURL: https://danbooru.donmai.us/wiki_pages/starry_sky.html
   sun:
-    name: 太阳
+    name: 太陽
     image: b1c70ac47740155cf7362b78b2cc8afdfbaee69b5ac731db737aed4056231578
     wikiURL: https://danbooru.donmai.us/wiki_pages/sun.html
   skyline:
-    name: 天际线
+    name: スカイライン
     wikiURL: https://danbooru.donmai.us/wiki_pages/skyline.html
     alias:
       - city skyline
@@ -57,17 +57,17 @@ content:
     alias:
       - shooting stars
   sunburst background:
-    name: 旭日纹背景
+    name: サンバーストの背景
     wikiURL: https://danbooru.donmai.us/wiki_pages/sunburst_background.html
   sunset:
-    name: 落日
+    name: 夕日
     image: 2bf856379c2a73ad25173130d342967db0760c6ce89c6a21df94a785dffcdae8
     wikiURL: https://danbooru.donmai.us/wiki_pages/sunset.html
   beautiful detailed sky:
-    name: 漂亮的天空
+    name: 美しい空
     image: 68f4edd5b67724c51a256fd00500ae03a860eeea4a97ae1c7b0cd0c61bc15ead
   day:
-    name: 白天
+    name: 日中
     wikiURL: https://danbooru.donmai.us/wiki_pages/day.html
   dusk:
     name: 黄昏
@@ -81,16 +81,16 @@ content:
   in winter:
     name: 冬
   stars:
-    name: 星星
+    name: 星
     wikiURL: https://danbooru.donmai.us/wiki_pages/stars.html
   cloudy:
-    name: 多云
+    name: 曇り
   rain:
-    name: 下雨
+    name: 雨
     wikiURL: https://danbooru.donmai.us/wiki_pages/rain.html
     alias:
       - raining
   in the rain:
-    name: 雨中
+    name: 雨の中
   rainy days:
-    name: 雨天
+    name: 雨の日

@@ -1,171 +1,170 @@
-name: 构图方式
+name: 構成方式
 category:
-  - 构图
+  - 構成
 content:
   afterimage:
     name: 残像
     wikiURL: https://danbooru.donmai.us/wiki_pages/afterimage.html
   border:
-    name: 边框
+    name: 境界線
     wikiURL: https://danbooru.donmai.us/wiki_pages/border.html
     alias:
       - bordered
       - windowboxed
       - windowbox
   framed:
-    name: 画框
+    name: 額装
     wikiURL: https://danbooru.donmai.us/wiki_pages/framed.html
     alias:
       - frame
   outside border:
-    name: 一部分画到了背景框外面
+    name: 外側の境界
     wikiURL: https://danbooru.donmai.us/wiki_pages/outside_border.html
     alias:
       - outside of border
       - out of border
       - cropped background
   fading border:
-    name: 褪色边框
+    name: フェードボーダー
     wikiURL: https://danbooru.donmai.us/wiki_pages/fading_border.html
     alias:
       - fading borders
   rounded corners:
-    name: 背景或画框是圆角
+    name: 丸い角
     wikiURL: https://danbooru.donmai.us/wiki_pages/rounded_corners.html
   viewfinder:
-    name: 相机取景框
+    name: カメラフレーム
     wikiURL: https://danbooru.donmai.us/wiki_pages/viewfinder.html
     alias:
       - camera frame
   chart:
-    name: 图表
+    name: 表/図
     wikiURL: https://danbooru.donmai.us/wiki_pages/chart.html
   bust chart:
-    name: 胸围图
+    name: バストチャート
     wikiURL: https://danbooru.donmai.us/wiki_pages/bust_chart.html
     alias:
       - breast chart
       - breast comparison
       - boob chart
   character chart:
-    name: 人设图
+    name: キャラクターチャート
     wikiURL: https://danbooru.donmai.us/wiki_pages/character_chart.html
   reference sheet:
-    name: 设定图
+    name: キャラクター設定
     wikiURL: https://danbooru.donmai.us/wiki_pages/reference_sheet.html
     alias:
       - character sheet
   diagram:
-    name: 图表
+    name: 図面
     wikiURL: https://danbooru.donmai.us/wiki_pages/diagram.html
   move chart:
-    name: 动作演示图
+    name: アクションチャート
     wikiURL: https://danbooru.donmai.us/wiki_pages/move_chart.html
   relationship graph:
-    name: 关系表
+    name: 相関図
     wikiURL: https://danbooru.donmai.us/wiki_pages/relationship_graph.html
     alias:
       - relationship chart
   seating chart:
-    name: 座次表
+    name: 座席表
     wikiURL: https://danbooru.donmai.us/wiki_pages/seating_chart.html
   stats:
-    name: 属性栏/状态表
+    name: 説明
     wikiURL: https://danbooru.donmai.us/wiki_pages/stats.html
   collage:
-    name: 拼贴画
+    name: コラージュ
     wikiURL: https://danbooru.donmai.us/wiki_pages/collage.html
   column lineup:
-    name: 小图拼接
+    name: 肖像画のラインナップ
     wikiURL: https://danbooru.donmai.us/wiki_pages/column_lineup.html
   cropped:
-    name: 遭到裁剪
+    name: トリミング画像
     wikiURL: https://danbooru.donmai.us/wiki_pages/cropped.html
   fake scrollbar:
-    name: 假的滚动条
+    name: スクロール詐欺
     wikiURL: https://danbooru.donmai.us/wiki_pages/fake_scrollbar.html
   head out of frame:
-    name: 头部脱框
+    name: 頭がフレーム外
     image: d5f8634fce1e2d9ed8d5275196e9a1a6c273e8bc15bce52e31711ebf526443d0
     wikiURL: https://danbooru.donmai.us/wiki_pages/head_out_of_frame.html
     alias:
       - eyes out of frame
   out of frame:
-    name: 脱框
+    name: フレーム外
     image: a3708031c5668ece1c717680c052cdd28be8d90af65a8c7997ce87b346496b80
     wikiURL: https://danbooru.donmai.us/wiki_pages/out_of_frame.html
   feet out of frame:
-    name: 脚部脱框
+    name: 脚ががフレーム外
     image: b6ecb81b32519e3295e94366b80987bdb9cbc9b603911deb497ddaa4fd87169f
     wikiURL: https://danbooru.donmai.us/wiki_pages/feet_out_of_frame.html
   glitch:
-    name: 画面噪点
+    name: グリッチ
     wikiURL: https://danbooru.donmai.us/wiki_pages/glitch.html
   isometric:
-    name: 等轴图
+    name: アイソメトリック
     wikiURL: https://danbooru.donmai.us/wiki_pages/isometric.html
   letterboxed:
-    name: 宽银幕格式
+    name: レターボックス
     wikiURL: https://danbooru.donmai.us/wiki_pages/letterboxed.html
     alias:
       - letterbox
       - letter boxed
   pillarboxed:
-    name: 柱状画布背景
+    name: ピラーボックス
     wikiURL: https://danbooru.donmai.us/wiki_pages/pillarboxed.html
     alias:
       - pillarbox
   lineup:
-    name: 一排人
+    name: 整列
     wikiURL: https://danbooru.donmai.us/wiki_pages/lineup.html
     alias:
       - line-up
       - line up
   mosaic art:
-    name: 马赛克艺术
+    name: モザイクアート
     wikiURL: https://danbooru.donmai.us/wiki_pages/mosaic_art.html
   photomosaic:
-    name: 马赛克拼图
+    name: フォトモザイク
     wikiURL: https://danbooru.donmai.us/wiki_pages/photomosaic.html
   negative space:
-    name: 大量留白
+    name: ネガティブスペース
     wikiURL: https://danbooru.donmai.us/wiki_pages/negative_space.html
   omake:
-    name: 附图
+    name: おまけ
     wikiURL: https://danbooru.donmai.us/wiki_pages/omake.html
   partially underwater shot:
-    name: 部分水下拍摄
+    name: 部分的に水中撮影
     wikiURL: https://danbooru.donmai.us/wiki_pages/partially_underwater_shot.html
   social media composition:
-    name: 社交媒体整合
+    name: ソーシャルメディア構成
     wikiURL: https://danbooru.donmai.us/wiki_pages/social_media_composition.html
   symmetry:
-    name: 左右对称
+    name: シンメトリー
     image: eb18d86a27bc8a3c56b46809cfde9235febaa7b22d80f40685ab6b79cd35ea84
     wikiURL: https://danbooru.donmai.us/wiki_pages/symmetry.html
     alias:
       - symmetrical
   polar opposites:
-    name: 两极对称
+    name: 左右対
     wikiURL: https://danbooru.donmai.us/wiki_pages/polar_opposites.html
   rotational symmetry:
-    name: 对称旋转/《少女革命》女同转圈圈
+    name: 点対称
     wikiURL: https://danbooru.donmai.us/wiki_pages/rotational_symmetry.html
   tachi-e:
-    description: 简单背景的立绘图片。
     image: fcf0027ab454ea6ef07bdefa62db7c880a4a8a118e89412ec21933faf4fb6166
-    name: 立绘样式
+    name: 立ち絵
     wikiURL: https://danbooru.donmai.us/wiki_pages/tachi-e.html
   trim marks:
-    name: 裁剪标记
+    name: トリムマーク
     wikiURL: https://danbooru.donmai.us/wiki_pages/trim_marks.html
     alias:
       - crop marks
   zoom layer:
-    name: 人物立绘缩放(剪影)图层
+    name: ズームレイヤー
     wikiURL: https://danbooru.donmai.us/wiki_pages/zoom_layer.html
     alias:
       - zoomlayer
   projected inset:
-    name: 类似海报或杂志的插图效果
+    name: 投影インセット
     wikiURL: https://danbooru.donmai.us/wiki_pages/projected_inset.html

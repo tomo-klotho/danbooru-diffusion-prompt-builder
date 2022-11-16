@@ -1,9 +1,9 @@
-name: 花卉
+name: フラワーズ
 category:
-  - 自然景观
+  - 自然景観
 content:
   petals:
-    name: 花瓣
+    name: 花びら
     image: a24afc328616fcd16cb2f60eb23c15646a0e039fb4d1c65f13f196d126e45aca
     wikiURL: https://danbooru.donmai.us/wiki_pages/petals.html
     alias:
@@ -16,11 +16,11 @@ content:
     alias:
       - flowers
   rose petals:
-    name: 玫瑰花瓣
+    name: バラの花びら
     image: 94d16bafd7a539a60af95b68106f16ee4b66c55da3ca5a14a7fc750aaf5ae886
     wikiURL: https://danbooru.donmai.us/wiki_pages/rose_petals.html
   cherry blossoms:
-    name: 樱花
+    name: さくら
     image: 96b7bee970789bd29f6a15e7c2aaa05f4109aefd9c2dc1f34107cc8b6d0b45c4
     wikiURL: https://danbooru.donmai.us/wiki_pages/cherry_blossoms.html
     alias:
@@ -33,262 +33,261 @@ content:
   alstroemeria (flower):
     name: 百合水仙
   amaryllis (flower):
-    name: 孤挺花
+    name: 孤高の花
   anemone:
-    name: 银莲花
+    name: アネモネ
     wikiURL: https://danbooru.donmai.us/wiki_pages/anemone.html
   angel's trumpet:
-    name: 木曼陀罗
+    name: エンゼルトランペット
     wikiURL: https://danbooru.donmai.us/wiki_pages/angel's_trumpet.html
   anthurium:
-    name: 花烛
+    name: アンスリウム
     wikiURL: https://danbooru.donmai.us/wiki_pages/anthurium.html
-  azalea:
-    name: 杜鹃花
+  azalea (flower):
+    name: つつじ
     wikiURL: https://danbooru.donmai.us/wiki_pages/azalea.html
   baby's-breath:
-    name: 石头花
+    name: カスミソウ
     wikiURL: https://danbooru.donmai.us/wiki_pages/baby's-breath.html
   begonia:
-    name: 秋海棠
+    name: ベゴニア
   bellflower:
-    name: 风铃草
+    name: キキョウ
     wikiURL: https://danbooru.donmai.us/wiki_pages/bellflower.html
   chinese bellflower:
     name: 桔梗
     wikiURL: https://danbooru.donmai.us/wiki_pages/chinese_bellflower.html
   bird of paradise flower:
-    name: 鹤望兰
+    name: ストレリチア
     wikiURL: https://danbooru.donmai.us/wiki_pages/bird_of_paradise_flower.html
     alias:
       - strelitzia (flower)
   black-eyed susan:
-    name: 黑心金光菊
+    name: 腹黒い金菊
   bleeding heart:
-    name: 荷包牡丹
+    name: ロータスバッグの中の牡丹
   blueberry blossoms:
-    name: 蓝莓花
+    name: ブルーベリーブロッサム
   bougainvillea:
-    name: 九重葛
+    name: クズ
   calla lily:
-    name: 马蹄莲
+    name: オランダカイウユリ
     wikiURL: https://danbooru.donmai.us/wiki_pages/calla_lily.html
   camellia:
-    name: 山茶花
+    name: 椿
     wikiURL: https://danbooru.donmai.us/wiki_pages/camellia.html
     alias:
       - camellia (flower)
   carnation:
-    name: 康乃馨
+    name: カーネーション
     wikiURL: https://danbooru.donmai.us/wiki_pages/carnation.html
   red carnation:
-    name: 红色康乃馨
+    name: レッドカーネーション
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_carnation.html
   chamomile:
-    name: 西洋甘菊
-  chinese lantern:
-    name: 酸浆
-    wikiURL: https://danbooru.donmai.us/wiki_pages/chinese_lantern.html
+    name: カミツレ
+  chinese lantern (plant):
+    name: ホオズキ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/chinese_lantern_%28plant%29
   chrysanthemum:
-    name: 菊属
+    name: 菊
     wikiURL: https://danbooru.donmai.us/wiki_pages/chrysanthemum.html
   clivia:
-    name: 君子兰
+    name: クリビア
   clematis:
-    name: 铁线莲
+    name: クレマチス
   columbine:
-    name: 耬斗菜
+    name: コロンバイン
     wikiURL: https://danbooru.donmai.us/wiki_pages/columbine.html
   cockscomb (flower):
     name: 青葙
   cornflower:
-    name: 矢车菊
+    name: コーンフラワー
   cosmos:
-    name: 秋英/大波斯菊/秋樱
+    name: コスモス
   crocus:
-    name: 番紅花
+    name: クロッカス
   cymbidium:
-    name: 蕙兰属
+    name: シンビジウム
     wikiURL: https://danbooru.donmai.us/wiki_pages/cymbidium.html
   daffodil:
-    name: 水仙
+    name: スイセン
     wikiURL: https://danbooru.donmai.us/wiki_pages/daffodil.html
     alias:
       - daffodils
   dahlia:
-    name: 大丽花
+    name: ダリア
     wikiURL: https://danbooru.donmai.us/wiki_pages/dahlia.html
   daisy:
-    name: 雏菊
+    name: ヒナギク
     wikiURL: https://danbooru.donmai.us/wiki_pages/daisy.html
     alias:
       - daisies
       - aster (flower)
       - daisy (flower)
   dimorphotheca:
-    name: 异果菊
+    name: ディモルフォセカ
   dandelion:
-    name: 蒲公英
+    name: タンポポ
     wikiURL: https://danbooru.donmai.us/wiki_pages/dandelion.html
     alias:
       - dandelions
   dianthus:
-    name: 石竹
+    name: ナデシコ
   dipsacaceae:
-    name: 川续断科
+    name: マツムシソウ
   dusty miller:
-    name: 银叶菊
+    name: 白妙菊
   edelweiss:
-    name: 高山火绒草
+    name: エーデルワイス
   epiphyllum:
-    name: 昙花
+    name: 月下美人
     wikiURL: https://danbooru.donmai.us/wiki_pages/epiphyllum.html
   eustoma:
-    name: 洋桔梗
+    name: ユーストマ
   flax:
-    name: 亚麻
+    name: 亜麻
   forget-me-not:
-    name: 勿忘草
+    name: 忘れな草
     wikiURL: https://danbooru.donmai.us/wiki_pages/forget-me-not.html
   forsythia:
-    name: 连翘
+    name: レンギョウ
   four o'clock (flower):
-    name: 紫茉莉
+    name: 白粉花
   foxglove:
-    name: 毛地黄
+    name: ジキタリス
   freesia:
-    name: 小苍兰
+    name: フリージア
   fuchsia:
-    name: 倒挂金钟
+    name: フクシア
     wikiURL: https://danbooru.donmai.us/wiki_pages/fuchsia.html
   hawthorn (plant):
-    name: 山楂
+    name: 西洋山査子
   hellebore:
-    name: 铁筷子/嚏根草
+    name: ヘレボルス
   hibiscus:
-    name: 扶桑花
+    name: ハイビスカス
     wikiURL: https://danbooru.donmai.us/wiki_pages/hibiscus.html
   heliconia:
-    name: 蝎尾蕉
+    name: ヘリコニア
   hollyhock:
-    name: 蜀葵属
+    name: ホーリーホック
   hyacinth:
-    name: 风信子
+    name: ヒヤシンス
   hydrangea:
-    name: 紫阳花
+    name: アジサイ
     wikiURL: https://danbooru.donmai.us/wiki_pages/hydrangea.html
     alias:
       - hydrangeas
       - hortensia (flower)
   genista (flower):
-    name: 染料木属
+    name: ゲニスタ
   gentiana (flower):
-    name: 龙胆属
+    name: ゲンチアナ
   geranium:
-    name: 天竺葵属
+    name: ゼラニウム
   gerbera:
-    name: 大丁草属
+    name: ガーベラ
   gladiolus:
-    name: 唐菖蒲属
+    name: グラジオラス
   gloriosa (flower):
-    name: 嘉兰
+    name: グロリオーサ
     wikiURL: https://danbooru.donmai.us/wiki_pages/gloriosa_(flower).html
   grass lily:
-    name: 伞花虎眼万年青
+    name: オオアマナ
   great burnet:
-    name: 地榆
+    name: ワレモコウ
   jasmine:
-    name: 素馨属/素英属/茉莉花
-  iris:
-    name: 鸢尾属
-    wikiURL: https://danbooru.donmai.us/wiki_pages/iris.html
+    name: ジャスミン
+  iris (flower):
+    name: アイリス
   kalanchoe:
-    name: 长寿花/家乐花/矮生伽蓝菜/圣诞伽蓝菜/寿星花/布洛斯费尔德高凉菜
+    name: カランコエ
   kerria japonica:
-    name: 棣棠花/山吹
+    name: ヤマブキ
     wikiURL: https://danbooru.donmai.us/wiki_pages/kerria_japonica.html
   lantana (flower):
-    name: 马缨丹属
+    name: ランタナ
   larkspur:
-    name: 翠雀属
+    name: 千鳥草
   lavender:
-    name: 薰衣草
+    name: ラベンダー
   lilac:
-    name: 丁香属
+    name: ライラック
     wikiURL: https://danbooru.donmai.us/wiki_pages/lilac.html
-  lily:
-    name: 百合属
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lily.html
+  lily (flower):
+    name: 百合の花
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lily_%28flower%29
   tiger lily:
-    name: 卷丹
+    name: 鬼百合
   lily of the valley:
-    name: 铃兰
+    name: スズラン
     wikiURL: https://danbooru.donmai.us/wiki_pages/lily_of_the_valley.html
     alias:
       - suzuran
   lisianthus (flower):
-    name: 洋桔梗属
+    name: リシアンサス
   magnolia:
-    name: 荷花玉兰/洋玉兰/广玉兰
+    name: 木蓮
     wikiURL: https://danbooru.donmai.us/wiki_pages/magnolia.html
   marigold:
-    name: 万寿菊属
+    name: マリーゴールド
     wikiURL: https://danbooru.donmai.us/wiki_pages/marigold.html
   marsh marigold:
-    name: 驴蹄草/驴蹄菜/沼泽金盏花/立金花
+    name: カルタ・パルストリス
   mimosa (flower):
-    name: 含羞草
+    name: ミモザ
   morning glory:
-    name: 牵牛花
+    name: アサガオ
     wikiURL: https://danbooru.donmai.us/wiki_pages/morning_glory.html
   moonflower:
-    name: 月光花/嫦娥奔月/天茄儿/天茄子/夜颜/夕颜
+    name: ヨルガオ
   gourd blossom:
-    name: 葫芦花 (辐射76)
+    name: Gourd blossom (Fallout 76)
   nemophila:
-    name: 粉蝶花属/喜林草属/幌菊属
+    name: ネモフィラ
     wikiURL: https://danbooru.donmai.us/wiki_pages/nemophila.html
   nigella:
-    name: 黑种草
+    name: クロタネソウ
   oleander:
-    name: 夹竹桃
+    name: きょうちくとう (夾竹桃)
   orange blossoms:
-    name: 橙花
+    name: オレンジブロッサム
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_blossoms.html
   orchid:
-    name: 兰科/兰花/胡姬花
+    name: ラン
     wikiURL: https://danbooru.donmai.us/wiki_pages/orchid.html
   oncidium:
-    name: 文心兰属
+    name: オンシジューム
   osmanthus:
-    name: 木樨属/木犀属/桂花属/桂花树属
+    name: 金木犀
     wikiURL: https://danbooru.donmai.us/wiki_pages/osmanthus.html
   gold osmanthus:
-    name: 金木犀
+    name: キンモクセイ
   pansy:
-    name: 三色紫罗兰/三色堇
+    name: パンジー
     wikiURL: https://danbooru.donmai.us/wiki_pages/pansy.html
   passion flower:
-    name: 西番莲属
+    name: パッシフローラ
     wikiURL: https://danbooru.donmai.us/wiki_pages/passion_flower.html
   paulownia:
-    name: 毛泡桐
+    name: キリ属
   peach blossom:
     name: 桃花
     wikiURL: https://danbooru.donmai.us/wiki_pages/peach_blossom.html
   pentas (flower):
-    name: 五星花属/繁星花属
-  peony:
-    name: 芍药属
-    wikiURL: https://danbooru.donmai.us/wiki_pages/peony.html
+    name: ペンタフィラム/プルメリア
+  peony (flower):
+    name: 牡丹
+    wikiURL: https://danbooru.donmai.us/wiki_pages/peony_%28flower%29
   perennial:
     name: 多年生植物
   periwinkle:
-    name: 蔓长春花属
+    name: ニチニチソウ
   petunia (flower):
-    name: 碧冬茄属
+    name: ペチュニア
   pieris japonica:
-    name: 马醉木
+    name: 馬酔木
     wikiURL: https://danbooru.donmai.us/wiki_pages/pieris_japonica.html
   plant:
     name: 植物
@@ -296,7 +295,7 @@ content:
     alias:
       - plants
   clover:
-    name: 三叶草
+    name: クローバー
     wikiURL: https://danbooru.donmai.us/wiki_pages/clover.html
   lotus:
     name: 莲花
@@ -319,93 +318,90 @@ content:
     alias:
       - plum blossom
   plumeria:
-    name: 缅栀花
+    name: プルメリア
     wikiURL: https://danbooru.donmai.us/wiki_pages/plumeria.html
   poinsettia:
-    name: 一品红/圣诞红/圣诞花
+    name: ポインセチア
     wikiURL: https://danbooru.donmai.us/wiki_pages/poinsettia.html
   pomegranate flower:
-    name: 石榴花
+    name: ザクロの花
   poppy:
-    name: 罂粟
+    name: ポピー
     wikiURL: https://danbooru.donmai.us/wiki_pages/poppy.html
   portulaca:
-    name: 马齿苋
+    name: ポーチュラカ・オレラセア
   potato flower:
-    name: 土豆花
+    name: ポテトフラワー
   potentilla:
-    name: 委陵菜属
+    name: カルーロフィラム
   rafflesia:
-    name: 大花草属
+    name: ダリア
   ranunculus:
-    name: 毛茛属
+    name: ラナンキュラス
     wikiURL: https://danbooru.donmai.us/wiki_pages/ranunculus.html
-  buttercup:
-    name: 花毛茛
-    wikiURL: https://danbooru.donmai.us/wiki_pages/buttercup.html
   rapeseed blossoms:
-    name: 欧洲油菜花
+    name: 菜の花
     wikiURL: https://danbooru.donmai.us/wiki_pages/rapeseed_blossoms.html
   red ginger:
-    name: 红姜花
+    name: レッド・ジンジャー
   reimu:
-    name: 灵梦花
+    name: ホオズキ
   rhododendron:
-    name: 杜鹃花属/映山红/满山红/山石榴
+    name: ツツジ属
   rose:
-    name: 玫瑰/蔷薇
+    name: ローズ/薔薇
     wikiURL: https://danbooru.donmai.us/wiki_pages/rose.html
     alias:
       - roses
   black rose:
-    name: 黑玫瑰
+    name: ブラックローズ/黒薔薇
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_rose.html
     alias:
       - black rose (flower)
   blue rose:
-    name: 蓝玫瑰
+    name: ブルーローズ/青薔薇
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_rose.html
   brown rose:
-    name: 棕色玫瑰
+    name: ブラウンローズ
     wikiURL: https://danbooru.donmai.us/wiki_pages/brown_rose.html
   green rose:
-    name: 绿色玫瑰
+    name: グリーンローズ
     wikiURL: https://danbooru.donmai.us/wiki_pages/green_rose.html
   grey rose:
-    name: 灰色玫瑰
+    name: グレイローズ
     wikiURL: https://danbooru.donmai.us/wiki_pages/grey_rose.html
     alias:
       - gray rose
   orange rose:
-    name: 橙玫瑰
+    name: オレンジローズ
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_rose.html
   pink rose:
-    name: 粉红玫瑰
+    name: ピンクローズ
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_rose.html
   purple rose:
-    name: 紫玫瑰
+    name: パープルローズ
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_rose.html
   red rose:
-    name: 红玫瑰
+    name: 赤いバラ
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_rose.html
   white rose:
-    name: 白玫瑰
+    name: ホワイトローズ
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_rose.html
   yellow rose:
-    name: 黄玫瑰
+    name: イエローローズ
     wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_rose.html
   multicolored rose:
-    name: 多色玫瑰
+    name: 色とりどりのバラ
     wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_rose.html
   rudbeckia:
-    name: 金光菊
+    name: 金菊
   snapdragon:
-    name: 金鱼草
+    name: 金魚草
   snowdrop:
-    name: 雪花莲属
+    name: スノードロップ
     wikiURL: https://danbooru.donmai.us/wiki_pages/snowdrop.html
   spathiphyllum:
-    name: 白鹤芋属
+    name: Phyllostachys spp.
     wikiURL: https://danbooru.donmai.us/wiki_pages/spathiphyllum.html
   spider lily:
     name: 彼岸花
@@ -413,72 +409,72 @@ content:
     alias:
       - higanbana
   strawberry blossoms:
-    name: 草莓花
+    name: いちごの花
     wikiURL: https://danbooru.donmai.us/wiki_pages/strawberry_blossoms.html
     alias:
       - strawberry blossom
   sunflower:
-    name: 向日葵
+    name: 向日葵/ひまわり
     wikiURL: https://danbooru.donmai.us/wiki_pages/sunflower.html
     alias:
       - sunflowers
   thistle:
-    name: 蓟属
+    name: アザミ
     wikiURL: https://danbooru.donmai.us/wiki_pages/thistle.html
   trumpet creeper:
-    name: 厚萼凌霄
+    name: ノウゼンカズラ
     wikiURL: https://danbooru.donmai.us/wiki_pages/trumpet_creeper.html
   tulip:
-    name: 郁金香
+    name: チューリップ
     wikiURL: https://danbooru.donmai.us/wiki_pages/tulip.html
     alias:
       - tulips
   water lily flower:
-    name: 睡莲科
+    name: スイレン科
   wax flower:
-    name: 风蜡花属
+    name: ワックスフラワー
   wisteria:
-    name: 紫藤
+    name: 藤
     wikiURL: https://danbooru.donmai.us/wiki_pages/wisteria.html
   wolfsbane:
-    name: 乌头属
-  violet:
-    name: 堇菜属
-    wikiURL: https://danbooru.donmai.us/wiki_pages/violet.html
+    name: トリカブト
+  violet (flower):
+    name: スミレ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/violet_%28flower%29
   zinnia:
-    name: 百日菊属
+    name: ヒャクニチソウ属
   black lotus:
-    name: 黑莲花
+    name: ブラックロータス
   fire flower:
-    name: 烈焰花 (原神)
+    name: 火の花
     wikiURL: https://danbooru.donmai.us/wiki_pages/fire_flower.html
   glaze lily:
     name: 琉璃百合 (原神)
   gracidea:
-    name: 葛拉西蒂亚花 (宝可梦)
+    name: グラキティアの花(ポケモン)
     wikiURL: https://danbooru.donmai.us/wiki_pages/gracidea.html
   ice flower:
-    name: 冰雾花 (原神)
+    name: アイスミストフラワー（原神）
   lunar tear:
-    name: 月之泪 (尼尔)
+    name: ティアーズ・オブ・ザ・ムーン（ニール）
     wikiURL: https://danbooru.donmai.us/wiki_pages/lunar_tear.html
   qingxin flower:
-    name: 清心 (原神)
+    name: クリアハート（原神）
     wikiURL: https://danbooru.donmai.us/wiki_pages/qingxin_flower.html
   silent princess:
-    name: 静谧公主 (塞尔达)
+    name: クワイエットプリンセス（ゼルダ）
     wikiURL: https://danbooru.donmai.us/wiki_pages/silent_princess.html
   silk flower:
     name: 霓裳花 (原神)
   sweet flower:
-    name: 甜甜花 (原神)
+    name: スウィート・フラワー（原神）
   bouquet:
     name: 花束
     wikiURL: https://danbooru.donmai.us/wiki_pages/bouquet.html
     alias:
       - bouquets
   coughing flowers:
-    name: 咳出花
+    name: 花吐き病
     wikiURL: https://danbooru.donmai.us/wiki_pages/coughing_flowers.html
     alias:
       - hanahaki disease
@@ -490,15 +486,15 @@ content:
     name: 花床
     wikiURL: https://danbooru.donmai.us/wiki_pages/flower_bed.html
   flower bracelet:
-    name: 花手镯
+    name: 花のブレスレット
     wikiURL: https://danbooru.donmai.us/wiki_pages/flower_bracelet.html
   flower on liquid:
-    name: 水上的花
+    name: 水上の花
   flower trim:
-    name: 花饰
+    name: フラワートリム
     wikiURL: https://danbooru.donmai.us/wiki_pages/flower_trim.html
   floral print:
-    name: 花朵图案(印花)
+    name: 花柄（プリント）
     wikiURL: https://danbooru.donmai.us/wiki_pages/floral_print.html
     alias:
       - floral pattern
@@ -507,20 +503,20 @@ content:
     name: 花札
     wikiURL: https://danbooru.donmai.us/wiki_pages/hanafuda.html
   gardening:
-    name: 园艺
+    name: ガーデニング
     wikiURL: https://danbooru.donmai.us/wiki_pages/gardening.html
   lei:
-    name: 夏威夷花环
+    name: ハワイアンレイ
     wikiURL: https://danbooru.donmai.us/wiki_pages/lei.html
   on flower:
-    name: 在花上
+    name: 花に(立つ/座る…)
     wikiURL: https://danbooru.donmai.us/wiki_pages/on_flower.html
   petals on liquid:
-    name: 水面上漂着花瓣
+    name: 水面に浮かぶ花びら
     wikiURL: https://danbooru.donmai.us/wiki_pages/petals_on_liquid.html
     alias:
       - petals on water
       - rose petal bath
   wreath:
-    name: 花环
+    name: 花輪
     wikiURL: https://danbooru.donmai.us/wiki_pages/wreath.html

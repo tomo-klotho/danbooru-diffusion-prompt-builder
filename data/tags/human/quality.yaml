@@ -1,19 +1,19 @@
-name: 品控
+name: 品質
 category:
   - 人物
 content:
   bad anatomy:
-    name: 身体结构错误
+    name: ボディ構造の違い
     wikiURL: https://danbooru.donmai.us/wiki_pages/bad_anatomy.html
   bad hands:
-    name: 手型错误
+    name: 手の形が違う
     wikiURL: https://danbooru.donmai.us/wiki_pages/bad_hands.html
   fewer digits:
     alias:
       - missing fingers
-    name: 缺少手指
+    name: 指が足りない
     wikiURL: https://danbooru.donmai.us/wiki_pages/fewer_digits.html
   extra digit:
-    name: 多余手指
+    name: エクストラフィンガー
   missing arms:
-    name: 缺少手臂
+    name: ミッシングアーム
