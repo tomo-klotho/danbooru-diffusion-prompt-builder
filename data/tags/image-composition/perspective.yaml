@@ -3,7 +3,7 @@ category:
   - 構成
 content:
   first-person view:
-    name: 一人称支店
+    name: 一人称視点
     image: 7a6cb77ac1c1f1e1c8659b3731e41bc78a96b99386cbac1ef28979f7cd790d0d
   pov:
     name: 自分視点
@@ -128,3 +128,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/upside-down.html
     alias:
       - upsidedown
+  dynamic angle:
+    name: ダイナミックアングル
+    description: アングルがランダムに変わる

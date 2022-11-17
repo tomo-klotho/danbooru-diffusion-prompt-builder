@@ -27,6 +27,11 @@ content:
     alias:
       - 2 girls
       - 2girl
+  multiple girls:
+    name: 複数の女の子
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_girls.html
+    alias:
+      - 6+girls
   angel:
     name: 天使
     image: 6725ab9cc117fae62421b7503049ed6a86b0e1a52f92e59bd010b3bbd99584e8

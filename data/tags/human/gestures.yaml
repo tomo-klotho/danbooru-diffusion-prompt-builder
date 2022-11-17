@@ -8,12 +8,13 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/arm_support.html
   armpits:
     name: 腋
-    image: ad9aed1088b7bb38dd5cd833659f90e934ebfe0d2d5aa7103507246dec497836
+    image: 81c54339e24ec4e479c664552158b48e054f3d2010d2ae37cabe11c23f99cd9f
     wikiURL: https://danbooru.donmai.us/wiki_pages/armpits.html
     alias:
       - armpit
   arms behind back:
     name: 後ろ手
+    image: 509ae4e53e024f08296854d58a8199918d43941101961a3df8ec2ef688312834
     wikiURL: https://danbooru.donmai.us/wiki_pages/arms_behind_back.html
     alias:
       - hands behind back
@@ -39,6 +40,7 @@ content:
       - caramel dansen
   finger gun:
     name: 指鉄砲
+    image: 008fd9c4e64754e487e1062a3684e3891773651ef5010e5458f9e3340ba68377
     wikiURL: https://danbooru.donmai.us/wiki_pages/finger_gun.html
   hand on hip:
     name: 腰に手
@@ -78,10 +80,11 @@ content:
       - flipping off
   salute:
     name: 敬礼
-    image: 66257ffeb1aa5cf8db671149743dc3b16bbd19927ecf05287092a9839d1fd68c
+    image: 11043a6827f8cd7e5782b025af830fc9a988e10f2a23cf3565276c17372a94b2
     wikiURL: https://danbooru.donmai.us/wiki_pages/salute.html
   shushing:
     name: しーっ
+    image: db7d8940c5e1d262b916f858a1eb54f3f70d3ed067b48257dee67a74249b25a7
     wikiURL: https://danbooru.donmai.us/wiki_pages/shushing.html
     alias:
       - shh
@@ -116,6 +119,7 @@ content:
       - wave
   outstretched arms:
     name: 手を広げる
+    image: 2517eae8911a7fd5c3f16471bf13ab94aa1d2a244666033d9ce7aace3fd8f70e
     wikiURL: https://danbooru.donmai.us/wiki_pages/outstretched_arms.html
   outstretched arm:
     name: 手を伸ばす
@@ -255,6 +259,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/claw_pose.html
   clothes lift:
     name: 服を捲る
+    image: a509b25eb30b1e3b7a17db63d3b11f80e8ccc6afe32884e12841c784100f60df
     wikiURL: https://danbooru.donmai.us/wiki_pages/clothes_lift.html
   clothes pull:
     name: 服を下げる
@@ -549,6 +554,7 @@ content:
       - hand on hat
   hand on own chest:
     name: 胸に手を当てて
+    image: 043c7e01e98e91af444fbc26b8811388f9cbc0754ed7bfbbf211548584702961
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_on_own_chest.html
     alias:
       - hand to chest

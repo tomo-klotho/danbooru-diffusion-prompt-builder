@@ -64,6 +64,7 @@ content:
       - twindrills
   quad drills:
     name: マルチドリルロール
+    image: a38f6a73a536ccc868e3716cdad52a97b9ee073cbf0badb85d7c4d72a1cb9c10
     wikiURL: https://danbooru.donmai.us/wiki_pages/quad_drills.html
   side drill:
     name: サイドドリル
@@ -364,6 +365,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/split_ponytail.html
   two side up:
     name: ツーサイドアップ
+    image: 11263a32002464940765dfbd15c182fa347914aef594c0b09ef8130b49d5a65b
     wikiURL: https://danbooru.donmai.us/wiki_pages/two_side_up.html
     alias:
       - two sides up
@@ -538,6 +540,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/pointy_hair.html
   spiked hair:
     name: トゲトゲヘア
+    image: 6aadc0584220308e97fbdf2a36674af302f92047fed8619477fc352a5101e57d
     wikiURL: https://danbooru.donmai.us/wiki_pages/spiked_hair.html
     alias:
       - spiky hair

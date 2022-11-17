@@ -726,12 +726,14 @@ content:
     alias:
       - half closed eyes
     name: 半目
+    image: 385efafabe8e6f892b2e7581ac897902c04039e5d3ca432445448bf3d3b2da12
     wikiURL: https://danbooru.donmai.us/wiki_pages/half-closed_eyes.html
   eyes closed:
     name: 目を閉じて
     image: 9b640e54565ce69975c7162d05de0808f1b065694b25a1fa7c3a7ef2d1354d51
   wince:
-    name: ひるむ
+    name: 眉をひそめる
+    image: a10db82d1cf363e449ed6a023528554c9dd539824410b0e768ae2193cdbff57d
     wikiURL: https://danbooru.donmai.us/wiki_pages/wince.html
     alias:
       - cringe

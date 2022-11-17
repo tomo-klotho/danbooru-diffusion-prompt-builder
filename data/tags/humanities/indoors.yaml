@@ -5,9 +5,11 @@ category:
 content:
   bathroom:
     name: バスルーム
+    image: db5b77688aba5ccab30a62a0736e14d4a9ab1cb10036a67b45fb65313101a8ff
     wikiURL: https://danbooru.donmai.us/wiki_pages/bathroom.html
   bathtub:
     name: バスタブ
+    image: eb579ff31f2ff6f52b91c538205cd91730ef4634d698298501d4e815e026f4e6
     wikiURL: https://danbooru.donmai.us/wiki_pages/bathtub.html
     alias:
       - bath tub
@@ -21,6 +23,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/shower.html
   bedroom:
     name: ベッドルーム
+    image: ce0a90e061d12e626483af7010deb52390e0f786f1c832fe2604f8e5cbd80526
     wikiURL: https://danbooru.donmai.us/wiki_pages/bedroom.html
   hotel room:
     name: ホテルの部屋
@@ -77,6 +80,7 @@ content:
       - gymnasium
   locker room:
     name: ロッカールーム
+    image: 97d874e2559d80d53edaccea85fadd0b1ed5ceda77b6fe0b6599a750b698014e
     wikiURL: https://danbooru.donmai.us/wiki_pages/locker_room.html
   gym storeroom:
     name: 体育倉庫
@@ -91,7 +95,8 @@ content:
       - nurse office
       - nurse's office
   kitchen:
-    name: 厨房
+    name: キッチン
+    image: 52c06675f3ec022fc67f3f23dab91d996c60b0e5febef7ab4bccfee1cd923d9b
     wikiURL: https://danbooru.donmai.us/wiki_pages/kitchen.html
   laboratory:
     name: 研究室
