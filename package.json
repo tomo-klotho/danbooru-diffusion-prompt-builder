@@ -12,6 +12,7 @@
         "importimage": "tsx ./src/cli/importimage.ts",
         "importembedding": "tsx ./src/cli/importembedding.ts",
         "importuncroppedimage": "tsx ./src/cli/importuncroppedimage.ts",
+        "importuncroppedimages": "tsx ./src/cli/importuncroppedimages.ts",
         "updatepostcount": "tsx ./src/cli/updatepostcount.ts",
         "generateimage": "tsx ./src/cli/generateimage.ts",
         "importgeneratedimage": "tsx ./src/cli/importgeneratedimage.ts",
