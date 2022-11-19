@@ -56,19 +56,16 @@
   <template>
       <ElScrollbar>
           <h1>このサイトについて</h1>
-          <p>Danbooruのタグポートフォリオを構築するためのサイトです。</p>
+          <p>Danbooruのタグを利用してNovelAI向けの呪文を構築するためのサイトです。</p>
           <p>
-              現在のバージョンは {{ buildTime }} にビルドされた{{ buildType }}バージョンです。
-              現在合計 {{ tagStore.allTagCount }} 個のタグが含まれており、合計 {{ tagStore.tagWithPhotosCount }} 個のタグに写真があります。合計 {{ presetStore.count }} セットのプリセットラベル、{{ embeddingStore.count }} の組み込みモデル、および {{ hypernetworkStore.count }} のハイパーネットワーク モデルが含まれています。
+              現在のバージョンは {{ buildTime }} にビルドされた{{ buildType }}バージョンです。<br>
+              現在合計 {{ tagStore.allTagCount }} 個のタグが含まれており、合計 {{ tagStore.tagWithPhotosCount }} 個のタグに写真があります。合計 {{ presetStore.count }} セットのプリセットラベルが含まれています。
           </p>
           <p>
-              このサイトのソースコードとすべての生データは
-              <a href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder" target="_blank">danbooru-diffusion-prompt-builder @ GitHub</a>
-              GNU AGPL-3.0 契約に基づいて公開されています。このサイトが役に立ったと思われる場合は、GitHub のスターをクリックしてください。
-              同時に、 <a href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder/issues" target="_blank">GitHub Issues</a> を通じて質問や提案を提起したり、
-              または <a href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder/pulls" target="_blank">Pull Request</a> を通じてこのサイトを変更または補足したりすることも歓迎します。
+              このサイトのソースコードとデータは<a href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder" target="_blank">danbooru-diffusion-prompt-builder @ GitHub</a>をベースに日本語化と独自にタグ等を追加しています。<br>
+              GNU AGPL-3.0 契約に基づいてすべてのソースコードとデータは<a href="https://github.com/tomo-klotho/danbooru-diffusion-prompt-builder" target="_blank">GitHub</a>にて公開しています。
           </p>
-          <p>使い方：</p>
+          <p>使い方:</p>
           <ul>
               <li>
                   <p>
@@ -131,7 +128,7 @@
               </li>
               <li>
                   <p>
-                      ショッピングカートでは、ラベルを自由にドラッグして、前後の順序を調整できます。位置が高いラベルほど重みが高くなります。右上隅にある 3 番目のスイッチを変更することによって
+                      カートでは、ラベルを自由にドラッグして、前後の順序を調整できます。位置が高いラベルほど重みが高くなります。右上隅にある 3 番目のスイッチを変更することによって
                       <span class="inline-control">
                           <ElSwitch
                               v-model="settingsStore.useFixedMultiplier"
@@ -153,7 +150,7 @@
                               <FontAwesomeIcon :icon="faCircleMinus" />
                           </ElButton>
                       </span>
-                      ボタンをクリックして、ラベルの重量を元の値の{{ settingsStore.useFixedMultiplier ? ' 5%' : '为原先的 ' + (settingsStore.newEmphasis ? '90.91' : '95.24') + '%' }}に減らします。
+                      ボタンをクリックして、ラベルの重みを元の値の{{ settingsStore.useFixedMultiplier ? ' 5%' : '元は ' + (settingsStore.newEmphasis ? '90.91' : '95.24') + '%' }}に減らします。
                       クリック
                       <span class="inline-control">
                           <ElButton link type="primary">
@@ -205,10 +202,10 @@
                   </ul>
               </li>
               <li>
-                  <p>ラベルの混合について (<a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/#:~:text=Composable%2DDiffusion%2C%20a,a%20penguin%20%3A2.2" target="_blank">Composable-Diffusion</a>, つまり <code>AND</code> 文法)：</p>
+                  <p>ラベルの混合について (<a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui/#:~:text=Composable%2DDiffusion%2C%20a,a%20penguin%20%3A2.2" target="_blank">Composable-Diffusion</a>, つまり <code>AND</code> 文法):</p>
                   <p>
                       タグ mixin 構文のサポートは、コミット <a href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder/commit/483896ae32a7504f2359e2f6bab389e49d834613" target="_blank">483896a</a> で削除されました。
-                      これは、構文の実際の効果から逸脱した実装に関する深刻な問題のためです。文法の<code>AND</code>範囲は完全なプロンプトワードステートメントであり、その優先度は他のすべての文法よりも高く、ステートメント全体が複数の部分に分割され、後続の処理プロセスに送信されることに注意してください。したがって、括弧やコンマなどの文字を使用してスコープを<code>AND</code>制限です。<code>AND</code>デリミタの前後は、完全なプロンプト ワード ステートメントにする必要があります。したがって、ダンボールタグスーパーマーケットを<code>AND</code>文法場合<code>AND</code>は、文法の両側の節を別々に処理する必要があります。たとえば、接続語を使用して決済出力結果を手動でつなぎ合わせるか、<code>AND</code>接続語個別にインポートしてください。
+                      これは、構文の実際の効果から逸脱した実装に関する深刻な問題のためです。文法の<code>AND</code>範囲は完全なプロンプトワードステートメントであり、その優先度は他のすべての文法よりも高く、ステートメント全体が複数の部分に分割され、後続の処理プロセスに送信されることに注意してください。したがって、括弧やコンマなどの文字を使用してスコープを<code>AND</code>制限です。<code>AND</code>デリミタの前後は、完全なプロンプト ワード ステートメントにする必要があります。したがって、ダンボールタグスーパーマーケットを<code>AND</code>文法場合<code>AND</code>は、文法の両側の節を別々に処理する必要があります。たとえば、接続語を使用して生成出力結果を手動でつなぎ合わせるか、<code>AND</code>接続語で個別にインポートしてください。
                   </p>
               </li>
   

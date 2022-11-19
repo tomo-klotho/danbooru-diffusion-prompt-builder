@@ -139,7 +139,7 @@ function toggleNegative() {
             </p>
         </div>
         <div>
-            <div class="tags-title">以下のタグが含まれています。：</div>
+            <div class="tags-title">以下のタグが含まれています。:</div>
             <div class="tags">
                 <ToggleableTag
                     v-for="tag in meta.content"

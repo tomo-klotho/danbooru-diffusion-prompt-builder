@@ -88,26 +88,26 @@ const downloadUrl = computed(() => {
             </div>
             <div v-if="data.name" class="text name">{{ data.name }}</div>
             <div v-if="showCategory" class="text category">
-                类别：{{ data.category.join('/') }}
+                类别:{{ data.category.join('/') }}
             </div>
             <div v-if="data.author" class="text author">
-                来源：{{ data.author }}
+                来源:{{ data.author }}
             </div>
             <p v-if="data.description" class="text description">
                 {{ data.description }}
             </p>
             <div v-if="data.modelName" class="text meta">
-                模型名：<code>{{ data.modelName }}</code> (<code>{{
+                模型名:<code>{{ data.modelName }}</code> (<code>{{
                     data.modelHash
                 }}</code
                 >)
             </div>
             <div v-if="data.steps" class="text meta">
-                训练步数：{{ data.steps }}
+                训练步数:{{ data.steps }}
             </div>
 
             <div v-if="data.suggestPositive" class="tag-suggestion">
-                <div>推荐正向标签：</div>
+                <div>推荐正向标签:</div>
                 <div class="tags">
                     <ToggleableTag
                         v-for="tag in data.suggestPositive"

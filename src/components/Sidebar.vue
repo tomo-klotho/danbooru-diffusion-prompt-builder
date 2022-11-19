@@ -84,13 +84,13 @@ function select(index: string, indexPath: string[]) {
                 :hierarchy="presetStore.categoryHierarchy"
                 :category-size="presetStore.categorySize" />
         </ElSubMenu>
-
+        <!--
         <ElSubMenu v-loading="!embeddingStore.loaded" index="embeddings">
             <template #title>
                 <ElIcon>
                     <IconPicture />
                 </ElIcon>
-                嵌入模型
+                組込型モデル
             </template>
             <SidebarItem type="embeddings"
                 :hierarchy="embeddingStore.categoryHierarchy"
@@ -108,6 +108,7 @@ function select(index: string, indexPath: string[]) {
                 :hierarchy="hypernetworkStore.categoryHierarchy"
                 :category-size="hypernetworkStore.categorySize" />
         </ElSubMenu>
+        -->
     </ElMenu>
 </template>
 

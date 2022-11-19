@@ -176,7 +176,7 @@ function toggleNegative(tag: string = props.meta.key) {
             </div>
             <div v-if="meta.name" class="text name">{{ meta.name }}</div>
             <div v-if="showCategory" class="text category">
-                カテゴリー：{{ meta.category.join('/') }}
+                カテゴリー:{{ meta.category.join('/') }}
             </div>
             <div v-if="meta.description">
                 <p
@@ -187,7 +187,7 @@ function toggleNegative(tag: string = props.meta.key) {
                 </p>
             </div>
             <div v-if="meta.alias">
-                <span class="text">同義語：</span>
+                <span class="text">同義語:</span>
                 <ul>
                     <li
                         v-for="alias in meta.alias"

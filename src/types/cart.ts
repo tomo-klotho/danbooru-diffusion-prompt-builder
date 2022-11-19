@@ -56,7 +56,7 @@ export interface CartItemPreset {
 }
 
 export interface CartItemNull {
-    label: '无标签'
+    label: 'ラベルなし'
     type: 'null'
     children: null
     parent: CartItemComplex | null
@@ -67,7 +67,7 @@ export type CartItemEditingChild = (CartItem | CartItemNull) & {
 }
 
 export interface CartItemEditing {
-    label: '标签替换'
+    label: 'ラベル交換'
     type: 'editing'
     breakpoint: Decimal
     weight: Decimal
@@ -78,7 +78,7 @@ export interface CartItemEditing {
 export type CartItemAlternateChild = CartItem & { parent: CartItemAlternate }
 
 export interface CartItemAlternate {
-    label: '标签轮转'
+    label: 'ラベル回転'
     type: 'alternate'
     weight: Decimal
     children: CartItemAlternateChild[]
@@ -88,7 +88,7 @@ export interface CartItemAlternate {
 export type CartItemGroupChild = CartItem & { parent: CartItemGroup }
 
 export interface CartItemGroup {
-    label: '标签组'
+    label: 'ラベルグループ'
     type: 'group'
     weight: Decimal
     children: CartItemGroupChild[]

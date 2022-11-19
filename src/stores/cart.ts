@@ -110,7 +110,7 @@ function removeTag(
                         if (item.type === 'editing') {
                             item.children.push({
                                 type: 'null',
-                                label: '无标签',
+                                label: 'ラベルなし',
                                 parent: item,
                                 children: null,
                             })
@@ -166,7 +166,7 @@ function appendTag(
 
         //     if (ref.type === 'composition') {
         //         const group: CartItemCompositionChild = {
-        //             label: '标签组',
+        //             label: 'ラベルグループ',
         //             parent: ref,
         //             type: 'group',
         //             children: [],
@@ -643,7 +643,7 @@ export const useCartStore = defineStore('cart', {
             if (idx !== -1) {
                 const composition: CartItemEditing = {
                     type: 'editing',
-                    label: '标签替换',
+                    label: 'ラベル交換',
                     breakpoint: new Decimal(0),
                     // @ts-expect-error Circular reference here
                     children: null,
@@ -659,7 +659,7 @@ export const useCartStore = defineStore('cart', {
                         ? { ...oldChildren[0], parent: composition }
                         : {
                               type: 'null',
-                              label: '无标签',
+                              label: 'ラベルなし',
                               parent: composition,
                               children: null,
                           },
@@ -737,7 +737,7 @@ export const useCartStore = defineStore('cart', {
                 if (dest === 'editing' && item.type !== 'editing') {
                     const newMixture: CartItemEditing = {
                         type: 'editing',
-                        label: '标签替换',
+                        label: 'ラベル交換',
                         breakpoint: new Decimal(0),
                         // @ts-expect-error Circular reference here
                         children: null,
@@ -774,7 +774,7 @@ export const useCartStore = defineStore('cart', {
                     if (children.length === 1) {
                         children.push({
                             type: 'null',
-                            label: '无标签',
+                            label: 'ラベルなし',
                             parent: newMixture,
                             children: null,
                         })
@@ -792,7 +792,7 @@ export const useCartStore = defineStore('cart', {
                 } else if (dest === 'alternate' && item.type !== 'alternate') {
                     const newMixture: CartItemAlternate = {
                         type: 'alternate',
-                        label: '标签轮转',
+                        label: 'ラベル回転',
                         parent: item?.parent ?? null,
                         // @ts-expect-error Circular reference here
                         children: null,
@@ -827,7 +827,7 @@ export const useCartStore = defineStore('cart', {
                 } else if (dest === 'group' && item.type !== 'group') {
                     const newMixture: CartItemGroup = {
                         type: 'group',
-                        label: '标签组',
+                        label: 'ラベルグループ',
                         parent: item?.parent ?? null,
                         // @ts-expect-error Circular reference here
                         children: null,
@@ -900,7 +900,7 @@ export const useCartStore = defineStore('cart', {
                         } else if (singular) {
                             children.push({
                                 type: 'null',
-                                label: '无标签',
+                                label: 'ラベルなし',
                                 parent: root[i] as CartItemEditing,
                                 children: null,
                             })

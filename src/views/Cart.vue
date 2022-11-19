@@ -38,7 +38,7 @@ const importVisible = ref(false)
 
 async function clearDialog() {
     try {
-        await ElMessageBox.confirm('本当にカートを空にしますか？', 'ショッピングカートを空にする', {
+        await ElMessageBox.confirm('本当にカートを空にしますか？', 'カートを空にする', {
             confirmButtonText: '決定',
             cancelButtonText: '取消',
             type: 'warning',
@@ -55,7 +55,7 @@ async function clearDialog() {
         <FeatureSwitches />
     </div>
     <div class="cart-container">
-        <h1 class="text-center cart-title">ショッピングカート</h1>
+        <h1 class="text-center cart-title">カート</h1>
         <ElScrollbar class="scrollable">
             <div class="subcart-container cart-positive-container">
                 <h1>必要</h1>
@@ -75,7 +75,7 @@ async function clearDialog() {
                     タグのインポート
                 </ElButton>
                 <ElButton type="danger" class="btn" @click="clearDialog">
-                    空のカート
+                    カートを空にする
                 </ElButton>
             </ElButtonGroup>
         </div>
@@ -85,7 +85,7 @@ async function clearDialog() {
                 class="btn"
                 size="large"
                 @click="resultVisible = true">
-                決済
+                生成
                 </ElButton>
         </div>
         <ImportDialog v-model="importVisible" />

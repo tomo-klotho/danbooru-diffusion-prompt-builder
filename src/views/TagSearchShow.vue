@@ -120,7 +120,7 @@ watch(toRef(props, 'search'), () => {
 </script>
 
 <template>
-    <h1>搜索结果</h1>
+    <h1>検索結果</h1>
     <ElScrollbar ref="scrollRef" class="scrollable">
         <ClientOnly>
             <Masonry

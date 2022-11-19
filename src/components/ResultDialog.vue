@@ -45,10 +45,10 @@ const mv = computed({
 <template>
     <ElDialog v-model="mv" title="出力結果" width="50%">
         <div class="tag-positive">
-            <div class="title">ポジティブラベル</div>
+            <div class="title">ポジティブ呪文</div>
             <ElTooltip :visible="positiveCopied">
                 <template #content>
-                    <span>クリップボードにコピーされる</span>
+                    <span>クリップボードにコピー</span>
                 </template>
                 <ElInput
                     v-model="cartStore.positiveToString"
@@ -60,10 +60,10 @@ const mv = computed({
             </ElTooltip>
         </div>
         <div class="tag-negative">
-            <div class="title">リバースラベル</div>
+            <div class="title">ネガティブ呪文</div>
             <ElTooltip :visible="negativeCopied">
                 <template #content>
-                    <span>クリップボードにコピーされる</span>
+                    <span>クリップボードにコピー</span>
                 </template>
                 <ElInput
                     v-model="cartStore.negativeToString"

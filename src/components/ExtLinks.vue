@@ -31,7 +31,7 @@ import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 <template>
     <div class="links">
         <ElTooltip content="NovelAI.dev" :show-after="750">
-            <a href="https://novelai.dev/" target="_blank">
+            <a href="https://aipixs.com/" target="_blank">
                 <ElButton link size="large">
                     <FontAwesomeIcon :icon="faHouse" class="square-icon" />
                 </ElButton>
@@ -39,26 +39,10 @@ import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
         </ElTooltip>
         <ElTooltip content="GitHub" :show-after="750">
             <a
-                href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder"
+                href="https://github.com/tomo-klotho/danbooru-diffusion-prompt-builder"
                 target="_blank">
                 <ElButton link size="large">
                     <FontAwesomeIcon :icon="faCodeCommit" class="square-icon" />
-                </ElButton>
-            </a>
-        </ElTooltip>
-        <ElTooltip content="Koishi.js NovelAI 插件" :show-after="750">
-            <a href="https://bot.novelai.dev" target="_blank">
-                <ElButton link size="large">
-                    <FontAwesomeIcon :icon="faMessage" class="square-icon" />
-                </ElButton>
-            </a>
-        </ElTooltip>
-        <ElTooltip content="法术解析" :show-after="750">
-            <a href="https://spell.novelai.dev" target="_blank">
-                <ElButton link size="large">
-                    <FontAwesomeIcon
-                        :icon="faMagnifyingGlassChart"
-                        class="square-icon" />
                 </ElButton>
             </a>
         </ElTooltip>

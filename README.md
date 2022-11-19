@@ -149,7 +149,7 @@ steps: 675
 payloadHash: df0641662fb2fc8190a4508c34926243843484495e6d9b0e500f8a8e409aa84e
 # 制限の有無（任意）
 restricted: false
-# 推奨ポジティブラベル（オプション）
+# 推奨ポジティブタグ（オプション）
 suggestPositive:
     - cute
 # 推奨リバースタギング（オプション）
@@ -181,7 +181,7 @@ previewHash: 9b55d1f1a03861c01cd72b4952191660f87c7bc0e9a0dfc4447022852a2be147
 # HuggingFaceのモデルファイルのダウンロード
 payloadURL: https://huggingface.co/novelai-dev/DDPB-hypernetworks/resolve/main/demo.pt
 
-# 推奨ポジティブラベル（オプション）
+# 推奨ポジティブタグ（オプション）
 suggestPositive:
     - demo tag
 # 推奨リバースタギング（オプション）
@@ -207,4 +207,4 @@ yarn build
 
 改善すべき点
 
--   [ ] Masonry 多くのインターフェース最適化（例：Collapse）と非互換
+-   [ ] Masonry 多くのインターフェース最適化（例:Collapse）と非互換

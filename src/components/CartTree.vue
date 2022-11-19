@@ -77,15 +77,15 @@ function allowDrop(draggingNode: Node, dropNode: Node, type: AllowDropType) {
 }
 
 /**
- * 需要处理的部分（先出后入）：
- * 1. 出：拖出来的是presetChild，需要解散preset
- * 2. 出：editing拖到只剩一个null，需要删掉这个editing
- * 3. 入：有标签拖进有null的editing里，需要删掉这个null
- * 4. 出：有两个标签的editing拖出一个标签，需要加一个null
- * 5. 入：有标签拖进已经有两个标签的editing里，需要转alternate
- * 6. 出：mixture拖干净，需要删掉mixture
- * 7. 入：有simple标签拖进free的simple标签，创建editing
- * 8. ~~出：alternate和editing移出，需要补一个weight~~ - 这个weight现在不丢了 所以不需要补
+ * 需要处理的部分（先出后入）:
+ * 1. 出:拖出来的是presetChild，需要解散preset
+ * 2. 出:editing拖到只剩一个null，需要删掉这个editing
+ * 3. 入:有标签拖进有null的editing里，需要删掉这个null
+ * 4. 出:有两个标签的editing拖出一个标签，需要加一个null
+ * 5. 入:有标签拖进已经有两个标签的editing里，需要转alternate
+ * 6. 出:mixture拖干净，需要删掉mixture
+ * 7. 入:有simple标签拖进free的simple标签，创建editing
+ * 8. ~~出:alternate和editing移出，需要补一个weight~~ - 这个weight现在不丢了 所以不需要补
  *
  * 最后需要把parent改了，标签类型修正了
  *
@@ -97,7 +97,7 @@ function dropPostProcess(
 ) {
     let skipReParent = false
     if (!dropNode || type === 'none') return
-    // // 1. 出：拖出来的是presetChild，需要解散preset
+    // // 1. 出:拖出来的是presetChild，需要解散preset
     if (draggingNode.data.parent?.type === 'preset') {
         const draggingCartItem = draggingNode.data as CartItemPresetChild
         if (dropNode.data.parent !== draggingCartItem.parent) {
@@ -106,7 +106,7 @@ function dropPostProcess(
     } else if (draggingNode.data.parent?.type === 'editing') {
         const draggingCartItem = draggingNode.data as CartItemEditingChild
         if (draggingCartItem.type !== 'null') {
-            // 2. 出：editing拖到只剩一个null，需要删掉这个editing
+            // 2. 出:editing拖到只剩一个null，需要删掉这个editing
             if (
                 draggingCartItem.parent.children.every((n) => n.type === 'null')
             ) {
@@ -116,10 +116,10 @@ function dropPostProcess(
                 )
                 // @ts-expect-error Well, 这里是可能为 1 的，但这不是个合法状态，所以要改
             } else if (draggingCartItem.parent.children.length === 1) {
-                // 4. 出：有两个标签的editing拖出一个标签，需要加一个null
+                // 4. 出:有两个标签的editing拖出一个标签，需要加一个null
                 draggingCartItem.parent.children.push({
                     type: 'null',
-                    label: '无标签',
+                    label: 'ラベルなし',
                     children: null,
                     parent: draggingCartItem.parent,
                 })
@@ -129,7 +129,7 @@ function dropPostProcess(
         draggingNode.data.parent?.type === 'alternate' ||
         draggingNode.data.parent?.type === 'group'
     ) {
-        // 6. 出：mixture拖干净，需要删掉mixture
+        // 6. 出:mixture拖干净，需要删掉mixture
         if (draggingNode.data.parent.children.length === 0) {
             cartStore.removeCartItem(props.direction, draggingNode.data.parent)
         } else if (
@@ -152,10 +152,10 @@ function dropPostProcess(
                 (n) => n.type === 'null'
             )
             if (nullIdx !== -1) {
-                // 3. 入：有标签拖进有null的editing里，需要删掉这个null
+                // 3. 入:有标签拖进有null的editing里，需要删掉这个null
                 dropCartItem.children.splice(nullIdx, 1)
             } else {
-                // 5. 入：有标签拖进已经有两个标签的editing里，需要转alternate
+                // 5. 入:有标签拖进已经有两个标签的editing里，需要转alternate
                 cartStore.switchMixtureType(
                     props.direction,
                     dropCartItem,
@@ -168,7 +168,7 @@ function dropPostProcess(
         type === 'inner'
     ) {
         const dropCartItem = dropNode.data as CartItemSimple
-        // 7. 入：有simple标签拖进free的simple标签，创建editing
+        // 7. 入:有simple标签拖进free的simple标签，创建editing
         cartStore.createMixtureFromTag(props.direction, dropCartItem)
     } else if (dropNode.data.parent?.type === 'editing' && type !== 'inner') {
         const dropCartItem = dropNode.data as CartItemEditingChild
@@ -177,10 +177,10 @@ function dropPostProcess(
                 (n) => n.type === 'null'
             )
             if (nullIdx !== -1) {
-                // 3. 入：有标签拖进有null的editing里，需要删掉这个null
+                // 3. 入:有标签拖进有null的editing里，需要删掉这个null
                 dropCartItem.parent.children.splice(nullIdx, 1)
             } else {
-                // 5. 入：有标签拖进已经有两个标签的editing里，需要转alternate
+                // 5. 入:有标签拖进已经有两个标签的editing里，需要转alternate
                 cartStore.switchMixtureType(
                     props.direction,
                     dropCartItem.parent,

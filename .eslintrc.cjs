@@ -26,7 +26,7 @@ module.exports = {
     rules: {
         'no-console': 'off',
         indent: 'off',
-        'linebreak-style': ['warn', 'unix'],
+        'linebreak-style': ['warn', 'windows'],
         quotes: ['warn', 'single'],
         semi: ['warn', 'never'],
         'no-const-assign': 'warn',

@@ -115,7 +115,7 @@ function walkNewEmphasis(
         if (node.content.length > 1) {
             const group: CartItemGroup = {
                 type: 'group',
-                label: '标签组',
+                label: 'ラベルグループ',
                 weight: weight,
                 parent,
                 // @ts-ignore recursive
@@ -133,7 +133,7 @@ function walkNewEmphasis(
     } else if (node.type === 'editing') {
         const editing: CartItemEditing = {
             type: 'editing',
-            label: '标签替换',
+            label: 'ラベル交換',
             weight,
             parent,
             // @ts-ignore recursive
@@ -144,7 +144,7 @@ function walkNewEmphasis(
         if (node.from === null || node.from.every((n: any) => n === null)) {
             editing.children.push({
                 type: 'null',
-                label: '无标签',
+                label: 'ラベルなし',
                 parent: editing,
                 children: null,
             })
@@ -159,7 +159,7 @@ function walkNewEmphasis(
         } else {
             const group: CartItemGroup & { parent: CartItemEditing } = {
                 type: 'group',
-                label: '标签组',
+                label: 'ラベルグループ',
                 weight: weight,
                 parent: editing,
                 // @ts-ignore recursive
@@ -174,7 +174,7 @@ function walkNewEmphasis(
         if (node.to === null || node.to.every((n: any) => n === null)) {
             editing.children.push({
                 type: 'null',
-                label: '无标签',
+                label: 'ラベルなし',
                 parent: editing,
                 children: null,
             })
@@ -189,7 +189,7 @@ function walkNewEmphasis(
         } else {
             const group: CartItemGroup & { parent: CartItemEditing } = {
                 type: 'group',
-                label: '标签组',
+                label: 'ラベルグループ',
                 weight: weight,
                 parent: editing,
                 // @ts-ignore recursive
@@ -204,7 +204,7 @@ function walkNewEmphasis(
     } else if (node.type === 'alternate') {
         const alternate: CartItemAlternate = {
             type: 'alternate',
-            label: '标签轮转',
+            label: 'ラベル回転',
             weight,
             parent,
             // @ts-ignore recursive
@@ -220,7 +220,7 @@ function walkNewEmphasis(
                     const group: CartItemGroup & { parent: CartItemAlternate } =
                         {
                             type: 'group',
-                            label: '标签组',
+                            label: 'ラベルグループ',
                             weight: weight,
                             parent: alternate,
                             // @ts-ignore recursive
@@ -259,7 +259,7 @@ function walkOldEmphasis(
         if (node.content.length > 1) {
             const group: CartItemGroup = {
                 type: 'group',
-                label: '标签组',
+                label: 'ラベルグループ',
                 weight: weight,
                 parent,
                 // @ts-ignore recursive

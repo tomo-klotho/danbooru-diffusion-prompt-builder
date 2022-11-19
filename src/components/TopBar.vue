@@ -53,7 +53,7 @@ const searchTerms = computed({
                 <FontAwesomeIcon :icon="faBars" />
             </ElButton>
             <span class="app-title text-large font-600 mr-3">
-                Danbooru タグビルダー
+                Danbooru to NovelAI呪文ビルダー
             </span>
         </div>
         <div class="right split">
