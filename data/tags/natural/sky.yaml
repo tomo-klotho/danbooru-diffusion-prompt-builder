@@ -13,7 +13,7 @@ content:
     image: 2d1912b34dc9348d0fe001063512e1f62af2958651023ea65b8bb08558c10c62
     wikiURL: https://danbooru.donmai.us/wiki_pages/full_moon.html
   moon:
-    name: 付き
+    name: 月
     image: fc3030523cd95c1fad962e78b8eb2b0d24a5692f690ff6836a586719eb605edd
     wikiURL: https://danbooru.donmai.us/wiki_pages/moon.html
   moonlight:
@@ -94,3 +94,12 @@ content:
     name: 雨の中
   rainy days:
     name: 雨の日
+  red moon:
+    name: 赤い月
+    description: ブラッドムーン
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_moon.html
+  snowflakes:
+    name: 雪の結晶
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snowflakes.html
+
+

@@ -1,18 +1,18 @@
-name: 元素法典(一)
+name: 元素法典 1巻
 category: 
   - 元素法典
 description: |-
-  作者：SteelPlate
-  オリジナルリンク：https://docs.qq.com/doc/DWHl3am5Zb05QbGVs
-  編集者への注意事項：システムの制約上、全てのタグのウェイト値は保持されず、グループ全体で適用した場合、タグのウェイトを個別に修正することはできません。
-  一部のラベルは、データベースの署名と一致するように修正されています。すべてのイラストは、925997e9モデルの実機を5回連続稼動させたものです。
+  作者:SteelPlate
+  オリジナルリンク:https://docs.qq.com/doc/DWHl3am5Zb05QbGVs
+  注意事項:システムの制約上、全てのタグのウェイト値は保持されず、グループ全体で適用した場合、タグのウェイトを個別に修正することはできません。
+  一部のタグは、データベースのタグ名と一致するように修正されています。
 content:
   水魔法(+):
     description: |-
-      作者：steelplate（QQ 457215551）
+      作者:steelplate（QQ 457215551）
       実は、隣の人が困っていたタグを改良しているうちに、AIの秘密がわかってきて、こんなことを思いついたんです。諸悪の根源です。
-      参考参数：CFG 5.5, euler_a, step 30
-      このセクションには、この記事のポジティブラベルが含まれています。
+      参考参数:CFG 5.5, euler_a, step 30
+      このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.21
       - best quality:1.331
@@ -37,7 +37,7 @@ content:
       - bowties
       - buttons
       - bare shoulders
-      - small breast:1.331
+      - small breasts:1.331
       - detailed wet clothes
       - blank stare
       - pleated skirt
@@ -50,10 +50,10 @@ content:
       - b0304b0a7cf54ba9aa38daf5f4f4b063168551ea14eaac94ba2afc4769201902
   水魔法(-):
     description: |-
-      作者：steelplate（QQ 457215551）
+      作者:steelplate（QQ 457215551）
       実は、隣の人が困っていたタグを改良しているうちに、AIの秘密がわかってきて、こんなことを思いついたんです。諸悪の根源です。
-      参考参数：CFG 5.5, euler_a, step 30
-      本記事のリバースラベルを掲載しています。
+      参考参数:CFG 5.5, euler_a, step 30
+      本記事のネガティブタグを掲載しています。
     content:
       - nsfw
       - lowres
@@ -76,14 +76,14 @@ content:
       - missing arms
       - long neck
       - humpbacked
-  空间法(+):
+  空間魔法(+):
     description: |-
-      作者：steelplate（QQ 457215551）
+      作者:steelplate（QQ 457215551）
       最小限のタグで最強のビジュアルインパクトを提示することを目指した実験的なプロジェクトです。編集部では、構造的にもグラフィック効果的にも、非常に情報量の多いタグだと考えています。*.
       今日、ワイドを試してみたら、意外とうまくいった。ガラス片を取り外すことで、時計の見栄えを良くすることができます。
       *あくまで個人的な意見です
-      参考参数：cfg 4.5, euler_a, steps 28
-      このセクションには、この記事のポジティブラベルが含まれています。
+      参考参数:cfg 4.5, euler_a, steps 28
+      このセクションには、この記事のポジティブタグが含まれています。
     content:
       - illustration
       - floating hair
@@ -98,7 +98,7 @@ content:
       - hidden hands
       - asymmetrical bangs
       - beautiful detailed eyes
-      - eye shadow
+      - eyeshadow
       - huge clocks
       - glass strips
       - floating glass fragments
@@ -129,14 +129,14 @@ content:
       - 71aa7890baf8a078033497ffce6443f972c74c9362bf0ceeb91ce947e6356e71
       - d21f3267180074cb96c8d9a5df9c390a888f5b121210b501ba7cc18a1c5c3fdd
       - b009536ea085f35058a7a6dbcc13ec918011f3ea1d7cd3d7c247a85d3561dac7
-  空间法(-):
+  空間魔法(-):
     description: |-
-      作者：steelplate（QQ 457215551）
+      作者:steelplate（QQ 457215551）
       最小限のタグで最強のビジュアルインパクトを提示することを目指した実験的なプロジェクトです。編集部では、構造的にもグラフィック効果的にも、非常に情報量の多いタグだと考えています。*.
       今日、ワイドを試してみたら、意外とうまくいった。ガラス片を取り外すことで、時計の見栄えを良くすることができます。
       *あくまで個人的な意見です
-      参考参数：cfg 4.5, euler_a, steps 28
-      本記事のリバースラベルを掲載しています。
+      参考参数:cfg 4.5, euler_a, steps 28
+      本記事のネガティブタグを掲載しています。
     content:
       - nsfw
       - lowres
@@ -156,12 +156,12 @@ content:
       - watermark
       - username
       - blurry
-  冰魔法(+):
+  氷魔法(+):
     description: |-
-      作者：mahiru（QQ 1273348952）
+      作者:mahiru（QQ 1273348952）
       もう一つの諸悪の根源。大魔法時代の幕開けを象徴するものの1つ。
-      参考参数：Steps: 27, Sampler: Euler a, CFG scale: 7
-      このセクションには、この記事のポジティブラベルが含まれています。
+      参考参数:Steps: 27, Sampler: Euler a, CFG scale: 7
+      このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece
       - best quality
@@ -192,12 +192,12 @@ content:
       - 20a6ee30150141d5b6c534e3f0a7646d2bee1b26dc92e401f0c710aafdda0256
       - 8cd6fed83145bff5cb165cbae7d31bb4923365bfade99973cece1e41e56ca8b8
       - ee7573a20c8c034e66fc13d73cc8522bfe21f948bf3d4b7fb9a8fb217573b8aa
-  冰魔法(-):
+  氷魔法(-):
     description: |-
-      作者：mahiru（QQ 1273348952）
+      作者:mahiru（QQ 1273348952）
       もう一つの諸悪の根源。大魔法時代の幕開けを象徴するものの1つ。
-      参考参数：Steps: 27, Sampler: Euler a, CFG scale: 7
-      本記事のリバースラベルを掲載しています。
+      参考参数:Steps: 27, Sampler: Euler a, CFG scale: 7
+      本記事のネガティブタグを掲載しています。
     content:
       - lowres
       - bad anatomy
@@ -218,11 +218,11 @@ content:
       - blurry
       - missing arms
       - large breasts
-  核爆法(+):
+  核爆魔法(+):
     description: |-
-      作者：mahiru（QQ 1273348952）
-      参考参数：Steps: 28, Sampler: Euler a, CFG scale: 7
-      このセクションには、この記事のポジティブラベルが含まれています。
+      作者:mahiru（QQ 1273348952）
+      参考参数:Steps: 28, Sampler: Euler a, CFG scale: 7
+      このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece
       - best quality
@@ -255,11 +255,11 @@ content:
       - 4f2f3db4595fea6d97b92d546f9b0feba4d0e21a580f72da9cf7848795315312
       - da6983bd8c23e78d6d0d3eec2338c90328b2b42e45fa1d44f90a2d6bd9cb6322
       - d5255f699053fbf68d2a1b2456ba4ddbfd3a7912138b166f97feaf9116af32a5
-  核爆法(-):
+  核爆魔法(-):
     description: |-
-      作者：mahiru（QQ 1273348952）
-      参考参数：Steps: 28, Sampler: Euler a, CFG scale: 7
-      本記事のリバースラベルを掲載しています。
+      作者:mahiru（QQ 1273348952）
+      参考参数:Steps: 28, Sampler: Euler a, CFG scale: 7
+      本記事のネガティブタグを掲載しています。
     content:
       - lowres
       - bad anatomy
@@ -280,13 +280,12 @@ content:
       - blurry
       - missing arms
       - large breasts
-  风魔法(+):
+  風魔法(+):
     description: |-
-      作者：老年痴呆的疾风法师（QQ 1431322374）
-      "ここで暗号を作るな！  "
-      悲報】アルツハイマー病患者、「新しいタグの発見を一時的に停止する」と宣言して泣く
-      参考参数：CFG: 5.5, euler, step 50
-      このセクションには、この記事のポジティブラベルが含まれています。
+      作者:老年痴呆的疾风法师（QQ 1431322374）
+      ここで暗号を作るな！
+      参考参数:CFG: 5.5, euler, step 50
+      このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece
       - best quality
@@ -318,13 +317,12 @@ content:
       - 67b1b98593e2ac72d6eaa6d02a9ee6ccad84567dab3c1d9d83f9728e1e639676
       - 9542e586d3c8078c7465472967a644b874c98fdd9df823802c333201e4148f43
       - cb7ecee873aecf2f5e4d73f95d176ec8ab6ccdee1fbdbbc207cdbef8ffda4f73
-  风魔法(-):
+  風魔法(-):
     description: |-
-      作者：老年痴呆的疾风法师（QQ 1431322374）
+      作者:老年痴呆的疾风法师（QQ 1431322374）
       "ここで暗号を作るな！  "
-      悲しい報告、アルツハイマー病のBlightyは宣言した： " 今のところ新しいタグの発見を停止する " 、泣いた。
-      参考参数：CFG: 5.5, euler, step 50
-      本記事のリバースラベルを掲載しています。
+      参考参数:CFG: 5.5, euler, step 50
+      本記事のネガティブタグを掲載しています。
     content:
       - nsfw
       - lowres
@@ -349,11 +347,11 @@ content:
       - humpbacked
       - shadow
       - nude
-  流沙法(+):
+  流沙魔法(+):
     description: |-
-      作者：咸咸咸鱼（QQ 87153289）
-      参考参数：CFG 4.5 - 5.5
-      このセクションには、この記事のポジティブラベルが含まれています。
+      作者:咸咸咸鱼（QQ 87153289）
+      参考参数:CFG 4.5 - 5.5
+      このセクションには、この記事のポジティブタグが含まれています。
     content:
       - 1girl
       - masterpiece
@@ -394,11 +392,11 @@ content:
       - b0c53e1ff7d7ea6db67cebbc245e1b39e5fc4fe11b72527d31ecbc8ceb3d9fb3
       - c62522c5a89ca73c29105d13a49a38974af98e686eb23464efb23f5c02e4cd05
       - 7bc6abc33597eef8fdd15237374c66d49db348da9544e968a4ea86798b0479f0
-  流沙法(-):
+  流沙魔法(-):
     description: |-
-      作者：咸咸咸鱼（QQ 87153289）
-      参考参数：CFG 4.5 - 5.5
-      本記事のリバースラベルを掲載しています。
+      作者:咸咸咸鱼（QQ 87153289）
+      参考参数:CFG 4.5 - 5.5
+      本記事のネガティブタグを掲載しています。
     content:
       - lowres
       - bad anatomy
@@ -421,3 +419,4197 @@ content:
       - bad feet
       - nude
       - skeleton girl
+  白骨魔法(+):
+    description: |-
+      作者:咸咸咸鱼（QQ 87153289）
+      現時点では安定性に欠けるが、グラフの質はかなり良い
+      参考参数:CFG 6.5、その他のパラメータを任意に設定
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - cinematic lighting
+      - best quality:1.21
+      - single human girl:1.21
+      - upper body:1.4641
+      - extremely detailed eyes and face:1.21
+      - church:1.21
+      - annoyed:1.21
+      - ink:1.21
+      - illustration:1.21
+      - depth of field
+      - frown:1.21
+      - expression:1.21
+      - red eyes:1.21
+      - white hair:1.4641
+      - extremely detailed:1.21
+      - watercolor:1.21
+      - anime face:1.21
+      - skull on dress:1.1
+      - yokozuwari:1.331
+      - detailed skeleton church:1.21
+      - beautiful detailed black gothic empire waist dress:1.331
+      - dramatic angle:1.331
+      - medium breasts
+      - 8k wallpaper:1.1
+      - bright eyes:1.21
+      - looking at viewers:1.1
+      - close to viewers:1.21
+      - masterpiece:1.21
+      - messy long hair:1.61051
+      - 1girl:1.4641
+      - lens flare
+      - light leaks
+    preview:
+      - 61943a42a83f8a412b4700675fc5864cf85d277583901578ca90a77bc7af2f02
+      - 38540b285d4707d69b526ab594adb23dbd354ea1d7428f21c05fa8540b3fc77b
+      - 8486dcd335a668894fe7a762c52c36919291bc846487cefab3091221073a2996
+      - 89965732db37e326b447d90907cdabf372c73b2f1648f78ebdf9ed7a8b7704b6
+      - 4eea50d3cf96ffb054f435a1d764ebc4e52fd1ff00a2bc2325fa9f93b7d78f43
+      - b3f847e39aad9615af4eae36fb266684bbf33f753efb770948b6839c83b070da
+  白骨魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - artist name
+      - bad feet
+      - nude
+      - skeleton_girl
+  星空魔法(+):
+    description: |-
+      作者:symb（QQ 914635985）
+      参考参数:CFG 6.0, euler_a, steps 50
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.21
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.21
+      - disheveled hair:1.21
+      - beautiful detailed eyes
+      - 1girl:1.2
+      - solo:1.1
+      - dynamic angle
+      - dark magician girl
+      - black kneehighs:1.1
+      - starry tornado:1.4
+      - starry nebula
+      - frills:1.21
+      - beautiful detailed sky
+      - evil smile
+      - expressionless
+      - hairs between eyes
+      - white hair
+      - pleated skirt
+      - disreveled hair:1.21
+    preview:
+      - 73bbf41ed76d8aa227c7265b88d109d3dd4969e748c0ed52f48e2f4c8a4ebb8c
+      - 6571311391e1979401a472d6f5b692af7ced9451985887bcda19523cc34190f2
+      - 244f4bbabbe4b8124f28a51da57f0d98f3262bb00dcfe878a152fcd7782f8605
+      - a97731f8fceeb22eed5d0e7a8e3439b2bb6e4e3a0bd73350b249d490c825b5db
+      - c177c4a00ed501a982b0e75e55df6123d8249ad30634d3c44a7316e860e7f38c
+  星空魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing fingers
+      - bad hands
+      - missing arms
+  機械族魔法(+):
+    description: |-
+      作者:孤辰Null（QQ 2659055918）
+      すべての機械族に、最高の敬意を表します
+      参考参数:cfg12, euler_a, steps 28 naifu
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.21
+      - flat chestbest quality
+      - highres:1.1
+      - solo
+      - flat chest
+      - a girl inside the church with white hair and blue pupil surrounded by many
+      - glowing
+      - feathers:1.1
+      - in cold face
+      - detailed face
+      - night with bright colorful lights whith richly layered clouds and clouded moon in the detailed sky
+      - a lot of glowing particles:1.1
+      - high ponytail
+      - mecha clothes
+      - robot girl
+      - cool movement
+      - sliver bodysuit
+      - filigree:1.1
+      - delicate and intricate hair
+      - sliver
+      - broken body
+      - blue streaked hair
+      - full body
+      - depth of field
+      - sitting on a blue star
+    preview:
+      - 5e2cc1a6fb1f28a1fbd3863701e87e243f40d22c7940ed84b35aeb4dfbbfa84a
+      - 0fd81843b8749b0823a3cc889d0294b0a695fcb4aa3e282f8654a21409906d15
+      - 4c7555c918224cb13e0c54a5baed1c960f43c5acdfd683def89d64e4c87559cd
+      - 1107697961dc189ad0a9c7bdf8cd5066dcf02e812f25f3be6d486626f075cc17
+      - 7b452d15bd5a369a3fa683265126fc34f7dce1325dbfda6b87cbb353901cded4
+  機械族魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad legs
+      - bad hands
+      - text
+      - error
+      - missing fngers
+      - extra digt
+      - fewer digits
+      - cropped
+      - wort quality
+      - low quality
+      - normal quality
+      - jpeg
+      - artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - artist name
+      - bad body
+      - bad proportions
+      - worst quality
+      - optical illusion
+  森林氷魔法(+):
+    description: |-
+      作者:大猫（QQ 2438380346）
+      参考参数:Steps: 30, Sampler: Euler a, CFG scale: 7
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - ink:1.4641
+      - watercolor:1.21
+      - world masterpiece theater
+      - best quality:1.21
+      - depth of field
+      - illustration:1.21
+      - 1 girl:1.1
+      - anime face
+      - medium breasts
+      - floating
+      - beautiful detailed sky
+      - looking at viewers
+      - an detailed organdie dress
+      - very close to viewers
+      - bare shoulder
+      - golden bracelet
+      - focus on face
+      - messy long hair
+      - veil
+      - upper body
+      - lens flare
+      - light leaks
+      - bare shoulders
+      - detailed beautiful snow forest with trees
+      - spirit
+      - grey hair
+      - white clothes
+      - snowflakes:1.21
+      - floating sand flow
+      - navel
+      - beautiful detailed eyes:1.1
+      - 8k wallpaper:1.1
+    preview:
+      - f292b70aa4f59c3eebfbb16aa8eaf7e07490e61806a596174f5475ef31704b14
+      - 94fb59d4695f0495f23b8a41317fd07eb70f924c16a6f1c1c8db92a211cde9dc
+      - 661d9aafe879e3e3953af7f2588e834e92cb41f217d6ec5f60a836d334122c92
+      - 538621492084196c0734b3a48539772236e7f43458fb275bc7ef4ddc4b89b7b1
+      - 042c86b178dc76a5c92962ec24ee24c535b47cf94c4528f60b26afdc52da51ae
+      - 3fb8b17bb94ed207644d87dbc4b8e8f7660886a4b1b2d38d5b52ee5557ca7f27
+      - 8c715cf70aeb83ee13f0166045195cdea2cde1d1cdbe42c7d4d5ebd4a2ab6510
+      - 7d7bd582c47b19292cb8bad95358f1107980399538308b5ec1d6d271d4078ab3
+      - fcc1729389bdc637d71a84702b5789f99849c2a98db247d04a3f72e2c554ea45
+      - 57404686515a560ac090d351362c89d5544d4f423b6d0c09f217233ab79e8747
+  森林氷魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - nsfw
+      - owres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - long neck
+      - humpbacked
+      - glasses
+  幻想時間魔法(+):
+    description: |-
+      作者:天域（QQ 799855103）
+      参考参数:Steps: 20, Sampler: Euler a, CFG scale: 7
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.1
+      - best quality:1.1
+      - 1girl:1.1amazing
+      - beautiful detailed eyes
+      - finely detail
+      - depth of field
+      - extremely detailed cg
+      - original
+      - extremely detailed wallpaper
+      - loli
+      - white hair
+      - magic circle
+      - cat ears
+      - long hair
+      - white hair/yellow eyes
+      - wand
+      - pentagram
+      - clock
+    preview:
+      - 4eda76b483a587b900216f9cc9500ac72872d874261c8049564aa830e436134c
+      - c3b2e08bb26115fb2d48b6032c482371cc29dbf81de90611700203ed5201eefa
+      - 7470bb15a9497dc19d2650c62086708eb9c9004428dac5a9285fa653ada5b5b2
+      - 4a91b3fe72ccdb30cb04d028fa0aa45d980759a5ee8013922288c7ccc938ef4b
+      - 2f288a1d10d211567ffd16a2d06a590c6816992c6bccbf0a57f0edc51ef0096b
+      - 5e5856d17053e31597976303c7a2a7a8f95f1eba9a16dbf1ebf2f43af4ab4106
+      - 2f37668bb3915253e9bcbb7fa67f1d8cfd024457d9e1c03f018924c3b0dc6e32
+      - 0b0d06f46236529284f06f87e82b0591dc2e00048b1b1303070329191788f5df
+  幻想時間魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - nsfw
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - nsfw
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+  雷男魔法(+):
+    description: |-
+      作者:幻想紫鲤鱼（QQ 1251966608）
+      参考参数:Steps: 60, Sampler: Euler a, CFG scale: 7.5
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - a man with has short black hair
+      - a round hat
+      - no facial features
+      - a high collar coat
+      - flashes of lightning from the hands
+      - full body
+      - masterpiece:1.331
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.1
+      - detailed light:1.1
+      - expressionless:1.21
+      - an extremely delicate and beautiful:1.21
+      - man:1.21
+      - lightning in hand:1.21
+      - lightning surrounds men
+      - lightning chain:1.331
+      - suspended crystal
+      - with lightning inside the crystal
+      - suspended colorless crystal:1.21
+  雷男魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - badanatomy
+      - badhands
+      - text
+      - error
+      - missingfngers
+      - extradigt
+      - fewerdigits
+      - cropped
+      - wortquality
+      - lowquality
+      - normalquality
+      - jpeg
+      - artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - badfeet
+      - girl
+      - women
+    preview:
+      - b04c9217d319b91979291f3133e2a8c854d2185af3e84ed1cf503bc7081060cc
+  聖なる光魔法(+):
+    description: |-
+      作者:幻想紫鲤鱼（QQ 1251966608）
+      tips:追加可能Facing the lens姿勢を正す（AI永遠に背中に翼を生やさせない。）
+      参考参数:Steps: 36, Sampler: Euler a, CFG scale: 7
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.331
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.1
+      - detailed light:1.1
+      - an extremely delicate and beautiful:1.21
+      - beautiful detailed eyes:1.1
+      - sunlight:1.1
+      - angel:1.1
+      - solo
+      - young girls
+      - dynamic angle
+      - floating
+      - bare shoulders
+      - looking at viewer
+      - wings
+      - arms up
+      - halo
+      - floating white silk
+      - holy light:1.1
+      - just like silver stars imploding we absorb the light of day
+    preview:
+      - bcc48fc2b8549d8af6e2a4758c6bedab62a12e4dae146e8f53e4c9f3bd1ea538
+      - 793dba5143be6749465cb425328d94be4aa9f45798a93feeb7ee47a332c82718
+      - 2669f96cf383bbdecc4c423f3f9383c9373be8017b6edb6c4e8c6433a68c9308
+      - f73bfd92783c2a3a479424b83f7eabcd35f99d807b0cf2b4adf09da6bc3ffa4b
+      - d3d17a74ae124936d71121021a8ba4014aa3ef407e3fbba9ab71e2478487261f
+      - 909f4743e76e53abceb16016f50c65f6fe3e1de1382060e6e45b0791ce3a9358
+  聖なる光魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - owres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing fingers
+      - bad hands
+      - missing arms
+      - large breasts
+  苇名魔法(+):
+    description: |-
+      咸咸咸鱼（QQ 87153289）
+      参考参数:cfg: 6.5, 残りはデフォルトで
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - dramatic shadow
+      - ray tracing
+      - best quality:1.21
+      - beautiful detailed dark midnight sky:1.331
+      - yellow full moon:1.4641
+      - holding wine gourd:1.1
+      - surrounded by floating sakura:1.61051
+      - dramatic angle
+      - leaning on huge stone:1.1
+      - bare shoulder:1.331
+      - very close to viewer:1.4641
+      - tispy :1.331
+      - sleepy:1.331
+      - far from viewer:1.21
+      - extremely beautiful detailed anime face and eyes:1.331
+      - 1girl:1.771561
+      - open hakama:1.4641
+      - samurai:1.21
+      - ink:1.1
+      - illustration:1.21
+      - depth of field
+      - beautiful detailed pampas grass field:1.61051
+      - watercolor
+      - upper body:1.21
+      - medium breast
+      - bright eyes:1.1
+      - masterpiece:1.21
+      - messy white long hair:1.21
+    preview:
+      - 752535934cbb8b12961749db516a48ee0c0450ba35d2ea3d122dff6be40d6666
+      - 820912dfb65b3e3b70cbd5e347e86a40d60d4b990e23c1c69fd3b5668a7ed894
+      - 27dfc9916fbf02cedd952112745d49dd9ab2c7753d377d8c92c28a4dbb8f64a4
+      - 12294fa62072fdf3a6ba9d2a446fcf2f1adc12b3ec1dd184d98f809811b12c76
+      - a4b72ed603615e8b5ed86da41ef271dedd9362b6649aa748a88a884a2735e62f
+      - df7ec1e3c5c28e6d652227f1f57c3dc00374cd1b774c5b568dc45a1939df6ad0
+      - 9ccb33280456c7a3aef033f5f00a3da71520be26ad34c1ea389a651b39a263e1
+      - 2baa3f22b454acb4efafeceab88e83d6b0a84f57197e982b93fa77da20af4dfb
+      - f16d21b3f2fd40fe20b342a55d235aeda75f10680cf41e67ab3f2ca68267614f
+  苇名魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - badanatomy
+      - badhands
+      - text
+      - error
+      - missingfingers
+      - extradigit
+      - fewerdigits
+      - cropped
+      - worstquality
+      - lowquality
+      - normalquality
+      - jpegartifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - artistname
+      - badfeet
+      - nsfw
+      - more_than_1_moon
+  自然魔法(+):
+    description: |-
+      作者:半生为夏甗麦至冬（QQ 167894905）
+      背景とキャラクターのウェイトがやや不一致で、たまにキャラクターのいない背景だけがありますが、このタグの主役は見栄えの良い背景で、キャラクターは同調アイテムであり、キャラクターが私の背景を持つ作品に生成する資格がないことに憤慨することもあるのですが......。
+      参考参数:1280x720 cfg4 euler a steps:30
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.331
+      - best quality
+      - super fine illustration
+      - beautiful and delicate water
+      - the finest grass:1.21
+      - beautiful eyes
+      - very delicate light
+      - perfect and delicate limbs:1.1
+      - nature
+      - painting
+      - water spray:1.1
+      - fine luminescence
+      - very fine 8k cg wallpaper:1.21
+      - lavender eyes
+      - pink pupils
+      - whole body
+      - white hair
+      - bright eyes
+      - an extremely delicate and beautiful girl
+      - 1 girl
+      - medium bust
+      - dynamic angle
+      - (white dress with gold decoration\
+      - long hair flowing with the wind
+      - beautiful hair ornaments
+      - delicate wet skirt
+      - nsfw
+      - breeze
+      - long bangs between eyes
+      - wrinkled skirt
+      - staring blankly
+      - lovely big eyes
+      - messy hair
+      - payot
+      - lateral braid
+      - tulle lace white skirt
+      - flowers and grass meadow
+      - near the water edge
+      - sunset
+      - starry sky in a circle
+      - randomly distributed clouds
+      - river
+      - splashing water
+      - falling petals
+    preview:
+      - b504d2979d4aa32e7873e3f45b2fb5f70e5ac3a25b5a73a1f925f373e992c2a1
+      - 9e607fd828549cccfc818092e2f5a859f7b2b29fece1b9c5fd2b892f223da3c8
+      - 8874388577658f885be96c5a5b0597377c1eb4f1e3154604d2a45845739ae887
+      - 9d8f8779af1740687d8dd8b4ce6bbe4590a1398bc8e266abd6c151266af10557
+  自然魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - multiple breasts
+      - mutated hands and fingers:1.5
+      - long body :1.3
+      - mutation
+      - poorly drawn :1.2
+      - multi foot:1.1
+      - multifold:1.21
+      - multi fingering:1.1
+      - lowers
+      - bad anatomy
+      - bad hands
+      - missing fingers
+      - pubic hair,extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality,colored sclera
+      - monster girl,Black hands
+      - multiple breasts
+      - mutated hands and fingers:1.5 
+      - long body :1.3
+      - black-white
+      - bad anatomy
+      - The background is incoherent
+      - more than 2 thighs
+      - huge thighs
+      - huge calf
+      - bad hands
+      - fused hand
+      - missing hand
+      - disappearing arms
+      - disappearing thigh
+      - disappearing calf
+      - disappearing legs,missing fingers
+      - fused fingers
+      - one hand with more than 5 fingers
+      - one hand with less than 5 fingers
+      - bad asshole
+      - fused asshole
+      - missing asshole
+      - bad anus
+      - bad pussy
+      - bad crotch
+      - bad crotch seam
+      - fused anus
+      - fused pussy
+      - abnormal eye proportion
+      - Abnormal hands
+      - abnormal legs
+      - abnormal feet abnormal fingers
+      - sharp face
+  氷魔法改(+):
+    description: |-
+      作者:离露（QQ 1123820886）
+      グループ内で通常の氷の呪文と虹の呪文を変更する。
+      参考参数:デフォルト
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece
+      - best quality
+      - illustration
+      - beautiful detailed girl
+      - beautiful detailed glow
+      - detailed ice
+      - beautiful detailed water
+      - beautiful detailed eyes
+      - expressionless
+      - beautiful detailed white gloves
+      - floating palaces:1.2
+      - azure hair
+      - disheveled hair
+      - long bangs
+      - hairs between eyes
+      - skyblue dress
+      - black ribbon
+      - white bowties
+      - midriff
+      - half closed eyes:1.331
+      - big forhead
+      - blank stare
+      - flower
+      - large top sleeves
+      - ice crystal texture wings
+      - iridescence and rainbow hair:2.5
+      - detailed cute anime face:1.771561
+      - loli:1.21
+      - watercolor:1.61051
+    preview:
+      - db5b0ef82ff69b8d62e0a80fb881f51899c802e3c769315e45125df1bf8f1731
+      - 83e5318af5429e1a0d96a8715c8e42ca58104ff1fb85c402196f1104a3d3f0a0
+      - 16891f3a54d6b5400f349221bf3c8eb42cf669d23cfa19f33578e16e8878c68c
+      - ef628068b107bc4a76a2cca85d2680702da98970659c912f59b5cc79063c57db
+      - 34d04ac87425ea8a8feafd9ef1ab31ec9e4109d9e084c8a8415c492a0cdbb69b
+      - 940c3b93f0a0349b4db220c3d7b2ddecf2cab5769e10aae097c103f193e8597e
+      - b5ea4ba91a90e66b07aae722b67614732058275a0ddbe7444ace59f0783a3010
+      - 980c05f1e65753bb5fd83faaec38a1c1c6fe364d382d5083ba8780643bce7b1d
+      - 6f6be6af473d8eb8aa2180b8fe866f25bc24fe2d13348c53d33eb8c8729422c2
+      - 00e10dceb78db011f9f3e7bc83f5b41c49b66f10a0f668afa85cacfd3b22ec73
+  氷魔法改(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - ugly:1.331
+      - duplicate:1.331
+      - morbid:1.21
+      - mutilated:1.21
+      - tranny:1.331
+      - mutated hands
+      - poorly drawn hands:1.331
+      - blurry
+      - bad anatomy:1.21
+      - bad proportions:1.331
+      - extra limbs
+      - cloned face
+      - disfigured:1.331
+      - more than 2 nipples:1.331
+      - missing arms:1.4641
+      - extra legs:1.331
+      - fused fingers:1.61051
+      - too many fingers:1.61051
+      - unclear eyes:1.331
+      - lowers
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - bad
+  融合魔法(+):
+    description: |-
+      作者:antwominy（QQ 863081130）
+      参考参数:Steps: 39, Sampler: Euler, CFG scale: 4.5, 512 x 1024
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - a girl
+      - phoenix girl
+      - fluffy hair
+      - war
+      - a hell on earth
+      - beautiful and detailed explosion
+      - cold machine
+      - fire in eyes
+      - world war
+      - burning
+      - metal texture
+      - exquisite cloth
+      - metal carving
+      - volume
+      - best quality
+      - normal hands
+      - metal details
+      - metal scratch
+      - metal defects
+      - masterpiece:1.21
+      - official art
+      - 4k
+      - extremely detailed cg unity 8k
+      - illustration
+      - highres
+      - masterpiece
+      - contour deepening
+      - azur lane
+      - girls' front
+      - magical
+      - cloud map plan
+      - long-focus
+      - depth of field
+      - a cloudy sky
+      - black smoke
+      - smoke of gunpowder
+      - mature
+      - resolute eyes
+      - burning sky
+      - burning hair
+      - burn oneself in flames
+      - fighting
+      - covered in blood
+      - complex pattern
+      - battleing
+      - flying flames
+      - flame whirlpool
+      - doomsday scenes
+      - float
+      - splashing blood
+      - on the battlefield
+      - bloody scenes
+      - good looking flame
+      - exquisite flame
+      - exquisite blood
+      - photorealistic
+      - watercolor
+      - colourful
+      - masterpiece:1.331
+      - beautiful detailed glow
+      - detailed ice
+      - beautiful detailed water
+      - red moon
+      - magic circle:1.2
+      - beautiful detailed eyes:1.1
+      - expressionless
+      - beautiful detailed white gloves
+      - own hands clasped
+      - floating palaces:1.1
+      - azure hair
+      - disheveled hair
+      - long bangs
+      - hairs between eyes
+      - dark dress
+      - dark magician girl:1.1
+      - black kneehighs
+      - black ribbon
+      - white bowties
+      - midriff
+      - half closed eyes:1.331
+      - big forhead
+      - blank stare
+      - flower
+      - large top sleeves
+      - beautiful detailed girl:1.1
+      - floating palaces:1.2
+      - skyblue dress:1.1
+      - ice crystal texture wings:1.331
+      - ice and fire melt:1.331
+    preview:
+      - 0d531b7879bd5da14f110079d79b6ef5b3b771678f0544fe5151a264a6ccf943
+      - 3a7adb69e3877cc3c9a9a1e0a03c531ee98d2ee5648ac625f3b5261df54a4c00
+      - b475a7d2e8bfb7886fe52985e495ddcd91ead3f6dbd5aeb81dba3c2bcc8ee702
+      - 4750cc44dce5ec717f6f6490edf7c97270d4182efce0f532f09fe3b7ff948869
+      - 0aa8c01d1d992675b552d4cb6185f7d42dd23dd00912bf81abd18b6551bd696b
+      - c9db3e8b00e0f0dbcfd644473b5ba6fb1d663f0fe2d23eddc47fa48240c65772
+  融合魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - ugly:1.331
+      - duplicate:1.331
+      - morbid:1.21
+      - mutilated:1.21
+      - tranny:1.331
+      - mutated hands
+      - poorly drawn hands:1.331
+      - blurry
+      - bad anatomy:1.21
+      - bad proportions:1.331
+      - extra limbs
+      - cloned face
+      - disfigured:1.331
+      - more than 2 nipples:1.331
+      - missing arms:1.4641
+      - extra legs:1.331
+      - fused fingers:1.61051
+      - too many fingers:1.61051
+      - unclear eyes:1.331
+      - lowers
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - bad feet
+      - text font ui
+      - malformed hands
+      - long neck
+      - missing limb
+      - mutated hand and finger:1.5
+      - long body:1.3
+      - mutation poorly drawn:1.2
+      - disfigured
+      - malformed mutated
+      - multiple breasts
+      - futa
+      - yaoi
+  虹彩魔法(+):
+    description: |-
+      作者:腰刀机（QQ 2489464602）
+      [カラフルな女の子を嫌いな人はいないでしょう。虹色の魔法は、非常に低いスケール値を要求するため非常に不安定であり、多くの試行の後に与えられた推奨設定は最も高い成功率を持っています。]
+      更新しました。非常に高い成功率です。"美的疲労に注意"
+      再度更新しました。だいぶ合理化されましたね。
+      参考参数:step28 scale5 k_euler_a 832x512
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - extremely detailed cg:1.21
+      - 8k wallpaper:1.21
+      - masterpiece:1.331
+      - best quality:1.21
+      - watercolor
+      - beautiful detailed starry sky:1.21
+      - cinmatic lighting
+      - loli
+      - princess
+      - very long rainbow hair
+      - side view
+      - looking at viewer
+      - full body
+      - frills
+      - far from viewer:1.1
+      - extremely detailed face:1.21
+      - an extremely delicate and beautiful girl:1.21
+      - extremely detailed cute anime face:1.21
+      - extremely detailed eyes:1.21
+      - extremely detailed body:1.331
+      - ultra detailed:1.1
+      - illustration
+      - bare stomach:1.21
+      - bare shoulder:1.21
+      - small breast
+      - sideboob:1.21
+      - floating and rainbow hair:1.4641
+      - iridescence and rainbow hair:1.331
+      - extremely detailed sailor dress:1.331
+      - iridescence and rainbow dress:1.4641
+      - iridescence and rainbow eyes:1.1
+      - beautiful detailed hair
+      - beautiful detailed dress
+      - dramatic angle
+      - expressionless
+      - big top sleeves:1.1
+      - blush
+      - ahoge:1.1
+    preview:
+      - 5f1bdd77ee0f618ccdc2e516a18b865993d8b888c98f99037bd6a49004959621
+      - cbc0202545ac39d81cb24052dae5ec7e4848916ae19c80dd61bc5d361714bc4b
+      - 385927cd5229f4050aa0a635dfb332f555d0c39eadfe1ce24f6228962f3d067b
+      - 88bab8c92ce1b4a7e1557de6e957b2c63c659f9039ff2639d15718a13bd96298
+      - fdb0ba3697845d9c8bddf2267f7ce1d19c2fbe43a1eb73cb2fbeda6175f16911
+      - 28ffdb8fbba7dbe33124bb079951c74dc18ad443331afe5317ad87265dabd3ce
+  虹彩魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - ugly
+      - duplicate
+      - morbid
+      - boken limb
+      - incorrect limb
+      - fusion finger
+      - lose finger
+      - multiple finger
+      - multiple digit
+      - fusion hand
+      - lose leg
+      - fused leg
+      - multiple leg
+      - bad feet
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - simple background
+      - jpeg
+  闇鎖魔法(+):
+    description: |-
+      作者:腰刀机（QQ 2489464602）
+      参考参数:step24 scale4.5 k_euler
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.61051
+      - best quality:1.4641
+      - illustration
+      - beautiful detailed girl:1.21
+      - beautiful detailed lighting:1.331
+      - beautiful detailed eyes
+      - disheveled hair:1.61051
+      - beautiful detailed dress:1.331
+      - midriff
+      - female girl:1.21
+      - off-shoulder jacket:1.21
+      - sailor dress
+      - darkside:1.4641
+      - bust:1.4641
+      - watercolor:1.61051
+      - wholeblack bloomer
+      - wet clothes
+      - wet skin
+      - flowers
+      - hollow eyes
+      - hollow night
+      - hollow knight
+      - chain:1.61051
+      - dark soul
+      - abyssal ship
+      - deep dark
+      - darkness
+      - female girl:1.4641:1.1
+      - small breast:1.331
+      - death garden
+      - emotionless eyes:1.4641
+      - cthulhu:1.331
+      - extremely detailed dark clouds:1.4641
+      - extremely detailed cg unity 8k wallpaper:1.61051
+      - extremely detailed face:1.331
+      - jitome:1.331
+      - dark persona:1.4641
+      - ruins:1.21
+      - beautiful deatailed shadow:1.771561
+      - chain storm:1.4641
+      - chain ring:1.331
+    preview:
+      - 5fad4f3d109e74aad439caa73ea95a9015d75b67dbe3e2e36665a3b106de4b6b
+      - 18c7df9cdea941cdb9140a8879fd3d94cce8e1c473516a37f687887bb82ceab8
+      - 7c4cd96e6a3574ad8e5f4e0020c2d18c52d35b668213459274f4ab3c773c6ccd
+      - 7832bafa15709d2f2d928bdf1d7a9824dcc1c99f0afabfff76805b53650f057d
+  闇鎖魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - ugly:1.331
+      - duplicate:1.331
+      - morbid:1.21
+      - mutilated:1.21
+      - tranny:1.331
+      - mutated hands
+      - poorly drawn hands:1.331
+      - blurry
+      - bad anatomy:1.21
+      - bad proportions:1.331
+      - extra limbs
+      - cloned face
+      - disfigured:1.331
+      - more than 2 nipples:1.331
+      - missing arms:1.4641
+      - extra legs:1.331
+      - fused fingers:1.61051
+      - too many fingers:1.61051
+      - unclear eyes:1.331
+      - lowers
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - bad feet
+  星氷魔法(+):
+    description: |-
+      作者:symb（QQ 914635985）
+      参考参数:Steps: 50, Sampler: Euler a, CFG scale: 5.5
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.331
+      - best quality
+      - illustration
+      - beautiful detailed girl:1.1
+      - beautiful detailed glow
+      - detailed ice
+      - beautiful detailed water
+      - beautiful detailed eyes:1.1
+      - expressionless
+      - beautiful detailed white gloves
+      - floating palaces:1.3
+      - azure hair
+      - disheveled hair
+      - long bangs
+      - hairs between eyes
+      - skyblue dress:1.1
+      - black ribbon
+      - white bowties
+      - midriff
+      - half closed eyes:1.331
+      - big forhead
+      - blank stare
+      - flower
+      - large top sleeves
+      - ice crystal texture wings:1.331
+    preview:
+      - 9166241d60b54ab97f007c756b551541b53504c29382a2d597a9feb4013995ff
+      - 566eb8221ca493a850e08bb58c7003bd1c9ca3ae59f52ef49cced98c0707d882
+      - 416c9d743f509095d9bcb1f6845d3daed01016c6eee11ebe91c8bf2f3cccc071
+      - d7f819c321397113b6ea2a06425dfa328b089e36751d82de2a9d77044661cfae
+      - bb014c0bd361187695e993696478c9c6ad8b40a227756bd3c011b18848ff22c6
+      - 68deace304d40f78cb8a2f3207b3d67dfcc86a5a1640838a38e66182e449b766
+      - 7d6e92a2a47b473495598014d97d6be8ae30787d719c6057ec764276e7b7ac54
+      - 986aff06778bcb6c804ed876bb81191ca0ee132b61d14ec8700379a40def15a5
+      - 3a47ee8809de4bd854e035f1e11cdac695855e2071690992b48f876d7fa210c0
+  星氷魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - multiple breasts
+      - mutated hands and fingers:1.5
+      - long body:1.3
+      - mutation
+      - poorly drawn:1.2
+      - black-white
+      - bad anatomy
+      - liquid body
+      - liquid tongue
+      - disfigured
+      - malformed
+      - mutated
+      - anatomical nonsense
+      - text font ui
+      - error
+      - malformed hands
+      - long neck
+      - blurred
+      - lowers
+      - lowres
+      - bad proportions
+      - bad shadow
+      - uncoordinated body
+      - unnatural body
+      - fused breasts
+      - bad breasts
+      - huge breasts
+      - poorly drawn breasts
+      - extra breasts
+      - liquid breasts
+      - heavy breasts
+      - missing breasts
+      - huge haunch
+      - huge thighs
+      - huge calf
+      - bad hands
+      - fused hand
+      - missing hand
+      - disappearing arms
+      - disappearing thigh
+      - disappearing calf
+      - disappearing legs
+      - fused ears
+      - bad ears
+      - poorly drawn ears
+      - extra ears
+      - liquid ears
+      - heavy ears
+      - missing ears
+      - fused animal ears
+      - bad animal ears
+      - poorly drawn animal ears
+      - extra animal ears
+      - liquid animal ears
+      - heavy animal ears
+      - missing animal ears
+      - text
+      - ui
+      - missing fingers
+      - missing limb
+      - fused fingers
+      - one hand with more than 5 fingers
+      - one hand with less than 5 fingers
+      - one hand with more than 5 digit
+      - one hand with less than 5 digit
+      - extra digit
+      - fewer digits
+      - fused digit
+      - missing digit
+      - bad digit
+      - liquid digit
+      - colorful tongue
+      - black tongue
+      - cropped
+      - watermark
+      - username
+      - blurry
+      - jpeg artifacts
+      - signature
+      - 3d
+      - 3d game
+      - 3d game scene
+      - 3d character
+      - malformed feet
+      - extra feet
+      - bad feet
+      - poorly drawn feet
+      - fused feet
+      - missing feet
+      - extra shoes
+      - bad shoes
+      - fused shoes
+      - more than two shoes
+      - poorly drawn shoes
+      - bad gloves
+      - poorly drawn gloves
+      - fused gloves
+      - bad cum
+      - poorly drawn cum
+      - fused cum
+      - bad hairs
+      - poorly drawn hairs
+      - fused hairs
+      - big muscles
+      - ugly
+      - bad face
+      - fused face
+      - poorly drawn face
+      - cloned face
+      - big face
+      - long face
+      - bad eyes
+      - fused eyes poorly drawn eyes
+      - extra eyes
+      - malformed limbs
+      - more than 2 nipples
+      - missing nipples
+      - different nipples
+      - fused nipples
+      - bad nipples
+      - poorly drawn nipples
+      - black nipples
+      - colorful nipples
+      - gross proportions. short arm
+      - missing arms:1.331
+      - missing thighs
+      - missing calf
+      - missing legs
+      - mutation
+      - duplicate
+      - morbid
+      - mutilated
+      - poorly drawn hands
+      - more than 1 left hand
+      - more than 1 right hand
+      - deformed
+      - blurry:1.1
+      - extra arms
+      - extra thighs
+      - more than 2 thighs
+      - extra calf
+      - fused calf
+      - extra legs
+      - bad knee
+      - extra knee
+      - more than 2 legs
+      - bad tails
+      - bad mouth
+      - fused mouth
+      - poorly drawn mouth
+      - bad tongue
+      - tongue within mouth
+      - too long tongue
+      - big mouth
+      - cracked mouth
+      - dirty face
+      - dirty teeth
+      - dirty pantie
+      - fused pantie
+      - poorly drawn pantie
+      - fused cloth
+      - poorly drawn cloth
+      - bad pantie
+      - yellow teeth
+      - thick lips
+      - bad cameltoe
+      - colorful cameltoe
+      - bad asshole
+      - poorly drawn asshole
+      - fused asshole
+      - missing asshole
+      - bad anus
+      - bad pussy
+      - bad crotch
+      - bad crotch seam
+      - fused anus
+      - fused pussy
+      - fused crotch
+      - poorly drawn crotch
+      - fused seam
+      - poorly drawn anus
+      - poorly drawn pussy
+      - poorly drawn crotch seam
+      - bad thigh gap
+      - missing thigh gap
+      - fused thigh gap
+      - liquid thigh gap
+      - poorly drawn thigh gap
+      - bad collarbone
+      - fused collarbone
+      - missing collarbone
+      - liquid collarbone
+      - strong girl
+      - obesity
+      - worst quality
+      - low quality
+      - normal quality
+      - liquid tentacles
+      - bad tentacles
+      - poorly drawn tentacles
+      - split tentacles
+      - fused tentacles
+      - missing clit
+      - bad clit
+      - fused clit
+      - colorful clit
+      - black clit
+      - liquid clit
+      - qr code
+      - bar code
+      - censored
+      - safety panties
+      - safety knickers
+      - beard
+      - furry
+      - pony
+      - pubic hair
+      - mosaic
+      - excrement
+      - faeces
+      - shit
+      - futa
+      - testis
+  火砕雲魔法(+):
+    description: |-
+      作者:symb（QQ 914635985）
+      参考参数:Steps: 50, Sampler: Euler a, CFG scale: 5.5
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.331
+      - best quality
+      - illustration
+      - beautiful detailed glow
+      - beautiful detailed eyes:0.90909091
+      - dark magician girl:1.1
+      - big forhead
+      - flower
+      - large top sleeves
+      - floating ashes
+      - beautiful and detailed explosion
+      - red moon
+      - fire
+      - fire cloud
+      - wings on fire
+      - a cloudy sky
+      - smoke of gunpowder
+      - burning
+      - black dress
+      - beautiful detailed eyes:1.1
+      - expressionless
+      - beautiful detailed white gloves
+      - dove of peace
+      - floating cloud:1.2
+      - azure hair
+      - disheveled hair
+      - long bangs
+      - hairs between eyes
+      - black kneehighs
+      - black ribbon
+      - white bowties
+      - midriff
+      - half closed eyes:1.331
+    preview:
+      - e6faefdab78dce8e01a370d50f9998fde2e17a90d7b08b2b219f217fa9e5196c
+      - 5500ae878ec6b94e55c3a34277b5cb192f95a3cbe150ec9eb780c532ca08599f
+      - 7119cd375d26c5f5b9ee24dd20f3f9594098f307043943d3d34222512cba3dc6
+      - 6cc0310bf35c5c8ff6405427843ccf91fd51ef7e6808e9a6b335cfe319b9b02c
+      - 73b4aff287e44148e3134ea11b4ffbdae3d4429acec46ee6426513936602c151
+  火砕雲魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - owres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing fingers
+      - bad hands
+      - missing arms
+  城魔法(+):
+    description: |-
+      作者:symb（QQ 914635985）
+      編集部注:このマジックの作者は、構図の関係で2枚お願いし、柔らかさに耐えかねて承諾したそうです......。
+      参考参数:Steps: 50, Sampler: Euler a, CFG scale: 6
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - hiten 1
+      - masterpiece:1.331
+      - best quality
+      - illustration
+      - beautiful detailed glow
+      - detailed ice
+      - beautiful detailed water
+      - red moon
+      - magic circle:1:1.1
+      - beautiful detailed eyes:1.1
+      - expressionless
+      - beautiful detailed white gloves
+      - own hands clasped
+      - floating palaces:1.1
+      - azure hair
+      - disheveled hair
+      - long bangs
+      - hairs between eyes
+      - dark dress
+      - dark magician girl:1.1
+      - black kneehighs
+      - black ribbon
+      - white bowties
+      - midriff
+      - half closed eyes:1.157625
+      - big forhead
+      - blank stare
+      - flower
+      - large top sleeves
+    preview:
+      - 833de23778b76af0babf30b036510206292f4c2f2977f8ebf8581acbb5eec5d6
+      - ba081dcd04afff2a74a65e890398f76e137352c48a6d58d92b04e3ca7860190f
+  城魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - multiple breasts
+      - mutated hands:1.5
+      - fingers:1.1
+      - long body:1.3
+      - mutation:1.1
+      - poorly drawn :1.2:1.1
+      - black-white
+      - bad anatomy
+      - liquid body
+      - liquid tongue
+      - disfigured
+      - malformed
+      - mutated
+      - anatomical nonsense
+      - text font ui
+      - error
+      - malformed hands
+      - long neck
+      - blurred
+      - lowers
+      - lowres
+      - bad proportions
+      - bad shadow
+      - uncoordinated body
+      - unnatural body
+      - fused breasts
+      - bad breasts
+      - huge breasts
+      - poorly drawn breasts
+      - extra breasts
+      - liquid breasts
+      - heavy breasts
+      - missing breasts
+      - huge haunch
+      - huge thighs
+      - huge calf
+      - bad hands
+      - fused hand
+      - missing hand
+      - disappearing arms
+      - disappearing thigh
+      - disappearing calf
+      - disappearing legs
+      - fused ears
+      - bad ears
+      - poorly drawn ears
+      - extra ears
+      - liquid ears
+      - heavy ears
+      - missing ears
+      - fused animal ears
+      - bad animal ears
+      - poorly drawn animal ears
+      - extra animal ears
+      - liquid animal ears
+      - heavy animal ears
+      - missing animal ears
+      - text
+      - ui
+      - missing fingers
+      - missing limb
+      - fused fingers
+      - one hand with more than 5 fingers
+      - one hand with less than 5 fingers
+      - one hand with more than 5 digit
+      - one hand with less than 5 digit
+      - extra digit
+      - fewer digits
+      - fused digit
+      - missing digit
+      - bad digit
+      - liquid digit
+      - colorful tongue
+      - black tongue
+      - cropped
+      - watermark
+      - username
+      - blurry
+      - jpeg artifacts
+      - signature
+      - 3d
+      - 3d game
+      - 3d game scene
+      - 3d character
+      - malformed feet
+      - extra feet
+      - bad feet
+      - poorly drawn feet
+      - fused feet
+      - missing feet
+      - extra shoes
+      - bad shoes
+      - fused shoes
+      - more than two shoes
+      - poorly drawn shoes
+      - bad gloves
+      - poorly drawn gloves
+      - fused gloves
+      - bad cum
+      - poorly drawn cum
+      - fused cum
+      - bad hairs
+      - poorly drawn hairs
+      - fused hairs
+      - big muscles
+      - ugly
+      - bad face
+      - fused face
+      - poorly drawn face
+      - cloned face
+      - big face
+      - long face
+      - bad eyes
+      - fused eyes poorly drawn eyes
+      - extra eyes
+      - malformed limbs
+      - more than 2 nipples
+      - missing nipples
+      - different nipples
+      - fused nipples
+      - bad nipples
+      - poorly drawn nipples
+      - black nipples
+      - colorful nipples
+      - gross proportions. short arm
+      - missing arms:1.331
+      - missing thighs
+      - missing calf
+      - missing legs
+      - duplicate
+      - morbid
+      - mutilated
+      - poorly drawn hands
+      - more than 1 left hand
+      - more than 1 right hand
+      - deformed
+      - extra arms
+      - extra thighs
+      - more than 2 thighs
+      - extra calf
+      - fused calf
+      - extra legs
+      - bad knee
+      - extra knee
+      - more than 2 legs
+      - bad tails
+      - bad mouth
+      - fused mouth
+      - poorly drawn mouth
+      - bad tongue
+      - tongue within mouth
+      - too long tongue
+      - big mouth
+      - cracked mouth
+      - dirty face
+      - dirty teeth
+      - dirty pantie
+      - fused pantie
+      - poorly drawn pantie
+      - fused cloth
+      - poorly drawn cloth
+      - bad pantie
+      - yellow teeth
+      - thick lips
+      - bad cameltoe
+      - colorful cameltoe
+      - bad asshole
+      - poorly drawn asshole
+      - fused asshole
+      - missing asshole
+      - bad anus
+      - bad pussy
+      - bad crotch
+      - bad crotch seam
+      - fused anus
+      - fused pussy
+      - fused crotch
+      - poorly drawn crotch
+      - fused seam
+      - poorly drawn anus
+      - poorly drawn pussy
+      - poorly drawn crotch seam
+      - bad thigh gap
+      - missing thigh gap
+      - fused thigh gap
+      - liquid thigh gap
+      - poorly drawn thigh gap
+      - bad collarbone
+      - fused collarbone
+      - missing collarbone
+      - liquid collarbone
+      - strong girl
+      - obesity
+      - worst quality
+      - low quality
+      - normal quality
+      - liquid tentacles
+      - bad tentacles
+      - poorly drawn tentacles
+      - split tentacles
+      - fused tentacles
+      - missing clit
+      - bad clit
+      - fused clit
+      - colorful clit
+      - black clit
+      - liquid clit
+      - qr code
+      - bar code
+      - censored
+      - safety panties
+      - safety knickers
+      - beard
+      - furry
+      - pony
+      - pubic hair
+      - mosaic
+      - excrement
+      - faeces
+      - shit
+      - futa
+      - testis
+  雪月魔法(+):
+    description: |-
+      作者:symb（QQ 914635985）
+      参考参数:Steps: 50, Sampler: Euler a, CFG scale: 5.5
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - hiten 1
+      - masterpiece:1.331
+      - best quality
+      - illustration
+      - beautiful detailed glow
+      - detailed ice
+      - beautiful detailed water
+      - red moon
+      - snowflakes
+      - beautiful detailed eyes:1.1
+      - expressionless
+      - beautiful detailed white gloves
+      - floating cloud:1.2
+      - azure hair
+      - disheveled hair
+      - long bangs
+      - hairs between eyes
+      - dark dress
+      - dark magician girl:1.1
+      - black kneehighs
+      - black ribbon
+      - white bowties
+      - midriff
+      - half closed eyes:1.331
+      - big forhead
+      - blank stare
+      - flower
+      - large top sleeves
+    preview:
+      - 593be2334e1573eed4cbf0ffab4e3216319bd86e93dd4169a647c8c33fc5eb68
+      - 356843421b213eecb8ec080041178125fbe2a759ce2556dfc68f8cd53857fe8b
+      - 937fbefce1ee498a85609ea88074b34c36efa2a1f0c5af5139cd19e27d5f07e8
+  雪月魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - owres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing fingers
+      - bad hands
+      - missing arms
+  結晶魔法(+):
+    description: |-
+      作者:Melffy（QQ 775667304）
+      不安定なガラスの呪文、ブラインドで割れたガラスの閃光で強調される
+      参考参数:Steps: 40, Sampler: Euler a, CFG scale: 4.5
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - crystals texture hair:1.331
+      - extremely detailed cg:1.61051
+      - 8k wallpaper:1.21
+      - crystalline purple gemstone gloves:1.4641
+      - beautiful detailed glass hair:1.21
+      - glass shaped texture hand:1.21
+      - crystallize texture body:1.21
+      - gem body
+      - hands as clear as jewels
+      - crystallization of clothes
+      - crystals texture skin:1.21
+      - sparkle
+      - lens flare
+      - light leaks
+      - broken glass
+      - detailed glass shaped clothes:1.4641
+      - masterpiece:1.21
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.21
+      - disheveled hair:1.21
+      - frills:1.21
+      - 1 girl:1.1
+      - solo:1.1
+      - dynamic angle
+      - big top sleeves
+      - floating
+      - beautiful detailed gemstone sky
+      - gemstone sea
+      - beautiful detailed eyes
+      - overexposure
+      - side blunt bangs
+      - hairs between eyes
+      - ribbons
+      - bowties
+      - buttons
+      - bare shoulders
+      - small breast:1.331
+      - pleated skirt
+      - crystals texture flowers
+      - detailed crystallized clothing:1.21
+      - gemstone of body:1.1
+      - solo focus
+  結晶魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - artist name
+      - bad feet
+      - ugly:1.331
+      - duplicate:1.331
+      - morbid:1.21
+      - mutilated:1.21
+      - tranny:1.331
+      - mutated hands
+      - poorly drawn hands:1.331
+      - bad anatomy:1.21
+      - bad proportions:1.331
+      - extra limbs
+      - cloned face
+      - disfigured:1.331
+      - more than 2 nipples:1.331
+      - missing arms:1.4641
+      - extra legs:1.331
+      - fused fingers:1.61051
+      - too many fingers:1.61051
+      - unclear eyes:1.331
+      - lowers
+      - missing fingers
+      - jpeg  artifacts
+      - bad
+  黄昏魔法(+):
+    description: |-
+      作者:半生为夏甗麦至冬（QQ 167894905）
+      作者:私の感想は、「人は景色ほど素敵ではない」です。
+      参考参数:steps:20，cfg4，1280×768，euler a
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.331
+      - best quality:1.21
+      - super fine illustration:1.21
+      - beautiful and delicate water:1.21
+      - beautiful and detailed eyes:1.21
+      - very detailed light:1.1
+      - perfect and delicate limbs:1.1
+      - nature:1.1
+      - painting:1.1
+      - water bloom:1.1
+      - delicate glow:1.1
+      - very fine 8kcg wallpaper:1.21
+      - lavender eyes
+      - peach pink pupils
+      - whole body
+      - white hair
+      - luminous eyes
+      - an extremely delicate and beautiful girl
+      - 1 girl:1.1
+      - medium chest circumference
+      - dynamic angle
+      - violet dress with gold decoration:1.1
+      - long hair floating everywhere:1.1
+      - beautiful hair decoration:1.1
+      - delicate wet dress:1.1
+      - nsfw:1.1
+      - breeze:1.1
+      - long hair blown up
+      - messy hair style:1.21
+      - long bangs between eyes:1.1
+      - wrinkled skirt
+      - flowers meadow
+      - near the water edge
+      - sunset:1.21
+      - less stars form a circle:1.1
+      - randomly distributed clouds
+      - rivers:1.1
+      - willows with branches falling into the water:1.1
+  黄昏魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - ugly:1.331
+      - duplicate:1.331
+      - morbid:1.21
+      - mutilated:1.21
+      - tranny:1.331
+      - mutated hands
+      - poorly drawn hands:1.331
+      - blurry
+      - bad anatomy:1.21
+      - bad proportions:1.331
+      - extra limbs
+      - cloned face
+      - disfigured:1.331
+      - more than 2 nipples:1.331
+      - missing arms:1.4641
+      - extra legs:1.331
+      - fused fingers:1.61051
+      - too many fingers:1.61051
+      - unclear eyes:1.331
+      - lowers
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - bad feet
+      - monotone:1.61051
+  森林魔法(+):
+    description: |-
+      作者:Pumpkinhn（QQ 1013239829）
+      参考参数:step40，scale7
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.331
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.1
+      - an extremely delicate and beautiful:1.21
+      - dynamic angle
+      - floating
+      - beautiful detailed eyes:1.1
+      - detailed light:1.1
+      - 1girl:1.1
+      - loli
+      - small breasts
+      - floating hair
+      - glowing eyes
+      - pointy ears
+      - white hair
+      - green eyes
+      - halter dress
+      - feather
+      - leaves
+      - nature
+      - sunlight:1.1
+      - river
+      - forest:1.1
+      - painting:1.1
+      - sketch:1.1
+      - bloom:1.1
+  森林魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worstquality
+      - low quality
+      - normal quality
+      - jpegartifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+  泡泡魔法(+):
+    description: |-
+      作者:Pumpkinhn（QQ 1013239829）
+      参考参数:Steps: 40, Sampler: Euler a, CFG scale: 5.5
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.331
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.21
+      - an extremely delicate and beautiful:1.21
+      - dynamic angle
+      - floating
+      - beautiful detailed eyes:1.1
+      - detailed light:1.1
+      - ink:1.331
+      - depth of field
+      - watercolor:1.21
+      - 1girl
+      - small breasts
+      - red hair
+      - blue eyes
+      - veil:1.21
+      - bare shoulders
+      - navel
+      - starry sky:1.1
+      - desert:1.1
+      - floating sand flow:1.1
+      - colorful bubble:1.331
+  泡泡魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worstquality
+      - low quality
+      - normal quality
+      - jpegartifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+  蔷薇魔法(+):
+    description: |-
+      作者:Pumpkinhn（QQ 1013239829）
+      参考参数:Steps: 40, Sampler: Euler a, CFG scale: 5.5
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.331
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.1
+      - an extremely delicate and beautiful:1.21
+      - beautiful detailed eyes
+      - detailed light:1.1
+      - beautiful deatailed shadow:1.1
+      - 1girl
+      - loli:1.1
+      - small breasts:1.1
+      - floating hair
+      - glowing eyes
+      - black hair
+      - red eyes
+      - sad
+      - lolita
+      - bare shoulders
+      - white dress
+      - rose:1.21
+      - vines:1.1
+      - blood:1.1
+      - cage
+      - bandage
+      - red rope
+      - sketch:1.21
+      - painting:1.1
+  蔷薇魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worstquality
+      - low quality
+      - normal quality
+      - jpegartifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+  月魔法(+):
+    description: |-
+      作者:Pumpkinhn（QQ 1013239829）
+      参考参数:Steps: 40, Sampler: Euler a, CFG scale: 5.5
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.331
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.1
+      - an extremely delicate and beautiful:1.21
+      - cinematic angle
+      - floating
+      - beautiful detailed eyes:1.1
+      - detailed light:1.1
+      - cinematic lighting
+      - beautifully detailed sky
+      - 1girl:1.1
+      - white hair
+      - blue eyes
+      - high ponytail:1.1
+      - cloak
+      - glowing eyes
+      - moon:1.21
+      - moonlight:1.1
+      - starry sky
+      - lighting particle:1.1
+      - fog
+      - snow
+      - painting:1.1
+      - sketch:1.1
+      - bloom:1.1
+  月魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worstquality
+      - low quality
+      - normal quality
+      - jpegartifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+  森火魔法(+):
+    description: |-
+      作者:大猫（QQ 2438380346）
+      参考参数:
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - ink:1.4641
+      - watercolor:1.21
+      - best quality:1.21
+      - spirit:1.1
+      - illustration:1.21
+      - 1 girl:1.331
+      - beautiful detailed eyes:1.1
+      - world masterpiece theater
+      - depth of field
+      - burning forest:1.1
+      - spark
+      - anime face
+      - black gauze skirt
+      - red hair:1.1
+      - blue eyes
+      - focus on face
+      - medium breasts
+      - messy long hair:1.61051
+      - bare shoulder
+      - very close to viewers
+      - veil
+      - light leaks
+      - burning sky
+      - navel
+      - bustier:1.21
+      - flame
+      - red gem necklace
+      - rainbow in the sky
+      - flames burning around
+      - a burning church
+      - fire butterflys:1.331
+      - flying sparks:1.1
+  森火魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - nsfw
+      - owres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - long neck
+      - humpbacked
+      - glasses
+  荒地魔法(+):
+    description: |-
+      作者:易者（QQ 1608090027）
+      荒れ地を強く生き抜く女の子を愛さない人はいないでしょう。
+      参考参数:Steps: 45, Sampler: Euler a, CFG scale: 5.5
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.331
+      - best quality
+      - illustration
+      - 1girl:1.331
+      - cute anime face:1.21
+      - beautiful detailed girl:1.1
+      - expressionless
+      - cold attitude
+      - red pupils
+      - short hair
+      - white hair
+      - beautiful detailed eyes:1.331
+      - jacket
+      - cracked floor
+      - damaged classroom
+      - tables and chairs in disarray
+      - the residual eaves duanbi
+      - beautiful sky
+      - cumulus
+      - mouldy
+      - floating
+      - wind
+      - dead end machine
+      - broken robot:1.1
+      - mechanical girl:1.1
+  荒地魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurrylowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - tidy classroom
+      - Neat tables and chairs
+  機械娘水魔法(+):
+    description: |-
+      作者:某驾校校长（QQ 3062945846）
+      編集注:やりすぎるなよ、このガキ
+      参考参数:Steps: 38, Sampler: Euler a, CFG scale: 12
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.1
+      - best quality
+      - full body:1.1
+      - 1 girl:1.21
+      - beauty detailed eye:1.21
+      - mecha
+      - huge filesize:1.1
+      - bare shoulders:1.1
+      - science fiction
+      - highly detailed
+      - illustration
+      - extremely detailed cg unity wallpaper
+      - submerge
+      - cinematic lighting
+      - dramatic angle
+      - beautiful face:1.21
+      - posing
+      - caustics
+      - fine water surface
+      - mechanical wing
+      - metal wings
+      - mecha wing
+      - mecha clothes:1.1
+      - robot girl
+      - beautiful detailed face
+  機械娘水魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing fingers
+      - bad hands
+      - missing arms
+      - long neck
+      - Humpbacked
+  黄金魔法(+):
+    description: |-
+      作者:antwominy（QQ 863081130）
+      Steps: 30, Sampler: Euler, CFG scale: 7
+      参考参数:
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece
+      - best quality
+      - amazing
+      - beautiful detailed eyes
+      - 1girl:1.21
+      - finely detailed
+      - depth of field
+      - extremely detailed cg unity 8k wallpaper
+      - full body
+      - other minato aqua:1.1
+      - a girl wears clothes with a silver texture:1.331
+      - extremely gorgeous metal style:1.21
+      - metal crown with ornate stripes:1.21
+      - various metals background:1.4641
+      - sputtered molten iron
+      - floating hair:1.1
+      - hair like melted metal:1.21
+      - detailed face:1.331
+      - detailed eyes:1.331
+      - clothes made of silver:1.331
+      - clothes with gold lace:1.331
+      - full body:1.21
+      - flowing gold and silver:1.4641
+      - everything flowing and melt:1.61051
+      - flowing iron:1.61051
+      - flowing silver:1.61051
+      - lace flowing and melt:1.4641
+  黄金魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - ugly:1.331
+      - duplicate:1.331
+      - morbid:1.21
+      - mutilated:1.21
+      - tranny:1.331
+      - mutated hands
+      - poorly drawn hands:1.331
+      - blurry
+      - bad anatomy:1.21
+      - bad proportions:1.331
+      - extra limbs
+      - cloned face
+      - disfigured:1.331
+      - more than 2 nipples:1.331
+      - missing arms:1.4641
+      - extra legs:1.331
+      - fused fingers:1.61051
+      - too many fingers:1.61051
+      - unclear eyes:1.331
+      - lowers
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - bad feet
+      - text font ui
+      - malformed hands
+      - long neck
+      - missing limb
+      - mutated hand and finger:1.5
+      - long body:1.3
+      - mutation poorly drawn:1.2
+      - disfigured
+      - malformed mutated
+      - multiple breasts
+      - futa
+      - yaoi
+  死霊魔法(+):
+    description: |-
+      作者:Phoebe（QQ 3101516445）
+      作者の一言:私は医学生です。
+      参考参数:Steps: 50, Sampler: Euler a, CFG scale: 12
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - cinematic lighting
+      - best quality:1.21
+      - single human girl:1.21
+      - upper body:1.4641
+      - extremely detailed eyes and face:1.21
+      - ink
+      - bone:1.331
+      - ribs:1.331
+      - one girl
+      - a young girl
+      - upper body
+      - rose
+      - black hair
+      - blue eyes
+      - curly hair
+      - greyscale
+      - no shadow
+      - simple background
+      - bright skin
+      - cherry blossoms
+  死霊魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - multiple breasts
+      - mutated hands and fingers:1.5
+      - long body:1.3
+      - mutation
+      - poorly drawn:1.2
+      - black-white
+      - bad anatomy
+      - liquid body
+      - liquid tongue
+      - disfigured
+      - malformed
+      - mutated
+      - anatomical nonsense
+      - text font ui
+      - error
+      - malformed hands
+      - long neck
+      - blurred
+      - lowers
+      - lowres
+      - bad proportions
+      - bad shadow
+      - uncoordinated body
+      - unnatural body
+      - fused breasts
+      - bad breasts
+      - huge breasts
+      - poorly drawn breasts
+      - extra breasts
+      - liquid breasts
+      - heavy breasts
+      - missing breasts
+      - huge haunch
+      - huge thighs
+      - huge calf
+      - bad hands
+      - fused hand
+      - missing hand
+      - disappearing arms
+      - disappearing thigh
+      - disappearing calf
+      - disappearing legs
+      - fused ears
+      - bad ears
+      - poorly drawn ears
+      - extra ears
+      - liquid ears
+      - heavy ears
+      - missing ears
+      - fused animal ears
+      - bad animal ears
+      - poorly drawn animal ears
+      - extra animal ears
+      - liquid animal ears
+      - heavy animal ears
+      - missing animal ears
+      - text
+      - ui
+      - missing fingers
+      - missing limb
+      - fused fingers
+      - one hand with more than 5 fingers
+      - one hand with less than 5 fingers
+      - one hand with more than 5 digit
+      - one hand with less than 5 digit
+      - extra digit
+      - fewer digits
+      - fused digit
+      - missing digit
+      - bad digit
+      - liquid digit
+      - colorful tongue
+      - black tongue
+      - cropped
+      - watermark
+      - username
+      - blurry
+      - jpeg artifacts
+      - signature
+      - 3d
+      - 3d game
+      - 3d game scene
+      - 3d character
+      - malformed feet
+      - extra feet
+      - bad feet
+      - poorly drawn feet
+      - fused feet
+      - missing feet
+      - extra shoes
+      - bad shoes
+      - fused shoes
+      - more than two shoes
+      - poorly drawn shoes
+      - bad gloves
+      - poorly drawn gloves
+      - fused gloves
+      - bad cum
+      - poorly drawn cum
+      - fused cum
+      - bad hairs
+      - poorly drawn hairs
+      - fused hairs
+      - big muscles
+      - ugly
+      - bad face
+      - fused face
+      - poorly drawn face
+      - cloned face
+      - big face
+      - long face
+      - bad eyes
+      - fused eyes poorly drawn eyes
+      - extra eyes
+      - malformed limbs
+      - more than 2 nipples
+      - missing nipples
+      - different nipples
+      - fused nipples
+      - bad nipples
+      - poorly drawn nipples
+      - black nipples
+      - colorful nipples
+      - gross proportions. short arm
+      - missing arms:1.331
+      - missing thighs
+      - missing calf
+      - missing legs
+      - mutation
+      - duplicate
+      - morbid
+      - mutilated
+      - poorly drawn hands
+      - more than 1 left hand
+      - more than 1 right hand
+      - deformed
+      - blurry:1.1
+      - extra arms
+      - extra thighs
+      - more than 2 thighs
+      - extra calf
+      - fused calf
+      - extra legs
+      - bad knee
+      - extra knee
+      - more than 2 legs
+      - bad tails
+      - bad mouth
+      - fused mouth
+      - poorly drawn mouth
+      - bad tongue
+      - tongue within mouth
+      - too long tongue
+      - big mouth
+      - cracked mouth
+      - dirty face
+      - dirty teeth
+      - dirty pantie
+      - fused pantie
+      - poorly drawn pantie
+      - fused cloth
+      - poorly drawn cloth
+      - bad pantie
+      - yellow teeth
+      - thick lips
+      - bad cameltoe
+      - colorful cameltoe
+      - bad asshole
+      - poorly drawn asshole
+      - fused asshole
+      - missing asshole
+      - bad anus
+      - bad pussy
+      - bad crotch
+      - bad crotch seam
+      - fused anus
+      - fused pussy
+      - fused crotch
+      - poorly drawn crotch
+      - fused seam
+      - poorly drawn anus
+      - poorly drawn pussy
+      - poorly drawn crotch seam
+      - bad thigh gap
+      - missing thigh gap
+      - fused thigh gap
+      - liquid thigh gap
+      - poorly drawn thigh gap
+      - bad collarbone
+      - fused collarbone
+      - missing collarbone
+      - liquid collarbone
+      - strong girl
+      - obesity
+      - worst quality
+      - low quality
+      - normal quality
+      - liquid tentacles
+      - bad tentacles
+      - poorly drawn tentacles
+      - split tentacles
+      - fused tentacles
+      - missing clit
+      - bad clit
+      - fused clit
+      - colorful clit
+      - black clit
+      - liquid clit
+      - qr code
+      - bar code
+      - censored
+      - safety panties
+      - safety knickers
+      - beard
+      - furry
+      - pony
+      - pubic hair
+      - mosaic
+      - excrement
+      - faeces
+      - shit
+      - futa
+      - testis
+  水晶魔法(+):
+    description: |-
+      作者:LiON（QQ 3170885344）
+      作者の言葉:水晶というより、実は質感が少し大事。水晶は、実はまったく別のものに置き換えることができるのです。この例では、グループからkegocha ptを使用していますが、これを削除しても問題ないでしょう。
+      参考参数:Steps: 45, Sampler: Euler, CFG scale: 6.5
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece
+      - best quality:1.331
+      - illustration:1.1
+      - extremely detailed cg unity 8k wallpaper:1.331
+      - game cg
+      - 1girl:1.4641
+      - solo:1.1
+      - beautiful detailed eyes:1.1
+      - shine eyes:1.21
+      - goddess
+      - fluffy hair
+      - messy hair
+      - ribbons
+      - hair bow
+      - flowing hair:1.1
+      - glossy hair:1.1
+      - silky hair:1.1
+      - white stockings:1.21
+      - gorgeous crystal armor:1.331
+      - cold smile
+      - stare
+      - cape
+      - crystal wings:1.331
+      - grand feathers:1.21
+      - altocumulus:1.21
+      - clear sky:1.1
+      - snow mountain:1.1
+      - flowery flowers:1.21
+      - flowery bubbles:1.21
+      - cloud map plane:1.21
+      - crystal:1.331
+      - crystal poppies
+      - lacy:1.21
+      - misty:1.331
+      - posing sketch:1.1
+      - brilliant light:1.1
+      - cinematic lighting
+      - thick coating:1.21
+      - glass tint:1.1
+      - watercolor:1.1
+      - ambient light:1.1
+      - long focus
+      - colorful blisters:1.1
+      - ukiyoe style
+  水晶魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+  水森魔法(+):
+    description: |-
+      作者:凌霜雪猫（QQ 3347185525）
+      フォレスト・ウォーター・ワールド・ウィズ・パレス
+      参考参数:Steps: 40-50, Sampler: Euler, CFG scale: 4-7
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - extremely detailed cg unity 8k wallpaper:1.1
+      - masterpiece:1.331
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - best illustration:1.1
+      - best shadow:1.1
+      - an extremely delicate and beautiful:1.21
+      - dynamic angle
+      - floating
+      - solo
+      - 1girl:1.21
+      - long wavy curly hair:1.1
+      - expressionless
+      - white idol dress:1.21
+      - anglesailor dress
+      - detailed wet clothes:1.1
+      - silk shawl
+      - bikini
+      - underboob
+      - frills
+      - cute anime face
+      - blush
+      - beautiful detailed eyes:1.1
+      - detailed light:1.1
+      - feather
+      - nature
+      - sunlight:1.1
+      - river
+      - forest:1.1
+      - floating palace:1.331
+      - beautiful and delicate water
+      - painting:1.1
+      - sketch:1.1
+      - bloom:1.1
+      - shine:1.1
+  水森魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing limbs
+      - three arms
+      - bad feet
+      - text font ui
+      - malformed hands
+      - long neck
+      - limb
+      - sleeveles
+      - bad anatomy disfigured malformed mutated
+      - mutated hands and fingers:1.5
+      - long body:1.3
+      - mutation
+      - poorly drawn:1.2
+      - disfigured
+      - malformed
+      - mutated
+      - multiple breasts
+      - futa
+      - yaoi
+      - three legs
+  氷火魔法(+):
+    description: |-
+      作者:風華-桜雪（QQ 416179437）
+      作者コメント:まだ安定していない、時々火の側で、時々氷の側で、ほとんど問題なし
+      参考参数:steps:23  scale:4.5  euler 832x512
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - ink:1.21
+      - watercolor:1.21
+      - best quality:1.1
+      - expressionless:1.1
+      - illustration:1.21
+      - beautiful detailed girl:1.1
+      - beautiful detailed eyes:1.1
+      - world masterpiece theater
+      - depth of field
+      - blue spark:1.1
+      - anime face
+      - black gauze skirt
+      - red and blue hair:1.1
+      - blue eyes
+      - focus on face
+      - medium breasts
+      - messy long hair:1.61051
+      - bare shoulder
+      - very close to viewers
+      - burning sky
+      - navel
+      - bustier:1.21
+      - flame
+      - rainbow in the sky
+      - flames burning ice:1.21
+      - fire  butterflys:1.331
+      - ice crystal texture wings:1.331
+      - flying sparks:1.1
+      - detailed ice:1.1
+      - a lot of luminous ice crystals:1.21
+      - burning feathers:1.21
+      - feathers made of ice:1.1
+      - frozen feathers:1.1
+      - ice and fire together:1.331
+  氷火魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worstquality
+      - low quality
+      - normal quality
+      - jpegartifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+  竜使い魔法(+):
+    description: |-
+      作者:好好怪（QQ 1395768464）
+      使い切れるかどうかはあなた次第、でも、タグは大丈夫です 
+      参考参数:
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - extremely detailed cg unity 8k wallpaper
+      - masterpiece:1.1
+      - best quality
+      - illustration
+      - 1 girl:1.1
+      - wet skin
+      - expressionless
+      - yellow eyes
+      - anger:1.1
+      - horns
+      - silver armor:1.1
+      - metal
+      - complex pattern
+      - corner
+      - cape
+      - indifference
+  竜使い魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fngers
+      - extra digt 
+      - fewer digits
+      - cropped
+      - wort quality 
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - blush
+      - helmet
+  落下魔法(+):
+    description: |-
+      作者:ALICExhcm（QQ 1013372977）
+      落下と浮遊、現実と夢想、絶望と無力、涙と微笑み
+      参考参数:PLMS, steps 150, cfg 8
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.21
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - full body:1.4641
+      - unhelpless:1.1
+      - tear
+      - crying
+      - falling from the sky:1.61051
+      - weathering with you:1.21
+      - full body:1.331
+      - illustration:1.1
+      - 1 girl:1.1
+      - falling:1.21
+      - face towards the sky:1.21
+      - hair flows upwards:1.1
+      - illustration:1.21
+      - disheveled hair:1.21
+      - anime screeshot
+      - frills:1.21
+      - big top sleeves
+      - floating
+      - beautiful detailed isky
+      - beautiful detailed eyes
+      - overexposure
+      - expressionless
+      - side blunt bangs
+      - hairs between eyes
+      - ribbons
+      - bowties
+      - buttons
+      - bare shoulders
+      - small breast:1.331
+      - detailed  clothes
+      - blank stare
+  落下魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - ugly:1.4641
+      - duplicate:1.331
+      - morbid:1.21
+      - mutilated:1.21
+      - tranny:1.331
+      - trans:1.331
+      - trannsexual:1.331
+      - hermaphrodite:1.1
+      - out of frame:1.1
+      - extra fingers
+      - mutated hands
+      - poorly drawn hands:1.21
+      - poorly drawn face:1.21
+      - mutation:1.331
+      - deformed:1.331
+      - ugly:1.21
+      - blurry
+      - bad anatomy:1.21
+      - bad proportions:1.331
+      - extra limbs:1.21
+      - cloned face
+      - disfigured:1.331
+      - more than 2 nipples:1.331
+      - out of frame
+      - ugly
+      - extra limbs
+      - bad anatomy:1.1
+      - gross proportions
+      - malformed limbs:1.1
+      - missing arms:1.21
+      - missing legs:1.21
+      - extra arms:1.331
+      - extra legs:1.331
+      - fused fingers:1.1
+      - too many fingers:1.1
+      - long neck:1.331
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - text font ui
+      - malformed hands
+      - long neck
+      - missing limb
+      - bad anatomy disfigured malformed mutated
+      - mutated hands and fingers:1.5
+      - long body:1.3
+      - mutation poorly drawn:1.2
+      - multiple breasts
+      - bad feet lowres
+      - sleeveles
+      - bad feet
+      - futa
+      - yaoi
+  水中魔法(+):
+    description: |-
+      作者:ᵐᵃʰⁱʳᵘ（QQ 1273348952）
+      早く水を入れてくれ、乞食にさせるな
+      参考参数:Steps: 27, Sampler: Euler a, CFG scale: 7
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.331
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - underwater:1.21
+      - illustration:1.1
+      - beautiful detailed water:1.1
+      - coral:1.21
+      - open tuck
+      - extremely delicate and beautiful girls:1.21
+      - dynamic angle
+      - floating
+      - beautiful detailed eyes:1.1
+      - detailed light:1.1
+      - loli:1.1
+      - floating hair
+      - glowing eyes
+      - pointy ears
+      - splash:1.1
+      - underwater
+      - fishes:1.21
+      - white hair
+      - green right eye
+      - iceblue left eye
+      - leaves dress
+      - feather
+      - nature
+      - sunlight:1.1
+      - underwater forest:1.1
+      - painting:1.1
+      - bloom:1.1
+      - detailed glow:1.1
+      - drenched
+      - seaweed
+      - fish
+      - tyndall effect:1.331
+      - face to face
+  水中魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing fingers
+      - bad hands
+      - missing arms
+      - large breasts
+  秘境魔法(+):
+    description: |-
+      作者:凌霜雪猫（QQ 3347185525）
+      ただ美しいと言いたい
+      参考参数:CFG=6, Euler
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - extremely detailed cg unity 8k wallpaper:1.1
+      - masterpiece:1.331
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - best illustration:1.1
+      - best shadow:1.1
+      - an extremely delicate and beautiful:1.21
+      - dynamic angle
+      - floating
+      - fairyland
+      - sea of flowers
+      - beautiful detailed garden
+      - wind
+      - classic
+      - spring
+      - detailed light:1.1
+      - feather
+      - nature
+      - sunlight:1.1
+      - river
+      - forest
+      - floating palace:1.331
+      - the best building:1.21
+      - beautiful and delicate water
+      - painting:1.1
+      - sketch:1.1
+      - bloom:1.1
+      - shine:1.1
+  秘境魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing limbs
+      - three arms
+      - bad feet
+      - text font ui
+      - malformed hands
+      - long neck
+      - limb
+      - sleeveles
+      - bad anatomy disfigured malformed mutated
+      - mutated hands and fingers:1.5
+      - long body:1.3
+      - mutation
+      - poorly drawn:1.2
+      - disfigured
+      - malformed
+      - mutated
+      - multiple breasts
+      - futa
+      - yaoi
+      - three legs
+  写真魔法(+):
+    description: |-
+      作者:半生为夏甗麦至冬（QQ 167894905）
+      プロジェクト開始以来ブサイクが一人もいない、俺の評価は神の呪文だ
+      これに加えて、キャラクターの追加にも常に対応しており、キャラクター用の汎用ネガティブタグを追加するだけです
+      参考参数:Steps: 30,  Euler a, CFG7
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.331
+      - the best quality
+      - super fine illustrations
+      - beautiful and delicate water:1.21
+      - very delicate light:1.21
+      - nature
+      - painting:1.21
+      - fine lighting
+      - more transparent stars
+      - high-quality snowflakes
+      - high-quality mountains
+      - very fine 8kcg wallpapers:1.21
+      - plateau:1.1
+      - snow mountain:1.331
+      - sunrise
+      - randomly distributed clouds
+      - snow field:1.1
+      - cliff
+      - rotating star sky:1.21
+      - lake in mountain stream:1.21
+      - luminous particles
+  写真魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - Inverted mountain
+      - low-quality
+      - flowers
+      - grass
+      - distorted mountain
+      - distorted light
+      - low-quality light
+      - low-quality mountain
+      - low-quality illustration
+      - low-quality background
+  水面から覗く(+):
+    description: |-
+      作者:丽普露·洛斯达（QQ 869581936）
+      正式名称:「フローティング・ウォーター・マジック」
+      フローティングウォーターマジック:レンズ言語を押さえれば簡単にできる、ただのランダムスプライスです
+      参考参数:26step, cfg 6
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - extremely detailed cg unity 8k wallpaper
+      - best quality
+      - noon
+      - beautiful detailed  water
+      - long black hair
+      - beautiful detailed girl
+      - serafuku
+      - view straight on
+      - eyeball
+      - hair flower
+      - close up
+  水面から覗く(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - artist name
+      - more than 2 thighs
+      - nsfw
+  選ばれし芸術(+):
+    description: |-
+      作者:丽普露·洛斯达（QQ 869581936）
+      選ばれたアート:皆さんの献身的な努力に敬意を表して、今回は優しく、Aiさんにベストチャートを選んでもらいましょう！。
+      参考参数:26step, cfg 6
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - Please draw a picture of an exquisite girl in a princess dress with delicate gold metal decorations
+      - She stands there looking at me
+  選ばれし芸術(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - artist name
+      - more than 2 thighs
+      - nsfw
+  現代魔法(+):
+    description: |-
+      作者:Phoebe（QQ 3101516445）
+      "固有结界 スチームアート"
+      編集後記:もう美学的に疲れている、これはいい感じに来ている
+      参考参数:Steps: 30, Sampler: Euler a, CFG scale: 6.5
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - retro artstyle:1.4641
+      - masterpiece:1.21
+      - best quality
+      - illustration
+      - 1 girl
+      - mature female
+      - small breast
+      - beautiful detailed eyes
+      - long sleeves
+      - hoodie
+      - frills
+      - no shadow
+      - simple background
+      - bright skin
+      - 1980s (style)
+  現代魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - ugly
+      - duplicate
+      - trannsexual
+      - hermaphrodite
+      - out of frame
+      - extra fingers
+      - mutated hands
+      - poorly drawn hands
+      - poorly drawn face
+      - mutation
+      - deformed
+      - blurry
+      - bad anatomy
+      - bad proportions
+      - extra limbs
+      - cloned face
+      - disfigured
+      - more than 2 nipples
+      - out of frame
+      - ugly
+      - extra limbs
+      - bad anatomy
+      - gross
+      - worst quality
+      - low quality
+      - normal quality
+      - signature
+      - watermark
+      - username
+      - blurry
+      - proportions
+      - malformed limbs
+      - missing arms
+      - missing legs
+      - extra arms
+      - extra legs
+      - mutated hands
+      - fused fingers
+      - too many fingers
+      - long neck
+  血魔法(+):
+    description: |-
+      作者:千秋夢（QQ 1798780261）
+      編集者注:ハンサムウーウー
+      編集者注:以前の面倒で冗長な山に代わって、新しい合理的なコードに更新されました、なかなか良いですね。
+      参考参数:Steps: 25, Sampler: Euler a, CFG scale: 7
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece
+      - best quality
+      - amazing
+      - 1girl
+      - finely detail
+      - depth of field
+      - extremely detailed cg unity 8k wallpaper
+      - full body
+      - loli:1.1
+      - white hair:1.1
+      - red streaked hair
+      - red eyes
+      - full body:1.1
+      - red hair
+      - with sword:1.331
+      - angry face
+      - beautiful detailed eyes:1.1
+      - blood drop
+      - blood fog
+      - floating hair
+      - light shafts
+      - soft focus
+      - character focus
+      - disheveled hair
+      - long bangs
+      - hairs between eyes
+      - looking at viewer
+      - lowing hair
+      - floating
+      - splashing blood
+      - long hair
+      - bloodstain:1.1
+  血魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - multiple breasts
+      - mutated hands and fingers:1.5
+      - long body:1.3
+      - mutation
+      - poorly drawn:1.2
+      - liquid body
+      - malformed
+      - mutated
+      - text font ui
+      - malformed hands
+      - long neck
+      - lowres
+      - bad anatomy
+      - bad shadow
+      - uncoordinated body
+      - fused ears
+  華麗なる芸術(+):
+    description: |-
+      作者:凌霜雪猫（QQ 3347185525）
+      実はこれ、緻密な画風なんです。真ん中にお城がなくても、代わりに細部を描写している人がいてもいいんです。
+      参考参数:CFG=6, Euler
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - extremely detailed cg unity 8k wallpaper:1.1
+      - masterpiece:1.331
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - best illustration:1.1
+      - best shadow:1.1
+      - an extremely delicate and beautiful:1.21
+      - dynamic angle
+      - floating
+      - the detailed castle
+      - the best building:1.331
+      - mist encircles the mountains
+      - fairyland
+      - classic
+      - detailed light:1.1
+      - feather
+      - nature
+      - sunlight:1.1
+      - river
+      - forest
+      - flowers
+      - beautiful and delicate water
+      - painting:1.1
+      - sketch:1.1
+      - bloom:1.1
+      - shine:1.1
+  華麗なる芸術(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - inverted mountain
+      - low-quality
+      - low-quality illustration
+      - low-quality background
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing limbs
+      - three arms
+      - bad feet
+      - text font ui
+      - malformed hands
+      - long neck
+      - limb
+      - sleeveles
+      - bad anatomy disfigured malformed mutated
+      - mutated hands and fingers:1.5
+      - long body:1.3
+      - mutation
+      - poorly drawn:1.2
+      - disfigured
+      - malformed
+      - mutated
+      - multiple breasts
+      - futa
+      - yaoi
+      - three legs
+  竜魔術師(+):
+    description: |-
+      作者的话:有时候可能会出现没有人只有龙的情况（
+      ドラゴンが出ないことを心配するなら、ルンルン、ドラゴン背景、ルンルン背景というタグに重きを置いてください
+      参考参数:Steps: 40, Sampler: Euler, CFG scale: 7
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.21
+      - best quality:1.331
+      - illustration
+      - 1 girl
+      - mature female
+      - small breast
+      - beautiful detailed eyes
+      - long sleeves
+      - hoodie
+      - frills
+      - extremely detailed cg unity 8k wallpaper
+      - loong
+      - dragon background
+      - loong background
+      - game cg
+      - depth of field
+      - cape hood
+  竜魔術師(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - ugly
+      - duplicate
+      - trannsexual
+      - hermaphrodite
+      - out of frame
+      - extra fingers
+      - mutated hands
+      - poorly drawn hands
+      - poorly drawn face
+      - mutation
+      - deformed
+      - blurry
+      - bad anatomy
+      - bad proportions
+      - extra limbs
+      - cloned face
+      - disfigured
+      - more than 2 nipples
+      - out of frame
+      - ugly
+      - extra limbs
+      - bad anatomy
+      - gross
+      - worst quality
+      - low quality
+      - normal quality
+      - signature
+      - watermark
+      - username
+      - blurry
+      - proportions
+      - malformed limbs
+      - missing arms
+      - missing legs
+      - extra arms
+      - extra legs
+      - mutated hands
+      - fused fingers
+      - too many fingers
+      - long neck
+  竜機械魔法(+):
+    description: |-
+      作者:孤辰Null（QQ 2659055918）
+      "マシンレディにノーと言える男はいない!それなら、ドラゴンを加えてみよう！"
+      編集後記:ハンサムだが、男の顔はどこへやら
+      参考参数:ddim, steps 23, cfg 4.5
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - master piece:1.21
+      - best quality
+      - illustration
+      - 1girl
+      - small breast
+      - beatiful detailed eyes
+      - beatiful detailed cyberpunk city
+      - flat chest
+      - beatiful detailed hair
+      - wavy hair
+      - beatiful detailed steet
+      - mecha clothes
+      - robot girl
+      - cool movement
+      - sliver bodysuit
+      - filigree:1.1
+      - dargon wings
+      - colorful background
+      - a dragon  stands behind the girl
+      - rainy days
+      - lightning effect:1.1
+      - beatiful detailed sliver dragon arnour
+      - cold face
+  竜機械魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - ugly:1.331
+      - duplicate:1.331
+      - morbid:1.21
+      - mutilated:1.21
+      - tranny:1.331
+      - mutated hands
+      - poorly drawn hands:1.331
+      - blurry
+      - bad anatomy:1.21
+      - bad proportions:1.331
+      - extra limbs
+      - cloned face
+      - disfigured:1.331
+      - more than 2 nipples:1.331
+      - missing arms:1.4641
+      - extra legs:1.331
+      - fused fingers:1.61051
+      - too many fingers:1.61051
+      - unclear eyes:1.331
+      - lowers
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+  バトルバイク魔法(+):
+    description: |-
+      作者:alleoha（QQ 3355401391）
+      “原題は「戦争少女」mechanical armor は、メカのキーワードです。 ruins of city in the war,fire, burning buildingsは背景キーワードです。”
+      参考参数:Steps: 50, Sampler: Euler a, CFG scale: 5
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - solo:1.331
+      - highres
+      - best quality:1.1
+      - highly detailed:1.1
+      - beautiful detailed blue eyes
+      - light blush
+      - expressionless
+      - white hair
+      - hair fluttering in the wind
+      - mechanical arm armor
+      - mechanical body armor
+      - clothes
+      - riding motor
+      - bodysuit:1.1
+      - ruins of city in war
+      - fire
+      - burning cars
+      - burning buildings
+      - air force fleet in the sky
+      - dusk
+      - bird see
+  バトルバイク魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+  銀錬金術(+):
+    description: |-
+      作者:孤辰Null（QQ 2659055918）
+      " お姉さんが私を踏んでくれる！？  "
+      編集後記:このタグは、タグの長さといい、グラフィック効果といい、非常によくできていて、目を見張るものがありますね。
+      編集部注2:当初は「銀の玉座」というタイトルだったが、玉座を外した方が効果があるため、名称を変更した。
+      参考参数:step:23 scale:4.5  Sampler:ddim
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.331
+      - best quality
+      - illustration
+      - beautiful detailed girl:1.1
+      - a girl
+      - solo
+      - bare shoulders
+      - flat chst
+      - diamond and glaring eyes
+      - beautiful detailed cold face
+      - very long blue and sliver hair
+      - floaing black feathers
+      - wavy hair
+      - black and white sleeves
+      - gold and sliver fringes
+      - blackhole:1.1
+      - behind the girl
+      - a silver triple crown inlaid with obsidian
+      - sit:1.1
+      - on the black
+      - throne:1.21
+      - depth of field:1.1
+  銀錬金術(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - bad feet hand finger leg eye
+      - missing fingers
+      - worst low normal quality
+      - bad face
+      - blurry:1.1
+      - asymmetrical eyes
+      - simple background
+  星源魔法(+):
+    description: |-
+      作者:樱の雪（QQ 2923350844）
+      星は広大、宇宙は無限、アイデアは無限!もっと大召喚スタイルが欲しい!しばりを見たい！ cfgスケール2~20は全て異なるスタイルなので、自分で試すことができる 
+      参考参数:Steps: 50, Sampler: Euler, CFG scale: 4
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - best quality
+      - amazing
+      - beautiful golden eyes
+      - finely detail
+      - depth of field
+      - extremely detailed cg unity 8k wallpaper
+      - masterpiece
+      - long dark blond hair:1.331
+      - red mediumhair:1.21
+      - 1 girl:1.1
+      - white stockings:1.1
+      - medium breasts:1.61051
+      - hair ribbon:1.1
+      - exposing cleavage
+      - beautiful butterflies in detail:1.21
+      - halter dress:1.331
+      - huge ahoge
+      - particle
+      - solo:1.331
+      - background of details:1.1
+      - standing
+      - starry sky in beautiful detail:1.1
+      - gloom:1.331
+      - expression:1.1
+      - depressed:1.331
+      - hazy fog:1.1
+      - very long hair:1.331
+      - fluttering hair:1.1
+      - thick hair:1.1
+      - gelatinous texture:1.331
+      - profile:1.1
+      - ruins of beautiful details:1.1
+      - standing on the surface of the sea:1.331
+      - close-up of people:1.1
+      - smooth skin:1.331
+      - upper body:1.331
+      - smooth and radiant skin:1.1
+      - smooth and radiant face:1.1
+      - perfect details
+      - beautifully gorgeous necklace
+      - authentic skin texture
+      - cleavage:1.1
+      - authentic and detailed face:1.331
+      - unexposed:1.5
+  星源魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fngers
+      - extra digt
+      - fewer digits
+      - cropped
+      - wort quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - nsfw
+  学院魔法(+):
+    description: |-
+      作者:東雲（QQ 1450999793）
+      キャラクターだけのキャラクターレベル、背景だけの背景レベルという組み合わせがあり、髪の色を変えることで仕上がりに差が出る傾向があります。
+      参考参数:
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - best quality:1.1
+      - masterpiece:1.21
+      - highres:1.1
+      - extremely detailed cg
+      - extremely detailed 8k wallpaper
+      - extremely detailed character
+      - an extremely delicate and beautiful:1.1
+      - portrait
+      - illustration
+      - solo focus
+      - straight-on
+      - dramatic angle
+      - depthoffield
+      - cinematiclighting:1.21
+      - outdoors
+      - character
+      - a girl:1.331
+      - solo
+      - loli
+      - full body:1.4641
+      - standing
+      - expressionless
+      - light smile:0.7513148
+      - cute
+      - beautiful detailed eyes
+      - blue eyes
+      - long legs:0.90909091
+      - very long hair:1.1
+      - blonde hair
+      - wavy hair
+      - shiny hair:0.90909091
+      - gothic lolita:1.21
+      - blue white skirt
+      - short skirt:1.21
+      - black headdress
+      - bowknot
+      - hair ornament:1.331
+      - hair flower:0.90909091
+      - stocking
+      - garter:0.82644628
+      - lace
+      - cross-laced footwear
+      - ribbon-trimmed sleeves:1.1:1.331
+      - background
+      - building architecture
+      - gothic architecture:1.21
+      - starry sky
+      - outdoors
+      - church
+      - castle:1.1
+      - fantasy:0.82644628:1.1
+  学院魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - owres
+      - polar lowres
+      - bad anatomy
+      - bad face
+      - bad hands
+      - bad body
+      - bad shose
+      - bad feet
+      - bad proportions
+      - bad leg:1.1
+      - more legs:1.21
+      - worst quality
+      - low quality
+      - normal quality
+      - gross proportions
+      - blurry
+      - poorly drawn asymmetric eyes
+      - text
+      - error
+      - missing fingers
+      - missing arms
+      - missing legs
+      - short legs
+      - extra digit
+      - long skirt
+      - indoors
+      - 2girls
+      - out of frame
+      - only upper body
+      - only lower body
+      - from above:1.1
+      - petite:0.90909091
+      - low background
+  浮世绘魔法(+):
+    description: |-
+      参考参数:Steps: 28, Sampler: DDIM, CFG scale: 11
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - watercolor medium:1.1
+      - ukiyoe style:1.21
+      - masterpiece:1.4641
+      - best quality:1.331
+      - illustration:1.1
+      - 1girl:1.5
+      - solo:1.5
+      - an extremely delicate and beautiful:1.21
+      - little girl:1.21
+      - cute
+      - hime cut:1.21
+      - side blunt bangs
+      - ultramarine hair:1.2
+      - hairs between eyes
+      - ribbons
+      - bracelet
+      - bare shoulders
+      - japanese clothes:1.21
+      - sakura
+      - slit pupils:1.21
+      - miko:1.21
+      - off shoulder:1.1
+      - ace
+      - kagura suzu:1.1
+      - sword
+  浮世绘魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing fingers
+      - bad hands
+      - missing arms
+      - long neck
+      - Humpbacked
+      - shadow
+      - nude
+      - Unusual hands
+      - Abnormal fingers
+      - large breasts
+  星霞海魔法(+):
+    description: |-
+      作者:明月珰（QQ 1816153515）
+      これはナイーフと一緒に走らせないと超高品質なアウト率になる かわいくて愛嬌があるのが最高 
+      参考参数:512 768, DDIM, step 45 cfg 10 NAIFU
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - dream
+      - extremely detailed cg unity 8k wallpaper:1.331
+      - painting:1.05
+      - ink:1.331
+      - amazing
+      - depth of field
+      - best quality:1.1025
+      - masterpiece:1.1025
+      - highres
+      - dynamic angle
+      - illustration:1.1
+      - cinematic lighting
+      - 1girl:1.05
+      - wavy silver hair:1.21
+      - loli:1.21
+      - extremely detailed eyes and face:1.21
+      - detailed flooding bare feet:1.5
+      - translucent pink skirt
+      - gemological hair
+      - french braid
+      - pointy ears
+      - looking at viewer
+      - translucent fluttering skirt:1.1025
+      - yellow hairpin
+      - white dress with pink lace with yellow decoration:1.1025
+      - sleeves past wrists
+      - sleeves past fingers:1.21
+      - walking motion
+      - strapless dress
+      - ocean waves
+      - wind
+      - glistening light of waves:1.331
+      - detailed sunset glow:1.05
+      - floating flow:1.1
+      - coral:1.21
+      - luminous:1.1
+      - coast
+      - floating colorful bubbles:1.05
+      - beautiful detailed sky
+      - fluorescence:1.05
+      - detailed shadow
+      - conch:1.1
+      - beautiful detailed water
+      - drenched
+      - starfish
+      - meteor
+      - rainbow
+      - seabirds:1.1
+      - glinting stars:1.05
+      - glowworm:1.1
+      - splash:1.1
+      - detailed cloud
+      - shell
+      - fireworks:1.05
+  星霞海魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - malformed hands
+      - worst quality
+      - low quality
+      - ugly:1.21550625
+      - duplicate:1.157625
+      - trans:1.157625
+      - trannsexual:1.1025
+      - out of frame:1.05
+      - extra fingers
+      - mutated hands
+      - more than 2 nipples:1.157625
+      - extra limbs
+      - bad anatomy:1.05
+      - grossproportions
+      - malformed limbs:1.05
+      - missing arms:1.1025
+      - missinglegs:1.1025
+      - extra arms:1.157625
+      - extra legs:1.157625
+      - fusedfingers:1.05
+      - long neck:1.157625
+      - fingers
+      - extra digit
+      - cropped
+      - bad feet
+      - poorly drawnhands:1.1025
+      - poorly drawn face:1.1025
+      - mutation:1.157625
+      - deformed:1.1025
+      - blurry
+      - bad proportions:1.157625
+      - disfigured:1.157625
+      - bad anatomy disfigured:1.157625
+      - malformed mutated:1.157625
+      - missing limb:1.157625
+      - normal quality:1.157625
+      - too many fingers:1.157625
+      - bad finglegs:1.157625
+      - bad anatomy disfigured:1.157625
+      - morbid:1.27628156
+      - mutilated:1.27628156
+      - tranny:1.34009564
+  冬雪魔法(+):
+    description: |-
+      作者:陌桦（QQ 2503681391）
+      雪の日はやはり白い髪と赤い瞳孔が似合うって本当なんだ！
+      参考参数:Steps: 50, Sampler: DDIM, CFG scale: 7
+      このセクションには、この記事のポジティブタグが含まれています。
+    content:
+      - masterpiece:1.331
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.1
+      - beautiful detailed sky
+      - night
+      - stars
+      - 1girl:1.1
+      - an extremely delicate and beautiful girl:1.21
+      - red eyes
+      - dramatic angle
+      - small breasts
+      - full body:1.331
+      - hood
+      - cold face and white shirt
+      - long white hair:1.331
+      - red hair:1.1
+      - red plum blossom:1.1
+      - winter:1.21
+      - snowflakes
+      - detailed cute anime face:1.331
+      - cinmatic lighting:0.99321269
+      - red and white flowers:1.20178736
+      - hairs between eyes:0.99321269
+      - expressionless:0.99321269
+      - young girl:0.99321269
+      - facing the lens:1.32196609
+      - starry sky:1.09253396
+      - beautiful face:1.20178736
+      - sitting:1.09253396
+      - depth of field:0.99321269
+      - colorful:1.20178736
+      - scenery:0.99321269
+      - hair flower:0.99321269
+      - lantern:0.99321269
+      - christmas:0.99321269
+      - starfall:1.09253396
+  冬雪魔法(-):
+    description: |-
+      本記事のネガティブタグを掲載しています。
+    content:
+      - ugly:1.331
+      - duplicate:1.331
+      - morbid:1.21
+      - mutilated:1.21
+      - tranny:1.331
+      - mutated hands
+      - poorly drawn hands:1.331
+      - blurry
+      - bad anatomy:1.21
+      - bad proportions:1.331
+      - extra limbs
+      - cloned face
+      - disfigured:1.331
+      - more than 2 nipples:1.331
+      - missing arms:1.4641
+      - extra legs:1.331
+      - fused fingers:1.61051
+      - too many fingers:1.61051
+      - unclear eyes:1.331
+      - lowers
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - bad feet
+      - text font ui
+      - malformed hands
+      - long neck
+      - missing limb
+      - mutated hand and finger:1.5
+      - long body:1.3
+      - mutation poorly drawn:1.2
+      - malformed mutated
+      - multiple breasts
+      - futa
+      - yaoi

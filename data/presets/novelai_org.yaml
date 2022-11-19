@@ -1,8 +1,10 @@
-name: NovelAIオリジナルキャラ
+name: オリジナルキャラ
 category: []
 content:
   ピンク髪日焼け女子:
     description: ピンク髪日焼け女子
+    preview:
+      - d06f97724ef3b1126a5c2b99b462c9c4106e9d9ead7f92f54216630833c49665
     content:
       - masterpiece:1.2
       - best quality:1.2
@@ -18,8 +20,8 @@ content:
       - hair clip
       - pink oranged hair
       - short wave hair
-      - medium breasts
-      - muscular:0.9
+      - medium breasts:0.9
+      - muscular:0.8
       - tan:0.95
       - shiny
 

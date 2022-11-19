@@ -7,11 +7,12 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/abstract.html
   acrylic paint (medium):
     name: アクリル
+    image: 29b4b9f12f37c62709bd058d1a7be968d4d4b6827da8be51d73c25daeb50aafc
     wikiURL: https://danbooru.donmai.us/wiki_pages/acrylic_paint_(medium).html
     alias:
       - acrylic paint
   airbrush (medium):
-    name: 銃
+    name: エアブラシ
   alphonse mucha:
     image: 4ea7b30baf04ed9300949845f991b1382fddb5227863c3d039ffd9e4e44bbc1f
     name: アルフォンス・ミュシャ
@@ -21,7 +22,8 @@ content:
     name: 装飾美術
     wikiURL: https://danbooru.donmai.us/wiki_pages/art_deco.html
   art nouveau:
-    name: 新しいアート
+    name: アール・ヌーヴォー/アールヌーボー/アール・ヌーボー
+    image: 35ad4d541c0f82c1638e0f9e2ee7e305137d67bda33fff29b6da54fb4620cc7b
     wikiURL: https://danbooru.donmai.us/wiki_pages/art_nouveau.html
     alias:
       - alphonse mucha (style)
@@ -36,7 +38,8 @@ content:
   brush (medium):
     name: ブラシ
   brushpen (medium):
-    name: ヘアブラシ
+    name: 筆ペン
+    image: d7803d68ea04aed4b62986a69675d8bd29f715bed9f705855a72255c93189815
   calligraphy brush (medium):
     name: カリグラフィーブラシ
     wikiURL: https://danbooru.donmai.us/wiki_pages/calligraphy_brush_(medium).html
@@ -56,10 +59,12 @@ content:
     name: カラーインク
     wikiURL: https://danbooru.donmai.us/wiki_pages/color_ink_(medium).html
   color trace:
-    name: 原画
+    name: アニメ原画
+    description: 単体では利かない
     wikiURL: https://danbooru.donmai.us/wiki_pages/color_trace.html
   colored pencil (medium):
     name: 色鉛筆画
+    image: d9ae381572d0e68c6cf3e691ff9d90c935f5951af1a06c770991b2ac3daa38f5
     wikiURL: https://danbooru.donmai.us/wiki_pages/colored_pencil_(medium).html
     alias:
       - pencil crayon (medium)
@@ -90,7 +95,7 @@ content:
   disc (medium):
     name: ディスク
   expression chart:
-    image: adcd22531cfeed5401a2d165b24fdb113604d908d791aea95f2ae8e9e18c5c07
+    image: d52cbdbcd4a0e3a18aee2d0132d14d3f284b6a2c507ca53f527e76d62c384711
     name: 表情練習
     wikiURL: https://danbooru.donmai.us/wiki_pages/expression_chart.html
   faux figurine:
@@ -122,8 +127,11 @@ content:
   fudepen (medium):
     name: 筆ペン
     wikiURL: https://danbooru.donmai.us/wiki_pages/fudepen_(medium).html
+    description: ほぼ利かない
   g-pen (medium):
     name: Gペン
+    image: c72a1ee5dffac45de6b40171262ba7a91fc0fb66c696c376016d4d7739a7880a
+    description: mangaと組み合わせると少し利くかも？
   google sketchup (medium):
     name: Google Sketchup
   gouache (medium):
@@ -146,6 +154,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/impressionism.html
   ink (medium):
     name: 墨水
+    image: 1f82ae2d303c2eab6f8eb260688c35517be285624af322042782c67e03dd1855
     wikiURL: https://danbooru.donmai.us/wiki_pages/ink_(medium).html
   leaf (medium):
     name: 葉っぱ
@@ -163,6 +172,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/marker_%28medium%29
   millipen (medium):
     name: ミリペン
+    image: 448b43ad64849c7e84c6427149dba4efbe86be5553ecba5fa638c37cffaf042c
     wikiURL: https://danbooru.donmai.us/wiki_pages/millipen_(medium).html
     alias:
       - millipen
@@ -174,6 +184,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/mousepad_(medium).html
   nib pen (medium):
     name: 万年筆
+    image: d1ea44a74c761d83cca3711426907acc558c9f58f8ca0973d95a2e9072b8ed71
     wikiURL: https://danbooru.donmai.us/wiki_pages/nib_pen_(medium).html
     alias:
       - tsukepen
@@ -181,6 +192,7 @@ content:
       - fountain pen (medium)
   nihonga:
     name: 日本画
+    description: 単体では利かない
     wikiURL: https://danbooru.donmai.us/wiki_pages/nihonga.html
   oil painting (medium):
     image: c7577e85fc2f14b64ce9422d0e61a83f5bc32149a63087fd0c3628b5acb8056d
@@ -190,11 +202,13 @@ content:
       - oil painting
   painting (medium):
     name: 絵の具
+    image: f3a8a2d5a5f97262417b6e02856ff47e52d151245185af1a5af6e7149208259d
     wikiURL: https://danbooru.donmai.us/wiki_pages/painting_(medium).html
     alias:
       - paint (medium)
   pastel (medium):
     name: パステル
+    image: 84980beaa7449e0603b17424fae7a82ab48c806438b0a263dc0c4d5f88ea4d7b
     wikiURL: https://danbooru.donmai.us/wiki_pages/pastel_(medium).html
   pastel color:
     image: 8cdb17da043da8c20588097e24b4954819162d7d72765fdebf6903f61ddb5ff9
@@ -237,9 +251,11 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/sumi-e.html
   surreal:
     name: シュールレアリズム
+    image: 4a4ba956550bba8e64a11779856fbeec2016c2f3d3d1cb978b1368b0dbc244a2
     wikiURL: https://danbooru.donmai.us/wiki_pages/surreal.html
   swapnote (medium):
-    name: エクスチェンジノート
+    name: いつの間に交換日記
+    wikiURL: https://danbooru.donmai.us/wiki_pages/swapnote.html
   tempera (medium):
     name: エッグテンペラ画
   theatre (medium):
@@ -252,7 +268,9 @@ content:
     name: 手書き
     wikiURL: https://danbooru.donmai.us/wiki_pages/traditional_media.html
   ukiyo-e:
-    name: 浮世绘
+    name: 浮世絵
+    image: 23d59c8f093a5df491f67ca4293448e3422fa6501291748f068b005e2420a1b1
+    description: 単体での利きは弱い
     wikiURL: https://danbooru.donmai.us/wiki_pages/ukiyo-e.html
     alias:
       - ukiyoe
@@ -282,3 +300,8 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/watercolor_pencil_(medium).html
   whiteboard (medium):
     name: ホワイトボード
+  lineart:
+    name: 線画
+    image: c60c166eb306f9e9fd3903f881d541f389c75aa909f512595a43a63b03b49618
+    wikiURL: https://danbooru.donmai.us/wiki_pages/lineart.html
+
