@@ -23,6 +23,7 @@ import glob from 'glob'
 import path from 'path'
 import { fileURLToPath } from 'url'
 import type { TagFile } from '../types/file'
+import { isNull } from 'lodash'
 
 const resolution = new Set()
 const dirname = path.dirname(fileURLToPath(import.meta.url))
@@ -44,14 +45,21 @@ for (const file of tagFiles) {
         resolution.add(tag)
         if (meta?.alias) {
             for (const rawAlias of meta.alias) {
-                const alias = rawAlias.toLowerCase().replaceAll('_', ' ')
-                if (resolution.has(alias)) {
+                if(rawAlias == undefined){
                     console.error(
-                        `Duplicate alias ${alias} of ${tag} from ${file}`
+                        `Duplicate alias ${rawAlias} of ${tag} from ${file}`
                     )
                     hasError = true
+                } else {
+                    const alias = rawAlias.toLowerCase().replaceAll('_', ' ')
+                    if (resolution.has(alias)) {
+                        console.error(
+                            `Duplicate alias ${alias} of ${tag} from ${file}`
+                        )
+                        hasError = true
+                    }
+                    resolution.add(alias)
                 }
-                resolution.add(alias)
             }
         }
     }

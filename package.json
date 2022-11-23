@@ -10,6 +10,7 @@
         "generate": "eslint . && vue-tsc --noEmit && vite build --ssrManifest && vite build --ssr src/entry-server.ts --outDir dist/server && node prerender.js",
         "dupcheck": "tsx ./src/cli/dupcheck.ts",
         "importimage": "tsx ./src/cli/importimage.ts",
+        "importimages": "tsx ./src/cli/importimages.ts",
         "importembedding": "tsx ./src/cli/importembedding.ts",
         "importuncroppedimage": "tsx ./src/cli/importuncroppedimage.ts",
         "importuncroppedimages": "tsx ./src/cli/importuncroppedimages.ts",

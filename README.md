@@ -9,6 +9,9 @@ https://tags.novelai.dev
 
 </div>
 
+## 追加機能
+-   ブランチ元を日本語化
+
 ## 主な機能
 
 -   タグの分類、解釈、図解
@@ -28,7 +31,7 @@ https://tags.novelai.dev
 
 #### 広める
 
-ラベルの追加には、ラベルの英語名と中国語名の両方が必要であることが最低条件です。
+ラベルの追加には、ラベルの英語名と日本語名の両方が必要であることが最低条件です。
 
 タグ名の場合は、アンダースコアをスペースに置き換えてください。他のタグと重複しないようにご注意ください。`npm run dupcheck`を使用するか、または
 `yarn dupcheck` で重複をチェックします。
@@ -43,9 +46,9 @@ category:
 restricted: false # 制限の有無
 content:
     tag-name1: # 英語ラベル
-        name: <ラベル 中国語名 1>
+        name: <ラベル 日本語名 1>
     tag-name2: # 英語ラベル
-        name: <ラベル 中国語名 2>
+        name: <ラベル 日本語名 2>
 ```
 
 ##### プリセット
@@ -57,7 +60,7 @@ category:
   - <分類レベル2>
 restricted: false # 制限の有無
 content:
-    预设中文名:
+    プリセット名:
         description: プリセットの説明
         content:
             - tag1
@@ -88,7 +91,7 @@ category:
 restricted: false # 制限の有無
 content:
     tag-name1: # 英語ラベル
-        name: <ラベル 中国語名 1>
+        name: <ラベル 日本語名 1>
         description: <ラベルの説明>
         wikiURL: <Danbooru Wiki リンク>
         image: <写真 SHA256>
@@ -199,7 +202,7 @@ suggestNegative:
 yarn
 # 開発サーバーの起動
 yarn dev
-# 建築プロジェクト
+# プロジェクトビルド
 yarn build
 ```
 

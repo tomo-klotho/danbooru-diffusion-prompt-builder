@@ -38,7 +38,7 @@ const importVisible = ref(false)
 
 async function clearDialog() {
     try {
-        await ElMessageBox.confirm('本当にカートを空にしますか？', 'カートを空にする', {
+        await ElMessageBox.confirm('本当にカートを空にしますか?', 'カートを空にする', {
             confirmButtonText: '決定',
             cancelButtonText: '取消',
             type: 'warning',

@@ -22,35 +22,57 @@ import sharp from 'sharp'
 import fs from 'fs'
 import { createHash } from 'crypto'
 import { fileURLToPath } from 'url'
+import {readdirSync} from 'fs'
 
-const importImagePath = process.argv[2]
+const importImageDir = process.argv[2]
 
-if (!importImagePath) {
+if (!importImageDir) {
     console.error('No input model path provided')
     process.exit(1)
 }
+
+console.log('Images import start')
+const imageDir= path.resolve(process.cwd(), importImageDir)
+const images = getFileList(imageDir)
 
 let cover_position = 'centre';
 if (process.argv.length >= 4){
     cover_position = process.argv[3]
 }
+images.forEach(async (value, index, arr) => {
+    console.log(`${index + 1}:${value}`)
 
-const dirname = path.dirname(fileURLToPath(import.meta.url))
-const imagePath = path.resolve(process.cwd(), importImagePath)
-const saveImagePath = path.resolve(dirname, '../../public/images')
+    const dirname = path.dirname(fileURLToPath(import.meta.url))
+    const imagePath = path.resolve(importImageDir, value)
+    const saveImagePath = path.resolve(dirname, '../../public/images')
 
-const image = await sharp(imagePath)
+    const image = await sharp(imagePath)
     .resize(512, 512, { fit: 'cover', position: cover_position, withoutEnlargement: true })
     .webp({ quality: 60, effort: 6 })
     .toBuffer()
 
-const hash = createHash('sha256').update(image).digest('hex')
+    const hash = createHash('sha256').update(image).digest('hex')
 
-fs.mkdirSync(path.resolve(saveImagePath, hash.slice(0, 2)), { recursive: true })
-fs.writeFileSync(
-    path.resolve(saveImagePath, `${hash.slice(0, 2)}/${hash}.webp`),
-    image
-)
+    fs.mkdirSync(path.resolve(saveImagePath, hash.slice(0, 2)), { recursive: true })
+    fs.writeFileSync(
+        path.resolve(saveImagePath, `${hash.slice(0, 2)}/${hash}.webp`),
+        image
+    )
 
-console.log('Image imported')
-console.log('Hash:', hash)
+    console.log(hash)
+});
+
+console.log('Images imported end')
+
+export function getFileList(dirPath:string):string[] {
+
+    let dirList: string[] = []
+
+    dirList = readdirSync(dirPath, {
+        withFileTypes: true, 
+    }).filter(dirent => dirent.isFile())
+    .map(dirent => dirent.name)
+
+    return dirList;
+
+}

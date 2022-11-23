@@ -45,20 +45,27 @@ for (const file of tagFiles) {
         // }
     }
 }
+
+console.log('Tag Count', tagSet.size)
+
+const taglimit = 100
 const tagArr = Array.from(tagSet)
-const batchCount = Math.ceil(tagSet.size / 50)
+const batchCount = Math.ceil(tagSet.size / taglimit)
 const result: Record<string, number> = {}
 for (let i = 0; i < batchCount; i++) {
     console.log(`${i + 1} / ${batchCount}`)
-    const batch = tagArr.slice(i * 50, (i + 1) * 50)
+    const batch = tagArr.slice(i * taglimit, (i + 1) * taglimit)
     const batchStr = batch.map((n) => n.replaceAll(' ', '_')).join(',')
     const qs = new URLSearchParams({
-        limit: '50',
+        limit: taglimit.toString(),
         only: 'name,post_count',
         'search[name_normalize]': batchStr,
     })
-    const res = await axios.get(
-        `https://danbooru.donmai.us/tags.json?${qs.toString()}`,
+    const tagurl = `https://danbooru.donmai.us/tags.json?${qs.toString()}`
+    console.log(tagurl)
+    /*
+    await axios.get(
+        tagurl,
         {
             headers: {
                 'User-Agent':
@@ -66,12 +73,23 @@ for (let i = 0; i < batchCount; i++) {
                 Cookie: 'cf_clearance=',
             },
         }
-    )
+    ).then(response => {
+        // console.log('status:', response.status); // 200
+        // console.log('body:', response.data);     // response body.
 
-    for (const record of res.data) {
-        result[record.name.replaceAll('_', ' ').toLowerCase()] =
-            record.post_count as number
-    }
+        for (const record of response.data) {
+            result[record.name.replaceAll('_', ' ').toLowerCase()] =
+                record.post_count as number
+        }
+
+    }).catch(err => {
+        // console.log(err.response.data);
+        console.log(err.response.status);      // 例：400
+        // console.log(err.response.statusText);  // Bad Request
+        // console.log(err.response.headers);
+    });
+
+    */
 }
 
 fs.writeFileSync(
