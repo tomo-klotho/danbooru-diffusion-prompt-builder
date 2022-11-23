@@ -131,7 +131,7 @@ content:
   g-pen (medium):
     name: Gペン
     image: c72a1ee5dffac45de6b40171262ba7a91fc0fb66c696c376016d4d7739a7880a
-    description: mangaと組み合わせると少し利くかも？
+    description: mangaと組み合わせると少し利くかも?
   google sketchup (medium):
     name: Google Sketchup
   gouache (medium):
@@ -156,6 +156,8 @@ content:
     name: 墨水
     image: 1f82ae2d303c2eab6f8eb260688c35517be285624af322042782c67e03dd1855
     wikiURL: https://danbooru.donmai.us/wiki_pages/ink_(medium).html
+    alias:
+      - ink
   leaf (medium):
     name: 葉っぱ
   lego (medium):
@@ -206,6 +208,15 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/painting_(medium).html
     alias:
       - paint (medium)
+  painting:
+    name: ペインティング
+    wikiURL: https://danbooru.donmai.us/wiki_pages/painting.html
+    description: Painting (Action):ペイント中のキャラクター用。
+      Painting (Object):アートワーク内に存在する絵画。
+      painting (medium):アートワーク自体が絵画の場合。
+    alias:
+      - Painting (Action)
+      - Painting (Object)
   pastel (medium):
     name: パステル
     image: 84980beaa7449e0603b17424fae7a82ab48c806438b0a263dc0c4d5f88ea4d7b
@@ -300,8 +311,10 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/watercolor_pencil_(medium).html
   whiteboard (medium):
     name: ホワイトボード
-  lineart:
-    name: 線画
-    image: c60c166eb306f9e9fd3903f881d541f389c75aa909f512595a43a63b03b49618
-    wikiURL: https://danbooru.donmai.us/wiki_pages/lineart.html
+  fantasy:
+    name: ファンタジー
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fantasy.html
+  screentones:
+    name: スクリーントーン
+    wikiURL: https://danbooru.donmai.us/wiki_pages/screentones.html
 

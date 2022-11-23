@@ -1,0 +1,50 @@
+name: 架空生物
+category: 
+  - 生物
+content:
+  loong:
+    name: 龍
+  dragon:
+    name: ドラゴン
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dragon.html
+  goblin:
+    name: ゴブリン
+    wikiURL: https://danbooru.donmai.us/wiki_pages/goblin.html
+    alias:
+      - female goblin
+  pegasus:
+    name: ペガサス
+    wikiURL: https://danbooru.donmai.us/wiki_pages/Pegasus.html
+  unicorn:
+    name: ユニコーン
+    wikiURL: https://danbooru.donmai.us/wiki_pages/unicorn.html
+  griffin:
+    name: グリフィン/グリフォン
+    wikiURL: https://danbooru.donmai.us/wiki_pages/griffin.html
+    alias:
+      - hippogriff
+  phoenix:
+    name: フェニックス
+    wikiURL: https://danbooru.donmai.us/wiki_pages/phoenix.html
+  cockatrice:
+    name: コカトリス
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cockatrice.html
+  gnome:
+    name: ノーム
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gnome.html
+  sylph:
+    name: シルフ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sylph.html
+  salamander:
+    name: サラマンダー
+    wikiURL:  https://danbooru.donmai.us/wiki_pages/salamander
+  undine:
+    name: ウンディーネ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/undine
+  dryad:
+    name: ドリアード/ドライアド
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dryad
+  leprechaun:
+    name: レプラコーン
+    wikiURL: https://danbooru.donmai.us/wiki_pages/leprechaun
+

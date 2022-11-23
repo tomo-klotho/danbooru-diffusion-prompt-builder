@@ -101,5 +101,18 @@ content:
   snowflakes:
     name: 雪の結晶
     wikiURL: https://danbooru.donmai.us/wiki_pages/snowflakes.html
+  wind:
+    name: 風
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wind.html
+    alias:
+      - breeze
+  fireworks:
+    name: 花火
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fireworks.html
+  rainbow:
+    name: 虹
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rainbow.html
+
+
 
 

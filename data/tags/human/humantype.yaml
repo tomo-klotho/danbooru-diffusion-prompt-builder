@@ -14,6 +14,19 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/1girl.html
     alias:
       - 1girls
+      - 1 girl
+      - one girl
+  1male:
+    name: 男1人
+    alias:
+      - 1 male
+  mature female:
+    name: 熟女
+    description: 熟女、人妻、おばさん、年増
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mature_female.html
+    alias:
+      - milf
+    image: 1bbdfb477365e75c7b6c55d8b83e206a3071625f2a00509c1fd8a882ae263318 
   2boys:
     name: 2人の男の子
     image: 33518f8c7e222c94033c146e77f0b32a824f739595edf2995cec53b3532e4d18
@@ -47,8 +60,8 @@ content:
     name: ちびキャラ
     wikiURL: https://danbooru.donmai.us/wiki_pages/chibi.html
   crossdressing:
-    name: 女装
-    image: 2cace3fa81893f031e88097de28acf8342a8001fea6fb9b4957f4bc852980af5
+    name: 女装/男装
+    image: 86ce2eb1b645fbc8a7211fa3241582a39c371f4616658312fe40c95f8ee31e6c
     wikiURL: https://danbooru.donmai.us/wiki_pages/crossdressing.html
     alias:
       - crossdress
@@ -65,11 +78,11 @@ content:
     alias:
       - dolls
   elf:
-    name: 妖精
+    name: エルフ
     image: c3b29da663e1d3b3e565085db5f682c21fbc62b5c669dbf7d58397adb941598d
     wikiURL: https://danbooru.donmai.us/wiki_pages/elf.html
   fairy:
-    name: ピクシー
+    name: フェアリー
     image: 9caba6578bff0f796f6fb522f1ff32f17827d47e644317bcaa701f923e115a5b
     wikiURL: https://danbooru.donmai.us/wiki_pages/fairy.html
     alias:
@@ -81,7 +94,7 @@ content:
     image: 8f6e8c9314c1cf89c81bd6fb1fe9c58b1fb60fa76feac9fa2c78ff01ed3ba573
     wikiURL: https://danbooru.donmai.us/wiki_pages/female.html
   furry:
-    name: オーク
+    name: 獣人
     image: c51904a0568887e2ee05c2f3683c83541d861235a358a5c62efe04f93227b20e
     wikiURL: https://danbooru.donmai.us/wiki_pages/furry.html
     alias:
@@ -129,11 +142,9 @@ content:
   miko:
     name: 巫女
     wikiURL: https://danbooru.donmai.us/wiki_pages/miko.html
+    image: fc7b4acf18f88b760f9f1f7f85ed4914b7821bb9278d6a3fb47db19493b367fa
     alias:
       - shrine maiden
-  milf:
-    name: 熟女
-    image: 1bbdfb477365e75c7b6c55d8b83e206a3071625f2a00509c1fd8a882ae263318
   minigirl:
     name: 小人女子
     image: c034c34cf134bea43b4767567ed1122d4015b4dbe5ea6b18054ad94878d37ab7
@@ -164,6 +175,7 @@ content:
       - ork
   shota:
     name: ショタ
+    image: 99f483c0d858f13b5612a575c7720e9d5447fb4065086def989322e9f2e56478
     wikiURL: https://danbooru.donmai.us/wiki_pages/shota.html
   siblings:
     name: 兄弟姉妹
@@ -221,6 +233,7 @@ content:
       - lesbian
       - girl's love
       - girls love
+    image: 9445a799297b3fee2c59a55a51e5b7bfef797efeb59afa1137a654efb0e4ab8c
   no humans:
     name: 誰もいない
     image: 28ff8fcd87ec592a5d8349a06c0486f4b6b5b2ee86d43b4565278a2a98a9cf33
@@ -281,7 +294,7 @@ content:
       - demongirl
   dog girl:
     name: 犬娘
-    image: 09d56a26fa95ae506094cfd01c475187e95d07bfbc8d8cf18940bd8c00d1cedb
+    image: ac5913e29c2752f71aadc372599276ba140bd63f47ecb3d73458e43e7245dfb8
     wikiURL: https://danbooru.donmai.us/wiki_pages/dog_girl.html
   dragon girl:
     name: ドラゴンレディ
@@ -297,10 +310,6 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/ghost.html
     alias:
       - ghosts
-  goblin:
-    name: コボルド
-    image: 0c46645324e5564fa04b445c1fd6a5e60364fca779290f4fb1ebaa3e1d2ba1e5
-    wikiURL: https://danbooru.donmai.us/wiki_pages/goblin.html
   goddess:
     name: 女神
     image: e98bab04882f8e94a27a537f48b397da3d5e645525d76e2144afb5f8805d3dfb
@@ -332,6 +341,7 @@ content:
     alias:
       - weapongirl
       - mechamusume
+    image: bffef3f4bb48f5bdc6d50e74291f333caf324e95aab07687bb699a2bdc5afaf6
   raccoon girl:
     name: アライグマ娘
     wikiURL: https://danbooru.donmai.us/wiki_pages/raccoon_girl.html
@@ -342,6 +352,7 @@ content:
   spider girl:
     name: 蜘蛛娘
     wikiURL: https://danbooru.donmai.us/wiki_pages/spider_girl.html
+    image: d8f7e4d9ce914d16d62bc8513d70edfeee5b54e6f1c74783f5af45dcd902b498
   valkyrie:
     name: ヴァルキリー
     image: 786c8548f4c9ee6e4dd9ad6e9f7389e13894463d8181f15567445c710311b7a6
@@ -458,6 +469,7 @@ content:
   priest:
     name: 祭司
     wikiURL: https://danbooru.donmai.us/wiki_pages/priest.html
+    image: c874a0763cd3e114296d9d84835f539b49172d6f9ec47960e7fcb08f2f29adbe
   princess:
     name: プリンセス
     image: f0ca7ddcf163402718c8171d84fecb227b899d8dab9b4ec348dcc5ebb778cbea
@@ -468,6 +480,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/public_use.html
   race queen:
     name: レースクイーン
+    image: cd36f738f6b4020c7c4df9f3386d33a5350918e36c931c8732f67100b31326e2
     wikiURL: https://danbooru.donmai.us/wiki_pages/race_queen.html
     alias:
       - racequeen
@@ -530,3 +543,8 @@ content:
     name: ロングネック
     image: 23717f013e6bc974797c27462f15930cc674c8c49fb29e68e9456aa599a4de9b
     wikiURL: https://danbooru.donmai.us/wiki_pages/long_neck.html
+  flight attendant:
+    name: フライトアテンダント
+    description: 客室乗務員/スチュワーデス/キャビンアテンダント
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flight_attendant.html
+    image: f8249c55f0f42d616b226f8b5cb30b10fb12a0fb44b650d50d592d2234840826

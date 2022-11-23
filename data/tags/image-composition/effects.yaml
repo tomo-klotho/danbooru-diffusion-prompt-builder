@@ -150,3 +150,22 @@ content:
   vignetting:
     name: ケラレ
     wikiURL: https://danbooru.donmai.us/wiki_pages/vignetting.html
+  holy light:
+    name: 聖なる光
+    alias:
+      - holy lighting
+  colorful refraction:
+    name: カラフルな反射
+  flying splashes:
+    name: 飛び散る飛沫
+  flying petals:
+    name: 飛んでいる花びら
+  illumination:
+    name: イルミネーション
+    alias:
+      - best illumination
+
+
+  
+
+

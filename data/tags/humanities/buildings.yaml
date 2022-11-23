@@ -1,7 +1,7 @@
 name: 建物
 category:
   - 風景
-  - 位置
+  - 場所
 content:
   airport:
     name: 空港
@@ -30,10 +30,10 @@ content:
     name: 酒場
     wikiURL: https://danbooru.donmai.us/wiki_pages/tavern.html
   barn:
-    name: バーン
+    name: 納屋
     wikiURL: https://danbooru.donmai.us/wiki_pages/barn.html
   bunker:
-    name: バンカー
+    name: バンカー/陣地壕
   bus stop:
     name: バス停留所
     wikiURL: https://danbooru.donmai.us/wiki_pages/bus_stop.html
@@ -175,6 +175,8 @@ content:
   school:
     name: 学校
     wikiURL: https://danbooru.donmai.us/wiki_pages/school.html
+    alias:
+      - high school
   skating rink:
     name: アイスリンク
   shack:
@@ -270,3 +272,23 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/pool.html
     alias:
       - swimming pool
+  gate:
+    name: 門
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gate.html
+  school gate:
+    name: 校門
+  wall:
+    name: 塀
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wall.html
+    alias:
+      - brick_wall
+      - hole in wall
+  fence:
+    name: 柵
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fence.html
+  2 stories:
+    name: 2階建て
+  3 stories:
+    name: 3階建て
+  
+

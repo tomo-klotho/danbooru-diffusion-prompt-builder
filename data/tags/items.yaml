@@ -162,3 +162,21 @@ content:
     alias:
       - ranset
       - back pack
+  clock:
+    name: 時計
+  huge clocks:
+    name: 大きな時計
+  glass stripes:
+    name: ガラス片
+    alias:
+      - glass strips
+  bicycle:
+    name: 自転車
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bicycle
+  road bicycle:
+    name: ロードバイク
+    wikiURL: https://danbooru.donmai.us/wiki_pages/road_bicycle
+    alias:
+      - road bike
+
+

@@ -369,3 +369,7 @@ content:
   watson cross:
     name: ワトソンクロス
     wikiURL: https://danbooru.donmai.us/wiki_pages/watson_cross.html
+  hidden hands:
+    name: 手を隠す
+    alias:
+      - hide hands

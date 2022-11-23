@@ -1,0 +1,2038 @@
+name: 元素法典 1.5巻
+category: 
+  - 元素法典
+description: |-
+  作者:SteelPlate
+  オリジナルリンク:https://docs.qq.com/doc/DWGh4QnZBVlJYRkly
+  注意事項:システムの制約上、全てのタグのウェイト値は保持されず、グループ全体で適用した場合、タグのウェイトを個別に修正することはできません。
+  一部のタグは、データベースのタグ名と一致するように修正されています。
+content:
+  万物熔炉(+):
+    description: |-
+      作者:antwominy（QQ 863081130）
+      "陰 "と "陽"、その数は十、その離れは百、その散りは千、その押しは万、その万は数えられないが、その大は一でなければならない。ここは万物のるつぼ"
+      注:この呪文は本来は陰陽の呪文ですが、他のほとんどの呪文と組み合わせることができ、すべてが一つになるような効果を発揮するため、「メルティング・ポット・オブ・エブリシング」と呼ばれています。また、TAGの黒と白のエレメントは、他の2つのエレメントの組み合わせに置き換えることで、新しい効果を得ることができます。
+      パラメータ:Steps: 39, Sampler: Euler, CFG scale: 7
+
+      編集者コメント：
+      “神。”（匿名批注）
+      “姉に踏まれた!?”（孤辰Null）
+      “?”（麦子）
+      “?”（antwominy）
+      “?”（老年痴呆的疾风法师）
+      “?”（板）
+      “?”（半夏）
+      “道は道であっても道でなく、名は名であっても名でない。”（某驾校校长）
+    content:
+      - masterpiece
+      - best quality:1.1
+      - amazing
+      - beautiful detailed eyes
+      - 1girl:1.4641
+      - finely detailed
+      - depth of field
+      - extremely detailed cg unity 8k wallpaper
+      - full body:1.61051
+      - cute animal face:1.331
+      - a girl wears clothes black and white taoist robes:1.331
+      - extremely gorgeous magic style:1.21
+      - gold and silver lace:1.4641
+      - flowing lace:1.331
+      - flowing black and white background:1.331
+      - gorgeous detailed eyes:1.61051
+      - gorgeous detail face:1.9487171
+      - floating hair:1.21
+      - pick and dye black hair in white hair:1.331
+      - flowing transparent black:1.331
+      - flowing transparent white:1.331
+      - ink:1.61051
+      - small breasts:1.4641
+      - extremely detailed gorgeous tiara:1.331
+      - black and white hair:1.331
+      - black hair stick:1.21
+      - white hair ornament:1.21
+      - gold gorgeous necklace:1.21
+      - flowing hair:1.21
+      - the picture fills the canvas:1.331
+      - the character is in the center of the frame:1.21
+      - flowing:1.331
+      - bright pupils:1.21
+      - melt:1.4641
+      - black and white melt:1.61051
+    preview:
+      - 4b25647a6539a49f66bcecf7e7b56afb8f1bd5031003b52f0719c77f28dffcce
+      - e614e5b3ae419ad06fadfe144ef40bb61dd22c16140829b148fb406661e5eac7
+      - 4c797a6dda796f6d8936961c279445bc472d836b829d0662544ebda349ff286a
+      - 264f8c62e131789efad77b1db90ec943c884706b0b4b18440867fcac505552af
+      - b4aa432a9d26620cb630878c2794cdf0ca177559e9322c67206c525b624dba8e
+  万物熔炉(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - ugly:1.331
+      - duplicate:1.331
+      - morbid:1.21
+      - mutilated:1.21
+      - tranny:1.331
+      - mutated hands
+      - poorly drawn hands:1.331
+      - blurry
+      - bad anatomy:1.21
+      - bad proportions:1.331
+      - extra limbs
+      - cloned face
+      - disfigured:1.331
+      - more than 2 nipples:1.331
+      - missing arms:1.4641
+      - extra legs:1.331
+      - fused fingers:1.61051
+      - too many fingers:1.61051
+      - unclear eyes:1.331
+      - lowers
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - bad feet
+      - text font ui
+      - malformed hands
+      - long neck
+      - missing limb
+      - mutated hand and finger:1.5
+      - long body:1.3
+      - mutation poorly drawn:1.2
+      - malformed mutated
+      - multiple breasts
+      - futa
+      - yaoi
+  暗鴉魔法(+):
+    description: |-
+      作者:JMikuer♚楠
+      「Vinctorus aut Mortis!」（勝利か死か）-第十九軍団
+      パラメータ:Steps: 50, Sampler: Euler a, CFG scale: 4.5, Size: 1024x768, Model hash: e6e8e1fc, Clip skip: 2
+
+      編集者コメント：
+      “これ、めっちゃカッコいいやん。”（麦子）
+      “三千世界のカラスを退治する!?”（某驾校校长）
+      “ハンマーマンと特定される”（今宵鳩鳴）
+      この記事のポジティブタグを掲載しています。
+    content:
+      - masterpiece:1.331
+      - best quality
+      - extremely detailed cg unity 8k
+      - illustration
+      - contour deepening beautiful detailed glow
+      - beautiful detailed eyes:1.1
+      - 1 girl:1.1
+      - bana:1.21
+      - large top sleeves
+      - floating black ashes
+      - beautiful and detailed black
+      - red moon
+      - the black clouds:1.21
+      - black wings:1.1
+      - a black cloudy sky
+      - burning
+      - black dress
+      - black expressionless
+      - beautiful detailed white gloves
+      - crow:1.1
+      - bat
+      - floating black cloud:1.5
+      - white and black hair
+      - disheveled hair
+      - long bangs
+      - hairs between eyes
+      - black knee-highs
+      - black ribbon
+      - white bowties
+      - midriff
+      - half closed eyes:1.157625
+      - black fog:1.21
+      - red eyes
+      - black smoke:1.1
+      - complex pattern
+      - black feathers floating in the air:1.21
+      - arms behind back:1.331
+    preview:
+      - 8649f3da94aadb2233d9b00df0e9131c030ee41654b1a75e2ba06e89e80e19a2
+      - f720c4974181ec55c56db29507fea088e4c6426c8d283042ddeca25226ba91f7
+      - ad043cc649e79b193ce71534365ef4668375d0b881b7393765ca6cca6806f558
+      - da82c05fc372a926d9372fadcbcf8f28eac93753e95e7df4fc238011bb00da15
+      - d0b9b81e60882d59fe964de061b6046bb8b1cd70c20c9463285f3f86ca76a13d
+  暗鴉魔法(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - ugly:1.331
+      - duplicate:1.331
+      - morbid:1.21
+      - mutilated:1.21
+      - tranny:1.331
+      - mutated hands
+      - poorly drawn hands:1.331
+      - blurry
+      - bad anatomy:1.21
+      - bad proportions:1.331
+      - extra limbs
+      - cloned face
+      - disfigured:1.331
+      - more than 2 nipples:1.331
+      - missing arms:1.4641
+      - extra legs:1.331
+      - fused fingers:1.61051
+      - too many fingers:1.61051
+      - unclear eyes:1.331
+      - lowers
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - bad feet
+      - text font ui
+      - malformed hands
+      - long neck
+      - missing limb
+      - mutated hand and finger:1.5
+      - long body:1.3
+      - mutation poorly drawn:1.2
+      - malformed mutated
+      - multiple breasts
+      - futa
+      - yaoi
+      - gross proportions
+      - malformed limbs:1.1
+      - missing legs:1.21
+      - extra arms:1.331
+  基礎花火魔法(+):
+    description: |-
+      作者:Phoebe（QQ 3101516445 ）
+      "何年もかかってようやく改善された"
+      パラメータ:
+      Steps: 50, Sampler: Euler a, CFG scale: 5.5, Size: 1024x768, Model hash: e6e8e1fc, Clip skip: 2
+
+      編集者コメント：
+      “ファ・ファイア法...名前はちょっと発音しにくいですが、とてもきれいな名前です。”（麦子）
+      “非常に忍耐強い仕事、非常に良い写真、ポーセリンからの愛。”（板）
+      “この見事な花火だけが、彼女を煙と鏡で汚すことができる。”（今宵鳩鳴）
+    content:
+      - extremely detailed cg unity 8k wallpaper:1.21
+      - masterpiece:1.1
+      - best quality:1.1
+      - ultra-detailed:1.1
+      - best illustration:1.1
+      - best shadow:1.1
+      - an extremely delicate and beautiful:1.1
+      - 1girl:1.4641
+      - dynamic angle
+      - floating
+      - finely detail
+      - bloom:1.1
+      - shine:1.1
+      - glinting stars
+      - best detailed fireworks:1.4641
+      - depth of field:1.4641
+      - hanabi:1.331
+      - beautiful detailed girl
+      - backlight:1.331
+      - extremely delicate and beautiful girls
+      - summer long skirt:1.21
+      - solo:1.331
+      - best detailed hair
+      - beautiful detailed water:1.21
+      - night sky
+      - small breasts:1.331
+      - beautiful detailed sky
+      - beautiful detailed eyes
+      - arms behind back:1.331
+      - long hair
+      - long skirt
+    preview:
+      - 8f029edf11fd28980a921cbc54b484fa8b1648a12028f5fb00b48b2fbae51af2
+      - 16c4277d982030c537358894b25d466e4bdd3bf6bf41fa99f9cd45d625e97a3c
+      - d293439ef371ad01839912992a47487b1644c582dd963992b05a284ceed9f68c
+      - e8f34dc975a9dfbffba9758c51ca2488c1640c7b4c3e49e9e186ce2bd8f344b9
+      - 3bf8284676dc2cd387495906057abe3fb3f3a1ddca18646b33a6dfcb64fd6c24
+      - b675a2e8abd26a0cc7d4280646ca9ededed6f711a9872ff54d098984482b05dd
+      - d76cd09e349647b5c8f26f9cc0b5ca592f99092f99ad655f7b541ccf04719630
+      - 979f3ed01e3612a0c3e8f9b3dcf9aefe61c918b8f04f28d50cd35b404e621bf8
+      - 5278ea7c3af3fe6049f34ba9637e84f52bde44f191fe292f4b4d728abb1d3124
+      - d6965faad58e8513e6cf42003175408b85425334b1a57c9bb511e85e754d90a3
+  基礎花火魔法(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - inverted mountain
+      - low-quality
+      - flowers
+      - grass
+      - distorted mountain
+      - distorted light
+      - low-quality light
+      - low-quality mountain
+      - low-quality illustration
+      - low-quality background
+      - nsfw
+      - polar lowres
+      - bad anatomy
+      - bad hands
+      - bad body
+      - bad proportions
+      - gross proportions
+      - text
+      - error
+      - missing fingers
+      - missing arms
+      - missing legs
+      - extra digit
+  星之彩魔法(+):
+    description: |-
+      作者:東雲
+      "サンにちょっと問題があっても、あえてクソ空を見ようとするとき～ ヨギー!"
+      パラメータ:
+      Steps: 25, Sampler: DDIM, CFG scale: 5, Size: 1024x640, Model hash: e6e8e1fc, Clip skip: 2
+
+      編集者コメント：
+      “I'a I'a.Cthulhu Fhatgn! ”（麦子）
+      “アバアバアバ〜sc大失敗”（板）
+      “だんだんすべてがわかってきました。”（今宵鳩鳴）
+    content:
+      - best quality:1.21
+      - masterpiece:1.21
+      - ultra-detailed:1.21
+      - illustration:1.1
+      - detailed light:1.1
+      - an extremely delicate and beautiful:1.1
+      - a girl
+      - cute face
+      - upper body
+      - two legs
+      - long dress
+      - beautiful detailed eyes:1.1
+      - stars in the eyes
+      - messy floating hair
+      - colored inner hair
+      - starry sky adorns hair
+      - lots of big colorful bubble:1.1
+      - pearl:1.1
+      - galaxy:1.1
+      - depth of field
+    preview:
+      - accb197f452464731ea3128817f38b5869312cc529c4c0fc42ff08ad9a69ebd1
+      - acbded70bfd5ccf60c10b97602cee0c53585bfe36d315ebb4891caba03496ad3
+      - 9c5fcbd626f77f2e5fca9fec997413bed276a5c5c220257e261436308bb90bf3
+      - 4ad1f4bb44251f6a500559a4dff71f7e5607ee191f2db14dd48608bb52c9bd21
+      - 48f5e5980ce89a1da15c341694253e1d2dd48bc8a01b85e45d402661e1d0f916
+      - c903ad1f3f053987dc0d8f2feb1800bd37521bbccafbf541d6ae2e6ea43eae15
+      - 06750abc79351478ef28a4b506d09d41780ad931206422726fa59f403d54b96b
+      - 85a70a96669c756bf454feffa2f2789c781ba9dc6d553c9801b80a3cb93abc8e
+      - b1f723ce089c81fb667107d08accde01e2df2f0550868459e5f3f165c3568422
+      - a0e373458c249c8927bb904adc4674a9dd5ae7ef4edf92f0b7f41535008bbdf3
+  星之彩魔法(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - text
+      - bad face
+      - error
+      - extra digit
+      - fewer digits
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry:1.1:1.05
+      - missing arms
+      - missing legs
+      - more than two legs
+      - small bubble:1.157625
+  星海沈魔法(+):
+    description: |-
+      作者:東雲
+      ヨグソトース擬人化の半ば試運転のようなもの、ウィル降臨
+      パラメータ:
+      Steps: 25, Sampler: DDIM, CFG scale: 5, Size: 1024x640, Model hash: e6e8e1fc, Clip skip: 2
+
+      編集者コメント：
+      “上記と同様に、華やかさの下にある純粋な美しさがあるのです。”（板）
+      “奈落の底を見つめていると、奈落の底が...。ああ、かわいいなあ。”（今宵鳩鳴）
+    content:
+      - best quality:1.1025
+      - masterpiece:1.1025
+      - ultra-detailed:1.1025
+      - illustration:1.05
+      - detailed light:1.05
+      - an extremely delicate and beautiful:1.05
+      - a girl
+      - beautiful detailed eyes:1.05
+      - stars in the eyes
+      - messy floating hair
+      - colored inner hair
+      - starry sky adorns hair
+      - depth of field
+    preview:
+      - 78985cb994e2796229397cef41da732cb9c5b9e72b135566b91c3af69eccf0a5
+      - ae065cd20c9802f3127db609daff7b6912bcf342460757c5238d8309dceba4aa
+      - 5fcb5816a4cf13e3d81114edd39afb34ef2cb9fcbbc98c060e0a32888516f3aa
+      - 2a462e1521a13c58247cc0130622c935126027bf05f89ae799e37bd54613587a
+      - 44164a8a11178c5185c6d00d5449fe23a3ffd78abae5f5b5836d0d8b0acd3a02
+      - c5cd1eb9081c1b3fe490a3721753cb39568d575f37465a5d5a7a274e4bc449fa
+      - d291400557b4893c4b4bff950ce23952934e246dd767b704c3923abb69185aab
+      - 2b5e32b88cf8b5e040731205c02fc18f66f596bed2b5369cb64be1f32a93c811
+      - c2bd1531ea774da05e9a6f8a8deb6d04df04b45f637667bedb97245eed097756
+      - fd9f117bd1a8d8e3f96899787a8fcbd7726def6ebf462160ae85df2504152ce3
+  星海沈魔法(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - text
+      - error
+      - extra digit
+      - fewer digits
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry:1.1:1.05
+      - missing arms
+  百溺魔法(+):
+    description: |-
+      作者:药隐
+      “ どんな色でも百溺法は血水の古代神の率より低い...確かにこれは炉百相の時だ!”
+      パラメータ:
+      Sampler: Euler a, CFG scale: 4.5-5.5, Size: 768x512, Clip skip: 2
+      百溺法アドバンス:
+      交換用呪文:削除bloodで置き換えるか(__ colored blood)。__ long straight, __ eyes, __ hair, ___ dress, (___ water:1.5), (___ background:1.3)、どのダイクロイックカラーでも基本使用、マルチカラーは渦巻き効果を奪う可能性がある、starryに置き換えることも可能です。
+
+      編集者コメント：
+      “血流の量がハンパない!しかし、気分は上々で、進化した100溺法を使って、さまざまな色の液体に沈めることで、その幅を広げることも可能です。”（麦子）
+      “バーンバーン バーンバーン バーンバーン”（板）
+      “血血血血血血血”（antwominy）
+    content:
+      - watercolor:1.1
+      - extremely detailed cg unity 8k wallpaper:1.21
+      - game cg:1.1
+      - masterpiece:1.21
+      - best quality:1.21
+      - ultra-detailed:1.21
+      - 1 girl:1.1
+      - solo:1.1
+      - best illustration:1.1
+      - extremely detailed illustration:1.1
+      - disheveled hair:1.21
+      - beautiful detailed lighting:1.21
+      - from above:1.1
+      - an extremely delicate and beautiful:1.21
+      - cinematic lighting
+      - dynamic angle
+      - detailed wet clothes
+      - blank stare
+      - overexplosure
+      - floating
+      - beautiful detailed eyes:1.1
+      - side blunt bangs
+      - small breasts
+      - black long straight
+      - red eyes
+      - aqua eyes
+      - gradient eyes
+      - black hair
+      - very long hair
+      - blunt bangs
+      - blood:1.21
+      - white dress
+      - frills
+      - bowties
+      - expressionless:1.21
+      - extremely beautiful detailed water
+      - lying on the lake:1.21
+      - hairs curling in the water:1.21
+      - bloodred water:1.5
+      - red background:1.3
+      - swirl
+    preview:
+      - b586529704eb0c1fbc6e4fdf8f4e8b06b5e29657104b57cf2dc804ea1236471b
+      - a557636f8b3a14391cf3a1ff0c832c68dfc5396414dc835de393964ae73ddb33
+      - 11567971fbddd68cf25b42f64d7fe34a53800f69985bf793cf1087b5911def77
+      - e47380b062e55a3dffdc68a94cb391d07eb39564499f223a090add709f7994f7
+      - 85639630599e35fb7a5740a4416a0748ea1b076260b68dc641ea9bd2bec96505
+      - 57e0d3a38bef3cf439f4d5692d60f6d36577ad37c0ad65fba86b5bde52bcf9a2
+      - b9ba53efe11d6f21194075d0e786fd007a7baa073c4e7b89618aeb9d4c3a58a3
+      - dd2b2c9d91da696661ea5da09fefbf2d8b7895f0031dc43534f27d91eb619394
+  百溺魔法(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - long body
+      - long face
+      - lowres
+      - bad anatomy
+      - bad hands
+      - missing fingers
+      - pubic hair
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - extra legs
+      - extra arms
+      - fused arms
+      - fused legs
+      - extra feet
+      - fused feet
+      - abnormal legs
+      - abnormal shoulders
+      - poorly drawn shoulders
+      - blurry
+      - misplaced arms
+      - misplaced legs
+      - misplaced hands
+      - abnormal hands
+      - watermark
+      - username
+      - signature
+      - jpeg artifacts
+      - multiple heads
+      - abnormal face
+      - twisted head
+  輝煌陽光魔法(+):
+    description: |-
+      作者:千夜（QQ:1067134933）
+      “（ゴールデン＋グロウ、嫌いな人はいないでしょう）”
+      パラメータ:
+      CFG 7 Euler Step40
+
+      編集者コメント：
+      “サンシャイン!若い女の子!?春のような雰囲気と感触が素晴らしい。”（麦子）
+      “海と向き合い、春に花を咲かせたい。”（海子）
+    content:
+      - masterpiece:1.05
+      - best quality:1.05
+      - 1girl:1.05
+      - amazing
+      - beautiful detailed eyes
+      - solo
+      - finely detail
+      - depth of field
+      - extremely detailed cg
+      - original
+      - extremely detailed wallpaper
+      - highly detailed skin:1.1025
+      - messy hair:1.1025
+      - small breasts:1.05
+      - longuette:1.1025
+      - grassland:1.1025
+      - yellow eyes:1.1025
+      - full body:1.05
+      - incredibly absurdres:1.05
+      - gold hair}.lace:1.1025
+      - floating hair:1.1025
+      - large number of environments:1.1025
+      - the medieval:1.1025
+      - grace:1.1025
+      - a girl leaned her hands against the fence:1.1025
+      - ultra-detailed:1.1025
+      - illustration:1.1025
+      - bird:1.1025
+      - altocumulus:1.1025
+      - 8kwallpaper:1.1025
+      - hair hoop:1.1025
+      - long hair:1.1025
+      - gem necklace:1.1025
+      - hair ornament:1.1025
+      - prospect:1.1025
+      - water eyes:1.1025
+      - wind:1.1025
+      - breeze:1.1025
+      - god rays:1.1025
+      - lawn:1.1025
+      - mountains and lakes in the distance:1.1025
+      - the skirt sways with the wind:1.1025
+      - the sun shines through the trees:1.1025
+      - a vast expanse of grassland:1.1025
+      - fences:1.1025
+      - blue sky:1.1025
+      - bloom:1.1025
+      - smile:1.1025
+      - glow:1.1025
+      - the grass sways in the wind:1.1025
+    preview:
+      - 58fabbdf1a13a83fa12e3126dbae603f49a33a7b1eaa1037bad8438cc8d9c1a2
+      - 6125b9fc032963967d57b2d874692885afb8137dfce5af97f8c262b1c92af507
+  輝煌陽光魔法(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - lowres:1.05
+      - blurry:1.71033936
+      - bad hands:1.55132822
+      - missing fingers:1.27628156
+      - extra digit:1.9799316
+      - fewer digits:1.05
+      - small hands:1.05
+      - error:1.05
+      - multiple limbs:1.05
+      - bad feet:1.05
+      - cropped:1.05
+      - worst quality:1.05
+      - low quality:1.05
+      - normal quality:1.05
+      - jpeg artifacts:1.05
+      - bad anatomy:1.05
+      - long nails:1.05
+      - interlocked fingers:1.27628156
+      - milf:1.05
+      - ugly:1.05
+      - duplicate:1.05
+      - morbid:1.05
+      - mutilated:1.05
+      - tranny:1.05
+      - trans:1.05
+      - trannsexual:1.05
+      - mutation:1.05
+      - deformed:1.05
+      - long neck:1.05
+      - bad proportions:1.05
+      - extra arms:1.05
+      - extra legs:1.05
+      - disfigured:1.05
+      - more than 2 nipples:1.05
+      - malformed:1.05
+      - mutated:1.05
+      - hermaphrodite:1.05
+      - out of frame:1.05
+      - extra limbs:1.05
+      - missing arms:1.05
+      - missing legs:1.05
+      - poorly drawn hands:1.05
+      - poorty drawn face:1.05
+      - poorly drawn:1.05
+      - long body:1.05
+      - multiple breasts:1.05
+      - cloned face:1.05
+      - gross proportions:1.05
+      - mutated hands:1.05
+      - missing limb:1.05
+      - malformed limbs:1.05
+      - malformed hands:1.05
+      - fused fingers:1.05
+      - too many fingers:1.05
+      - extra fingers:1.05
+      - mutated hands and fingers:1.05
+      - text:1.05
+      - signature:1.05
+      - watermark:1.05
+      - username:1.05
+      - text font ui:1.05
+      - futa:1.05
+      - yaoi:1.05
+  星髪魔法(+):
+    description: |-
+      作者:Gloaming （QQ2762215011）
+      “星と水の相性が良くなる（水の呪文と星の呪文の量を調整する）”
+      パラメータ:
+      Steps:30   CFG: scale:6 、Euler a
+
+      編集者コメント：
+      “星を髪に見立てるなんて、超夢みたい〜。” （麦子）
+      “星に憧れない人はいないでしょう。” （mahiru）
+      “彼女の髪の下には宇宙の歴史が巻物のように描かれており、彼は遠い過去から彼女の名前を呼んでいるのです。”（今宵鳩鳴）
+      “彼女の目には星と未来が映っている”（半生为夏甗麦至冬）
+    content:
+      - masterpiece
+      - best quality
+      - illustration
+      - stars in the eyes
+      - dishevelled hair
+      - starry sky adorns hair
+      - 1 girl
+      - sparkling anime eyes
+      - beautiful detailed eyes
+      - beautiful detailed stars
+      - blighting stars
+      - emerging dark purple across with white hair
+      - multicolored hair
+      - beautiful detailed sky
+      - beautiful detailed water
+      - cinematic lighting
+      - dramatic angle
+    preview:
+      - 758d5941d53d58c2c097a1f8ad110a5aa53eb5ee273dabb4c9c0b8c224622657
+      - 2f1d5c139ddce39c9dfbe1ae4859d65d85be55c253296b6008a9ccd2b01300ec
+      - 1eb289ed6d920cf6f65fed6895f682f3dc6dd4dea6110a86caa6e95b37a379b8
+      - 7cf2451894ceccd98d66159ffc81681095b879cbee2b61d101f506b1346be1ac
+      - fd5041505efe1d9ea6e98297890af3c58b2774b1e3b3f48899b0fd9d6216224d
+      - 5ac6dcbdc20c65367fe9732e18e94b2c738391659828fd58543f7308743773ec
+      - d4c2b17b47fe744019e942c93283f0c6b38eb71e72ae8baafcc35468e5b128e0
+  星髪魔法(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad legs
+      - bad hands
+      - text
+      - error
+      - missing fngers
+      - extra digt
+      - fewer digits
+      - cropped
+      - wort quality
+      - low quality
+      - normal quality
+      - jpeg
+      - artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - artist name
+      - bad body
+      - bad proportions
+      - worst quality
+      - optical illusion
+  森織魔法(+):
+    description: |-
+      作者:开狼（QQ1540548912）
+      “葉や花を使ったクラシックなテーマで、公式サイトで運用されている ”
+      ネガティブtag:不要
+
+      パラメータ:
+      Steps:50 Sampler:DDIM scale:8 Size:512x1024、1024x1024
+
+      編集者コメント：
+      “カウンタースペル不要 rua?!フレームを走らせてみて、その美しさを確認することができます!”（麦子）
+      “シハシャ姉さん~”（半生为夏甗麦至冬）
+      “シュガシュガシュガ~”（mahiru）
+      “ここでコードを作成しないでください”（antwominy）
+      “ここコーデックスで!”（板）
+      “上の人たちの反応・・・・・・。鳥肌が立ちそうです。” (老年痴呆的疾风法师）
+      “姉に踏まれた!?”（孤辰Null）
+    content:
+      - super fine illustration
+      - masterpiece
+      - best quality
+      - beautiful detailed eyes:1.05
+      - 1girl
+      - finely detail
+      - depth of field
+      - 4k wallpaper
+      - bluesky
+      - cumulus
+      - wind
+      - insanely detailed frills
+      - extremely detailed lace
+      - blue sky
+      - very long hair
+      - slightly open mouth
+      - high ponytail
+      - silver hair
+      - small breasts
+      - cumulonimbus capillatus
+      - slender waist
+      - there are many scattered luminous petals
+      - hidden in the light yellow flowers
+      - she bowed her head in frustration
+      - many flying drops of water
+      - upper body exposed
+      - many scattered leaves
+      - branch
+      - angle
+      - contour deepening
+      - cinematic angle
+      - classic decorative border:1.157625
+    preview:
+      - 598f05087fd2a4a46b41aafd3ee4966252a825a30256aba7fa7b1f3861f556cf
+      - 8029f723be72cc12ae4eba292c800185d9f024952c76e2f6adb80eff3d2df081
+      - e57dc36a580b2da0b0163b0b411193c6c0e6d8e449f574923a1a9e7cbb598c01
+      - 16beaa8bbfec7045788696e192a9e96a03d309dcee2712429babcb123e953df4
+      - a09a905799e3738687610c509db898ec3ae1e8da876e241611c535375565f819
+      - 5dde9e3c8017bdd83166339cb75248191ea7a0dee2d1ee78c2e959170a67ab32
+  星天使(+):
+    description: |-
+      作者:東雲
+      “ここを見ないで、写真を見よう ”
+      パラメータ:
+      Steps: 42, Sampler: Euler, CFG scale: 7 Size: 1024x576, Model hash: e6e8e1fc, Clip skip: 2
+
+      編集者コメント：
+      “Tung Wanの星はまだ大丈夫そうだprprpr”（麦子）
+      “私を救済してください。"(今宵鳩鳴）
+    content:
+      - best quality:1.1025
+      - masterpiece:1.1025
+      - ultra-detailed:1.1025
+      - illustration:1.05
+      - detailed light:1.05
+      - an extremely delicate and beautiful:1.05
+      - beautiful detailed eyes:1.05
+      - sunlight:1.05
+      - extremely light:1.1025
+      - extremely clothes:1.1025
+      - holy light:1.157625
+      - dynamic angle
+      - a girl
+      - angel:1.1025
+      - solo
+      - loli:1.157625
+      - light particle
+      - very long hair
+      - white hair
+      - yellow eyes
+      - glowing eyes:1.1025
+      - expressionless:1.157625
+      - light smile:1.1025
+      - white tulle skirt:1.21550625
+      - white silk:1.05
+      - looking at viewer
+      - angel wings:1.21550625
+      - large wings:1.1025
+      - multiple wings
+      - angel halo:1.05
+      - starry sky:1.157625
+      - dusk sky:1.1025
+      - floating light spot:1.1025
+      - lots of feathers:1.1025
+    preview:
+      - 7cf17eaed19de771b42e682353dfda76df81a3670cb8d3d6360d758bd9a6868c
+      - f7076984b04b071cccf139bc8a15d08e76422d1dfc3e42b8f0f95cf39558365a
+      - caf108b3349b4d58c7c298d1ef909b2c663e082aea0dc730a646457b1f874940
+      - a58ba4398c567c4f531f04094ae9b680672f999b856f7b6ca727c1c8d8b5c9f3
+      - 32be9cd48195ac6ce34a8e567d0eeacd8dc08f7834bef263690f0a2a0c702327
+      - cc17a8a3fc29b67a3705a50b2edcd409daeedc15c464e55384bcc9ecacde81dc
+  星天使(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - text
+      - error
+      - extra digit
+      - fewer digits
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - big breasts
+      - head wings
+      - dutch angle
+      - furrowed brow raised eyebrows
+      - looking away
+      - thin
+      - petite
+      - skirt lift
+      - smile:1.1025
+  黄金律(+):
+    description: |-
+      作者:Doge（QQ 575565786）
+      “ 金髪!?黄金の瞳孔!?金の服!?ゴールドのジュエリー!?金の家!?ゴールデン・ホール!とにかく、金です!”
+      パラメータ:
+      Steps: 51, Sampler: Euler a, CFG scale: 6, Size: 1024x1024, Model hash: 925997e9
+
+      編集者コメント：
+      “一般的にはギルガメッシュやセンスを通して。”（板）
+      “うわー金だ・・・狩りに戻る気分だ・・・金武器から逃げるな!?”（麦子）
+      “豪華な龍のようだ。 先に猫飯を食わせてくれ。”（今宵鳩鳴）
+      “金持ち女!!!腹ペコ腹ペコ!!!柔らかいご飯!!!”（某驾校校长）
+    content:
+      - masterpiece:1.1025
+      - best quality
+      - amazing
+      - beautiful detailed eyes:1.05
+      - 1girl:1.05
+      - extremely detailed cg unity 8k wallpaper
+      - highly detailed
+      - official art
+      - highres
+      - original
+      - blonde hair
+      - yellow eyes
+      - white skin
+      - slim legs
+      - mature female
+      - sunrise
+      - golden sky
+      - magnificent architecture
+      - beautiful detailed sky
+      - overexposure
+      - detailed background
+      - delicate gold metal decorations
+    preview:
+      - c50287c1f55746fd182e24230452dbd0c777f07bff7cad15a735c09c7c853451
+      - 8173055f6c0197f66383a1e7728344c2dcdb4d30895af2cc1e6a42e04927ede4
+      - f8fe040465bdd091415e3a70dd90ce939bb3dbc5f57d502537b6d9a144bd3c85
+      - 3322f15a583cad2a795fd396cc8bcc2675ed85909a9154144f5850079dffbe8a
+      - 8d9d0caa17dc2646431255232169480a8335ff83d2e7d84079572356d66defe1
+      - 912628c97bd7e96dee4067ae7ec911c9a0b6245ebea49579855429d3cbee7502
+      - 8d462e3110b3c4b9e86ab3d7ee43bb1ac37831986c2e12a5c421896aeb7781e1
+  黄金律(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - bad feet hand finger leg eye
+      - missing fingers
+      - worst low normal quality
+      - bad face
+      - blurry:1.1
+      - asymmetrical eyes
+      - simple background
+      - mutation
+      - poorly drawn
+      - huge breasts
+      - huge haunch
+      - huge thighs
+      - more than 2 nipples
+      - huge calf
+      - bad anatomy
+      - liquid body
+      - disfigured
+      - malformed
+      - mutated
+      - anatomical nonsense
+      - text font ui
+      - error
+      - malformed hands
+      - long neck
+      - blurred
+      - lowers
+      - lowres
+      - bad proportions
+      - bad shadow
+      - uncoordinated body
+      - unnatural body
+      - text
+      - ui
+      - cropped
+      - watermark
+      - username
+      - blurry
+      - jpeg artifacts
+      - signature
+      - 3d
+      - bad hairs
+      - poorly drawn hairs
+      - fused hairs
+      - big muscles
+      - ugly
+      - fused face
+      - poorly drawn face
+      - cloned face
+      - big face
+      - long face
+      - bad eyes
+      - fused eyes poorly drawn eyes
+      - extra eyes
+      - malformed limbs
+  機械少女 改(+):
+    description: |-
+      作者:Gloaming （QQ2762215011）
+      縦型と横型の違いはいくつもあり、縦型は1人1カブ、横型は機械少女が出やすくなっています。大根が人を飲み込む可能性は低い。
+      パラメータ:
+      パラメータ:Steps:25 CFG: scale:4 euler a
+
+      編集者コメント：
+      “うわー......機械のおばさんだー。氷のように冷たい機械と目rua!”（麦子）
+    content:
+      - masterpiece
+      - best quality
+      - illustration
+      - beautiful detailed eyes
+      - colorful background
+      - mechanical prosthesis
+      - mecha coverage
+      - emerging dark purple across with white hair
+      - pig tails
+      - disheveled hair
+      - fluorescent purple
+      - cool movement
+      - rose red eyes
+      - beatiful detailed cyberpunk city
+      - multicolored hair
+      - beautiful detailed glow
+      - 1 girl
+      - expressionless
+      - cold expression
+      - insanity
+      - long bangs
+      - long hair
+      - lace
+      - dynamic composition
+      - motion
+      - ultra - detailed
+      - incredibly detailed
+      - a lot of details
+      - amazing fine details and brush strokes
+      - smooth
+      - hd semirealistic anime cg concept art digital painting
+    preview:
+      - 1abf389ccc3f132c4985605cf7fb4da4ff45abb2e689052440157639babc8648
+      - 998f3d0d13c210d70a226847bc47cdd0db4baf7b7398e5bb0988cff98d9a0f64
+      - 24cffe1764b8899e5098cc88c422c84190b0230aeef1a731d85563f307fbfcda
+      - d79676026fa8a48b0c1379c6fcc2e6f1479b46bf895807b1e294c3ad17dd5fe8
+      - 380e83b97a1a7bcc1f3a476893af12bebac3abc54c9769c66f8782bbc99cfcd9
+      - b039e6ec7ef2e2ff97cfb93cddf7d211d13641d6f42c3b6885c8d532c69e31bf
+      - e077861f87a152ef1f740d1f1e58fff6bae992584eed339dee902d956b333cd8
+      - fa27505f4b32461f9fd38af3e05fed8e7081b6bc3a306232943a4be07a6902df
+      - 0d485e21ffbcbcaff4dcfbc202dfc3562e179085c21ee08278e33bec631f9fe3
+      - efc8aa347c9e62c74051e0c0e37ff6e12ff26d6864281e089ad8027c25e916a3
+      - dcd213c064234e65f7048b238cbc4ead59b4e8a32c0fd6793cb85b54634fa2fb
+  機械少女 改(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad legs
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digt
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg
+      - artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - artist name
+      - bad body
+      - bad proportions
+      - optical illusion
+  人魚魔法(+):
+    description: |-
+      作者:岚心
+      “おっと、人魚の尻尾は走りにくいな ”
+      パラメータ:
+      Steps: 80, Sampler: Euler a, CFG scale: 6
+
+      編集者コメント：
+      “人魚は実は生成するのがとても難しいのですが、この作品はとてもよくできていますね。”（麦子）
+    content:
+      - long hair:1.05
+      - revealing dress:1.05
+      - elbow gloves :1.05
+      - beautiful mermaid:1.21550625
+      - smirk:1.05
+      - nose blush :1.05
+      - stretch
+      - bare arms
+      - bare navel
+      - incredibly absurdres:1.1
+      - best quality
+      - beautiful detailed eyes
+      - blue hair
+      - highly detailed beautiful fishtail:1.6
+      - human hands:1.331
+      - masterpiece:1.331
+      - blue eyes:1.1
+      - medium breasts:1.21
+      - the lower body is a fish:1.9
+      - seaweed
+      - full body:1.1
+      - white seashell:1.1
+      - curved and slender fish tail:1.1
+      - the lower body is bare:1.1
+      - beautiful tailfin:1.05
+      - underwater:1.21
+      - illustration:1.1
+      - detailed water
+      - a extremely delicate and beautiful girl:1.21
+      - underwater forest:1.1
+      - sunlight:1.21
+      - fish:1.21
+      - floating:1.1
+      - watercolor (medium)
+      - an extremely delicate and beautiful:1.1
+      - coral:1.1
+      - floating hair:0.90909091
+      - glowing eyes:0.90909091
+      - splash
+      - detailed glow
+      - tyndall effect:1.1
+      - landscape
+      - hair ornament:0.90909091
+      - small whirlpool
+      - the sensation of water flowing:1.1
+      - detailed scales on a mermaid
+    preview:
+      - 5a5fde25ffc9f0f2ba1f865ff266c9b4d47620aeb964d73043fecd0cc98fd997
+      - 5320db8caf16e1fee5d36cb565d74effec757eb9c5c7d0c178ed4c268e3503d8
+  人魚魔法(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - artist name
+      - human thighs:1.5
+      - hips
+      - foot
+      - the hand becomes a fishtail
+      - thigh gap
+      - thighs
+      - the lower body is human
+      - two legs:1.5
+      - multiple breasts
+      - mutated hands and fingers:1.5 :1.1
+      - long body :1.3
+      - mutation:1.1
+      - poorly drawn :1.2:1.1
+      - bad shadow
+      - ugly
+      - extra legs:1.5
+      - too long tail:1.5
+      - one hand with more than 5 fingers
+      - one hand with less than 5 fingers
+      - one hand with more than 5 digit
+      - one hand with less than 5 digit
+  終末(+):
+    description: |-
+      作者:某驾校校长
+      “あの野郎...ろくでなしろくでなし!明らかだ...一緒に暮らそうということになり......。一緒に暮らそうと思ったのに...。嘘だ...嘘だ!”
+      パラメータ:
+      Step50, Sampler: 通用, CFG scale: 14, Size: 1408x960, Model hash: e6e8e1fc, Eta: 0.67, Clip skip: 2
+
+      編集者コメント：
+      “こんなに大きいんだ!希少な高解像度で、ドゥームならではのスタイルで。”（麦子）
+      “生中継する。”（今宵鳩鳴）
+    content:
+      - full body
+      - blood mist
+      - background urban rooftop
+      - 1 girl
+      - despair
+      - blood sakura
+      - masterpiece:1.21
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.21
+      - disheveled hair:1.21
+      - blood cherry blossom
+      - torn clothes
+      - crying with eyes open
+      - solo
+      - blood rain
+      - bandages
+      - gunpowder smoke
+      - beautiful deatailed shadow
+      - splashing blood
+      - dust
+      - tyndall effect
+    preview:
+      - 6d25449c25c9e62c08cadaca53dbe74740190a8ad0b9273633a8ce3f930d1a1a
+      - 518f661e4b4f82aef700193583cd939eba8387226156aef7373e35906c35355c
+  終末(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - long neck
+      - humpbacked
+  壊夢(+):
+    description: |-
+      作者:某驾校校长
+      “【ドロップ!船体損失率70%!?】
+      たぶん...最後にもう一度、あなたに会う時が来た...。
+      【ドロップス!船体損傷...80%の損失!】
+      さらば  my...daring...
+      【ドロップス!機械...機体損失...パーセントの損失..........................】”
+
+      パラメータ:
+      Steps: 48, Sampler: LMS Karras, CFG scale: 15, Size: 1152x640, Model hash: e6e8e1fc, Clip skip: 2
+
+      編集者コメント：
+      “うおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお”（板、but with 刀片）
+      “ボニー～!そして、背景に広がる街のようなものが、いい味を出していますね。”（麦子）
+      “背景がすごいキャラクターの質感が高い!”（antwominy）
+      “妻には悪くない!?おいおいおいおいおいおいおいおいおいおいおいおいおいおいおいおいおいおいおいおいおいおいおい”（某驾校校长）
+    content:
+      - masterpiece:1.1
+      - black hair
+      - red eyes
+      - 1girl
+      - solo
+      - delicate face:1.21
+      - an extremely delicate and beautiful:1.21
+      - strange
+      - space opera
+      - space port
+      - robot arm
+      - elbow gloves
+      - night
+      - glisten
+      - stare
+      - cyberpunk
+      - citylight:1.4641
+      - best quality:1.331
+      - beautiful detailed eyes:1.1
+      - ultra-detailed:1.21
+      - illustration:1.21
+      - disheveled hair:1.21
+      - science fiction
+      - bodysuit
+      - mechanical armor headdress
+      - bare shoulders:1.1
+    preview:
+      - 7086988af499e2f976a187649f38ad6968b9ade32fcd393be29323b8ea2cdff9
+      - e69ca89c9492447a78d4925be16e5bceb8290f717b4c0e90090c75e99bd0c9da
+      - 37155259ec78ff088c3de211884fb0be9a232c5e8b7041c79db32d346a2785b2
+      - bcf82eb659536c10b94ac49af5e6bbbf71467973954bd7c2fd60e9327af0bdd7
+  壊夢(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - long neck
+      - humpbacked
+  壊幻夢(+):
+    description: |-
+      作者:离露（QQ:1123820886 ）
+      “私はかつて、壊れた夢を見た。夢の中で光が見えず、人が大声で話しているのに、聞こえない・・・・・・。”
+      
+      パラメータ:
+      Steps: 50, Sampler: Euler, CFG scale: 12, Size: 1024x512, Model hash: e6e8e1fc, Clip skip: 2
+
+      編集者コメント：
+      “夢のような、壊れそうな美しさ。”（antwominy）
+      “悪いけど...そろそろ目を覚ましてください。”（今宵鳩鳴）
+    content:
+      - 8k wallpaper
+      - grand
+      - masterpiece:1.331
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.1
+      - an extremely delicate and beautiful:1.21
+      - dynamic angle
+      - rainbow hair
+      - detailed cute anime face
+      - loli:1.21
+      - an extremely delicate and beautiful girl
+      - flower
+      - cry
+      - water
+      - corrugated
+      - flowers tire
+      - broken glass
+      - broken screen:1.1
+      - atlantis
+      - transparent glass
+    preview:
+      - e0cda6506a9a3a48eaaaedce04242a47eeaa6abc7677738a2fa95147e4a10201
+      - 2110cbe9896e5d87cf4662811ca4aae3ae70d59e7e09dcd7b0c24598480f678e
+      - 70850c426a4ea79c5341dc17130d00a61dfdf00240d39aa669e7e037b0bcb6c4
+      - c0224df9b957522448f8453072a28df58ee9de0e3dc556e77c700bfa69cb93da
+      - ae280eaa179de652fde6797f61c341bab22744b4a58ff530a8b2abe8e9044732
+      - 73d5ad32e3d60c92112c89d6d9e56aeb91bcc5cf4fa51b7b020373ecaf82fc29
+  壊幻夢(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digt
+      - fewer digits
+      - cropped
+      - wort quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - nsfw
+      - deformed body
+      - spectacles
+      - deformed face
+      - blue face
+  血魔法 改(+):
+    description: |-
+      作者:千秋夢（QQ:1798780261 ）
+      “この方法は高い解像度とステップ数を必要とするため、慎重に使用する必要があります。”
+      パラメータ:
+      Steps: 60, Sampler: Euler a, CFG scale: 7, Size: 1600x768
+
+      編集者コメント：
+      “時間暗殺者にされ、URを引くために真性偏屈者と判断される。”（antwominy）
+      “血が綺麗な花に変わっていて、コントラストが凄いですね。”（麦子）
+      “一枚の画像に美学を追求する作者の姿勢に感服する。”（老年痴呆的疾风法师）
+      “すごい!”（板）
+      “カードドロー!!!”（今宵鳩鳴） 
+      “フェラ!!!投稿してください”（半生为夏甗麦至冬）
+    content:
+      - solo:1.21
+      - best quality
+      - amazing
+      - 1girl
+      - extremely detailed cg unity 8k wallpaper
+      - masterpiece
+      - loli:1.1
+      - white hair:1.1
+      - red streaked hair:1.331
+      - red eyes
+      - full body:1.331
+      - red hair:1.1
+      - hold a red sword:1.61051
+      - angry face:1.1
+      - beautiful detailed eyes:1.1
+      - blood drop:1.21
+      - blood fog:1.21
+      - light shafts
+      - soft focus
+      - character focus
+      - disheveled hair
+      - long bangs
+      - hairs between eyes
+      - looking at viewer
+      - lowing hair
+      - splashing blood:1.21
+      - long hair:0.90909091
+      - bloodstain:1.1
+      - fighting stance:0.90909091
+      - watercolor (medium):1.16025597
+      - white clock:1.05
+      - ultra-detailed:1.05
+      - covered in blood:1.05
+      - flowing hair:0.8677686
+      - exquisite flame:0.8677686
+      - extremely beautiful detailed anime face:1.16289291
+      - dynamic angle:0.8677686
+      - floating:0.8677686
+      - shine:0.95454545
+      - extremely delicate and beautiful girls:0.8677686
+      - bright skin:0.8677686
+      - best illustration:0.95454545
+      - best shadow:0.95454545
+      - finely detail:0.8677686
+      - depth of field (bloom):0.8677686
+      - painting:0.8677686
+      - very delicate light:0.82832457
+      - perfect and delicate limbs:0.82832457
+      - beautiful detailed dress:0.78888054
+      - flying red petals:0.78888054
+      - holy lighting:0.78888054
+    preview:
+      - 19a09753c4f255406520d34865e185f0eecc976c48f1b4a9143f1a57f7640749
+      - 1a5130864687bd08f9cf96b60c3fb2ee25527483f2a7e120f54db775e30644a0
+  血魔法 改(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - mutated hands and fingers:1.5 :1.1
+      - long body :1.3
+      - mutation:1.1
+      - poorly drawn :1.2:1.1
+      - liquid body
+      - text font ui
+      - long neck
+      - uncoordinated body
+      - fused ears
+      - huge breasts
+      - ugly:1.4641
+  写真(+):
+    description: |-
+      作者:黄砂
+      “みんなでカンフーの練習?（いいえ）
+      余分な言葉をすべて取り除いた、純粋に呪文のようなミニマムバージョン、{}強化comic文言は、より二次的な描き方にすることができるだろう、弱化comic言葉の質を高めることで、よりリアルな描き方が可能になる、高い可鍛性、安定した出力品質、在75%左右。加入floating hairよりダイナミックで生き生きとした文言になる。全身を対象としたカテゴリーエントリーを追加することは推奨されません。”
+      
+      パラメータ:
+      Steps: 100,  Sampler: Euler a,  CFG scale: 10.5 
+
+      編集者コメント：
+      “影で...?”（antwominy）
+      “カラフルじゃないとダメとか言ってる奴wwこっちで美術史100回コピーしてこいよww”  (老年痴呆的疾风法师）
+      "THE!!!SHADOWS!!!"(The Shadows）
+    content:
+      - 1male
+      - solo
+      - masterpiece:1.1
+      - best quality:1.21
+      - beautifully painted
+      - highly detailed
+      - detailed clothes
+      - detailed face
+      - detailed eyes
+      - intricate detail:1.1025
+      - detailed background
+      - dramatic shadows
+      - black and white
+      - monochrome
+      - comic:1.1025
+      - cross necklace
+      - cassock
+    preview:
+      - 9adbe7ff0aac24c85d4111db4785e8f720af5998d6fcc34dda660d3ab38a618c
+      - 6ec974b1a27ec9e8f57f3fab3adbcd0e7fce996029a80b9e8d6157a8846f2868
+      - 8669ae0c173b3dd6915dc72143c60da3e25b868e432db158b2c3696d55e18d54
+      - aea85c45a3b7cc24e58fcbccbab567e6cd728a97855ff238f87bcaf5e8806455
+      - 44e0a25803f05be3e863336a541a6fc84618f3a9eb1606dabfe3e282a310bd50
+      - 8a67500d9e196dcb08ab5e6146e0c84b6092aa24bb3afc169073304322a9ccb7
+  写真(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - longbody
+      - lowres
+      - bad anatomy
+      - bad hands
+      - missing fingers
+      - pubic hair
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - text
+      - error
+      - jpeg artifacts
+      - signature
+      - username
+      - blurry
+      - missing arms
+      - extra fingers
+      - poorly drawn hands
+      - poorly drawn face
+      - malformed limbs
+      - extra hands
+  西洋幻想(+):
+    description: |-
+      作者:凌霜雪猫
+      “キャンバスに油絵、非常に西洋的なファンタジー設定、擬似木炭スタイルのキャラクター。
+      標準三段技・華麗技入門』で解説しているウェイト付けのルールに従って、人物や背景のウェイト付けを調整することが可能です。”
+      パラメータ:
+      Euler a, CFG:7, step:30
+
+      編集者コメント：
+      “景色がきれいですねー。”（antwominy）
+      “風景はとても期待できる要素なので、この可能性を秘めたシリーズをより多くの人に知ってもらいたいと思います。”  (老年痴呆的疾风法师）
+      “いいえーっ!もう一人の風景マスター!”（半生为夏甗麦至冬）
+    content:
+      - extremely detailed cg unity 8k wallpaper:1.1
+      - masterpiece:1.1
+      - best quality:1.1
+      - ultra-detailed:1.1
+      - best illumination:1.1
+      - best shadow:1.1
+      - an extremely delicate and beautiful:1.1
+      - classic
+      - impasto:1.1
+      - photorealistic:1.1
+      - painting:1.1
+      - realistic:1.1
+      - sketch:1.1
+      - portrait:1.1
+      - cinematic lighting
+      - dynamic angle
+      - floating
+      - finely detail
+      - bloom:1.1
+      - shine:1.1
+      - glinting stars
+      - 1girl:1.75
+      - loli:1.1
+      - an extremely delicate and beautiful girl:1.21
+      - extremely detailed cute anime face:1.21
+      - extremely detailed body:1.331
+      - bare shoulder:1.1
+      - small breasts
+      - sideboob:1.21
+      - iridescence and rainbow sailor dress
+      - detailed wet clothes:1.1
+      - silk shawl:1.1
+      - bikini
+      - iridescence and rainbow eyes:1.1
+      - big top sleeves:0.90909091
+      - frills:0.90909091
+      - floating hair:0.90909091
+      - mist encircles the mountains:0.90909091
+      - dawn:0.90909091
+      - the castle stands out against the sky
+      - flowery meadow:0.90909091
+      - feather:0.90909091
+      - nature:0.90909091
+      - sunlight
+      - river:0.90909091
+      - forest:0.90909091
+    preview:
+      - 70dd029bbdd2391c9c4d37bc54547a4a65258e5c028d29c1aa7bf6c918a3404d
+      - 51486e1f0bcdac921aa8927bc81cbc6028577d3e47c625e6ac890f288f201dd8
+      - 9d288da71616667bcde1f16b01b7cd6fc3ef83deb0ea17bd4fb04c9292cbc250
+      - 6a6ab5fb111a1e298d62bb68ca5d6a897458dbb1373ce63f6fd54470282f32e4
+      - 2b9ee33a1d7c3fa6081f51d49a94b3541e6239c65cc37e4a2399a8433f52c00b
+  西洋幻想(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - inverted mountain
+      - low-quality
+      - low-quality illustration
+      - low-quality background
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing limbs
+      - three arms
+      - bad feet
+      - text font ui
+      - malformed hands
+      - long neck
+      - limb
+      - sleeveles
+      - bad anatomy disfigured malformed mutated
+      - mutated hands and fingers :1.5
+      - mutation:1.1
+      - poorly drawn :1.2:1.1
+      - disfigured
+      - malformed
+      - mutated
+      - multiple breasts
+      - futa
+      - yaoi
+      - three legs
+  占星術(+):
+    description: |-
+      作者:橘貓001（QQ:2845651288 ）
+      “感謝 steelplate 大物から教わった基本的なタグをいくつか紹介します。! ”
+      
+      パラメータ:
+      Steps: 50, Sampler: Euler a, CFG: 5-16, Clip skip: 2
+
+      編集者コメント：
+      “進化するグループに感謝!”（antwominy）
+      “SteelPlateを知らない(心が弱い)”（板）
+      “SteelPlateはダサいだけ。”  (老年痴呆的疾风法师）
+      “+1”（今宵鳩鳴）
+    content:
+      - masterpiece:1.21
+      - best quality:1.21
+      - illustration:1.21
+      - extremely detailed
+      - style girl
+      - long shot
+      - small breasts
+      - light grey very long hair
+      - scifi hair ornaments
+      - beautiful detailed deep eyes
+      - beautiful detailed sky
+      - beautifuldetailed water
+      - cinematic lighting
+      - dramatic angle
+      - very long sleeves:1.1
+      - frills
+      - formal
+      - close to viewers
+      - an extremely delicate and beautiful:1.1
+      - highres
+      - official art
+      - extremely detailed cg unity 8k wallpaper
+      - starry sky:1.21
+      - star river
+      - array stars
+      - holy
+      - noble
+      - oil painting:1.21
+      - wallpaper 8k cg:1.21
+      - realistic:1.1
+      - concept art
+      - vary blue and red and orange and pink hard light
+      - intricate light
+      - dynamic hair
+      - haircut
+      - dynamic fuzziness
+      - beautiful and aesthetic
+      - manga and anime
+    preview:
+      - 9d512b386b431c7ac8d715a5f45da8a0872fae95880697c799898ebc2ff48442
+      - 074820c57dc61fba612c8d90527ef408830477aea2cb21bc5bbb83ce50f135b8
+      - e694c2ed7550ec154eff759d0bd5d64a123990e9e748b8ed061ede89050ef02f
+      - cbac0cce4374f7403d87d6297571ffcf757ca89b55fd985ccc4acad3bab6261a
+  占星術(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - nsfw
+      - owres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - long neck
+      - humpbacked
+  黄金魔法(+):
+    description: |-
+      作者:明月珰（QQ:1816153515）
+      “メタルと宝石の華やかさを組み合わせたゴージャスなおまじないです。この呪文は、背景やキャラクターを作成するのに使用することができます。タグの手動調整が必要で、数が少し多いかもしれないので、見習いマジシャンでもある程度は使えると思います。”
+      パラメータ:
+      Step自由に(ただし、低すぎるのはNG) Cfg自由に DDIM
+
+      編集者コメント：
+      “ゴージャスな輝きを放つ、華麗なる美!”（antwominy）
+      “コロッセオがそびえ立つ!?ローマは立っている!”（今宵鳩鳴）
+    content:
+      - hide hands
+      - magic circle:1.1
+      - principal
+      - gem:1.21
+      - elegant
+      - holy:1.1
+      - extremely detailed 8k wallpaper
+      - painting:1.1
+      - ink:1.331
+      - depth of field:1.1
+      - best quality:1.21
+      - masterpiece:1.21
+      - illustration:1.1
+      - cinematic lighting
+      - ultra detailed:1.21
+      - watercolor:1.1
+      - detailed shadow
+      - 1girl:1.331
+      - detailed flooding feet:1.1
+      - long top sleeves past fingers:1.61051
+      - motion:1.21
+      - beautiful detailed fullbody
+      - leg up:1.1
+      - sapphire frills:1.331
+      - yokozuwari in the golden cage:1.331
+      - gold cage
+      - birdcage:1.1
+      - very long dress cover feet:1.157625
+      - translucent fluttering dress with lace:1.1
+      - detailed skin:1.155
+      - long bright wavy hair:1.39438095
+      - juliet sleeve:1.04761905
+      - hands hide in puffy sleeves:1.39438095
+      - bare shoulders:1.26761905
+      - flat chest:1.04761905
+      - crystal shoes:1.26761905
+      - arms behind back:1.53381905
+      - extremely detailed cute anime face:1.39438095
+      - jewelry decoration:1.04761905
+      - expressionless:1.26761905
+      - iridescent gem headwear:1.15238095
+      - beautiful detailed gemological eyes:1.15238095
+      - melting silver and gold:1.26761905
+      - looking at viewer:1.04761905
+      - detailed bare foot:1.1
+      - obsidian bracelet:1.04761905
+      - gold arm ring:1.04761905
+      - precious refraction:1.15238095
+      - splash:1.1
+      - optical phenomena:1.155
+      - detailed glow:1.04761905
+      - lightroom:1.15238095
+      - shine:1.15238095
+      - chains:1.04761905
+      - reflective:1.04761905
+      - gemological ornaments:1.04761905
+      - cosmic background of nebula:1.04761905
+      - silver thorns:1.26761905
+      - huge golden clock core above:1.15238095
+      - gear:1.04761905
+      - falling petals:1.04761905
+      - window pane:1.04761905
+      - beautiful water:1.04761905
+      - colored crystal:1.04761905
+      - mirror:1.04761905
+      - silver frame:1.04761905
+      - canopy:1.04761905
+      - detailed diamonds:1.04761905
+      - columnar crystal:1.15238095
+      - latin cross budded:1.04761905
+      - sputtered broken glass from inside to outside:1.15238095
+      - flow:1.15238095
+      - dark:1.04761905
+    preview:
+      - abacaf90d7beb178ca1f02a35108b88de6e33a535b868d1518ebc9c12261c01b
+      - 47cc7bddc336e092fe5e82a8ab25ba4058724b3d0e68b5c5532baa5ed1a69af5
+      - 3a94ea095c7e1640ba5ac08b3eefb987889a48adf7523180ff12c88c7b205f3e
+  黄金魔法(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - highres
+      - worst quality
+      - low quality
+      - normal quality
+      - artbook
+      - game cg
+      - duplicate
+      - grossproportions
+      - deformed
+      - out of frame
+      - 60s
+      - 70s
+      - 80s
+      - 90s
+      - 00s
+      - ugly
+      - morbid
+      - mutation
+      - death
+      - kaijuu
+      - no hunmans.monster girl
+      - arthropod girl
+      - arthropod limbs
+      - tentacle
+      - blood
+      - size difference
+      - sketch
+      - blurry
+      - blurry face
+      - blurry background
+      - blurry foreground
+      - disfigured
+      - extra
+      - extra arms
+      - extra ears
+      - extra breasts
+      - extra legs
+      - extra penises
+      - extra mouth
+      - multiple arms
+      - multiple legs
+      - mutilated
+      - tranny
+      - trans
+      - trannsexual
+      - poorly drawnhands
+      - extra fingers
+      - mutated hands
+      - poorly drawn face
+      - bad anatomy
+      - bad proportions
+      - extralimbs
+      - more than 2 nipples
+      - extra limbs
+      - malformed limbs
+      - missing arms
+      - miss finglegs
+      - fused fingers
+      - too many fingers
+      - long neck
+      - bad finglegs
+      - cropped
+      - bad feet
+      - bad anatomy disfigured
+      - malformed mutated
+      - missing limb
+      - malformed hands
+  浮花魔法(+):
+    description: |-
+      作者:低吟浅唱27
+      “全体に流れない限りは、見栄えも良くなります。 ”
+      パラメータ:
+      Steps: 50, Sampler: Euler a, CFG scale: 4
+
+      編集者コメント：
+      “花はとてもきれいで、絵もなかなか意味深です。”（antwominy）
+      “花の中に隠されているのは本当に素晴らしいことですが、コインなど他のものの中に隠されていたらどうでしょう!?”（雪）
+    content:
+      - ink:1.21
+      - water color:1.1
+      - bloom effect
+      - best quality:1.21
+      - world masterpiece:1.21
+      - illustration:1.21
+      - white hair:1.1
+      - gold eye:1.1
+      - 1girl:1.331
+      - beautiful detailed girl:1.1
+      - golden eye
+      - extremely detailed eyes and face:1.21
+      - long hair
+      - detailed
+      - detailed beautiful grassland with petal
+      - flower
+      - butterfly
+      - necklace
+      - smile
+      - petal
+      - silver bracelet:1.1
+      - surrounded by heavy floating petal flow:1.331
+    preview:
+      - 39a92af42bb27297b4b47d34de459b4238be5b81044e86786b828c49e375838d
+      - ae7c14ea4803763a7ae3ba1f599554a7bbbf71fd6607911aa02106ad8b63d3a3
+      - b19324f071f81e2dc460052a336634e49225cec920333d919dfd9ab5daff57c8
+      - bef5cdb3e0696211e804349267604cbd8b39ea5d188318fbc9e33aafb6d1708b
+      - c2f49a5263f1349641387cbfdaf56ef5ff5b75195d189fb003c4c15be2daad97
+      - 3ced0998ffb33037a50ab61504986108c6a9d2ec2f7d18caa4d43ab212aa9357
+      - d34f1d019bccffde8bbf83c10f2ac774b892b1efbeb528f7a2d7c354959c9443
+  浮花魔法(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - artist name
+      - bad feet
+      - nude
+      - skeleton girl
+  氷竜呼吸 上限版(+):
+    description: |-
+      作者:東雲
+      “ドラゴンレディが嫌いな人なんているわけないじゃないですか。アイスドラゴンを嫌いな人なんているわけないじゃないですか。氷竜女は問題ないんですね?
+      は、「星海に沈む」をベースにした高キャップ版で、キャップが非常に高く、ドラゴン要素を失うことがあるというデメリットがあります(
+      そこで、安定版を（ネガティブに）最適化し、より立体的で緻密な描き方にし、上限を少し犠牲にして要素の構成を安定させ、下限をかなり高くしたのです。
+      PS.どちらのバージョンも非常に高いクオリティレートを持っています。
+      安定版のタグを自分で修正することも可能、要素の削除は安定性を破壊するが、わずかな確率でスーパーURが引ける、カードドローシミュレーターとして遊べる ”
+
+      上限版パラメータ:
+      Steps: 25, Sampler: DDIM, CFG scale: 5, Size: 1280x448, Model hash: e6e8e1fc, Clip skip: 2
+
+      編集者コメント：
+      “フロストドラゴンレディ!大好きな大好きな。”（antwominy）
+    content:
+      - best quality:1.21
+      - masterpiece:1.21
+      - ultra-detailed:1.21
+      - illustration:1.1
+      - detailed light:1.1
+      - an extremely delicate and beautiful:1.1
+      - a girl
+      - solo
+      - beautiful detailed eyes:1.1
+      - blue dragon eyes
+      - vertical pupil:1.331
+      - two-tone hair
+      - blue and white
+      - shiny hair
+      - colored inner hair
+      - blue dragon wings:1.1
+      - blue hair ornament
+      - ice adorns hair
+      - dragon horns:1.1
+      - depth of field
+    preview:
+      - 561037e39da01b14bcf568e6ece580488def48e837ed981d75b904e68ea80f0d
+      - 04278aaecd634dda52d4d71e3dc46ab1f4ee42405db26cc39c00b7be454be097
+      - c53549cc48a89366ea4626dd5e4611332ae402ddcbf011474c0f7a252b027856
+      - 3df357ec4f0df713662d81f31c23f3b71286fb793ffe34070f0dd7d8f4d86dd8
+  氷竜呼吸 上限版(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - owres
+      - bad anatomy
+      - text
+      - error
+      - extra digit
+      - fewer digits
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry:1.1
+      - missing arms
+      - two girls
+  氷竜呼吸 安定版(+):
+    description: |-
+      安定版パラメータ:
+      Steps: 55, Sampler: Euler, CFG scale: 5, Size: 1024x640, Model hash: e6e8e1fc, Clip skip: 2
+    content:
+      - best quality:1.21
+      - masterpiece:1.21
+      - ultra-detailed:1.21
+      - extremely detailed cg
+      - illustration:1.1
+      - detailed light:1.21
+      - an extremely delicate and beautiful:1.1
+      - a girl
+      - solo
+      - upper body:1.21
+      - cute face:1.21
+      - expressionless
+      - beautiful detailed eyes:1.1
+      - blue dragon eyes
+      - vertical pupil:1.2
+      - white hair
+      - shiny hair
+      - colored inner hair
+      - dragon wings:1.4
+      - armor dress:1.1
+      - blue wings
+      - blue hair ornament
+      - ice adorns hair
+      - dragon horns:1.1
+      - depth of field
+      - ice crystal:1.1
+      - snowflakes:1.1
+      - loli:1.1
+      - jokul:1.61051
+    preview:
+      - 94eadd1b785a57fa4d854fab2fbb40a933940b24f5f0cb19a9ad229811090e47
+      - acc39e0a5af7831f9aae431cc953ad99655270cc7e0973a94a02deab3b055cf7
+      - 2d50871716eae77cd8692235571622d44dfe89b4c905a45c72ef502404e49a99
+      - 194d146da800affd1d79b764aa5ead30b8bb8e4eb899dfe73286e337208043b0
+      - 545a0f32a5db446f27969abbeb9cbd84c6b5825fda518af15aac3653553b6b31
+  氷竜呼吸 安定版(-):
+    description: |-
+      この記事のネガティブタグを掲載しています。
+    content:
+      - owres
+      - bad anatomy
+      - text
+      - error
+      - extra digit
+      - fewer digits
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry:1.1
+      - missing arms
+      - two girls
+      - feather
+      - simple background:1.21
+      - squinting
+
+
+        

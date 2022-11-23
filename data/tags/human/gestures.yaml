@@ -107,6 +107,7 @@ content:
       - strip
   v:
     name: ピース
+    image: 8877be4737818e2251ee771f55200f21f23df504ba7d446bf8fc320a78a7169d
     wikiURL: https://danbooru.donmai.us/wiki_pages/v.html
     alias:
       - v sign
@@ -616,16 +617,19 @@ content:
       - cupped hands
   double v:
     name: ダブルピース
+    image: f8741f3d5f4ee4f9f4dd17118b881ade5a8b8d13c7b02f5e40132342bfa28454
     wikiURL: https://danbooru.donmai.us/wiki_pages/double_v.html
     alias:
       - double peace
   fidgeting:
-    name: 神経質なジェスチャー
+    name: もじもじ/そわそわ
+    image: 940a25a0f24a5d5068ba2b29e5bb2fc466b3bf09202df2374ed3a6f9a324d6b2
     wikiURL: https://danbooru.donmai.us/wiki_pages/fidgeting.html
     alias:
       - fidget
   finger counting:
     name: 指を使って数字を比較する
+    image: e387fd01ec93659590a95086d95ac178a0af86e7c3df1dfa5b96ccfed27ff925
     wikiURL: https://danbooru.donmai.us/wiki_pages/finger_counting.html
   finger frame:
     name: 指をフォトフレームに
@@ -901,3 +905,6 @@ content:
     name: スカートをはだけて胸元が見える
     restricted: true
     wikiURL: https://danbooru.donmai.us/wiki_pages/dress_pull.html
+  floating:
+    name: 空中に浮く
+    wikiURL: https://danbooru.donmai.us/wiki_pages/floating.html

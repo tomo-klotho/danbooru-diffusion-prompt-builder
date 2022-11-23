@@ -126,9 +126,11 @@ content:
     alias:
       - floating wings
   dragon wings:
-    name: ドラゴンの翼
+    name: 竜の翼
     image: df82583cc8fd31caf4f42667a31a7e561a39863a9f4c02444f20b410756d49fe
     wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_wings.html
+    alias:
+      - blue dragon wings;
   fairy wings:
     name: フェアリーの翼
     image: 76de0a9bd4c55381d6d04ba94fdd0bd6b2579e6fd1f9e95b205e5976df13d711
@@ -291,6 +293,10 @@ content:
     name: ブレザー
     image: 35e31761c4f7b853d6145884518a23e5cfdb821ffdc73b9cb66404ed25c26fce
     wikiURL: https://danbooru.donmai.us/wiki_pages/blazer.html
+    alias:
+      - red blazer
+      - grey blazer
+      - white blazer
   suit jacket:
     name: スーツジャケット
     image: deb9d0fbf539e1cfb320a1d5cbcdf019b91e3c85f3b6f04fdbc4a666a433d4d6
@@ -563,3 +569,6 @@ content:
   hat flower:
     name: 帽子の花
     wikiURL: https://danbooru.donmai.us/wiki_pages/hat_flower.html
+  bike jersey:
+    name: サイクルジャージ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bike_jersey

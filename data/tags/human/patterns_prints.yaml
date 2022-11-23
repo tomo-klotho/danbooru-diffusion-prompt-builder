@@ -1,0 +1,181 @@
+name: 柄・プリント
+category:
+  - 人物
+content:
+  animal print:
+    name: 動物柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/animal_print.html
+    image: f8e92b8f78b57f2adf7a03aadbeb6d159cfd723fe140539621b15d645ac29113
+  bat print:
+    name: コウモリ柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bat_print
+    image: 10a4e99a285a5863f2d94dd6933523ddbb685179d4fda845b8aae47a2ee7034e
+  bear print:
+    name: 熊柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bear_print
+    image: 56de92679cf01a9214790a04babe048415a5387d449245ff8a2a35610b5aab83
+  panda print:
+    name: パンダ柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/panda_print
+    image: 04293998d76596d88a4f9a4732d0091126a553214791f253ce017bfbccece38a
+  bird print:
+    name: 鳥柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bird_print
+    image: a51f0c7228b1fa56f2f329d62638060d359099fb3782e813eaf06a7d22e82912
+  bunny print:
+    name: ウサギ柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bunny_print
+  butterfly print:
+    name: 蝶柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/butterfly_print
+    image: 3b379e4abf7dae0825e86291912517aea27e785042aecbcf7a9d818520021eef
+  cat print:
+    name: 猫柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cat_print
+  sand cat print:
+    name: 砂猫柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sand_cat_print
+  cow print:
+    name: 牛柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cow_print
+    image: cc2339d6731d5c566c8e0847492556a11d7da389aad986dbfd6dbc688bd9454a
+  dog print:
+    name: 犬柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dog_print
+    image: b18128da8716eee999fb3dfd1108c3515f9e9d7b80f76434e5b4c720c34d67ee
+  fish print:
+    name: 魚柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fish_print
+  goldfish print:
+    name: 金魚柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/goldfish_print
+  shark print:
+    name: サメ柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/shark_print
+    image: 55a7fb414cd4f306aefe83888ad20c0ac6d7acbfa132eeaa08e46516e9c1a8d3
+  fox print:
+    name: キツネ柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fox_print
+    image: fe38053ec7a3be5de68647cc67ba3d669c8f0d4b6bb1c35e1a3cb989b3efe6ef
+  frog print:
+    name: カエル柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/frog_print
+    image: fe7e74fa52bb3d166233f45361c1953fcbccccf4fafdbf0f63182ff1b8b63384
+  giraffe print:
+    name: キリン柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/giraffe_print
+    image: d435ed339c60cca3837a695f867f487ad04d13c0c3af8d86cfcd31c8206bb359
+  jaguar print:
+    name: ジャガー柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jaguar_print
+    image: b72fc1afea9ea27b8f785ac6f787a0bdde9af95fafdc7dd654f2ff2be1389742
+  leopard print:
+    name: 豹柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/leopard_print
+    image: 7f94a4d476024ae3fee36193f8da0f882d96e95c250ac63dda538e797f6279be
+  serval print:
+    name: サーバル柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/serval_print
+  spider print:
+    name: 蜘蛛柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/spider_print
+    image: 27406988f9e2b2ff079f67b157b6f297de803d3ac88e3ff4a973c23f4aeb4551
+    alias:
+      - spider web print
+  snake print:
+    name: 蛇柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/snake_print.html
+    image: 03f4e6ca806e25e00bad8cde7cc2ceeef11c6706b3200844e9c626ff0e5bb31e
+  tiger print:
+    name: 虎柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tiger_print
+    image: 8b466bd22f8b3c2277a113c41dfa9e51a600a8a1391706acd02133b739d657d6
+  white tiger print:
+    name: ホワイトタイガー柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_tiger_print
+  zebra print:
+    name: シマウマ柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/zebra_print
+    image: b5d9b08261bd329274091b60f14f151f450fb36aef87bc0d4336993ae6158e6d
+  floral print:
+    name: 花柄
+    wikiURL: https://danbooru.donmai.us/wiki_pages/floral_print.html
+    image: 594eaa7ed4fc56be86fcea4a7f1df84650504d07a79fd5a2db459699bec5b701
+    alias:
+      - floral pattern
+      - flower print
+      
+  star print:
+    name: 星柄  
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star_print.html
+    image: 68561bd450c84df7ce1749826b221b7d7d156e9dbd0792fefb47f22d4ccf116e
+  Camouflage:
+    name: 迷彩
+    wikiURL: https://danbooru.donmai.us/wiki_pages/Camouflage.html
+    image: b206574ec10dc43e88f399171bf452dc6b8aec1d03b3f8afbe7f3d38ad8fd544
+  flag print:
+    name: 国旗柄
+  heart print:
+    name: ハート柄
+    image: 902a3f2afa11d395d472cfb2288921610b3af0e4a62454c494d8e97da17dd24a
+  leaf print:
+    name: 葉柄
+    image: fe6e9c92ab334ec8c01f474c017bde2441e453792b3c9139197c0a386889099c
+  rose print:
+    name: 薔薇柄
+    image: 3cdfca07d26291e12d55038902d72a7dd5f591df907125eec407f0b211d190a8
+  snowflake print:
+    name: 雪結晶柄
+    image: 1e9125c1bffcaf7f25b3173aa7c5ac6005282334a2bef7a64edc7c54d987df2d
+  clover print:
+    name: クローバー柄
+    image: 10a6d861220c85efd7677ec375772583abb0941e4f30fec3413b3b84fb6335bd
+  skull print:
+    name: ドクロ柄
+    image: d3967a2e62b38a4425162a803e4a27330e4c1f70a0ab0b032a62b2c78a9ed30f
+  character print:
+    name: キャラクター柄
+  cherry blossom print:
+    name: 桜柄
+    image: b81d94015ffb86d8db5ecc3ade8423c6093372217487615df88e94f565029e6e
+  flame print:
+    name: 炎柄
+    image: 4843d27dd4ca0870584a7073ec16c74ee6e3573a1e3fb57fa1881fe237a96981
+  constellation print:
+    name: 星座柄
+    image: 97221746c051b9795acc3f0e9ca1abe309e016d245f99ba8c19b48573c370a52
+  crescent print:
+    name: 三日月柄
+    image: f8ee9a11b0bb671a1e8b2db2b09ab2cf3b8b74b28d8cc4276a134fff2147c48d
+  musical note print:
+    name: 音符柄
+    image: 0af6cfc5e3fd35965cc50b9af7b6d683364914cb13b2a47b63382336feabab2c
+  skeleton print:
+    name: 骸骨柄
+    image: 94210d30bb20fd8ba83c60cbc50250dbe92da5c9f3ea4025d30f5d194380d59c
+  dragon print:
+    name: ドラゴン柄
+    image: 3d804ba59cd12b61b90cb2a7e7f3a708f2cde1b50c97a5f033a42af4715de35d
+  lightning bolt print:
+    name: 稲妻柄
+    image: f078c77fffbe8033a9f7db427b665a866c339d4f003e79b439ae6a30ec784b87
+  Geometric pattern print:
+    name: 幾何学模様
+    image: 8f9bcb3f363b22f81c054de7f8c655d0926ba098bd239a404dd7e6a437ff58a3
+  american flag pattern print:
+    name: 星条旗柄
+    image: 36606855f3ef617330b668028e498bd208d607ba257b49cacf70776f889efb0a
+  striped:
+    name: ストライプ
+    image: 4945f85684a681303c65b45acc95205203124a463cc750d5f4777a3b415916af
+    wikiURL: https://danbooru.donmai.us/wiki_pages/striped.html
+    alias:
+      - stripes
+  polka dot:
+    name: 水玉
+    image: 50544ebdfa23745badf2e69ac6fbb696b0f76dc73c5de847bfa2d0b9b3403cbe
+    wikiURL: https://danbooru.donmai.us/wiki_pages/polka_dot.html
+    alias:
+      - polka dots
+      - polka-dot
+  

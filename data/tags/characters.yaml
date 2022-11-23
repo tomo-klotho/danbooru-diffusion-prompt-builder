@@ -20,6 +20,15 @@ content:
     alias:
       - aeris gainsborough
     wikiURL: https://danbooru.donmai.us/wiki_pages/aerith_gainsborough.html
+    image: 6f3c6c5608ee837740085ff6838ce82e966bc6ceb31d389ce27d999e62d845dc
+  tifa lockhart:
+    name: ティファ・ロックハート(FFVII)
+    alias:
+      - tifa lockhart's refined dress
+      - Tifa Lockhart's sporty dress
+      - Tifa Lockhart's exotic dress
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tifa_lockhart.html
+    image: e415116a9fcfc1aafd3fc2a17fab2953d07e0aa32ea2997f7b44a764ff4e62a4
   afuro terumi:
     name: 亜風炉 照美(イナズマイレブン)
     alias:
@@ -31,20 +40,24 @@ content:
   ahri:
     name: 阿狸(League of Legends)
   aida mana:
-    name: 相田マナ(ドキドキ！プリキュア)
+    name: 相田マナ(ドキドキ!プリキュア)
     wikiURL: https://danbooru.donmai.us/wiki_pages/aida_mana.html
   aino megumi:
-    name: 愛乃めぐみ(ハピネスチャージプリキュア！)
+    name: 愛乃めぐみ(ハピネスチャージプリキュア!)
     wikiURL: https://danbooru.donmai.us/wiki_pages/aino_megumi.html
   aino minako:
     name: 愛野美奈子(美少女戦士セーラームーン)
     wikiURL: https://danbooru.donmai.us/wiki_pages/aino_minako.html
+    image: f660f606d7734195743fe9227b324ed85ae9c2b99bcc1d45d86a405abd93f814
+    alias:
+      - sailor venus
   aircraft carrier oni:
     name: 空母棲鬼(艦これ)
     wikiURL: https://danbooru.donmai.us/wiki_pages/aircraft_carrier_oni.html
   aisaka taiga:
-    name: 逢坂大河(とらドラ！ )
+    name: 逢坂大河(とらドラ! )
     wikiURL: https://danbooru.donmai.us/wiki_pages/aisaka_taiga.html
+    image: 3a09c46929c0d1c2419f85b0f4b2b2b4dfbb9bdfcbbde42256e96bf8abfdc41d
   aisha landar:
     name: アイシャ・ランダー(elsword)
     alias:
@@ -53,6 +66,11 @@ content:
   akagi (azur lane):
     name: 赤城(アズレン)
     wikiURL: https://danbooru.donmai.us/wiki_pages/akagi_(azur_lane).html
+    image: 215ca802e91c4fb0fe8147679cc5ad7285f90c8879793b0745a63fe22e866bf9
+  akagi (kancolle):
+    name: 赤城(艦これ)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/akagi_(kancolle)
+    image: 96a67c291ba17ba158278b889c2c7aaeff6bf9a852caaef8ec6303af1f462e71
   akagi miria:
     name: 赤城みりあ(アイマス)
     wikiURL: https://danbooru.donmai.us/wiki_pages/akagi_miria.html
@@ -71,6 +89,7 @@ content:
   akemi homura:
     name: 暁美ほむら(魔法少女まどか☆マギカ)
     wikiURL: https://danbooru.donmai.us/wiki_pages/akemi_homura.html
+    image: 7296ce58c145aef7630bddfd319238e1c21e985809b4b8c4d7b9a15cfedf35a3
   aki (girls und panzer):
     name: アキ(ガールズ＆パンツァー)
     wikiURL: https://danbooru.donmai.us/wiki_pages/aki_(girls_und_panzer).html
@@ -84,14 +103,16 @@ content:
     name: 亞北ネル(Vocaloid)
     wikiURL: https://danbooru.donmai.us/wiki_pages/akita_neru.html
   akiyama mio:
-    name: 秋山澪(けいおん！)
+    name: 秋山澪(けいおん!)
     wikiURL: https://danbooru.donmai.us/wiki_pages/akiyama_mio.html
+    image: e200b4a9d23075db43c07f7afa8157fa3d6927d67ab9f4f6dc4b79e41c7cdd01
   akiyama yukari:
     name: 秋山優花里(ガールズ＆パンツァー)
     wikiURL: https://danbooru.donmai.us/wiki_pages/akiyama_yukari.html
   akizuki ritsuko:
     name: 秋月律子(アイマス)
     wikiURL: https://danbooru.donmai.us/wiki_pages/akizuki_ritsuko.html
+    image: 842bd89e57436ed472377c41a2f942af4cb307b870b37571fae02aaa6d51506b
   akizuki ryo:
     name: 秋月凉(アイマス)
     alias:
@@ -115,6 +136,7 @@ content:
   alice margatroid:
     name: アリス・マーガトロイド(東方Project)
     wikiURL: https://danbooru.donmai.us/wiki_pages/alice_margatroid.html
+    image: 2db46fc51dd594e129f896b86dafe0875b9ad3a26ad42ca5ee6d315849aa0be9
   alice margatroid (pc-98):
     name: アリス・マーガトロイド(東方Project PC-98)
     alias:
@@ -141,3 +163,33 @@ content:
     alias:
       - attila (fate/grand order)
     wikiURL: https://danbooru.donmai.us/wiki_pages/altera_(fate).html
+  hatsune miku:
+    name: 初音ミク
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hatsune_miku.html
+    image: 4e3df730ba20e8039014857344087a343f467edbd43dca91d175c18cebef341d
+    alias:
+      - Hatsune Miku (Append)
+      - Hatsune Miku (Vocaloid3)
+      - Hatsune Miku (Vocaloid4)
+  souryuu asuka langley:
+    name: 惣流・アスカ・ラングレー
+    wikiURL: https://danbooru.donmai.us/wiki_pages/souryuu_asuka_langley.html
+    image: bafeaa088656255e5e615a2295616eab062745e6c5772b943f08d1b1dbb6413a
+  ayanami rei:
+    name: 綾波レイ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ayanami_rei.html
+    image: a3fc8cd69a77479087cea798b400f58d0aea944bdf3dbedd4c1250253fee8b2a
+  makinami mari illustrious:
+    name: 真希波・マリ・イラストリアス
+    wikiURL: https://danbooru.donmai.us/wiki_pages/makinami_mari_illustrious.html
+    image: b90616587f459dc9c02a877e73f1f3386005564037d1ceed3ac232dc2be11342
+  ganyu (genshin_impact):
+    name: 甘雨(原神)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ganyu_(genshin_impact)
+    image: ae8f63d58a3f63350f2874aa5f8c176589472d75a716eb0aedcd68596bde2448
+  yamato (kancolle):
+    name: 大和(艦これ)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yamato_(kancolle).html
+    image: c70dde8e54dab5a2aad8ce1c93a3eabf6d677a2ba56dc36e8f6159f0e522b7aa
+
+  

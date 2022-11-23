@@ -1,0 +1,59 @@
+name: 昆虫
+category: 
+  - 生物
+content:
+  bug:
+    name: 虫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bug.html
+  ant:
+    name: 蟻
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ant.html
+  bee:
+    name: 蜂
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bee.html
+  beetle:
+    name: 甲虫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/beetle.html
+  butterfly:
+    name: 蝶
+    wikiURL: https://danbooru.donmai.us/wiki_pages/butterfly.html
+  centipede:
+    name: ムカデ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/centipede
+  cicada:
+    name: 蝉
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cicada
+  cockroach:
+    name: ゴキブリ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cockroach
+  dragonfly:
+    name: トンボ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dragonfly
+  firefly:
+    name: 蛍
+    wikiURL: https://danbooru.donmai.us/wiki_pages/firefly
+  fly:
+    name: ハエ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fly
+  grasshopper:
+    name: バッタ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grasshopper
+  ladybug:
+    name: てんとう虫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ladybug
+  millipede:
+    name: ヤスデ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/millipede
+  mosquito:
+    name: 蚊
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mosquito
+  moth:
+    name: 蛾
+    wikiURL: https://danbooru.donmai.us/wiki_pages/moth
+  pillbug:
+    name: ダンゴムシ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pillbug
+  wasp:
+    name: スズメバチ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wasp
+    

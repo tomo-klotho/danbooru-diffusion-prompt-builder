@@ -1,0 +1,30 @@
+name: 動物
+category: 
+  - 生物
+content:
+  animal:
+    name: 動物
+    wikiURL: https://danbooru.donmai.us/wiki_pages/animal.html
+  bird:
+    name: 鳥
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bird.html
+  fish:
+    name: 魚
+    wikiURL: https://danbooru.donmai.us/wiki_pages/fish.html
+  dog:
+    name: 犬
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dog.html
+  cat:
+    name: 猫
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cat.html
+  rabbit:
+    name: 兎
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rabbit.html
+  horse:
+    name: 馬
+    wikiURL: https://danbooru.donmai.us/wiki_pages/horse.html
+  wolf:
+    name: 狼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wolf.html
+  
+  

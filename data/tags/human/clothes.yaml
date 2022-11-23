@@ -53,7 +53,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/dress.html
   gym uniform:
     name: 体操服
-    image: c81ef12b4c03fd6706301e29db40ced0367f1ff2b27c39aeeb6b20640cfde35b
+    image: 09ef77981bd798a7f0d80206f393a39bb4843e478e66a5ce16ea6bbe78b3c907
     wikiURL: https://danbooru.donmai.us/wiki_pages/gym_uniform.html
     alias:
       - gym clothes
@@ -200,19 +200,6 @@ content:
   tartan:
     name: タータン
     image: bf877648ee007776c1555371f6926b1e4692a147df28c97433a5c763b78140b5
-  striped:
-    name: ストライプ
-    image: 4945f85684a681303c65b45acc95205203124a463cc750d5f4777a3b415916af
-    wikiURL: https://danbooru.donmai.us/wiki_pages/striped.html
-    alias:
-      - stripes
-  polka dot:
-    name: 水玉
-    image: 50544ebdfa23745badf2e69ac6fbb696b0f76dc73c5de847bfa2d0b9b3403cbe
-    wikiURL: https://danbooru.donmai.us/wiki_pages/polka_dot.html
-    alias:
-      - polka dots
-      - polka-dot
   frills:
     name: フリル
     image: b099df2fcd5c60ef0db6e3eff521fc89900c6a3ea024e11540f2f1cf18742768
@@ -351,7 +338,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/maid_bikini.html
   micro bikini:
     name: マイクロビキニ
-    image: ff3f1b97bcd6f579ca5e361b5eb2283afbd2bf38924b12b529fd53dab9beefc5
+    image: d6bcf0906d523cd3f46bb8de7f00e6d67302cc7a43a72a320f99af725ab7a3dc
     wikiURL: https://danbooru.donmai.us/wiki_pages/micro_bikini.html
     alias:
       - microbikini
@@ -373,7 +360,7 @@ content:
       - shell bra
   slingshot swimsuit:
     name: スリングショット水着
-    image: 8bf2b8b4a363a3333a5a5355801ffdb7e04073bc2fe4ae5346b89e736420e575
+    image: 5ead52ac253c539a23c2fbab21b57e3aa913f0a8f506320d87ab86f39e140fe1
     wikiURL: https://danbooru.donmai.us/wiki_pages/slingshot_swimsuit.html
     alias:
       - sling bikini
@@ -567,7 +554,7 @@ content:
       - sailor suit
   sailor senshi uniform:
     name: セーラー戦士制服
-    image: c0bdc65149b0a78d91cab4b5a71fabc0e19859b0d135fd91b6a2c800858a6fab
+    image: 2a55dce88b7b6113cd0c391c3ce39b06618b2f09533eaa6639e42d3480c6573f
     wikiURL: https://danbooru.donmai.us/wiki_pages/sailor_senshi_uniform.html
   santa costume:
     name: サンタ服
@@ -635,159 +622,190 @@ content:
   black dress:
     name: 黒ワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/black_dress.html
+    image: 336ea74d1029b8c0c582bdc6776a718cf80e0a188fbf407b888b168d63b9a876
   blue dress:
     name: 青いワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_dress.html
+    image: fbbe7a53738b6636390ff61954f8f5095b7e5b4d4bc7face3079292dd3945dc8
   brown dress:
     name: ブラウンのワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/brown_dress.html
+    image: 7d57d447483590b42fb6cda8e659fff30dd6f6c6f88ccdb208769849551b1aff
   green dress:
     name: グリーンのワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/green_dress.html
+    image: efaf8479853666459b8321f8c9fcdb60cce2661f5de3de20f2fa6e0773916aac
   grey dress:
     name: グレーのワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/grey_dress.html
+    image: bccef08cbb47daf285a0cdde80552d1d5f42ed5b0997448937d73c21530b3a4f
     alias:
       - gray dress
   orange dress:
     name: オレンジのワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_dress.html
+    image: 123897510dfce864d3cd46ec777e77bd1e45f712ce509c7ca46562c78534893b
   pink dress:
     name: ピンクのワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/pink_dress.html
+    image: c746bc71ebc2610d1d2525f3cf531982edc598067ded5583b58b39d66052d4cd
   purple dress:
     name: 紫のワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/purple_dress.html
+    image: b45449b600cb7026372d528133abeb92d10b0eec9702a89b78ebc287d930e72b
   red dress:
     name: 赤のワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_dress.html
+    image: 2ba268789eeb60f0bb7a89c6f24162738ff7f806c020dab6c4c5dce3dce8ac26
   sepia dress:
-    name: レディッシュブラウンドレス
+    name: セピアのワンピース
+    image: 96dc198aa96e4041097d42ba0cd543118a7bf4e0e987ddf9335840715cad55f5
   white dress:
     name: 白ワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_dress.html
+    image: 358ed05c4ee6994a3c52eb3e54a8ff13641a2e0657ae92c27220f1a93e9e3358
   yellow dress:
     name: 黄色いワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_dress.html
+    image: 4a7c7006dafbfeffe1a3b7fc36fcfed634f65ab56d37d639bc8200a5ad4b1fee
   multicolored dress:
     name: 多色ワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_dress.html
+    image: c4132ac194afedc089d26a6ff9f908011ba14f3f0533a8575e9acdddd34945d4
   two-tone dress:
     name: 2色のワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/two-tone_dress.html
+    image: 3fde3664ee59df544fac3d06ed8001f8aa9b7f11bd7d3fb4dfefa765c09f74d6
   argyle dress:
     name: ダイヤ柄のワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/argyle_dress.html
+    image: 11f7bf24e7e2e1ba9c03bd8f920538fb06f965721046eb0859d9cec53c034f43
   checkered dress:
     name: チェック柄のワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/checkered_dress.html
-  flag dress:
-    name: 国旗ドレス
-  plaid dress:
-    name: チェック柄のワンピ
-    wikiURL: https://danbooru.donmai.us/wiki_pages/plaid_dress.html
+    image: a0fc0da16cc73cb6920086cc2db8f65eba808799221bedf83ab4b43821779e38
+    alias:
+      - plaid dress
   polka dot dress:
-    name: 水玉フラワープリントのワンピース
+    name: 水玉模様ワンピース
+    image: 3eb6b092602f7bb577b2f521a4ff01c7a1290bfd490f00238011967283339d36
     alias:
       - polka-dot dress
   print dress:
     name: 柄ワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/print_dress.html
+    image: 42cb9f87df1ed7178f41ddddda408bb2bfea00cf7910faa3c99e03113aab4dc9
   striped dress:
     name: ストライプワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/striped_dress.html
+    image: 748e980d4b0fffc7db58541f28d45c59686e9983ecc99058a27964df590c88fd
   vertical-striped dress:
     name: 縦縞ワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/vertical-striped_dress.html
+    image: 26ab94e648d9ffe6c156863562f11ccf28cab17077c7b83ba7ea7f2260c0ed47
   pinstripe dress:
     name: ピンストライプ柄のワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/pinstripe_dress.html
+    image: 1ccde71c4422b806d3404664d7031c20730588650cba4c2c7b88bc137bc27ac2
   frilled dress:
     name: フリル付きワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/frilled_dress.html
+    image: da8a3726432aa4bbecd7c19c6086f7bd911125a06b12ba0ddbd22b57aba84386
     alias:
       - frilly dress
       - ruffled dress
   fur-trimmed dress:
-    name: 裾にファーをあしらったワンピ
+    name: ファー付きワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/fur-trimmed_dress.html
-  half-dress:
-    name: 半開きのスカート
-  highleg dress:
-    name: ハイカットロングドレス
+    image: 6caaf348da2b099f7d68aa8511ac77351532c1ec8620629ee38277235c1e9e63
   high-low skirt:
     name: ハイロースカート
+    description: 後ろより前が短いスカートまたはワンピース
     wikiURL: https://danbooru.donmai.us/wiki_pages/high-low_skirt.html
+    image: 7694c2602336afd3d072df928e068f19b9fb4845e0ea2c95571c5fbe1c4c877a
     alias:
       - short front long back skirt
-  hobble dress:
-    name: 長くてタイトなドレス
-    wikiURL: https://danbooru.donmai.us/wiki_pages/hobble_dress.html
-  impossible dress:
-    name: 不可能なドレス
-    wikiURL: https://danbooru.donmai.us/wiki_pages/impossible_dress.html
   lace-trimmed dress:
     name: レーストリム ドレス
     wikiURL: https://danbooru.donmai.us/wiki_pages/lace-trimmed_dress.html
+    image: 1239128d8712988321b5a5dcf5eaefb11169241c233aaa61f72b9f35c0a1fe42
   latex dress:
     name: ラテックスドレス
     wikiURL: https://danbooru.donmai.us/wiki_pages/latex_dress.html
+    image: 502e03359329fcf9b1e3c87f236251fe3de89cc7bb96947db039d8230f78fd89
   long dress:
     name: ロングワンピース
     wikiURL: https://danbooru.donmai.us/wiki_pages/long_dress.html
+    image: 5271a56f50f09f5670a226c9a6b9ef8e20a668c759f1d27fcba7395fcdab94ca
   ribbed dress:
     name: リブドレス
     wikiURL: https://danbooru.donmai.us/wiki_pages/ribbed_dress.html
+    image: d9f7d65f05eee9b66f3fc432e11c02f27241239567f40c3bb05ce959711aef97
   ribbon-trimmed dress:
     name: リボントリム ドレス
     wikiURL: https://danbooru.donmai.us/wiki_pages/ribbon-trimmed_dress.html
+    image: 620ba3186882a91576d8e6fe3364dd56c79066dace16768a1a2ac1a0d24d4b1f
   short dress:
     name: 短いドレス
     wikiURL: https://danbooru.donmai.us/wiki_pages/short_dress.html
+    image: c1f2a6da8efa3a01674118bebf793777966fdeff7fe7a575a346fd969b119d11
     alias:
       - mini dress
       - minidress
   side slit:
     name: サイドスリット
     wikiURL: https://danbooru.donmai.us/wiki_pages/side_slit.html
+    image: 72a5291533d69f0a8c4a4f7d43941fe236bc19f601d0e5041fc9540543eb5b18
     alias:
       - leg slit
   taut dress:
     name: タイトなドレス
     wikiURL: https://danbooru.donmai.us/wiki_pages/taut_dress.html
+    image: 7a2ffe7886a6e6c6cc286338a7a98b89ccdf2d22ba73db386bc2af423239b951
+    alias:
+      - tight dress
   see-through dress:
     name: シースルードレス
     wikiURL: https://danbooru.donmai.us/wiki_pages/see-through_dress.html
+    image: 2f2b1576eb56ce0377a172bbb85b98fd456f5d998186377deb33167f813c894c
   sleeveless dress:
     name: ノースリーブワンピース
     wikiURL: https://danbooru.donmai.us/wiki_pages/sleeveless_dress.html
+    image: 4e5e7a72fab001c9c62939b075f4e824835f3814a02b2df0f80b6fe3fdd2c93b
   cake dress:
     name: ケーキドレス
     wikiURL: https://danbooru.donmai.us/wiki_pages/cake_dress.html
-  coat dress:
-    name: コートドレス
-    wikiURL: https://danbooru.donmai.us/wiki_pages/coat_dress.html
+    image: 0d8abd84c4e4c587c75a8dff7e036a8a04630f2e8e16be4af46a9afccedd1440
   cocktail dress:
     name: カクテルドレス
     image: 48196a56638a45605f3003f1713d1ffd7a50b2734c031b3a440687dc9146d1cc
     wikiURL: https://danbooru.donmai.us/wiki_pages/cocktail_dress.html
   denim dress:
     name: デニムワンピース
+    image: 6d4c7fb277080a8bdf8ae21a61c2aba11fb0af30424f4567bf4cd56a0e0ad914
   dirndl:
     name: ディアンドル
     wikiURL: https://danbooru.donmai.us/wiki_pages/dirndl.html
+    image: c910394873a231b30da71ef295af8ae4ca036a6dc356c28258180ea596747d1f
   funeral dress:
     name: 喪服
     wikiURL: https://danbooru.donmai.us/wiki_pages/funeral_dress.html
+    image: 8951a484d1b52a1a28b4c5767c478717508fa7418810343b9aed98fa5a49b8fc
+    alias:
+      - black funeral dress
   mermaid dress:
     name: マーメイドドレス
     wikiURL: https://danbooru.donmai.us/wiki_pages/mermaid_dress.html
+    description: 大抵脚が無くなる
+    image: dc989e46e5dce4f0a4d114a03f60d406ac1345ca45437c636c470ae4583c5101
   negligee:
     name: ネグリジェ
     wikiURL: https://danbooru.donmai.us/wiki_pages/negligee.html
+    image: 55ef60351cecc2695e6464f4403a13d7bfb0a5b125c936d0f557b488e2418172
   nightgown:
     name: ナイトガウン
     wikiURL: https://danbooru.donmai.us/wiki_pages/nightgown.html
+    image: ad777810f8c28bd349c2d778cc26db82c07537f19de1294370a9b60245b368a8
     alias:
       - nighty
       - night gown
@@ -796,7 +814,7 @@ content:
       - night dress
   microskirt:
     name: マイクロミニスカート
-    image: 1cf70d597441264c220946eb81c42eb723b2afe991fed96cd69289e0070078de
+    image: 1f23d0e720428aa8904e76f923a0474d2d598c6c58ccee2aa7f6597708b4eaaf
     wikiURL: https://danbooru.donmai.us/wiki_pages/microskirt.html
   pencil dress:
     name: ペンシルドレス
@@ -815,32 +833,34 @@ content:
   pinafore dress:
     name: エプロンドレス
     wikiURL: https://danbooru.donmai.us/wiki_pages/pinafore_dress.html
+    image: eecde18bd6bff72d1426545431f2000786f6eccffda1cb726f7edc1bf8d35608
     alias:
       - jumper
   santa dress:
     name: サンタドレス
     wikiURL: https://danbooru.donmai.us/wiki_pages/santa_dress.html
+    image: f50be296da16e6f9fa9359a7c29c61b5ce6f51d2077edab8985df181657ed5b5
   sweater dress:
     name: ニットワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/sweater_dress.html
+    image: 186bb0955af8b56a81c26971f91c0730768005f7cd5bd42f62be5d1bd1da5d9f
     alias:
       - sweaterdress
   tennis dress:
-    name: テニスドレス
-  trapeze dress:
-    name: トラピーズドレス
-    wikiURL: https://danbooru.donmai.us/wiki_pages/trapeze_dress.html
-  tube dress:
-    name: チューブドレス
-    wikiURL: https://danbooru.donmai.us/wiki_pages/tube_dress.html
+    name: テニスワンピース
+    image: 1b56c8f9307a94588f508810e8d0826e3a05d10e0134600d2a6fe93aedb8362e
   vietnamese dress:
     name: アオザイ
     wikiURL: https://danbooru.donmai.us/wiki_pages/vietnamese_dress.html
+    image: d3deb1f36f2db38bd96198398593085d25632fd6d3a3910cb9a3b90f7125871c
     alias:
       - ao dai
   wet clothes:
     name: 濡れ透け衣装
     wikiURL: https://danbooru.donmai.us/wiki_pages/wet_clothes.html
+    image: d90d62a1eec2907b739ec0487e550f3ddf400f2555848913c66c26e1992922b0
+    alias:
+      - detailed wet clothes
   stained clothes:
     name: 汚れた服
     wikiURL: https://danbooru.donmai.us/wiki_pages/stained_clothes.html
@@ -850,4 +870,37 @@ content:
   sweaty clothes:
     name: 汗ばんだ服
     wikiURL: https://danbooru.donmai.us/wiki_pages/sweaty_clothes.html
+    image: 8108df5cf3f4171d4037067eadd481a7aeb904b3f8792a7be3a30178696914cf
+  big top sleeves:
+    name: 先が広い袖
+    image: 41b1de9d4b4338a43a9707fe0247a2630252057e7249588bc568556ef3eadcc6
+  plugsuit:
+    name: プラグスーツ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/plugsuit.html
+    image: fe0a954ca05cd2f7bbcf499df0456c0606d1018f4cce4ebec6ada8b9813a4af2
+  jacket:
+    name: ジャケット
+    description: 羽織るもの全般
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jacket.html
+  track jacket:
+    name: ジャージ
+    image: 33795645bd02f7dc148bcc0e2648355036477428cfb9dfb169ec823bb80f668d
+  cycling uniform:
+    name: サイクルウェア
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cycling_uniform.html
+    image: c44d8b579873ca4ce064f3e7616a52133cade9a75477113b863bdb5dc46d030a
+    alias:
+      - cycling clothing
+      - cycle wear
+  sportswear:
+    name: スポーツウェア
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sportswear
+    image: e92b4b6419d3802f50945ebb82a6fd8ac89b50d845b9a48af4d198bbe9697d76
+    alias:
+      - sports uniform
+  armor:
+    name: 鎧
+    wikiURL: https://danbooru.donmai.us/wiki_pages/armor
+    image: 7b28934fd2b865160355dee5aa9a8ea2184e86d54a831d99b688e73a4fd0e320
+
   

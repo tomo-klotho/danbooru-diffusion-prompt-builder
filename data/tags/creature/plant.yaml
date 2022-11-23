@@ -1,0 +1,20 @@
+name: 植物
+category: 
+  - 生物
+content:
+  leaf:
+    name: 葉
+    wikiURL: https://danbooru.donmai.us/wiki_pages/leaf
+    alias:
+      - leaves
+  vines:
+    name: 蔓
+    wikiURL: https://danbooru.donmai.us/wiki_pages/vignetting.html
+  grass:
+    name: 草
+  root:
+    name: 根
+  tree:
+    name: 樹木
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tree.html
+  

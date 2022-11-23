@@ -78,7 +78,7 @@ content:
       - flower in hair
       - hair flowers
   hair ornament:
-    name: 头饰
+    name: 髪飾り
     image: 3659ffa18917dcfbc1b641114cccec1d859721d25f893ce07d40d3888e3f2ad3
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_ornament.html
     alias:
@@ -92,6 +92,8 @@ content:
     alias:
       - bow tie
       - neck bow
+      - bowties
+      - white bowties
   hair bow:
     name: リボンヘアアクセサリー
     image: 67d720c3bee3ae4eff77c57376778ac0c2172c64616804a987bc5199b6a05dba
@@ -118,7 +120,7 @@ content:
     alias:
       - shades
   blindfold:
-    name: アイウェア
+    name: 目隠し
     image: c3f8b058a5a5a6268cf840ed10fb7bd6c71105103d6cae587b0aa9dfae936c28
     wikiURL: https://danbooru.donmai.us/wiki_pages/blindfold.html
     alias:
@@ -130,13 +132,13 @@ content:
     alias:
       - eye patch
   mask:
-    name: マスク／アイプロテクション／マスク
+    name: マスク/アイプロテクション
     image: 523a43321bdf4b6e03c2329690d6234074b3e0fcaa49606b6ab83ea824431625
     wikiURL: https://danbooru.donmai.us/wiki_pages/mask.html
     alias:
       - masks
   jewelry:
-    name: ヘッドウェア
+    name: ジュエリー/宝飾品/アクセサリー
     image: 2e72bf4353427d27c44973d4f227389ce343a8e2183184abf50db0705eab5747
     wikiURL: https://danbooru.donmai.us/wiki_pages/jewelry.html
   collar:
@@ -158,7 +160,7 @@ content:
     image: a8da37709e4ab5776d06798fa6a3e37d973a1704de71b50863c590fe7485b364
     wikiURL: https://danbooru.donmai.us/wiki_pages/sailor_collar.html
   ribbon choker:
-    name: ネックバンド
+    name: リボンチョーカー
     image: 105ebec41f3d376e3cc1517cac51334a3f02836b375da971e76d214a1a220b3b
     wikiURL: https://danbooru.donmai.us/wiki_pages/ribbon_choker.html
   necklace:
@@ -166,7 +168,7 @@ content:
     image: 61bfe65f28637588f73ad50697cd615c1de2e962aa9f13d517c8f52a27816283
     wikiURL: https://danbooru.donmai.us/wiki_pages/necklace.html
   scarf:
-    name: スカーフ
+    name: マフラー
     image: 836116b21b48fd2885630ecd7dd9b50da5573692e00f4fd2c0d03741d96217bc
     wikiURL: https://danbooru.donmai.us/wiki_pages/scarf.html
     alias:
@@ -328,7 +330,7 @@ content:
     image: e1f600d4838d9a4f7d03d364477d0524e634aac2dc1f6919fcee61bd8bdca35b
     wikiURL: https://danbooru.donmai.us/wiki_pages/mouth_veil.html
   coke-bottle glasses:
-    name: ガラス瓶の底のような厚みのある丸いグラス
+    name: 瓶底眼鏡
     image: 79ed0e2aa6789afe44acbc0663a891ed501ee48d7c3d7f303e76b22d5db25c8b
     wikiURL: https://danbooru.donmai.us/wiki_pages/coke-bottle_glasses.html
     alias:
@@ -487,7 +489,7 @@ content:
     image: 14027ea24d5872a6fcf04f31f3974900e1b5eae0cc6226a89d51cd48c9d20f44
     wikiURL: https://danbooru.donmai.us/wiki_pages/high_collar.html
   neck ribbon:
-    name: 首から下げるリボン
+    name: リボンタイ
     image: a00c1b079bfbec14d9b97a3ea9fa54738afbb9b51bb8d6d6f79d635773f34c03
     wikiURL: https://danbooru.donmai.us/wiki_pages/neck_ribbon.html
   neck ring:
@@ -509,7 +511,7 @@ content:
     alias:
       - elbow pad
   dragon horns:
-    name: 龍の角笛
+    name: 竜の角
     wikiURL: https://danbooru.donmai.us/wiki_pages/dragon_horns.html
   eyewear on head:
     name: 頭の上のメガネ
@@ -646,3 +648,60 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/head_wreath.html
     alias:
       - flower crown
+  black ribbon:
+    name: 黒いリボン
+  helmet:
+    name: ヘルメット
+    wikiURL: https://danbooru.donmai.us/wiki_pages/helmet
+  baseball helmet:
+    name: 野球用ヘルメット
+    wikiURL: https://danbooru.donmai.us/wiki_pages/baseball_helmet
+    image: defe2bfb1d8f70541287d41d45e640251f9ed4f17d22accefc4c02a645218b0f
+  bicycle helmet:
+    name: 自転車用ヘルメット
+    image: 6e7de41803d385a6ab48c1aed2541ff2fc1a95d84d7cd813fda51511fe5515be
+    alias:
+      - cycling helmet
+      - cycle helmet
+  diving helmet:
+    name: ダイビングヘルメット
+    wikiURL: https://danbooru.donmai.us/wiki_pages/diving_helmet
+  hardhat:
+    name: 安全帽
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hardhat
+    image: b08d62381c737b717ec28a933150b1c60d4717b0c004876dc28a010c92f70d6e
+  military helmet:
+    name: 軍用ヘルメット
+    wikiURL: https://danbooru.donmai.us/wiki_pages/military_helmet
+    image: da2647b6d25631d96303367179e0e3f4a2b77075091e02a8434181b948b43594
+  motorcycle helmet:
+    name: オートバイのヘルメット
+    wikiURL: https://danbooru.donmai.us/wiki_pages/motorcycle_helmet
+    image: fb13b1742e7266322d1a3440bab5ae368db75c062e704bd09189a0be586096f4
+    alias:
+      - full face helmet
+  pickelhaube:
+    name: ピッケルハウベ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pickelhaube
+  pith helmet:
+    name: ピスヘルメット
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pith_helmet
+  kabuto (helmet):
+    name: 兜
+    wikiURL: https://danbooru.donmai.us/wiki_pages/kabuto_(helmet)
+  helmet removed:
+    name: ヘルメットを脱ぐ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/helmet_removed
+  holding helmet:
+    name: ヘルメットを持つ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/holding_helmet
+  headwear removed:
+    name: 頭にかぶるものを脱ぐ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/headwear_removed
+  hat removed:
+    name: 帽子を脱ぐ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hat_removed
+  neckerchief:
+    name: ネッカチーフ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/neckerchief
+

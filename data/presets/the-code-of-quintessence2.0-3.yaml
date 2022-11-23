@@ -1,0 +1,2689 @@
+name: 第3章 クラシック編
+category: 
+  - 元素法典
+  - 元素法典 2.0巻
+description: |-
+  元素魔法目录 - 贰点零 - 经典专章
+  本章收录那些不符合上述章所收录的类型的作品,是法典原汁原味的经典形式。
+content:
+  red | ψ 恶魔·深渊 naifu版(+):
+    description: |-
+      作者:困困眠眠不想睡 qq:415047784 b站uid:574020
+      ψ ･-･×↝ 
+      “naifu的效果比webui的效果好!!有能力的话最好使用naifu生成!!”
+      
+      パラメータ:
+      naifu:steps:50   scale:4.2
+      webui:steps:50+   scale:4
+
+      編集者コメント:
+      “黑暗系最棒惹。“(校长)
+      “666”(antwominy)
+      “emmmmm看得出来困困还是蛮有活力的。”(今宵)
+    content:
+      - masterpiece
+      - best quality
+      - highly detailed
+      - ultra-detailed
+      - illustration
+      - depth of field
+      - cold
+      - solo
+      - dark prison:1.157625
+      - 1girl:1.157625
+      - black short hair
+      - bob haircut
+      - long sleeves:1.1025
+      - off shoulder
+      - detailed eyes
+      - hematic red eyes:1.1025
+      - tareme:1.1025
+      - crazy:1.1025
+      - expressionless
+      - prisoner's garb:1.1025
+      - handcuffs
+      - chains
+      - hammer
+      - miniskirt
+      - metal jewelry:1.05
+      - heavy metal:1.157625
+      - foot cuffs
+      - cross-laced footwear
+      - choker
+      - monster energy:1.1025
+      - demon array:1.05
+      - 666:1.157625
+      - dry ice fog:1.05
+    preview:
+    
+  red | ψ 恶魔·深渊 naifu版(-):
+    description: |-
+
+    content:
+      - low quality+bad anatomy
+  red | ψ 恶魔·深渊 webui版(+):
+    description: |-
+
+    content:
+      - masterpiece
+      - best quality:1.1
+      - highly detailed
+      - ultra-detailed
+      - illustration
+      - depth of field
+      - dark prison:1.2
+      - cold
+      - solo
+      - 1 girl:1.1
+      - detailed eyes
+      - hematic red eyes:1.1
+      - black short hair:1.1
+      - bob haircut
+      - tareme:1.1
+      - crazy:1.1
+      - expressionless
+      - prisoner's garb:1.1
+      - long sleeves:1.1
+      - off shoulder
+      - miniskirt
+      - monster energy:1.2
+      - heavy metal:1.2
+      - metal jewelry:1.1
+      - choker
+      - cross-laced footwear
+      - cuffs
+      - wrist cuffs
+      - chains:1.1
+      - hammer
+      - demon array:1.1
+      - 666:1.2
+      - dry ice fog
+  red | ψ 恶魔·深渊 webui版(-):
+    description: |-
+
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+  彩漆法 (+):
+    description: |-
+      作者:Pumpkinhn (1013239829)
+      “本来想做doHna:doHna的风格结果有点Splatoon的味道？于是就放飞自我了,明艳的彩色泼墨赛高!”
+      因为色彩太多了所以坏图率不低,但这样不是更有抽卡的乐趣么(笑)
+
+      正面tag:
+
+      反面tag:
+
+      パラメータ:
+      Steps: 50, Sampler: Euler a, CFG scale: 6, Size: 1280x512, Model hash: e6e8e1fc, Eta: 0.68, Clip skip: 2, ENSD: 31337
+
+      編集者コメント:
+      “想起来悲伤的油漆呜呜呜...”(校长)
+      “最爱的绚丽彩色风格,万能背景。”(雪)
+      “其实整个构图精妙的部分在于白色的色块。”(今宵)
+    content:
+      - masterpiece:1.331
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.1
+      - dynamic angle:1.1
+      - floating:1.21
+      - paint:1.1
+      - disheveled hair:1.21
+      - solo:1.1
+      - 1girl:1.1
+      - loli
+      - small breasts:1.21
+      - detailed anima face:1.331
+      - beautiful detailed face:1.21
+      - collar
+      - bare shoulders
+      - white hair
+      - colorful hair:1.21
+      - streaked hair:1.21
+      - beautiful detailed eyes
+      - gradient color eyes:1.1
+      - colorful eyes:1.331
+      - colorful background:1.331
+      - high saturation:1.331
+      - surrounded by colorful splashes:1.331
+      - surrounded by colorful dot:1.331
+      - colorful bubble
+      - shining:1.21
+    preview:
+  彩漆法 (-):
+    description: |-
+
+    content:
+      - nsfw
+      - nipples
+      - black skin:1.1
+      - dark background
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - artist name
+      - bad feet
+  今宵的万用公式(+):
+    description: |-
+      作者:今宵鳩鳴(QQ943729925)
+      “我就是喜欢红黑配色!这种既危险,有可靠的感觉!出货率还可以把,至少我跑四张全出了()将cyborg girl替换为girl,将cyberpunk替换为steampunk,将blood rain替换为many metal decorations,再在后面加上背景描述,比如city in the background便可以做出蒸汽朋克风格。如果将cyborg girl替换为girl,将cyberpunk替换为church,把transformed body去掉,再在dark red hair后面添加many feathers,就可以画出黑暗教堂风格(不过出货率有些低)。同理,你也可以为人物更改发色,或者服饰。以此类推,总之这是一条可塑性很强的咒语,重点是强大且自信的女性。把cyberpunk改成同时修改一些服饰,场景,发色tag,就会变成....(原cyberpunk处可以插入不同的艺术风格,emmm怎么都行,对作品整体风格影响挺大的,同时focus on face词条也可以被替换成不同的镜头词条,绿色的tag为光影词条,一件作品只要光影处理的优秀,那么整体而言都是美观的)。最后,想要说的是,大家都很厉害,在认识大家之前我甚至一度成为了井底之蛙,在成为了审核,看了许多作品,认识了大家以后,我又学会了很多ai绘画的技巧,让我受益匪浅。所以在今后的元素法典中,作为审核的我不会再投稿了,我会不时的以个人名义发布自己的作品,如果大家看到了,觉得喜欢可以私聊我,我会直接公布tag和其他的一些参数。希望大家能够一直支持元素法典,支持我们的工作。”
+          
+      パラメータ:
+      Steps: 28, Sampler: Euler, CFG scale: 13, Size: 768x1280, Model hash: e6e8e1fc
+
+      編集者コメント:
+      “今宵快把猫猫本体交出来!”(校长)
+      “给我变!”(阴阳)
+      “似乎...可以在介绍区写小论文,还有,tag是猫猫敲的,嗯。”(今宵)
+    content:
+      - masterpiece:1.21
+      - best quality
+      - highres
+      - original
+      - extremely detailed 8k wallpaper
+      - world masterpiece theater
+      - an extremely delicate and beautiful cyborg girl:1.1
+      - 1 cyborg girl
+      - solo
+      - assertive female
+      - messy long hair:1.21
+      - dark red hair
+      - beautiful detailed eyes:1.21
+      - dark dress
+      - red scarf
+      - torn clothes
+      - arrogant smile
+      - despair
+      - heroic fight:1.5
+      - dynamic blur
+      - detailed background
+      - cyberpunk:1.5
+      - transformed body:1.331
+      - cloak
+      - focus on face
+      - depth of field
+      - beautiful detailed shadow
+      - dust
+      - splashing blood
+      - blood rain:1.21
+      - dynamic angle
+      - light shafts
+      - good lighting
+      - tyndall effect
+      - aestheticism painting:1.1
+    preview:
+  今宵的万用公式(-):
+    description: |-
+
+    content:
+      - ugly:1.331
+      - duplicate:1.331
+      - morbid:1.21
+      - mutilated:1.21
+      - tranny:1.331
+      - mutated hands
+      - poorly drawn hands:1.331
+      - blurry
+      - bad anatomy:1.21
+      - bad proportions:1.331
+      - extra limbs
+      - cloned face
+      - disfigured:1.331
+      - more than 2 nipples:1.331
+      - missing arms:1.4641
+      - extra legs:1.331
+      - fused fingers:1.61051
+      - too many fingers:1.61051
+      - unclear eyes:1.331
+      - lowers
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - bad feet
+      - text font ui
+      - malformed hands
+      - long neck
+      - missing limb
+      - mutated hand and finger:1.5
+      - long body:1.3
+      - mutation poorly drawn 1.2
+      - malformed mutated
+      - multiple breasts
+      - futa
+      - yaoi
+      - bad face:1.4641
+      - unclear face
+  军姬法(+):
+    description: |-
+      作者:Phoebe(QQ 3101516445)
+      “ 血、火、军人、杀气!”
+
+      パラメータ:
+      Steps: 30, Sampler: Euler, CFG scale: 3.5, Size: 768x1024, Model hash: e6e8e1fc, Clip skip: 2, ENSD: 31337
+
+      編集者コメント:
+      “莫名想起某fgo里的信长。”(校长)
+    content:
+      - gloomy dim yellow light:1.1
+      - a blonde girl wears a german military uniform
+      - the girl wore a black german military uniform:1.1
+      - the girl looked disgusted:1.21
+      - the girl was expressionless
+      - the girl was draped in a black cloak:1.1
+      - flames burned behind the maiden:1.4641
+      - there is battlefield behind the girl:1.1
+      - bloody:1.331
+      - beautiful detailed german military uniform:1.331
+      - german military uniform:1.21
+      - beautiful detailed girl
+      - perfect face
+      - feet out of frame
+      - perfect body:1.21
+      - straight-on
+      - solo:1.21
+      - red eyes
+      - curly hair
+      - backlight:1.21
+      - girl on the center axis of the picture
+      - small breasts
+      - the character is in the center of the frame:1.1
+      - extremely detailed cg unity 8k wallpaper:1.1
+      - masterpiece:1.1
+      - best quality:1.1
+      - ultra-detailed:1.1
+      - best illumination:1.1
+      - best shadow:1.1
+      - an extremely delicate and beautiful:1.1
+      - dynamic angle
+      - floating
+      - finely detail
+      - bloom:1.1
+      - shine:1.1
+      - glinting stars
+      - classic
+    preview:
+  军姬法(-):
+    description: |-
+
+    content:
+      - nsfw
+      - lower
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - long neck
+      - humpbacked
+      - shadow
+      - nude
+  小小弥赛亚(+):
+    description: |-
+      作者:匿名
+      “你只有一次机...不,那已经结束了。勇敢又善良的孩子啊,回家吧。”
+
+      正面tag:
+
+      这100%的tag利用率和100%的可拆卸率将是通用顺序公式的惊鸿一瞥。
+      cat hat 与 sunhat 是两个不同的tag,但因为它们有着相同的“建议前置”(tag存在着树状的“建议前置”分布),所以可以融合使用,cat ears与cat hat也是。同理robe作为sleeves past wrists的建议前置,再作为sleeves past fingers的建议前置,强调前置树的叶即可强化整棵树的存在感。
+      leggings与cat tail使用弱权重,在附加“物”且还是最末的位置容许被挤占。legging用于在AI想拍腿的时候提供黑色袜子而非光腿,而0.85是它不会显著影响构图的阈值。cat tail起上文的反作用,弱化前置树的叶能弱化整棵树的存在感,让cat girl自带的猫尾属性不污染围巾——同理还有下文的fireflies。
+      no light用于营造反常的光照,具体表现为奇异的无源强光,配合中间间隔大约3~6个词的black sky效果更佳。
+      重中之重自然是dark shadow和greyscale的融合了,用来配合开头的illustration一起擦除细节。放在风格指示段的illustration+放在滤镜段的半画greyscale,效果比什么flat color或者sketch或者partly colored高到不知道哪里去了。
+
+      反面tag:
+
+      请务必带上nsfw。robe是opened robe的建议前置,而且还是个强联想建议前置,所以不带nsfw的话袍子可能会敞开。
+
+      パラメータ:
+      Steps: 40, Sampler: Euler a, CFG scale: 12, Size: 768x512, Model hash: e6e8e1fc, Hypernet: anime_2, Eta: 0.68, Clip skip: 2, ENSD: 31337
+
+      在咒语控制力足够强的情况下,参数其实不是很重要,甚至模型也不重要。
+
+      編集者コメント:
+      “谢谢——愿意守护这个故事直到它抵达最后终点的你。”(匿名)
+    content:
+      - masterpiece:1.1
+      - best quality
+      - 8k wallpaper
+      - illustration
+      - 1 girl
+      - cat girl:1.1
+      - child
+      - deep skin|dark skin:1.1
+      - dark orange eyes
+      - glowing eyes
+      - slit pupils
+      - blue hair:1.1
+      - short hair
+      - bangs
+      - whiskers:1.1
+      - maroon cat sunhat|cat ears:1.1
+      - hat bow:1.35
+      - long purple scarf
+      - flat chest
+      - closed firebrick robe:1.1
+      - wide sleeves
+      - sleeves past wrists
+      - sleeves past fingers:1.1
+      - leggings:0.85
+      - cat tail:0.6
+      - looking to the side
+      - lateral view\|\back view:1.35
+      - cowboy shot
+      - dynamic angle
+      - no light
+      - dark wheat field:1.1
+      - in field
+      - fireflies:0.65
+      - wide view
+      - night:1.2
+      - black sky:1.1
+      - cloud
+      - cirrus
+      - dark shadow:1.2
+      - single high tower at far distance:1.1
+    preview:
+  小小弥赛亚(-):
+    description: |-
+
+    content:
+      - nsfw:1.1
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - many feet
+      - abnormal
+      - deformity
+      - malformation
+      - mutant
+  黄金叶(+):
+    description: |-
+      作者:千秋九 (QQ1123820886)
+      “这是第一个彻底解决手和元素污染的魔法(虽然解决手的问题需要500步以上的steps)”
+
+      パラメータ:
+      Steps: 150, Sampler: Euler, CFG scale: 7.5, Size: 1216x576, Model hash: e6e8e1fc, Clip skip: 2, ENSD: 31337
+
+      編集者コメント:
+      “跨时代的产物啊。”(板)
+      “xx的维纳斯 欸嘿。”(校长)
+    content:
+      - masterpiece:1.331
+      - crystals texture hair:1.331
+      - extremely detailed cg:1.61051
+      - 8k wallpaper:1.21
+      - 1 girl:1.5
+      - big top sleeves
+      - floating
+      - beautiful detailed eyes
+      - overexposure
+      - side blunt bangs
+      - buttons
+      - bare shoulders
+      - loli:1.1
+      - light shafts
+      - soft focus
+      - character focus
+      - wings
+      - transparent wings:1.331
+      - wings made of golden lines:1.4641
+      - angel wings:1.4641
+      - gold halo around girl:1.4641
+      - many golden ribbon:1.4641
+      - aureate headgear:1.4641
+      - gold magic circle in sky:1.4641
+      - ight:1.4641
+      - black sky\:1.3\:\\galaxy background:1.4641
+      - snowflakes:1.4641
+      - night sky:1.4641
+      - black pupils:1.4641
+      - starts sky background:1.4641
+      - stars behind girl:1.4641
+      - view on sky:1.4641
+      - standing\:0.8:1.4641
+      - elegant hair:1.4641
+      - long hair:1.4641
+      - the flying golden lines:1.4641
+      - messy golden lines:1.4641
+      - halo:1.4641
+      - hairs between eyes:1.4641
+      - small breasts:1.4641
+      - ribbons:1.4641
+      - bowties:1.4641
+      - red eyes:1.4641
+      - golden pupil:1.4641
+      - white hair:1.4641
+      - flowing hair:1.4641
+      - disheveled hair:1.4641
+      - lowing long hair\:\delicate arms and hands\:0.8:1.4641
+    preview:
+  黄金叶(-):
+    description: |-
+
+    content:
+      - mutated hands and fingers:1.5 :1.1
+      - mutation:1.1
+      - poorly drawn :1.2:1.1
+      - long body :1.3
+      - liquid body
+      - text font ui
+      - long neck
+      - uncoordinated body
+      - fused ears
+      - huge breasts
+      - ugly:1.4641
+      - one hand with more than 5 fingers
+      - one hand with less than 5 fingers
+  林奈法(+):
+    description: |-
+      作者:药隐
+      “画植物要注意ai不太能识别学名和很多英文名,以及需要根据不同植物调节(Botanical illustration)的权重,画人物注意前后顺序,人物放前面背景放后面。欣赏ai老师创作的奇妙植物吧。”
+
+      正面tag:
+      纯植物:
+      Botanical illustration, masterpiece, best quality, extremely detailed, 植物名
+
+      带人物(一定要注意顺序):
+      watercolor, masterpiece, best quality, extremely detailed, 1girl, full body, beautiful detailed eyes, cute anime face, full body, beautiful detailed face, white hair, (Botanical illustration:1.5), white dress
+
+      (可以去掉watercolor,去掉以后或者再加上sketch的词条会让花草的线条更清晰,用水彩会让画风带上水晕,另外加full body权重会更稳定出全身,但脸崩率也增加)
+
+      パラメータ:
+      Steps: 32, Sampler: Euler a, CFG scale: 11, 512x512
+
+      編集者コメント:
+      “很喜欢这种清新的美感。”(阴阳)
+      “你们怎么这么能创新？”(老年痴呆的疾风法师)
+      “好了,现在你已经是一名出色的德鲁伊了,去为世界环保事业做一份贡献吧。”(今宵)
+    content:
+      - botanical illustration
+      - masterpiece
+      - best quality
+      - extremely detailed
+      - "植物名"
+      - watercolor
+      - masterpiece
+      - best quality
+      - extremely detailed
+      - 1girl
+      - full body
+      - beautiful detailed eyes
+      - cute anime face
+      - beautiful detailed face
+      - white hair
+      - botanical illustration:1.5
+      - white dress
+    preview:
+  林奈法(-):
+    description: |-
+
+    content:
+      - lowres
+      - bad anatomy
+      - error
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - artist name
+      - blurred
+      - poorly drawn face
+      - extra fingers
+      - missing fingers
+      - fused fingers
+      - abnormal fingers
+      - fused hands
+      - ugly
+      - 3d
+  桃法(+):
+    description: |-
+      作者:夜光噂々子
+      “(未留言)”
+
+      パラメータ:
+      Steps: 30, Sampler: DDIM, CFG scale: 7, Size: 1280x448, Model hash: 925997e9
+
+      編集者コメント:
+      “粉红毛兔兔(不是)”(板)
+      “桃花仙人种桃树 却把桃花换...”(校长)
+      “在无数的龙与少女中突出重围的作品,将人物与龙,主体与背景完美融合,在此之前从没有人想到粉色居然可以如此合适。”(广夏沫)
+      “桃色本应醉春风,偶经妙手化云龙。”(今宵)
+    content:
+      - masterpiece:1.21
+      - best quality:1.21
+      - ultra-detailed:1.1
+      - illustration:1.1
+      - an extremely delicate and beautiful:1.21
+      - dynamic angle:1.1
+      - chinese dragon
+      - china
+      - 1girl
+      - beautiful detailed eyes:1.1
+      - cute pink eyes
+      - green pupil
+      - detailed face
+      - upper body
+      - messy floating hair
+      - disheveled hair
+      - focus
+      - perfect hands
+    preview:
+  桃法(-):
+    description: |-
+
+    content:
+      - nsfw
+      - owres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - long neck
+      - humpbacked
+      - shadow
+      - nude
+  春之貓(+):
+    description: |-
+      作者:琥珀青葉
+      “春天的花園裡生機蓬勃,你為了一睹眾花的美采,輕輕走入這片彩色之地。走著走著,這花園就像是沒有盡頭一般延伸。此時你回頭一看...”
+
+      正面tag:
+
+      最前面使用常見的品質類咒語,接著指定畫面主題(貓娘在花園裡),並且對畫面要素做出指定(花、蝴蝶)。使用特殊的混色法進行畫面調色,例如silver hair, blue hair的混用,在使用DDIM(其他sampler的效果需測試)的時候,高機率出現髮色銀色但整體畫面變藍的趨勢。本咒語就利用了此特性進行畫面調色。
+
+      反面tag:
+
+      本反咒並非複製貼上或隨意堆疊,扣除最前面的幾個常見反咒(cropped, blurry等)之外,其他皆是為了畫面元素做調整。首先四肢、五官的各類型反咒(malformed, misplaced, weird等),然後對耳朵做特殊的指定(不然極其容易生成三隻、四隻耳朵的貓娘),最後指定strange animal避免生成奇怪的貓。(生成獸耳娘時有用)
+
+      パラメータ:
+      Hypernetwork: anime_3
+      hypernetwork strength: 0.5~0.6
+      cfg scale: 4.5~5.5
+      step: 30~50
+      res: 1024*768 ~ 1024*576
+      sampler: DDIM
+      skip CLIP:1
+      ESDN: 17415
+      除了DDIM外,Euler、LMS、DPM2 a Karras都可以獲得不錯的效果,只是step需要適當的調低。
+      若1024寬的圖片解析度太低,推薦使用hires fix功能處理,也可以有效的避免過於鮮豔的問題。
+
+      編集者コメント:
+      “琥珀改了好久出来的成效!超棒!”(校长)
+    content:
+      - original
+      - masterpiece:1.1
+      - illustration:1.1
+      - extremely fine and beautiful:1.1
+      - perfect detailed
+      - photorealistic
+      - beautiful and clear background:1.25
+      - depth of field:0.7
+      - 1 cute girl with \cat ear and cat tail:1.2
+      - cute:1.35
+      - detailed beautiful eyes:1.3
+      - beautiful face:1.3
+      - casual
+      - silver hair
+      - silver ear
+      - blue hair:0.8
+      - blue ear:0.8
+      - long hair
+      - coat
+      - short skirt
+      - hair blowing with the wind
+      - blue eyes:1.2
+      - flowers
+      - little girl:0.65
+      - butterflys flying around
+    preview:
+  春之貓(-):
+    description: |-
+
+    content:
+      - 3 cat ear:1.1
+      - poorly drawn hands:1.1
+      - poorly drawn face:1.1
+      - fat:1.331
+      - cropped:1.21
+      - fused fingers:1.21
+      - too many fingers:1.21
+      - malformed limbs:1.1
+      - bad anatomy:1.331
+      - ugly:1.21
+      - out of frame
+      - blurry
+      - gross propotions
+      - distorted face
+      - distorted body
+      - distorted fingers:1.21
+      - missing leg
+      - more than 2 leg
+      - more than 2 feet
+      - more than 2 arms
+      - text
+      - ui
+      - signature
+      - icon
+      - watermark
+      - misplaced limbs
+      - leg too big
+      - leg too small
+      - fused hands
+      - fused arms
+      - distorted backgroud
+      - fused buildings
+      - finger too short:1.21
+      - more than 1 right hand
+      - more than 1 left hand
+      - wrong direction of limbs
+      - wrong direction of legs
+      - wrong direction of feet
+      - misplaced facial features
+      - unbalanced facial features
+      - body too long:1.21
+      - arm too short:1.21
+      - poorly drawn joint:1.1
+      - misplaced joint
+      - wrong joint angle
+      - disappearing legs
+      - disappearing arms
+      - disappearing limbs
+      - fused limbs:1.21
+      - fused thighs:1.21
+      - thumb too long
+      - fingers too long
+      - missing hands
+      - missing arms
+      - no face
+      - wrong angle of upper and lower body
+      - misplaced animal tail:1.21
+      - malformed animal tail:1.21
+      - poorly drawn animal tail
+      - less than 2 ears
+      - more than 2 ears:1.21
+      - more than 2 animal ears:1.21
+      - one arm longer than another:1.21
+      - missing palm:1.21
+      - palm disappeared:1.21
+      - sharp fingers
+      - two eyes in different size:1.21
+      - hair fused with items
+      - weird ears
+      - weird animal ears
+      - weird fingers
+      - weird hands
+      - weird limbs
+      - weird arms
+      - weird legs
+      - weird thighs
+      - thin wrist
+      - more than 2 eyes
+      - malformed eyes
+      - misplaced eyes
+      - strange animal
+  夏夜之狐(+):
+    description: |-
+      作者:琥珀青葉
+      “ 炎炎夏日,熱暈的你趁著夜晚月明之時到河邊散步消暑。然而在微弱的月光之下卻有一處明亮之地,好奇的你前去確認,而等在你眼前的是...”
+
+      正面tag:
+
+      最一開始是常見的一些品質類詞條,後續則是畫面主體(狐耳少女),最後指定一下各種元素。(pink hair表現不明顯但可以顯著改善整體畫面的色溫表現,改成blue hair可以得到相當藍的畫面)
+
+      反面tag:
+
+      此反咒雖然相當長,但並非隨意堆疊複製而成。首先最一開始是一些常見的反咒(如blurry、cropped等),爾後是對四肢、五官、耳朵、尾巴相關的反咒(weire, malformed, misplaced, 數量錯誤等),然後因為偶爾會出現轉了180度的腳等情況,因此也另外加了關節(joint)相關的反咒。最後因為AI有高機率生成3隻或以上的狐耳,因此特別對3 fox ears做了限制。
+      實際使用上可以自行將四肢或五官相關的反咒移除,雖然會大幅度降低下限,但上限影響不大。
+
+      パラメータ:
+      Hypernetwork: anime_3
+      Hypernetwork strength: 0.5~0.6
+      cfg scale: 4~5
+      resolution: 1024*640效果最好
+      ESND: 17415
+      CLIP skip: 1(重要)
+      可以试着使用1024*640生成出喜歡的圖後,使用hires fix將firstpass的長寬設定成1024*640,並將原本的長寬拉成2048*1280,可以有效提升細節並避免過度鮮豔。(denoise strength可照個人喜好調整)
+
+      編集者コメント:
+      “通过特别定制反咒来获得更好的效果,这个反咒学习了。”(雪)
+      “很棒的构图。”(今宵)
+      "鬼火的效果很棒,而且生成的角色也超可爱rua“ (麦子)
+    content:
+      - original
+      - masterpiece:1.1
+      - illustration:1.1
+      - extremely fine and beautiful:1.1
+      - perfect details:1.1
+      - unity cg 8k wallpaper:1.05
+      - beautiful and clear background:1.25
+      - depth of field:0.7
+      - 1 cute girl with \2 fox ear:0.9
+      - detailed beautiful eyes:1.3
+      - beautiful face:1.3
+      - silver hair
+      - silver ear
+      - pink hair:0.7
+      - pink ear:0.7
+      - long hair
+      - japanese kimomo:1.25
+      - hair blowing with the wind:1.1
+      - blue eyes:1.1
+      - little girl:1.1
+      - butterflys flying around
+      - moon light:0.6
+      - tree
+      - summer:1.1
+      - night:1.2
+      - close-up:0.35
+      - gloves:0.8
+      - solo
+    preview:
+  夏夜之狐(-):
+    description: |-
+
+    content:
+      - poorly drawn hands:1.1
+      - poorly drawn face:1.1
+      - weird
+      - fat:1.331
+      - cropped:1.21
+      - fused fingers:1.21
+      - too many fingers:1.21
+      - malformed limbs:1.1
+      - bad anatomy:1.331
+      - ugly:1.21
+      - out of frame
+      - blurry
+      - gross propotions
+      - distorted face
+      - distorted body
+      - distorted fingers:1.21
+      - missing leg
+      - more than 2 leg
+      - more than 2 feet
+      - more than 2 arms
+      - text
+      - ui
+      - signature
+      - icon
+      - watermark
+      - misplaced limbs
+      - leg too big
+      - leg too small
+      - fused hands
+      - fused arms
+      - distorted backgroud
+      - fused buildings
+      - finger too short:1.21
+      - more than 1 right hand
+      - more than 1 left hand
+      - wrong direction of limbs
+      - wrong direction of legs
+      - wrong direction of feet
+      - misplaced facial features
+      - unbalanced facial features
+      - body too long:1.21
+      - arm too short:1.21
+      - poorly drawn joint:1.1
+      - misplaced joint
+      - wrong joint angle
+      - disappearing legs
+      - disappearing arms
+      - disappearing limbs
+      - fused limbs:1.21
+      - thumb too long
+      - fingers too long
+      - missing hands
+      - missing arms
+      - misplaced animal tail:1.21
+      - malformed animal tail:1.21
+      - poorly drawn animal tail
+      - less than 2 ears
+      - more than 2 ears:1.21
+      - more than 2 animal ears:1.21
+      - one arm longer than another:1.21
+      - missing palm:1.21
+      - palm disappeared:1.21
+      - sharp fingers
+      - two eyes in different size:1.21
+      - weird ears
+      - weird animal ears
+      - weird finger:1.1
+      - weird hand:1.1
+      - weird limbs
+      - weird arms
+      - weird legs
+      - thin wrist
+      - more than 2 eyes
+      - malformed eyes
+      - misplaced eyes
+      - strange animals
+      - 3 fox ears:1.7
+      - fox ear in middle:1.1
+      - hands:1.1
+  描背法(+):
+    description: |-
+      作者:谈秋Nineteen(QQ442968180)
+      “ 真的有背控!”
+
+      正面tag:
+      (((masterpiece))),(((best quality))),((ultra-detailed)), ((illustration)),floating, ((an extremely delicate and beautiful)),(beautiful detailed eyes),((disheveled hair)), (painting),(sketch), 1girl, loli, small_breasts,((neck)),(((back))),(looking back), blush,dhalter dress, sliver hair,backless dress
+
+      反面tag:
+      nsfw,nipples,lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet
+
+      パラメータ:
+      Steps: 150, Sampler: Euler a, CFG scale: 7
+
+      編集者コメント:
+      “斯哈斯哈...”(半生为夏甗麦至冬)
+      “突然想到加个full body会不会……？”(阴阳)
+      “会出问题的(悲)”(校长)
+      “嘶..."(今宵)
+      “neck, back, looking back,读起来就像小诗一样描绘出了美人回眸。”(雪)
+    content:
+      - masterpiece:1.331
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.21
+      - floating
+      - an extremely delicate and beautiful:1.21
+      - beautiful detailed eyes:1.1
+      - disheveled hair:1.21
+      - painting:1.1
+      - sketch:1.1
+      - 1girl
+      - loli
+      - small breasts
+      - neck:1.21
+      - back:1.331
+      - looking back:1.1
+      - blush
+      - dhalter dress
+      - sliver hair
+      - backless dress
+    preview:
+  描背法(-):
+    description: |-
+
+    content:
+      - nsfw
+      - nipples
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worstquality
+      - low quality
+      - normal quality
+      - jpegartifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+  塔罗牌术(+):
+    description: |-
+      作者:涩涩无咎 (1256025640)
+      “ 出货率很高,且风格在不调整tag的情况下多变,可以自行改改,另外在此致敬Alphonse Mucha”
+      正面tag:
+      (((masterpiece))), ((the best quality, super fine illustrations, beautiful and delicate water)),Depth of field, fine 8KCG wallpapers, ( delicate light), ((cinematic lighting)),(portrait),Portrait lens,(((Alphonse Mucha))),((Fantasy style)),((shine)),(((Tarot card)))
+      (young girl),(((China_Cheongsam))),(delicate eyelash),((cute anime face)),(extremely delicate and beautiful),(hair_flower),(Gem),(crystal),((colored inner long hair)),(multicolored),(beautiful detailed face ),((( detailed long hair ))),floating long hair,gradient hair,(lace),(ribbon),((crown)),(detailed cloth)
+      ((Butterfly)),(detailed Butterfly) ,(multicolored Butterfly),
+      (neon palette),((detailed flowers)) ,((multicolored flowers)),(flowers_Surrounded),(Butterfly_Surrounded)(((Flowers fill the screen))),((Fill the screen))
+
+      反面tag:
+      (反面tag没必要这么多,通用的就行,此处用于验证图片)
+      (lowres), (blurry:1.9), (bad hands:1.9), (missing fingers:1.9), (extra digit:1.9), fewer digits, small hands, error, multiple limbs, bad feet, cropped, worst quality, low quality, normal quality, bad anatomy, long nails, {{{{interlocked fingers}}}}, milf, nsfw, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, (jpeg artifacts:1.9), (username:1.9), nsfw, bad anatomy, bad hands, (text:1.9), error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, (signature:1.9), (watermark:1.9), (username:1.9), bad hands, bad anatomy, ugly,duplicate,morbid,mutilated,tranny,trans,trannsexual,mutation,deformed,long neck,bad anatomy,bad proportions,extra arms,extra legs, disfigured,more than 2 nipples,malformed,mutated,hermaphrodite,out of frame,extra limbs,missing arms,missing legs,poorly drawn hands,poorty drawn face,mutation,poorly drawn,long body,multiple breasts,cloned face,gross proportions, mutated hands,bad hands,bad feet,long neck,missing limb,malformed limbs,malformed hands,fused fingers,too many fingers,extra fingers,missing fingers,extra digit,fewer digits,mutated hands and fingers,lowres,text,error,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,text font ui,futa,yaoi
+
+      パラメータ:
+      Steps: 40, Sampler: Euler, CFG scale: 7, Size: 448x896, Model hash: e6e8e1fc, Batch size: 2, Batch pos: 1, Eta: 0.67, Clip skip: 2, ENSD: 31337
+
+      編集者コメント:
+      “Rua？! 塔罗牌的颜色好好看!而且精细度也很棒!” (麦子)
+      “我的回合!抽卡!”(校长)
+      “私人定制——”(antwominy)
+    content:
+      - masterpiece:1.331
+      - the best quality:1.21
+      - super fine illustrations:1.21
+      - beautiful and delicate water:1.21
+      - depth of field
+      - fine 8kcg wallpapers
+      -  delicate light:1.1
+      - cinematic lighting:1.21
+      - portrait:1.1
+      - portrait lens
+      - alphonse mucha:1.331
+      - fantasy style:1.21
+      - shine:1.21
+      - tarot card\\\       \young girl:1.331
+      - china cheongsam:1.61051
+      - delicate eyelash:1.331
+      - cute anime face:1.4641
+      - extremely delicate and beautiful:1.331
+      - hair flower:1.331
+      - gem:1.331
+      - crystal:1.331
+      - colored inner long hair:1.4641
+      - multicolored:1.331
+      - beautiful detailed face :1.331
+      -  detailed long hair :1.61051
+      - floating long hair:1.21
+      - gradient hair:1.21
+      - lace:1.331
+      - ribbon:1.331
+      - crown:1.4641
+      - detailed cloth\       \\butterfly:1.331
+      - detailed butterfly:1.21
+      - multicolored butterfly:1.21
+      - neon palette:1.21
+      - detailed flowers:1.331
+      - multicolored flowers:1.331
+      - flowers surrounded:1.21
+      - butterfly surrounded\\\\flowers fill the screen:1.21
+      - fill the screen:1.1
+    preview:
+  塔罗牌术(-):
+    description: |-
+
+    content:
+      - lowres:1.1
+      - blurry:1.9
+      - bad hands:1.9
+      - missing fingers:1.9
+      - extra digit:1.9
+      - fewer digits
+      - small hands
+      - error
+      - multiple limbs
+      - bad feet
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - bad anatomy
+      - long nails
+      - interlocked fingers:1.21550625
+      - milf
+      - nsfw
+      - text
+      - jpeg artifacts:1.9
+      - username:1.9
+      - signature:1.9
+      - watermark:1.9
+      - ugly
+      - duplicate
+      - morbid
+      - mutilated
+      - tranny
+      - trans
+      - trannsexual
+      - mutation
+      - deformed
+      - long neck
+      - bad proportions
+      - extra arms
+      - extra legs
+      - disfigured
+      - more than 2 nipples
+      - malformed
+      - mutated
+      - hermaphrodite
+      - out of frame
+      - extra limbs
+      - missing arms
+      - missing legs
+      - poorly drawn hands
+      - poorty drawn face
+      - poorly drawn
+      - long body
+      - multiple breasts
+      - cloned face
+      - gross proportions
+      - mutated hands
+      - missing limb
+      - malformed limbs
+      - malformed hands
+      - fused fingers
+      - too many fingers
+      - extra fingers
+      - mutated hands and fingers
+      - text font ui
+      - futa
+      - yaoi
+  群像法 Lite(+):
+    description: |-
+      作者:广夏沫 + 匿名
+      “本法术为基础术式,建议与其他术式混合使用。本法术旨在突破限制,生成多人合照般的图片,以下提供的tag为最简版。”
+
+      正面tag:
+      masterpiece, best quality, (girls), gathering, その他のカスタムコンテンツ
+
+      复数形式 + gathering 可以确保群像。如果要加入男性角色,还可以加入 (boys)
+      此外 group photo 也可以确保群像,不过往往相当于还绑定了 full body
+
+      反面tag:
+      lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet
+
+      パラメータ:
+      Steps:65+,Sampler: 随意, CFG scale: 随意,Size: 较大的宽图比较好
+
+      高Step自带对手部修复的特征,一定程度上可以避免 手指/脸部 事故重灾区情况。
+
+      編集者コメント:
+      “解决了多人物生成的问题,搭配上分步渲染,岂不是每个人都能有不同的背景了!”(雪)
+      “tag抄了,回头去跑一副变形金刚大集结。”(今宵)
+    content:
+    - masterpiece
+    - best quality
+    - girls:1.1
+    - gathering
+    preview:
+  群像法 Lite(-):
+    description: |-
+
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+  瑞雪兆丰年(+):
+    description: |-
+      作者:某驾校校长
+      “年年春雪琳琅景,丝丝懵懂伴君情~”
+
+      パラメータ:
+      Steps: 71, Sampler: Euler a, CFG scale: 12, Size: 1344x832, Model hash: e6e8e1fc, Variation seed strength: 0.16, Clip skip: 2
+
+      編集者コメント:
+      “嘿嘿嘿女儿就是可爱!”(校长)   
+      “别在这里法典!”(板)
+      “就在这里法典!”(阴阳)
+      “别在这里法典!”(老年痴呆的疾风法师)
+      “别在这里法典!”(今宵)
+      “rua,法典组全在发癫。” (麦子)
+    content:
+      - an extremely delicate and beautiful:1.1
+      - masterpiece:1.21
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.21
+      - solo:1.21
+      - a girl:1.4641
+      - beautiful detailed eyes:1.21
+      - white hair
+      - spring festival
+      - chinese new year:1.331
+      - lunar new year:1.21
+      - firecracker
+      - temple fair
+      - busy street:1.21
+      - detailed fireworks
+      - finely detail
+      - the best building:1.21
+      - best shadow:1.1
+      - many people
+      - snow
+    preview:
+  瑞雪兆丰年(-):
+    description: |-
+
+    content:
+      - lowres
+      - bad anatomy
+      - bad legs
+      - bad hands
+      - text
+      - error
+      - missing fngers
+      - extra digt
+      - fewer digits
+      - cropped
+      - wort quality
+      - low quality
+      - normal quality
+      - jpeg
+      - artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - artist name
+      - bad body
+      - bad proportions
+      - worst quality
+      - optical illusion
+  古典系(+):
+    description: |-
+      作者:Tom(qq2831763863)
+      “ 优雅永不过时。 ”
+      パラメータ:
+      step28 Sampler Euler cfg 4.5
+
+      編集者コメント:
+      “就是这种眼神!瞪我蹬我!”(校长)
+      “？”(antwominy)
+    content:
+      - masterpiece
+      - best quality
+      - highly detailed
+      - highres:1.05
+      - original
+      - an extremely delicate and beautiful:1.05
+      - steampunk
+      - evil flower{highres
+      - extremely detailed 8k wallpaper:0.95238095
+      - 1girl:0.95238095
+    preview:
+  古典系(-):
+    description: |-
+
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+  圣宫法(+):
+    description: |-
+      作者: 麦子哒(QQ1355563745)
+      “优化了卷发的表现力,长卷毛天下第一!”
+
+      パラメータ:
+      Steps: 50, Sampler: DDIM, CFG scale: 4, Size: 960x576, Model hash: e6e8e1fc, Eta: 0.02, Clip skip: 2
+
+      編集者コメント:
+      “长卷毛天下第一!”(雪)
+    content:
+      - masterpiece
+      - best quality
+      - cg 8k wallpaper
+      - illustration
+      - amazing fine details and brush strokes
+      - smooth
+      - 1girl:1.331
+      - extremely detailed
+      - dynamic composition
+      - motion
+      - incredibly detailed
+      - white court dress
+      - loli
+      - moonlight
+      - beautiful
+      - detailed eyes
+      - white hair"blue hair:0.5:1.1
+      - blue eyes
+      - long curly hair
+      - hands behind back
+      - highly detailed
+      - solo
+      - full
+      - amazing
+      - finely detail
+      - stars:1.1
+      - galaxy
+      - ray trace
+      - depth of field
+    preview:
+  圣宫法(-):
+    description: |-
+
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worth quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - realistic
+      - 3d
+      - large breast:1.1
+      - blush
+      - long neck
+      - missing leg
+      - merged leg
+      - more than one girl
+      - more than one arm
+  向日葵法(+):
+    description: |-
+      作者:Phoebe(QQ 3101516445)
+      “采样方式尝试了Euler a和 Euler,前者出的风格偏向平涂,出货率高,后者风格偏向厚涂,出货率低。个人审美上看,后者上限更高。”
+      パラメータ:
+      Steps: 50, Sampler: Euler(a), CFG scale: 4.5, Size: 768x1024, Model hash: e6e8e1fc, Clip skip: 2, ENSD: 31337
+
+      編集者コメント:
+      “向日葵和美少女,有种夏日初恋的感觉。”(雪)
+    content:
+      - girl in straw hat looking back in a field of sunflowers:1.21
+      - backlight:1.1
+      - best illumination:1.1
+      - best shadow:1.1
+      - an extremely delicate and beautiful:1.1
+      - girl on the center axis of the picture
+      - small breasts
+      - sunflowers with the ultimate in detail:1.21
+      - beautiful detailed sky
+      - perfect body
+      - beautiful detailed face:1.1
+      - extremely delicate and beautiful girls
+      - sunflower fields at sunset
+      - sunset
+      - black hair
+      - beautiful detailed cloud
+      - extremely detailed cg unity 8k wallpaper:1.331
+      - masterpiece:1.331
+      - best quality:1.331
+      - ultra-detailed:1.331
+      - dynamic angle
+      - floating
+      - finely detail
+      - bloom:1.1
+      - shine:1.1
+      - glinting stars
+      - feather
+      - nature
+      - sunlight:1.1
+      - fairyland
+      - the character is in the center of the frame:1.331
+    preview:
+  向日葵法(-):
+    description: |-
+
+    content:
+      - nsfw
+      - ugly:1.157625
+      - duplicate:1.157625
+      - morbid:1.1025
+      - mutilated:1.1025
+      - tranny:1.157625
+      - mutated hands
+      - poorly drawn hands:1.157625
+      - blurry
+      - bad anatomy:1.1025
+      - bad proportions:1.157625
+      - extra limbs
+      - cloned face
+      - disfigured:1.157625
+      - more than 2 nipples:1.157625
+      - missing arms:1.21550625
+      - extra legs:1.157625
+      - fused fingers:1.27628156
+      - too many fingers:1.27628156
+      - unclear eyes:1.157625
+      - lowers
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - bad feet
+      - monotone:1.27628156
+      - palaces:1.157625
+      - ruins:1.157625
+      - thrones:1.157625
+  人偶法(+):
+    description: |-
+      作者:FY(QQ1586824978 )
+      “ 人偶法基础版,会生成像人偶一样精致美丽又没有生命的女性,本法术中没有添加任何XP颜色类tag,可自行适量添加,加太多可能会崩,或者风格完全跑偏。
+      Weibu版和naifu版效果略有差异, naifu版是稳定的单人大头 ,weibu版默认生成多人,但是能稳定的生成人偶关节(记得加全身tag并强调,不然生成的关节在画面外)(webu版记得把大括号替换成小括号,不然会稳定的生成血缘诅咒风格的女性) ”
+
+      パラメータ:
+      Steps: 30, Sampler: EulerA, CFG scale:6
+
+      編集者コメント:
+      “人偶嘿嘿嘿。”(antwominy)
+      “选择的这张图不明显,其实用这串tag跑出来的图是带有一些恐怖谷效应的,看久了瘆得慌。”(今宵)
+      “要真能看出恐怖谷的图,那就不能放这里了吧。”(匿名)
+    content:
+      - extremely detailed 8k wallpaper:1.05
+      - masterpiece:1.05
+      - best quality:1.05
+      - doll:1.27628156
+      - bjd:1.1025
+      - toy doll
+      - marionette
+      - ball joint:1.05
+      - lifeless:1.21550625
+      - inorganic:1.157625
+      - 1girl:1.05
+      - beautiful detailed glass eye
+      - handled hair
+      - gorgeous hair
+      - expressionless
+      - indifferent
+      - hyperrealistic
+      - gothic
+      - classical decoration
+      - sit
+      - zoom in on eyes
+      - focus on eyes
+      - rococo style
+      - silk thread:1.1025
+    preview:
+  人偶法(-):
+    description: |-
+
+    content:
+      - more than 2 nipples:1.331
+      - missing arms:1.4641
+      - extra legs:1.331
+      - mutated hands
+      - fused fingers:1.61051
+      - too many fingers:1.61051
+      - unclear eyes:1.331
+      - bad anatomy
+      - text
+      - bad face
+      - error
+      - extra digit
+      - fewer digits
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry:1.1:1.05
+      - missing legs
+      - more than two legs
+      - mutation
+  原法典·圣经篇(+):
+    description: |-
+      作者:药隐
+      “直接用原文吟唱是为了在确定风格的前提下便捷地构造出单纯用tag或叙事不容易塑造的大场面,如群像、风景、战争、超自然景观,引用的原文会因为内容和占比而对出图效果产生微妙影响,如果想要描绘得越具体就要保证截取片段越浓缩。因为这一方法极有可能适用于水墨、浮世绘等可以与其他经典结合的风格,因此本段只称为“圣经篇”。总之,我看不懂,但AI能跑出来。”
+
+      パラメータ:
+      Steps: 20, Sampler: Euler a, CFG scale: 4.5-5.5, Eta: 0.66, Clip skip: 2, 场景512*1024,其他随意
+
+      編集者コメント:
+      “令人惊奇的创意和神奇的发现!”(雪)
+      “那么,谁来付给我这三十枚银币呢。”(今宵)
+    content:
+      - oil painting:1.21
+      - masterpiece:1.21
+      - best quality:1.21
+      - ultra-detailed:1.21
+      - illustration:1.1
+      - impasto paintings:1.21
+      - highres
+      - beautiful detailed:1.1
+      - saint\beautiful detailed faces
+      - cinematic lighting:0.90909091
+      - classicism:0.90909091
+      - "圣经原文"
+    preview:
+  原法典·圣经篇(-):
+    description: |-
+
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - artist name
+      - blurred
+      - poorly drawn face
+  怨念芷(+):
+    description: |-
+      作者:匿名
+      “算是抽象？”
+
+      パラメータ:
+      Steps: 40, Sampler: Euler, CFG scale: 11,Size: 704x704, Model hash: e6e8e1fc, Clip skip: 2, ENSD: 31337
+
+      編集者コメント:
+      “非常的有张力。”(阴阳)
+      “emmmm又是一个可以塞到画框里的作品,嗯。“(今宵)
+    content:
+      - long hair
+      - beautiful detailed eyes
+      - beautiful detailed hair
+      - petals
+      - flowing:1.331
+      - full body:1.61051
+      - 1girl
+      - paper-cut:1.21
+      - red
+      - floating hai
+    preview:
+  怨念芷(-):
+    description: |-
+
+    content:
+      - lowres
+      - text
+      - error
+      - extra digt
+      - fewer digits
+      - cropped
+      - wort quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - big boobs
+      - large breasts
+  蜂女术(+):
+    description: |-
+      作者:你这样就慢了(QQ 471792838)
+      “ 蜂妖,还不速速现出原型!”
+
+      パラメータ:
+      steps:50        scale:2.5
+
+      編集者コメント:
+      “密恐要犯啦!”(校长)
+      “11个审核阵亡了3个。”(今宵)
+    content:
+      - worker bees
+      - drones
+      - queen bee with a detailed face of girl in production:1.27628156
+      - in beehive:0.95238095
+      - game cg:1.157625
+      - by famous artist:1.157625
+      - highly detailed:1.05
+      - masterpiece:1.05
+      - best quality:1.1025
+      - beeswax
+      - honey
+      - royal jelly
+      - solo:0.95238095
+    preview:
+  蜂女术(-):
+    description: |-
+
+    content:
+      - nsfw
+      - bad hands
+  触手法(+):
+    description: |-
+      作者:幻想紫鲤鱼 (QQ1251966608)
+      “(未留言)”
+
+      パラメータ:
+      Steps:59
+      Width:832
+      Height:512
+      Cfg:4.5
+
+      編集者コメント:
+      “并不是什么涩涩的触手,不如说触手本身作为一种能够在视觉上带来结构变化的曲线就能对一幅画的观感起到很好的提高作用,真的不是什么涩涩的触手,如果一幅画毫无结构的生机,那么它就和普通的立绘一样毫无区别,真的不是什么涩涩的触手就能起到完美的调节作用,让整幅画不再无聊,甚至生动起来,但是真的不是什么涩涩的触手(后略)”(七曜)
+      “建议...我要提什么建议想必大家都是明白的。”(今宵)
+      “就要色色!”(校长)
+      "rua,禁止瑟瑟。“ (麦子)
+    content:
+      - masterpiece:1.331
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - lots of details:1.331
+      - beautiful detailed girl:1.1
+      - epic light and shadow:1.21
+      - cinematic angle
+      - oil painting
+      - illustration:1.1
+      - detailed light:1.1
+      - an extremely delicate and beautiful:1.21
+      - a girl was sitting in a dark environment. behind her was a strange purple portal. the portal stretched out many tentacles and passed by the girl
+      - wariza:1.331
+      - weak
+      - half closed eyes:1.331
+      - purple energy transfer gate:1.331
+      - bare shoulders
+      - portrait
+      - the girl is wearing a black gown
+      - dark ray
+      - detail background:1.331
+      - cute anime face:1.1
+      - headdress:1.21
+      - beautiful accessories:1.21
+      - small breasts
+    preview:
+  触手法(-):
+    description: |-
+
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - naked
+      - close eyes
+  大威天龙(+):
+    description: |-
+      作者:良知已泯
+      “ 哼!雕虫小技,竟敢班门弄斧,大威天龙! ”
+
+      正面tag:
+      可以尝试去掉关于人物tag纯出龙,或者去掉龙的tag只出人物,都有不错的体验
+
+      パラメータ:
+      模型: e6e8e1fc
+      Hypernetwork: None
+      Hypernetwork strength: 0.5~0.6
+      cfg scale: 4~5
+      resolution: 1280 640
+      Steps: 30~50
+      Sampling method: DPM2 A Karras,或者用DDIM可能会有惊喜
+      CFG Scale: 4.5
+
+      編集者コメント:
+      妖孽!我要你助我修行!”(校长)
+      “和尚——”(antwominy)
+      “和尚,你动心了,是你输了。”(js板)
+    content:
+      - original
+      - masterpiece:1.1
+      - illustration:1.1
+      - extremely fine and beautiful:1.1
+      - extremely detailed:1.15
+      - perfect details:1.1
+      - unity cg 8k wallpaper:1.05
+      - beautiful and clear background:1.25
+      - depth of field:0.7
+      - a handsome ancient monk1.5:1.1
+      - detailed beautiful eyes:1.15
+      - detailed beautiful face:1.35
+      - bald:1.4
+      - buddha's light shines back:0.9
+      - the plate sits in front of the temple:1.25
+      - tower:1.1
+      - red and yellow and cassock:1.25
+      - golden and white eye:0.9
+      - early in the morning:1.1
+      - close-up:0.35
+      - treee
+      - china
+      - mountain:0.9
+      - fantasy:0.85
+      - legendary dragon king king:1.35
+      - chinese dragon:1.25
+      - beautiful detailed glow:1.1
+      - fog:0.9
+      - chinadre
+      - chinese wind:1.1
+    preview:
+  大威天龙(-):
+    description: |-
+
+    content:
+      - poorly drawn hands:1.1
+      - poorly drawn face:1.1
+      - weird
+      - fat:1.331
+      - cropped:1.21
+      - fused fingers:1.21
+      - too many fingers:1.21
+      - malformed limbs:1.1
+      - bad anatomy:1.331
+      - ugly:1.21
+      - out of frame
+      - blurry
+      - gross propotions
+      - distorted face
+      - distorted body
+      - distorted fingers:1.21
+      - missing leg
+      - more than 2 leg
+      - more than 2 feet
+      - more than 2 arms
+      - text
+      - ui
+      - signature
+      - icon
+      - watermark
+      - misplaced limbs
+      - leg too big
+      - leg too small
+      - fused hands
+      - fused arms
+      - distorted backgroud
+      - fused buildings
+      - finger too short:1.21
+      - more than 1 right hand
+      - more than 1 left hand
+      - wrong direction of limbs
+      - wrong direction of legs
+      - wrong direction of feet
+      - misplaced facial features
+      - unbalanced facial features
+      - body too long:1.21
+      - arm too short:1.21
+      - poorly drawn joint:1.1
+      - misplaced joint
+      - wrong joint angle
+      - disappearing legs
+      - disappearing arms
+      - disappearing limbs
+      - fused limbs:1.21
+      - thumb too long
+      - fingers too long
+      - missing hands
+      - missing arms
+      - misplaced animal tail:1.21
+      - less than 2 ears
+      - more than 2 ears:1.21
+  寂雨(+):
+    description: |-
+      作者:白烛未央
+      “雨与巷。”
+
+      パラメータ:
+      steps:/
+      scale:8-10
+      sampling:ddim
+
+      編集者コメント:
+      “在雨的哀曲里,消了她的颜色,散了她的芬芳。消散了,甚至她的太息般的眼光,丁香般的惆怅。——《雨巷》”(七曜)
+      “她就站在那里,'就这样吧。'我还是说出来这句话,转身的时候,却被什么东西拉住了。”(今宵)
+    content:
+      - kowloon walled city:1.1
+      - extremely detailed:1.331
+      - masterpiece:1.21
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.21
+      - flowing
+      - telegraph pole
+      - solo
+      - 1girl
+      - bnematic lighting
+      - vest
+      - delicate face\\rain:1.1
+      - girl hold an umbrella:1.1
+      - grey sky
+      - lonely
+      - city:1.1
+      - beautiful detailed eyes
+      - detailed wet clothes
+      - blank stare
+      - dynamic angle
+      - umbrella
+      - expressionless
+      - wet
+      - alley
+      - swirl
+    preview:
+  寂雨(-):
+    description: |-
+
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worstquality
+      - low quality
+      - normal quality
+      - jpegartifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - nsfw
+      - bad face
+      - curved umbrella:1.1
+      - 2girl
+      - umbrella surface loss
+      - parachute disengagement
+      - hide umbrella face
+  彷徨(+):
+    description: |-
+      作者:第一猎人的学徒(qq:1469955736)
+      “给岁月以文明,而不是给文明以岁月。”
+      “主打背景以衬托人物的tag 可加入一些布光方式tag以强调人物与背景的差分”
+
+      パラメータ:
+      Steps: 64, Sampler: Euler a, CFG scale: 4.5, Size: 1280x960, Model hash: e6e8e1fc, Variation seed strength: 0.03, Clip skip: 2, ENSD: 31337
+
+      編集者コメント:
+      “山雨欲来风满楼,变革也许就在明天,也许永远不会到来,未来的走向也许就在摇晃的灯影里,也许在楼宇之间的雾气里,也许就在这彷徨之中。”(七曜)
+      “好强的方舟既视感!但是没有方舟tag!很棒!”(校长)
+      “我仿佛听到了画面中的人的心声(明天,明天又是早八)”(今宵)
+    content:
+      - masterpiece:1.21
+      - best quality:1.331
+      - ultra-detailed:1.5
+      - illustration:1.21
+      - disheveled hair:1.21
+      - 1girl:1.1
+      - solo
+      - ambiguous gender
+      - animal ears
+      - artist name
+      - black footwear
+      - black gloves
+      - black pants
+      - black ribbon
+      - blood
+      - blood from eyes
+      - blood from mouth
+      - blood on clothes
+      - bloodonface
+      - blue coat
+      - blue hair
+      - boots
+      - building
+      - bulletproof vest
+      - cat ears
+      - cattail
+      - caution tape
+      - a broken building
+      - character name
+      - city
+      - cityscape
+      - cloud
+      - cloudy sky
+      - coat
+      - corpse
+      - crane \machine
+      - crystal:0.90909091
+      - cuts:0.90909091
+      - eyelashes:0.90909091
+      - gloves:0.90909091
+      - green eyes:0.90909091
+      - grey coat:0.90909091
+      - hood:0.90909091
+      - hood down:0.90909091
+      - hood up:0.90909091
+      - hooded coat:0.90909091
+      - impaled:0.90909091
+      - injury:0.90909091
+      - keep out:0.90909091
+      - ladder:0.90909091
+      - leg ribbon:0.90909091
+      - lightning:0.90909091
+      - long hair:0.90909091
+      - looking up:0.90909091
+      - mask:0.90909091
+      - meteor:0.90909091
+      - open clothes:0.90909091
+      - open coat:0.90909091
+      - outdoors:0.90909091
+      - pants:0.90909091
+      - parted lips:0.90909091
+      - railing:0.90909091
+      - rain:0.90909091
+      - ribbon:0.90909091
+      - rooftop:0.90909091
+      - sidelocks:0.90909091
+      - sky:0.90909091
+      - skyscraper:0.90909091
+      - tail:0.90909091
+      - very long hair:0.90909091
+      - heavy rains
+      - negative prompt:0.90909091
+      - smooth reflection:0.90909091
+      - specular reflection
+      - delicate and delicate face:1.5
+      - the residual eaves duanbi
+      - dark tonal
+      - iridescence and rainbow eyes:1.1
+      - backlight
+    preview:
+  彷徨(-):
+    description: |-
+
+    content:
+      - longbody
+      - lowres
+      - bad anatomy
+      - bad hands
+      - missing fingers
+      - pubic hair
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+  星际穿越(+):
+    description: |-
+      作者:第一猎人的学徒  (QQ:1469955736)
+      “不要温柔地走进那个良夜...”
+
+      パラメータ:
+      Steps: 64, Sampler: DPM2 a Karras, CFG scale: 12, Size: 1216x704, Model hash: 925997e9, Variation seed strength: 0.01
+
+      編集者コメント:
+      “驾驶室太棒力!”(校长)
+      “Rage, rage against the dying of the light.”(广夏沫)
+      “狠狠的拷打CIG,我北极星呢,我海妖呢。"(SC千刀冤种七曜)
+      “我觉得,这个tag很棒,而且很有潜力(比如更换外面风景之类的)”(今宵)
+    content:
+      - masterpiece:1.21
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.21
+      - disheveled hair:1.21
+      - space
+      - spacecraft
+      - spacecraft interior:2.0
+      - border
+      - floating
+      - form behind
+      - glowing
+      - grey border
+      - science fiction
+      - extremely detailed cg unity 8k wallpaper:1.1025
+      - super fine illustrations
+      - the best quality
+      - cockpit
+      - holographic monitor
+      - horizon
+      - realistic
+      - plane
+      - 1girl
+      - bangs
+      - blue eyes
+      - bodysuit
+      - book
+      - brown hair
+      - cable
+      - computer
+      - drawing tablet
+      - earth \planet
+      - floating book:0.90909091
+      - floating object:0.90909091
+      - glasses:0.90909091
+      - graphite \medium:0.90909091
+      - grey bodysuit:0.82644628
+      - hair over shoulder:0.82644628
+      - juice box:0.82644628
+      - laptop:0.82644628
+      - long hair:0.82644628
+      - looking to the side:0.82644628
+      - planet:0.82644628
+      - scenery:0.82644628
+      - screen:0.82644628
+      - semi-rimless eyewear:0.82644628
+      - sitting:0.82644628
+      - solo:0.82644628
+      - space station:0.82644628
+      - stars:0.82644628
+      - sunlight:0.82644628
+      - sunrise:0.82644628
+      - traditional media:0.82644628
+      - kunder-rim eyewear:0.82644628
+      - window:0.82644628
+      - zero gravity:0.82644628
+      - aerial battle:0.90909091
+      - battle:0.90909091
+      - crossover :0.90909091
+      - dogfight :0.90909091
+      - backlight:1.5
+      - middle
+    preview:
+  星际穿越(-):
+    description: |-
+
+    content:
+      - low-quality
+      - low-quality illustration
+      - low-quality background
+      - lowres
+      - bad anatomy
+      - longbody
+      - bad hands
+      - missing fingers
+      - pubic hair
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+  龙女幻想 核心(+):
+    description: |-
+      作者:一阶咏唱者 (QQ156119153)
+      “一场意外,少女体内的龙之血觉醒,与家传的玉佩产生共鸣,玉佩中出现的小龙让少女大吃一惊...”
+
+      正面tag:
+      核心:(legendary Dragon Queen:1.3)
+      风格: (illustration) (fantasy wind)
+
+      パラメータ:
+      Steps: 30, Sampler: DPM2 a, CFG scale: 7, Size: 1280x512, Model hash: 925997e9, Clip skip: 2, ENSD: 31337
+
+      編集者コメント:
+      “我是老农民,疯牛满地跑,农民傻了。”(匿名)
+      “龙鸣小伙不请自来。”(匿名)
+      “rua?!” (我不是麦子rua)
+      “rua!不准冒充麦子!,不过这个貌似很适合跑dnd做设定诶!”(麦子)
+      “rua!!!”(我也不是麦子rua)
+    content:
+      - masterpiece:1.1
+      - best quality:1.1
+      - super delicate:1.1
+      - illustration:1.1
+      - extremely delicate and beautiful:1.1
+      - dynamic angle:1.1
+      - white and black highlights
+      - legendary dragon queen:1.3
+      - hanfu
+      - complex details\ \beautiful and delicate eyes:1.1
+      - golden eyes
+      - green pupils
+      - delicate face
+      - upper body
+      - messy floating hair
+      - messy hair
+      - focus
+      - perfect hands
+      - fantasy wind:1.1
+    preview:
+  龙女幻想 风格(+):
+    description: |-
+      作者:一阶咏唱者 (QQ156119153)
+      “一场意外,少女体内的龙之血觉醒,与家传的玉佩产生共鸣,玉佩中出现的小龙让少女大吃一惊...”
+
+      核心:(legendary Dragon Queen:1.3)
+      风格: (illustration) (fantasy wind)
+
+      パラメータ:
+      Steps: 30, Sampler: DPM2 a, CFG scale: 7, Size: 1280x512, Model hash: 925997e9, Clip skip: 2, ENSD: 31337
+
+      編集者コメント:
+      “我是老农民,疯牛满地跑,农民傻了。”(匿名)
+      “龙鸣小伙不请自来。”(匿名)
+      “rua?!” (我不是麦子rua)
+      “rua!不准冒充麦子!,不过这个貌似很适合跑dnd做设定诶!”(麦子)
+      “rua!!!”(我也不是麦子rua)
+    content:
+      - masterpiece:1.1
+      - best quality:1.1
+      - super delicate:1.1
+      - illustration:1.1
+      - extremely delicate and beautiful:1.1
+      - dynamic angle:1.1
+      - white and black highlights
+      - legendary dragon queen:1.3
+      - hanfu
+      - complex details\ \beautiful and delicate eyes:1.1
+      - golden eyes
+      - green pupils
+      - delicate face
+      - upper body
+      - messy floating hair
+      - messy hair
+      - focus
+      - perfect hands
+      - fantasy wind:1.1
+    preview:
+  龙女幻想(-):
+    description: |-
+
+    content:
+      - nsfw
+      - owres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - long neck
+      - humpbacked
+      - shadow
+      - nude
+      - 2 girls
+  国风少女(+):
+    description: |-
+      作者:匿名
+      “(未留言)”
+
+      パラメータ:
+      CFG Scale 5.5
+      Sampling Steps 60
+
+      編集者コメント:
+      “中国风好喜欢!你知道吗我们最近发现汉服的领子不会被打湿trick☆”(雪)
+    content:
+      - masterpiece:1.21
+      - best quality:1.21
+      - official art:1.21
+      - extremely detailed cg unity 8k wallpaper:1.1
+      - highly detailed:1.21
+      - illustration:1.21
+      - traditional chinese painting
+      - chinese wind:1.21
+      - a girl:1.21
+      - single:1.1
+      - staring
+      - fairy
+      - hair ornament
+      - earrings
+      - jewelry
+      - very long hair:1.1
+      - messy hair:1.1
+      - bare shoulders
+      - ribbon
+      - hairs between eyes
+      - beautiful detailed sky
+      - full body
+      - close-up
+      - arms behind back
+      - taoist robe
+      - thighs
+      - aloft
+      - mist-shrouded
+      - chinadre
+      - overexposure
+      - wet clothes:1.1
+      - medium breasts
+      - solo
+      - doll:1.1
+      - bare thigh
+      - incredibly absurdres
+      - intense angle
+      - pleated dress
+      - chinese style architecture
+      - single hair bun
+      - white hair
+      - red eyes
+      - sideways glance
+      - cold attitude
+      - eyeshadow
+      - eyeliner
+      - eyes visible through hair
+      - no shoes
+      - ribbon-trimmed sleeves
+      - necklace
+      - tiara
+      - sunlight
+      - reflection light
+      - ray tracing
+      - loli
+      - phoenix crown and rosy robe
+      - blush
+    preview:
+  国风少女(-):
+    description: |-
+
+    content:
+      - simple background
+      - vague
+      - lowres
+      - bad anatomy
+      - bad hands
+      - extra fingers
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - long neck
+      - large breasts
+      - poorly drawn hands
+      - poorly drawn face
+      - mutation
+      - deformed
+  樱乐会(+):
+    description: |-
+      作者:某驾校校长
+      “知道你在台下哦 这首歌 是唱给你的专属love!”
+
+      パラメータ:
+      Steps: 48, Sampler: Euler, CFG scale: 13, Size: 1344x832, Model hash: e6e8e1fc, Clip skip: 2
+
+      編集者コメント:
+      “女儿给我唱的!(bushi)”(校长)
+      “板板未来的样子!”(匿名)
+      “楼上的小心点。”(板板)
+      “咱的梦想就是穿上小裙子,蹦蹦跳跳唱歌,给大家带来快乐哒!”(steelplate 已被证实是伪装者)
+      “爱丽丝说得对。”(今宵)
+      “猫猫说的对。”(校长)
+    content:
+      - masterpiece:1.21
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.21
+      - a lot of waving glow sticks
+      - stage
+      - concert
+      - solo:1.1
+      - 1 girl
+      - singing:1.21
+      - headset
+      - leaning forward:1.2
+      - arms behind back:1.1
+      - extremely detailed eyes and face:1.21
+      - colorful
+      - tokyo dome
+      - ray tracing
+      - disheveled hair:1.1
+      - cherry blossoms
+      - petals
+      - flying notes
+    preview:
+  樱乐会(-):
+    description: |-
+
+    content:
+      - an incomplete face
+      - a contorted face
+      - hand
+      - lowres
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - long neck
+      - humpbacked
+      - extra legs
+  瓶中法(+):
+    description: |-
+      作者:冷语
+      “None.”
+
+      パラメータ:
+      Steps: 50, Sampler: Euler a, CFG scale: 11, Size: 512x1024, Model hash: 925997e9, Clip skip: 2
+
+      編集者コメント:
+      “强大的景物浓缩技巧。”(匿名)
+    content:
+      - extremely detailed cg unity 8k wallpaper:1.1
+      - masterpiece:1.1
+      - best quality:1.1
+      - ultra-detailed:1.1
+      - best illumination:1.1
+      - best shadow:1.1
+      - an extremely delicate and beautiful:1.1
+      - dynamic angle
+      - floating
+      - finely detail
+      - depth of field \bloom
+      - shine
+      - glinting stars:0.90909091
+      - classic:0.90909091
+      - illustration
+      - best starry sky:0.90909091
+      - transparent:0.90909091
+      - 1girl:1.75:0.90909091
+      - long gray hair:0.90909091
+      - detailed blue eyes:0.90909091
+      - medium breasts:0.90909091
+      - witch:0.90909091
+      - girl sitting inside a long crystal bottle
+      - bottle with stopper:0.90909091
+      - water in bottle:0.90909091
+      - grass background:0.90909091
+      - nature:0.90909091
+    preview:
+  瓶中法(-):
+    description: |-
+
+    content:
+      - mutated hands and fingers:1.5
+      - long body :1.3
+      - mutation
+      - poorly drawn :1.2
+      - bad shadow
+      - unnatural body
+      - bad breasts
+      - bad face
+      - bad eyes
+      - extra eyes
+      - ugly:1.157625
+      - duplicate:1.157625
+      - morbid:1.1025
+      - mutilated:1.1025
+      - tranny:1.157625
+      - mutated hands
+      - poorly drawn hands:1.157625
+      - blurry
+      - bad anatomy:1.1025
+      - bad proportions:1.157625
+      - extra limbs
+      - cloned face
+      - disfigured:1.157625
+      - more than 2 nipples:1.157625
+      - missing arms:1.21550625
+      - extra legs:1.157625
+      - fused fingers:1.27628156
+      - too many fingers:1.27628156
+      - unclear eyes:1.157625
+      - lowers
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - bad feet
+      - monotone:1.27628156
+      - abnormal eye size
+      - abnormal eye distribution
+      - abnormal eye proportion
+      - abnormal hands
+      - abnormal legs
+      - aabnormal feet
+      - abnormal fingers
+      - sharp face
+  未名花(+):
+    description: |-
+      作者:まっちゃ (https://twitter.com/maccha3gooo?s=11&t=Zw8siP-48ZEB16JzabeOsw)
+      “(未留言)”
+
+      パラメータ:
+      UC:L+B
+      Add quality tags:off
+      scale:3 steps:28 
+      sample:ddim
+
+      編集者コメント:
+      “花,少女,蝴蝶,梦幻而又冰冷,让人沉醉。”(广夏沫)
+      “惊艳。”(板)
+      “撒!”(匿名)
+    content:
+      - beautiful detailed flower
+      - beautiful detailed eyes
+      - hyper detailed
+      - hyper quality
+      - eyes
+      - flower and hair is same color
+      - beautifuly color
+      - face
+      - her hair is becoming flower:1.27628156
+      - butterfly:1.27628156
+      - 1girl}}}}kawaii:1.21550625
+      - high details:1.40710042
+      - high quality:1.40710042
+      - back light:1.40710042
+      - hair and clothes is flower:1.34009564
+      - upper body:1.40710042
+      - hair with body:1.21550625
+      - webbed dress:1.21550625
+      - flower leg:1.21550625
+      - flower hands:1.21550625
+      - body with flower:1.21550625
+      -  flower with clothes:1.34009564
+      - dress with flower:1.21550625
+      - light particles:1.21550625
+      - black background:1.21550625
+      - hair with flower:1.47745544
+      - small breast with flower:1.21550625
+      - big hair with  flower:1.21550625
+      - floating hair with flower:1.34009564
+      - floating}}1girl:1.34009564
+      - small breasts:1.34009564
+      - marbling with hair and clothes:1.34009564
+      - looking at viewer:1.34009564
+      - original:1.47745544
+      - arm down:1.47745544
+      - paper cutting:1.47745544
+      - flower forground:1.34009564
+      - highres:1.71033936
+      - hair with  flower:1.40710042
+      - wavy hair:1.40710042
+      - diffusion lighting:1.40710042
+      - abstract:1.40710042
+      - butterfly with  body:1.40710042
+      - flower with hair:1.40710042
+      - her hair is flower:1.40710042
+      - big top sleeves:1.40710042
+      - floating:1.40710042
+    preview:
+  未名花(-):
+    description: |-
+
+    content:
+      - large breast
+      - huge breasts
+      - worst quality masterpiece
+      - black hair
+      - landscape
+      - adult
+      - old
+      - phobia
+      - loli
+      - low-teen
+      - blush
+      - fate
+      - flat color
+      - wear
+      - realistic
+      - smrealist
+      - clothes
+      - nsfw
+      - masterpiece
+      - a
+      - naturalistic
+      - hair
+      - flower
+      - dress
+      - hatching
+      - absolutely long hair
+      - owres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - long neck
+      - humpbacked
+  未名雨(+):
+    description: |-
+      作者:まっちゃ (https://twitter.com/maccha3gooo?s=11&t=Zw8siP-48ZEB16JzabeOsw)
+      “(未留言)”
+
+      パラメータ:
+      UC:L+B
+      scale:3.5 steps:28
+      Add quality tags オフ
+      sample:k_euler_a
+
+      編集者コメント:
+      “是外国友人投稿欸!”(校长)
+      “是可爱的小正太!”(今宵)
+    content:
+      - melting
+      - abstract
+      - splash
+      - hyper detailed
+      - small breasts
+      - white hair
+      - short hair with long locks
+      - messy hair
+      - blue eyes
+      - backlighting
+      - water
+      - black background
+      - dust clodust
+      - water splash
+      - long sleeves
+      - white clothes
+      - oversized clothes
+    preview:
+  未名雨(-):
+    description: |-
+
+    content:
+      - large breasts:1.27628156
+      - huge breasts:1.27628156
+      - worst quality:1.27628156
+      - fat:1.27628156
+      - child:1.27628156
+      - low-teen}}}}}masterpiece:1.27628156
+      - black hair:1.27628156
+      - adult:1.27628156
+      - old:1.27628156
+      - phobia:1.27628156
+      - loli:1.27628156
+      - low-teen:1.27628156
+      - blush:1.27628156
+      - fate:1.27628156
+      - realistic:1.27628156
+      - smrealist:1.27628156
+      - clothes:1.27628156
+      - nsfw:1.27628156
+      - masterpiece:1.27628156
+      - a:1.27628156
+      - naturalistic:1.27628156
+      - hair:1.27628156
+      - sand:1.27628156
+      - dress:1.27628156
+      - hatching:1.27628156
+      - absolutely long hair:1.27628156
+      - owres:1.27628156
+      - bad anatomy:1.27628156
+      - bad hands:1.27628156
+      - text:1.27628156
+      - error:1.27628156
+      - missing fingers:1.27628156
+      - extra digit:1.27628156
+      - liquid tongue:1.27628156
+      - long neck:1.27628156
+      - fused ears:1.27628156
+      - bad ears:1.27628156
+      - poorly drawn ears:1.27628156
+      - extra ears:1.27628156
+      - liquid ears:1.27628156
+      - heavy ears:1.27628156
+      - missing ears:1.27628156
+      - fused animal ears:1.27628156
+      - bad animal ears:1.27628156
+      - poorly drawn animal ears:1.27628156
+      - extra animal ears:1.27628156
+      - liquid animal ears:1.27628156
+      - heavy animal ears:1.27628156
+      - missing animal ears:1.27628156
+      - bad hairs:1.27628156
+      - poorly drawn hairs:1.27628156
+      - fused hairs:1.27628156
+      - bad face:1.27628156
+      - fused face:1.27628156
+      - poorly drawn face:1.27628156
+      - cloned face:1.27628156
+      - big face:1.27628156
+      - long face:1.27628156
+      - bad eyes:1.27628156
+      - fused eyes poorly drawn eyes:1.27628156
+      - extra eyes:1.27628156

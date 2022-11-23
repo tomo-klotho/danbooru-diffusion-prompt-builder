@@ -334,11 +334,12 @@ content:
     name: スキャン
     wikiURL: https://danbooru.donmai.us/wiki_pages/scan.html
   anime screencap:
-    alias:
-      - screencap
-    image: 71a912f60fa5ad5401a02da03f73f5129089855e62e669204e05c848abe09953
     name: 場面写
     wikiURL: https://danbooru.donmai.us/wiki_pages/anime_screencap.html
+    image: 71a912f60fa5ad5401a02da03f73f5129089855e62e669204e05c848abe09953
+    alias:
+      - screencap
+      - anime screenshot
   shitajiki:
     name: 下敷き
     wikiURL: https://danbooru.donmai.us/wiki_pages/shitajiki.html
@@ -364,3 +365,21 @@ content:
   official wallpaper:
     name: 公式壁紙
     wikiURL: https://danbooru.donmai.us/wiki_pages/official_wallpaper.html
+  ultra-detailed:
+    name: すごく細かい
+  steampunk:
+    name: スチームパンク
+    wikiURL: https://danbooru.donmai.us/wiki_pages/steampunk.html
+    alias:
+      - detailed steampunk
+  8k wallpaper:
+    name: 8Kサイズの壁紙
+    alias:
+      - very fine 8kcg wallpapers
+      - very fine 8k cg wallpaper
+      - extremely detailed wallpaper
+  4k wallpaper:
+    name: 4kサイズの壁紙
+    
+
+

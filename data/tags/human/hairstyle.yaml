@@ -20,6 +20,8 @@ content:
     name: パッツン
     wikiURL: https://danbooru.donmai.us/wiki_pages/blunt_bangs.html
     image: 32f2f5cd18323d871dedeeea12c0a8e1c9408b9da00b02fe7c4c90b01022d98a
+    alias:
+      - side blunt bangs
   braid:
     alias:
       - braids
@@ -80,6 +82,7 @@ content:
   hair between eyes:
     alias:
       - bangs between eyes
+      - hairs between eyes
     name: 目と目の間の前髪
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_between_eyes.html
     image: 5fa140efb6c218833336601affa99b98533dba96bb77df487bbeb2b420a8d2c6
@@ -578,3 +581,10 @@ content:
   hair scarf:
     name: ヘアスカーフ
     wikiURL: https://danbooru.donmai.us/wiki_pages/hair_scarf.html
+  long bangs:
+    name: 長い前髪
+    wikiURL: https://danbooru.donmai.us/wiki_pages/long_bangs.html
+  azure hair:
+    name: 青空のような髪
+  disheveled hair:
+    name: 乱れ髪

@@ -1,4 +1,4 @@
-name: 元素法典 1巻
+name: 元素法典 1.0巻
 category: 
   - 元素法典
 description: |-
@@ -11,8 +11,8 @@ content:
     description: |-
       作者:steelplate（QQ 457215551）
       実は、隣の人が困っていたタグを改良しているうちに、AIの秘密がわかってきて、こんなことを思いついたんです。諸悪の根源です。
-      参考参数:CFG 5.5, euler_a, step 30
-      このセクションには、この記事のポジティブタグが含まれています。
+      参考パラメータ:CFG 5.5, euler_a, step 30
+      この記事のポジティブタグを掲載しています。
     content:
       - masterpiece:1.21
       - best quality:1.331
@@ -50,9 +50,6 @@ content:
       - b0304b0a7cf54ba9aa38daf5f4f4b063168551ea14eaac94ba2afc4769201902
   水魔法(-):
     description: |-
-      作者:steelplate（QQ 457215551）
-      実は、隣の人が困っていたタグを改良しているうちに、AIの秘密がわかってきて、こんなことを思いついたんです。諸悪の根源です。
-      参考参数:CFG 5.5, euler_a, step 30
       本記事のネガティブタグを掲載しています。
     content:
       - nsfw
@@ -82,7 +79,7 @@ content:
       最小限のタグで最強のビジュアルインパクトを提示することを目指した実験的なプロジェクトです。編集部では、構造的にもグラフィック効果的にも、非常に情報量の多いタグだと考えています。*.
       今日、ワイドを試してみたら、意外とうまくいった。ガラス片を取り外すことで、時計の見栄えを良くすることができます。
       *あくまで個人的な意見です
-      参考参数:cfg 4.5, euler_a, steps 28
+      参考パラメータ:cfg 4.5, euler_a, steps 28
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - illustration
@@ -135,7 +132,7 @@ content:
       最小限のタグで最強のビジュアルインパクトを提示することを目指した実験的なプロジェクトです。編集部では、構造的にもグラフィック効果的にも、非常に情報量の多いタグだと考えています。*.
       今日、ワイドを試してみたら、意外とうまくいった。ガラス片を取り外すことで、時計の見栄えを良くすることができます。
       *あくまで個人的な意見です
-      参考参数:cfg 4.5, euler_a, steps 28
+      参考パラメータ:cfg 4.5, euler_a, steps 28
       本記事のネガティブタグを掲載しています。
     content:
       - nsfw
@@ -160,7 +157,7 @@ content:
     description: |-
       作者:mahiru（QQ 1273348952）
       もう一つの諸悪の根源。大魔法時代の幕開けを象徴するものの1つ。
-      参考参数:Steps: 27, Sampler: Euler a, CFG scale: 7
+      参考パラメータ:Steps: 27, Sampler: Euler a, CFG scale: 7
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece
@@ -196,7 +193,7 @@ content:
     description: |-
       作者:mahiru（QQ 1273348952）
       もう一つの諸悪の根源。大魔法時代の幕開けを象徴するものの1つ。
-      参考参数:Steps: 27, Sampler: Euler a, CFG scale: 7
+      参考パラメータ:Steps: 27, Sampler: Euler a, CFG scale: 7
       本記事のネガティブタグを掲載しています。
     content:
       - lowres
@@ -221,7 +218,7 @@ content:
   核爆魔法(+):
     description: |-
       作者:mahiru（QQ 1273348952）
-      参考参数:Steps: 28, Sampler: Euler a, CFG scale: 7
+      参考パラメータ:Steps: 28, Sampler: Euler a, CFG scale: 7
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece
@@ -258,7 +255,7 @@ content:
   核爆魔法(-):
     description: |-
       作者:mahiru（QQ 1273348952）
-      参考参数:Steps: 28, Sampler: Euler a, CFG scale: 7
+      参考パラメータ:Steps: 28, Sampler: Euler a, CFG scale: 7
       本記事のネガティブタグを掲載しています。
     content:
       - lowres
@@ -283,8 +280,8 @@ content:
   風魔法(+):
     description: |-
       作者:老年痴呆的疾风法师（QQ 1431322374）
-      ここで暗号を作るな！
-      参考参数:CFG: 5.5, euler, step 50
+      ここで暗号を作るな!
+      参考パラメータ:CFG: 5.5, euler, step 50
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece
@@ -320,8 +317,8 @@ content:
   風魔法(-):
     description: |-
       作者:老年痴呆的疾风法师（QQ 1431322374）
-      "ここで暗号を作るな！  "
-      参考参数:CFG: 5.5, euler, step 50
+      "ここで暗号を作るな!  "
+      参考パラメータ:CFG: 5.5, euler, step 50
       本記事のネガティブタグを掲載しています。
     content:
       - nsfw
@@ -350,7 +347,7 @@ content:
   流沙魔法(+):
     description: |-
       作者:咸咸咸鱼（QQ 87153289）
-      参考参数:CFG 4.5 - 5.5
+      参考パラメータ:CFG 4.5 - 5.5
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - 1girl
@@ -395,7 +392,7 @@ content:
   流沙魔法(-):
     description: |-
       作者:咸咸咸鱼（QQ 87153289）
-      参考参数:CFG 4.5 - 5.5
+      参考パラメータ:CFG 4.5 - 5.5
       本記事のネガティブタグを掲載しています。
     content:
       - lowres
@@ -423,7 +420,7 @@ content:
     description: |-
       作者:咸咸咸鱼（QQ 87153289）
       現時点では安定性に欠けるが、グラフの質はかなり良い
-      参考参数:CFG 6.5、その他のパラメータを任意に設定
+      参考パラメータ:CFG 6.5、その他のパラメータを任意に設定
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - cinematic lighting
@@ -493,7 +490,7 @@ content:
   星空魔法(+):
     description: |-
       作者:symb（QQ 914635985）
-      参考参数:CFG 6.0, euler_a, steps 50
+      参考パラメータ:CFG 6.0, euler_a, steps 50
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.21
@@ -551,7 +548,7 @@ content:
     description: |-
       作者:孤辰Null（QQ 2659055918）
       すべての機械族に、最高の敬意を表します
-      参考参数:cfg12, euler_a, steps 28 naifu
+      参考パラメータ:cfg12, euler_a, steps 28 naifu
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.21
@@ -617,7 +614,7 @@ content:
   森林氷魔法(+):
     description: |-
       作者:大猫（QQ 2438380346）
-      参考参数:Steps: 30, Sampler: Euler a, CFG scale: 7
+      参考パラメータ:Steps: 30, Sampler: Euler a, CFG scale: 7
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - ink:1.4641
@@ -692,7 +689,7 @@ content:
   幻想時間魔法(+):
     description: |-
       作者:天域（QQ 799855103）
-      参考参数:Steps: 20, Sampler: Euler a, CFG scale: 7
+      参考パラメータ:Steps: 20, Sampler: Euler a, CFG scale: 7
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.1
@@ -765,7 +762,7 @@ content:
   雷男魔法(+):
     description: |-
       作者:幻想紫鲤鱼（QQ 1251966608）
-      参考参数:Steps: 60, Sampler: Euler a, CFG scale: 7.5
+      参考パラメータ:Steps: 60, Sampler: Euler a, CFG scale: 7.5
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - a man with has short black hair
@@ -819,7 +816,7 @@ content:
     description: |-
       作者:幻想紫鲤鱼（QQ 1251966608）
       tips:追加可能Facing the lens姿勢を正す（AI永遠に背中に翼を生やさせない。）
-      参考参数:Steps: 36, Sampler: Euler a, CFG scale: 7
+      参考パラメータ:Steps: 36, Sampler: Euler a, CFG scale: 7
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.331
@@ -878,7 +875,7 @@ content:
   苇名魔法(+):
     description: |-
       咸咸咸鱼（QQ 87153289）
-      参考参数:cfg: 6.5, 残りはデフォルトで
+      参考パラメータ:cfg: 6.5, 残りはデフォルトで
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - dramatic shadow
@@ -948,7 +945,7 @@ content:
     description: |-
       作者:半生为夏甗麦至冬（QQ 167894905）
       背景とキャラクターのウェイトがやや不一致で、たまにキャラクターのいない背景だけがありますが、このタグの主役は見栄えの良い背景で、キャラクターは同調アイテムであり、キャラクターが私の背景を持つ作品に生成する資格がないことに憤慨することもあるのですが......。
-      参考参数:1280x720 cfg4 euler a steps:30
+      参考パラメータ:1280x720 cfg4 euler a steps:30
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.331
@@ -1059,7 +1056,7 @@ content:
     description: |-
       作者:离露（QQ 1123820886）
       グループ内で通常の氷の呪文と虹の呪文を変更する。
-      参考参数:デフォルト
+      参考パラメータ:デフォルト
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece
@@ -1145,7 +1142,7 @@ content:
   融合魔法(+):
     description: |-
       作者:antwominy（QQ 863081130）
-      参考参数:Steps: 39, Sampler: Euler, CFG scale: 4.5, 512 x 1024
+      参考パラメータ:Steps: 39, Sampler: Euler, CFG scale: 4.5, 512 x 1024
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - a girl
@@ -1302,7 +1299,7 @@ content:
       [カラフルな女の子を嫌いな人はいないでしょう。虹色の魔法は、非常に低いスケール値を要求するため非常に不安定であり、多くの試行の後に与えられた推奨設定は最も高い成功率を持っています。]
       更新しました。非常に高い成功率です。"美的疲労に注意"
       再度更新しました。だいぶ合理化されましたね。
-      参考参数:step28 scale5 k_euler_a 832x512
+      参考パラメータ:step28 scale5 k_euler_a 832x512
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - extremely detailed cg:1.21
@@ -1383,7 +1380,7 @@ content:
   闇鎖魔法(+):
     description: |-
       作者:腰刀机（QQ 2489464602）
-      参考参数:step24 scale4.5 k_euler
+      参考パラメータ:step24 scale4.5 k_euler
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.61051
@@ -1475,7 +1472,7 @@ content:
   星氷魔法(+):
     description: |-
       作者:symb（QQ 914635985）
-      参考参数:Steps: 50, Sampler: Euler a, CFG scale: 5.5
+      参考パラメータ:Steps: 50, Sampler: Euler a, CFG scale: 5.5
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.331
@@ -1743,7 +1740,7 @@ content:
   火砕雲魔法(+):
     description: |-
       作者:symb（QQ 914635985）
-      参考参数:Steps: 50, Sampler: Euler a, CFG scale: 5.5
+      参考パラメータ:Steps: 50, Sampler: Euler a, CFG scale: 5.5
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.331
@@ -1813,7 +1810,7 @@ content:
     description: |-
       作者:symb（QQ 914635985）
       編集部注:このマジックの作者は、構図の関係で2枚お願いし、柔らかさに耐えかねて承諾したそうです......。
-      参考参数:Steps: 50, Sampler: Euler a, CFG scale: 6
+      参考パラメータ:Steps: 50, Sampler: Euler a, CFG scale: 6
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - hiten 1
@@ -2077,7 +2074,7 @@ content:
   雪月魔法(+):
     description: |-
       作者:symb（QQ 914635985）
-      参考参数:Steps: 50, Sampler: Euler a, CFG scale: 5.5
+      参考パラメータ:Steps: 50, Sampler: Euler a, CFG scale: 5.5
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - hiten 1
@@ -2140,7 +2137,7 @@ content:
     description: |-
       作者:Melffy（QQ 775667304）
       不安定なガラスの呪文、ブラインドで割れたガラスの閃光で強調される
-      参考参数:Steps: 40, Sampler: Euler a, CFG scale: 4.5
+      参考パラメータ:Steps: 40, Sampler: Euler a, CFG scale: 4.5
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - crystals texture hair:1.331
@@ -2234,7 +2231,7 @@ content:
     description: |-
       作者:半生为夏甗麦至冬（QQ 167894905）
       作者:私の感想は、「人は景色ほど素敵ではない」です。
-      参考参数:steps:20，cfg4，1280×768，euler a
+      参考パラメータ:steps:20，cfg4，1280×768，euler a
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.331
@@ -2275,6 +2272,10 @@ content:
       - randomly distributed clouds
       - rivers:1.1
       - willows with branches falling into the water:1.1
+    preview:
+      - 7791f5acdea75d54d5a18d07367fc5e89dfb542a335a5a6a136ddba006b589f1
+      - a820389bdf5a420bff0e6f5ec71c33a14297345646ea1873f9ac49294207478f
+      - abdae869e30104da90f30f8e61aa9a65c2cee5b77bb1b6f569e7a71130b272d2
   黄昏魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -2319,7 +2320,7 @@ content:
   森林魔法(+):
     description: |-
       作者:Pumpkinhn（QQ 1013239829）
-      参考参数:step40，scale7
+      参考パラメータ:step40，scale7
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.331
@@ -2349,6 +2350,12 @@ content:
       - painting:1.1
       - sketch:1.1
       - bloom:1.1
+    preview:
+      - 9e5355f31cbc141ed7b1ac602a8888eaeb85259a4af495dae898b756e9e3e59a
+      - 39c22018e628c2f335c4e4b80d505bef7e94049abe25d1342343f2088da37bf7
+      - 7763586fb8c0a2021db757f4f89c7d82bd84bc171b630fe9cea5a45e8ad6d4e9
+      - bb0b4074f9c5b3688d2c2764e387de5c3f2dc519c00aae312212bdddcae8a96c
+      - c90b9141c42d70bf9c6742475039773938eb099cd91840f9212d87ba76779117
   森林魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -2374,7 +2381,7 @@ content:
   泡泡魔法(+):
     description: |-
       作者:Pumpkinhn（QQ 1013239829）
-      参考参数:Steps: 40, Sampler: Euler a, CFG scale: 5.5
+      参考パラメータ:Steps: 40, Sampler: Euler a, CFG scale: 5.5
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.331
@@ -2400,6 +2407,13 @@ content:
       - desert:1.1
       - floating sand flow:1.1
       - colorful bubble:1.331
+    preview:
+      - 25d76b3e455f1dbe3a0465fbf7df004c4507edb7740a5426ab14eef142150383
+      - f423bb7f417f48701b6e5a582ff54d43983b6636949bbec4c064cecac9ca5f93
+      - 51211a56717eed2f7e4af18987ed2edb0f8ddfa0fc07a802b2a56c24447093d4
+      - 10af7e0f86a15ae66cf23836ca98a383017af3891debc5403f25e2640bb1ef97
+      - 6589b0c24937afcf261de23bbc18b7f1e6d384bcbcfed0636c6c98feb84c3b9a
+      - e1ed6e91bad096e024e2e043241c1070397e3821392ee1dc3fc3800950a84f1a
   泡泡魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -2425,7 +2439,7 @@ content:
   蔷薇魔法(+):
     description: |-
       作者:Pumpkinhn（QQ 1013239829）
-      参考参数:Steps: 40, Sampler: Euler a, CFG scale: 5.5
+      参考パラメータ:Steps: 40, Sampler: Euler a, CFG scale: 5.5
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.331
@@ -2455,6 +2469,15 @@ content:
       - red rope
       - sketch:1.21
       - painting:1.1
+    preview:
+      - ba5f65287eac9ddb1632a857ba695ad28b47368db4b357f9d06726aafbdf66a3
+      - bee8e0fe6635e0a2aadeda1488621d2bac37d8ee1949a6b26121f1d2ca3a683c
+      - 3cb88e84164c16e35dd5a78aa8ef52e1b8d34c9d631fb5d20122c5f2333806ce
+      - 93d76e2cc5041eac5e2de5c4f35224ee282826d4582b4560cb224d0728f04708
+      - 6024d23d2666dfafaf3b35a959f0b73e346cfcec388af32bffb1780b766ad39d
+      - 95c42ce0ee2162fc019156b972b0eee5e344f56c9fa14d78fd4014661b6dfc72
+      - 48230da53fde57dcd92eff120148e359bca417a25c477b663c9ef778835dbd59
+      - 4339febcb0f1f00049445825bb123693a362fb88f6c15ef237778fd8ae7075c7
   蔷薇魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -2480,7 +2503,7 @@ content:
   月魔法(+):
     description: |-
       作者:Pumpkinhn（QQ 1013239829）
-      参考参数:Steps: 40, Sampler: Euler a, CFG scale: 5.5
+      参考パラメータ:Steps: 40, Sampler: Euler a, CFG scale: 5.5
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.331
@@ -2509,6 +2532,13 @@ content:
       - painting:1.1
       - sketch:1.1
       - bloom:1.1
+    preview:
+      - 6d259c242c97ee9402f21e32ef09363e04493103bb8a9c0af66942b314655096
+      - b70ba81dfcefca714bb770876ea75588fcf7e194ae1c4968ffaf50b90626f2eb
+      - 2dc5a7c8ee0ab4aa377c8b5889375ac458592c2675b53b67bc8fed797ac1b869
+      - 06796cb653b1c0fa6aec71f2a3bd5a573627ef59ebd6d8933b726cbbd0568d60
+      - 1bf5c1730cbcae582618eaa4777ba0313efcfae6acdf4ef633bcca4b0e1a0088
+      - db8bcf5aad3003fec93fa9934a9c1ed55dd185759401285762ea988131127584
   月魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -2534,7 +2564,7 @@ content:
   森火魔法(+):
     description: |-
       作者:大猫（QQ 2438380346）
-      参考参数:
+      参考パラメータ:Steps: 30, Sampler: Euler a, CFG scale: 5.5
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - ink:1.4641
@@ -2569,6 +2599,12 @@ content:
       - a burning church
       - fire butterflys:1.331
       - flying sparks:1.1
+    preview:
+      - d4d2ad40e5f0f51c0959c0e8e2bb7d6252ec872058bb9fca7ce776ef81cc8108
+      - 877e770e133118fc722b4decf8dcdcb7f49c8fecd0e9e966a2aa5dc7fd79e7f3
+      - a08a8abc53d3cdc7940b6d01937579d7e495357e102ced60b97b66eb1cd48521
+      - edbdcdb0e073f40e90080ece6b25d9a9242138acfeea1b86b30b4c2c078c6da3
+      - 007562351e863760183acf7e345dbedc8e0cd5fb908bb2297e755167c10939b7
   森火魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -2599,7 +2635,7 @@ content:
     description: |-
       作者:易者（QQ 1608090027）
       荒れ地を強く生き抜く女の子を愛さない人はいないでしょう。
-      参考参数:Steps: 45, Sampler: Euler a, CFG scale: 5.5
+      参考パラメータ:Steps: 45, Sampler: Euler a, CFG scale: 5.5
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.331
@@ -2627,6 +2663,12 @@ content:
       - dead end machine
       - broken robot:1.1
       - mechanical girl:1.1
+    preview:
+      - 1f96528a632e027ce76dc05deff77a2bf99c5dd5d7123840f8fd9e0f076a11b5
+      - 863f7e131d7ba52d4309548eab1dd0f7945f1fd2aeb81c80d9ec14c7c7415988
+      - e97e71463078634d531108a4405e1d3181a96847c0189baaa9dcd9261b34bdc7
+      - 7964b79f399a54242326fc04d6de75d8f568f93412b41659fdc55d4a4081f60f
+      - 525e9d9b714253ee827b18ae54318e96f811d8e9fb2c397e6e233210c40c238c
   荒地魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -2670,8 +2712,9 @@ content:
     description: |-
       作者:某驾校校长（QQ 3062945846）
       編集注:やりすぎるなよ、このガキ
-      参考参数:Steps: 38, Sampler: Euler a, CFG scale: 12
+      参考パラメータ:Steps: 38, Sampler: Euler a, CFG scale: 12
       このセクションには、この記事のポジティブタグが含まれています。
+      注：プレビュー画像は{{{girl close-up}}},{{{girl at the front}}}を追加しています。
     content:
       - masterpiece:1.1
       - best quality
@@ -2698,6 +2741,11 @@ content:
       - mecha clothes:1.1
       - robot girl
       - beautiful detailed face
+    preview:
+      - e7ff1eac8010999cbf3ddb9913f975aaa2e0577950486d33641db99548e1486e
+      - 99a20114ebca91a5b4081064e6a9c5f15e57c0646cd5e8f27e902d12f961e138
+      - a91fa004a046fc2a4b2fbda2fd480397fc5ac1c85e114c738bc7302982c3a6ef
+      - 6433333e4b266b179f3d3e0b2bd3719dfff29662526bfdce3e878ad4f4a78bb8
   機械娘水魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -2727,7 +2775,7 @@ content:
     description: |-
       作者:antwominy（QQ 863081130）
       Steps: 30, Sampler: Euler, CFG scale: 7
-      参考参数:
+      参考パラメータ:
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece
@@ -2757,6 +2805,12 @@ content:
       - flowing iron:1.61051
       - flowing silver:1.61051
       - lace flowing and melt:1.4641
+    preview:
+      - da8228c866f8272a46b625aee917321910535b1d3fddf0b6fedf2f174cb8849c
+      - 675b7cb8bef8ffdf790422985efb252d24a441ab0416fb442807b30a488121c0
+      - 43971d23d94872c29db0884cb493c842e2e952545ce4e4200e9107b8fa6eb8d3
+      - b2ab7d3ed737952f6c7254db6b985c8b1dd941d5175839cab51e67d0eb1671e7
+      - 0211d3058e65c348cf94a2a82df919bbf30540b3a8d5a39a8bfcec29ab9b7f1a
   黄金魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -2813,7 +2867,7 @@ content:
     description: |-
       作者:Phoebe（QQ 3101516445）
       作者の一言:私は医学生です。
-      参考参数:Steps: 50, Sampler: Euler a, CFG scale: 12
+      参考パラメータ:Steps: 50, Sampler: Euler a, CFG scale: 12
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - cinematic lighting
@@ -2836,6 +2890,10 @@ content:
       - simple background
       - bright skin
       - cherry blossoms
+    preview:
+      - d0ecc901a5f91de48f5a494a07077dee4a3143f17ba9eb045dc55c0c7d2ce057
+      - 98ee704c9dcda0f8f965b6e2d527af0acb1e4766b08e42038d8cf7d91cc1a9d5
+      - 584ad6cfc425c44a2324d65918bebf5beb975cfc5b8eeb956f816e0da2a44810
   死霊魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -3067,7 +3125,7 @@ content:
     description: |-
       作者:LiON（QQ 3170885344）
       作者の言葉:水晶というより、実は質感が少し大事。水晶は、実はまったく別のものに置き換えることができるのです。この例では、グループからkegocha ptを使用していますが、これを削除しても問題ないでしょう。
-      参考参数:Steps: 45, Sampler: Euler, CFG scale: 6.5
+      参考パラメータ:Steps: 45, Sampler: Euler, CFG scale: 6.5
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece
@@ -3114,6 +3172,10 @@ content:
       - long focus
       - colorful blisters:1.1
       - ukiyoe style
+    preview:
+      - cf9aa2eb94cccabdd28dac1640005ee1edb0e036eb0c0393abe673a3df034c40
+      - d89b9fbaa5dad69e82ab98a1ad5fb34746b02e03eb5363ad1a944e1e40857da4
+      - e927d6f6c614b195c397032044d11970bf1e0e3084a955412ac48d84804f593e
   水晶魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -3139,7 +3201,7 @@ content:
     description: |-
       作者:凌霜雪猫（QQ 3347185525）
       フォレスト・ウォーター・ワールド・ウィズ・パレス
-      参考参数:Steps: 40-50, Sampler: Euler, CFG scale: 4-7
+      参考パラメータ:Steps: 40-50, Sampler: Euler, CFG scale: 4-7
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - extremely detailed cg unity 8k wallpaper:1.1
@@ -3177,6 +3239,12 @@ content:
       - sketch:1.1
       - bloom:1.1
       - shine:1.1
+    preview:
+      - b598ab0123b5364d330efc1cb910d44842a2c952f942313e02e43dfc1e64158f
+      - 3a788e8e819ca0966438d5a1385ee0fb17f703cc4cac2b295d5095876579a075
+      - 5e725a674cfb4461127d0f23a195df29f551c58d5efc4853c539214587021705
+      - b2fd151f756f3ec9027acc5dc0846436433378424baca60183944b027d25f944
+      - 80ac02b33ed9f9cff9cdbdc2778f48fbee8828ab869f05cd2c01dbdc410b68dc
   水森魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -3222,7 +3290,7 @@ content:
     description: |-
       作者:風華-桜雪（QQ 416179437）
       作者コメント:まだ安定していない、時々火の側で、時々氷の側で、ほとんど問題なし
-      参考参数:steps:23  scale:4.5  euler 832x512
+      参考パラメータ:steps:23  scale:4.5  euler 832x512
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - ink:1.21
@@ -3259,6 +3327,11 @@ content:
       - feathers made of ice:1.1
       - frozen feathers:1.1
       - ice and fire together:1.331
+    preview:
+      - 45bb5b4acffdac9b6b73d1c16daccecdf605bf3bf3f2a6f8477bbe2482d110af
+      - cbc04f41b788a715f0a2529f236eabe5c87f20106d7a1606a4efe941d37fefb5
+      - aacc968fd35dc7de28828765dfbea2bd471c73a15b3ad88f28efe350df32b809
+      - 23fd35a2f710963ad943312332f5f6532af521ed8ae3231f9bfba7dfb6325b33
   氷火魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -3281,11 +3354,11 @@ content:
       - username
       - blurry
       - bad feet
-  竜使い魔法(+):
+  竜騎士魔法(+):
     description: |-
       作者:好好怪（QQ 1395768464）
       使い切れるかどうかはあなた次第、でも、タグは大丈夫です 
-      参考参数:
+      参考パラメータ:Steps: 50, Sampler: DDIM, CFG scale: 7
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - extremely detailed cg unity 8k wallpaper
@@ -3304,7 +3377,15 @@ content:
       - corner
       - cape
       - indifference
-  竜使い魔法(-):
+    preview:
+      - b86efc33ed0d574af87cb33ba8541001e7fd4ab532fe549a9ace5d0e6b62b77f
+      - 49d671466078df52d6076813b8162121bf88ee22c2a93b698269cb754cb9f7f0
+      - 3091c6fc50f414148e4791997c7c4e60a0a83385c9c17c24e639289076d238a8
+      - fabbb2eb99b0654cd91cbd469295cc18f53090fbedfb9e819073d0a9a7dc4ff6
+      - d91b78543c8a4c462b68a2c350c22a215f84e4056e449f014d8f075ee2952ad6
+      - f741180c6ec09b45203b4273ba09556a88b66e6d0a8893e9ade56f7cf4f6814f
+      - 6d4e0799d0e5bb12506173b22ebf938f60b6abbbeb691d78a68458bde12558a3
+  竜騎士魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
     content:
@@ -3332,7 +3413,7 @@ content:
     description: |-
       作者:ALICExhcm（QQ 1013372977）
       落下と浮遊、現実と夢想、絶望と無力、涙と微笑み
-      参考参数:PLMS, steps 150, cfg 8
+      参考パラメータ:PLMS, steps 150, cfg 8
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.21
@@ -3344,19 +3425,17 @@ content:
       - crying
       - falling from the sky:1.61051
       - weathering with you:1.21
-      - full body:1.331
       - illustration:1.1
       - 1 girl:1.1
       - falling:1.21
       - face towards the sky:1.21
       - hair flows upwards:1.1
-      - illustration:1.21
       - disheveled hair:1.21
-      - anime screeshot
+      - anime screenshot
       - frills:1.21
       - big top sleeves
       - floating
-      - beautiful detailed isky
+      - beautiful detailed sky
       - beautiful detailed eyes
       - overexposure
       - expressionless
@@ -3366,9 +3445,17 @@ content:
       - bowties
       - buttons
       - bare shoulders
-      - small breast:1.331
-      - detailed  clothes
+      - small breasts:1.331
+      - detailed clothes
       - blank stare
+    preview:
+      - f7fcae80b3caa841edaa65d08a97a43b375337a20f64467f97d4e211752d8f45
+      - cc3686025ced648a59e9e9adb9b40fd2f918c42c83949f0670ba827c6d1a15da
+      - b26e6413bb1fe56cdcdc940df994a1deb0c67c7882ed363356b1c75e21bb313e
+      - 8da259f78cd01cca3e8fd678b6a16b5bbfd40bbe1042145a26c65924fd24884d
+      - 776ba335077581943ec21a5580f4819c12ec9e3f5875055670466416f0539fa4
+      - d200e0561cc42981d711a53c7adfd05ae0b3ce1dd73165b6c4a43b7fdb226dcf
+      - 8f6bfd5f02f0ccadf2a3e248e2beff796ae7b61b7a06a1fa007352b5d2854245
   落下魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -3443,7 +3530,7 @@ content:
     description: |-
       作者:ᵐᵃʰⁱʳᵘ（QQ 1273348952）
       早く水を入れてくれ、乞食にさせるな
-      参考参数:Steps: 27, Sampler: Euler a, CFG scale: 7
+      参考パラメータ:Steps: 27, Sampler: Euler a, CFG scale: 7
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.331
@@ -3482,6 +3569,8 @@ content:
       - fish
       - tyndall effect:1.331
       - face to face
+    preview:
+      - d097926218a0147b606af734a62215bb23ab61a7b84cd879f3f0a4f4cf08c013
   水中魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -3511,7 +3600,7 @@ content:
     description: |-
       作者:凌霜雪猫（QQ 3347185525）
       ただ美しいと言いたい
-      参考参数:CFG=6, Euler
+      参考パラメータ:CFG=6, Euler
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - extremely detailed cg unity 8k wallpaper:1.1
@@ -3542,6 +3631,14 @@ content:
       - sketch:1.1
       - bloom:1.1
       - shine:1.1
+    preview:
+      - 0736de0b2b1e24f972b82381bd37e510a9604e581d122992cd445e8538a8354e
+      - 54471dffa4a989162ac562ee3766464aedddc6ef26e26aac1c816f908a8b8e40
+      - 58aacc3ffcc6cb3ef31f45bdfc478e8bf6dc77a2b3b98a83e7003ed028efe6a1
+      - d538f3407a1197044f5783dbbd4244641a34fcd5bb94f0fb2bcec1823838b14f
+      - 784eb6515dd977db22055151f03c27df81dc4f24a762b16d70666b449f10d36f
+      - 820e5c869bd28cc43fb74d5081527496b5d5abf58de411370c228fed01af6ada
+      - d284287fb7d22f006e375a7b297437b00bbe924dc0cbcabe107e22f9bcdaa910
   秘境魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -3588,7 +3685,7 @@ content:
       作者:半生为夏甗麦至冬（QQ 167894905）
       プロジェクト開始以来ブサイクが一人もいない、俺の評価は神の呪文だ
       これに加えて、キャラクターの追加にも常に対応しており、キャラクター用の汎用ネガティブタグを追加するだけです
-      参考参数:Steps: 30,  Euler a, CFG7
+      参考パラメータ:Steps: 30,  Euler a, CFG7
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.331
@@ -3612,6 +3709,17 @@ content:
       - rotating star sky:1.21
       - lake in mountain stream:1.21
       - luminous particles
+    preview:
+      - f089489c5726bed222dd2ecf91ff1a4760fc6fcca23742236b8dfeedd40a4a9b
+      - f285d5a7461bc3c5417df06cfc4baf79636065371114f9e60c2d356e4c5d626f
+      - 6d91a713660c45cf8d36798e0c5aca72fec80f149820f82e750c8eade9482419
+      - 50d3911e8c9b1bfa56dbd237fdc11ef0e1e85610c5b937ba233a66813dc057f8
+      - 943798b21b6457fb7dc55b40cb05b486d90a6364aa19e78375f43d95f17a8d31
+      - dbac026ffbea2779a9a0f6b49a8553d2cbe95a4d420f800b6e85ffd37f45e075
+      - a44421b25cffa03c0e6d27f9ec489d8acd35c00723ca0d97480b808d7aa8bb54
+      - 070a707c503648c961e1050753975d9a4448d498f0ee23e5a1953fc3c88af371
+      - 4c689ad92441f56afc47b9dbcfe4afa29dd51a7b95e0156018086bc2dca6d7f1
+      - a0236d669c7bca4d419622f77f1b75995525fb62da9e498dd7513770928e2139
   写真魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -3626,12 +3734,12 @@ content:
       - low-quality mountain
       - low-quality illustration
       - low-quality background
-  水面から覗く(+):
+  水面覗魔法(+):
     description: |-
       作者:丽普露·洛斯达（QQ 869581936）
       正式名称:「フローティング・ウォーター・マジック」
       フローティングウォーターマジック:レンズ言語を押さえれば簡単にできる、ただのランダムスプライスです
-      参考参数:26step, cfg 6
+      参考パラメータ:26step, cfg 6
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - extremely detailed cg unity 8k wallpaper
@@ -3645,7 +3753,12 @@ content:
       - eyeball
       - hair flower
       - close up
-  水面から覗く(-):
+    preview:
+      - 27b299d619c7f16bad2696555bd0bcb17b269925d203c5ac3a6ec8bc42f6479f
+      - f64c560348e0f3bf533875273513346b3b846ccc92421f2869c38018555c89b4
+      - 76f032f1005e5f931b1ac5a925ddb1a3f554572a82693190bf438fa59002580c
+      - 70ccae1fe42243441bd34d5e2f0e1d0ae01b26f54d6d40a9c2a3032e99f94dcc
+  水面覗魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
     content:
@@ -3670,16 +3783,21 @@ content:
       - artist name
       - more than 2 thighs
       - nsfw
-  選ばれし芸術(+):
+  金姫魔法(+):
     description: |-
       作者:丽普露·洛斯达（QQ 869581936）
-      選ばれたアート:皆さんの献身的な努力に敬意を表して、今回は優しく、Aiさんにベストチャートを選んでもらいましょう！。
-      参考参数:26step, cfg 6
+      選ばれたアート:皆さんの献身的な努力に敬意を表して、今回は優しく、Aiさんにベストチャートを選んでもらいましょう!。
+      参考パラメータ:26step, cfg 6
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - Please draw a picture of an exquisite girl in a princess dress with delicate gold metal decorations
       - She stands there looking at me
-  選ばれし芸術(-):
+    preview:
+      - 57a8dfea2bcf0b4a211ed0bec66624c99f81ed1c1bec71d2fd83c833155aabef
+      - 53a70634eda8bc338b025babf91a5a7a43ef807220e2688e3afeddd479bbb211
+      - 375fdd67f99d66e52a24c6fb96ebb158eafe964f77446336c30d56d0786945f4
+      - 719ef1ae6521101f180a2f75dc44a546df25e23aa291ff24bc715acabffeaafd
+  金姫魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
     content:
@@ -3709,7 +3827,7 @@ content:
       作者:Phoebe（QQ 3101516445）
       "固有结界 スチームアート"
       編集後記:もう美学的に疲れている、これはいい感じに来ている
-      参考参数:Steps: 30, Sampler: Euler a, CFG scale: 6.5
+      参考パラメータ:Steps: 30, Sampler: Euler a, CFG scale: 6.5
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - retro artstyle:1.4641
@@ -3727,6 +3845,11 @@ content:
       - simple background
       - bright skin
       - 1980s (style)
+    preview:
+      - a17606c7839e1d8a3b0ceaf53b2690121a329de598387d04f5a6bf633ff6d0e4
+      - b68e6d7c9d9ee742d3f3335afaa7cb6d4359ced3711af9bda147ee53e6619a53
+      - fcabea2bb1d4903552dce166f8b4a457f1ed70947067960298d2294c2317e589
+      - fd6f32fefe924840bfefd687b09b3b1b99a7e73be07379ee104d871ed7946867
   現代魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -3792,9 +3915,9 @@ content:
   血魔法(+):
     description: |-
       作者:千秋夢（QQ 1798780261）
-      編集者注:ハンサムウーウー
-      編集者注:以前の面倒で冗長な山に代わって、新しい合理的なコードに更新されました、なかなか良いですね。
-      参考参数:Steps: 25, Sampler: Euler a, CFG scale: 7
+      編集者コメント：ハンサムウーウー
+      編集者コメント：以前の面倒で冗長な山に代わって、新しい合理的なコードに更新されました、なかなか良いですね。
+      参考パラメータ:Steps: 25, Sampler: Euler a, CFG scale: 7
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece
@@ -3804,7 +3927,6 @@ content:
       - finely detail
       - depth of field
       - extremely detailed cg unity 8k wallpaper
-      - full body
       - loli:1.1
       - white hair:1.1
       - red streaked hair
@@ -3829,6 +3951,9 @@ content:
       - splashing blood
       - long hair
       - bloodstain:1.1
+    preview:
+      - 1da1544c9a6a86976d89dc78614c0e91ca7a5b4ed9595ea83bf413f5e7ea2c26
+      - 2de773fb50ccf3bf18894e7a8f88c350aa17258bcd52b972835dd3b86ba60953
   血魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -3849,11 +3974,11 @@ content:
       - bad shadow
       - uncoordinated body
       - fused ears
-  華麗なる芸術(+):
+  華麗芸術魔法(+):
     description: |-
       作者:凌霜雪猫（QQ 3347185525）
       実はこれ、緻密な画風なんです。真ん中にお城がなくても、代わりに細部を描写している人がいてもいいんです。
-      参考参数:CFG=6, Euler
+      参考パラメータ:CFG=6, Euler
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - extremely detailed cg unity 8k wallpaper:1.1
@@ -3882,7 +4007,18 @@ content:
       - sketch:1.1
       - bloom:1.1
       - shine:1.1
-  華麗なる芸術(-):
+    preview:
+      - 644f812854597182071c7f25109a47e53e4a8ead2c198a85ed42a2e7aba4419d
+      - 8296fe474967434ca28ca381ba17e0d70e150084e1e699a070a7f8d52a62d1af
+      - e85a18b0683a6bbcea276c08884dead4fb6df05bfdd54b76ccc291da6de7726b
+      - 33d3a8f15c714c90d883bf5f80af148f4e79648d8eb0659e58ce1b7e942fcce3
+      - 12a0ffdd7521298d4515fc7bab3326136e991cae787b862c1c5761dd42be47be
+      - d54eb4d929bdeb04c1ffbd4c330ece513ae943f4b167fb53cad329e5d10259a9
+      - 3e06ae546d76ed50e8054d12e39f3207e01ca10f3d64542d9fc26747e203e102
+      - d53c8ab8bebfed2fe9fe024df9a475bbaceb1dcc04e3850c56684a505da8b2fd
+      - 389d6f0634e3663ce3c485ecabfd569d4da92311befd1542d7cca22a9e448329
+      - 5a88dc3a9487623d316c4b254ff6865c371d003d282b8344ec72bc2c6bdf5a29
+  華麗芸術魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
     content:
@@ -3927,11 +4063,11 @@ content:
       - futa
       - yaoi
       - three legs
-  竜魔術師(+):
+  竜使い魔法(+):
     description: |-
-      作者的话:有时候可能会出现没有人只有龙的情况（
+      筆者のことば：時にはドラゴン以外いないかもしれない。（
       ドラゴンが出ないことを心配するなら、ルンルン、ドラゴン背景、ルンルン背景というタグに重きを置いてください
-      参考参数:Steps: 40, Sampler: Euler, CFG scale: 7
+      参考パラメータ:Steps: 40, Sampler: Euler, CFG scale: 7
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.21
@@ -3939,7 +4075,7 @@ content:
       - illustration
       - 1 girl
       - mature female
-      - small breast
+      - small breasts
       - beautiful detailed eyes
       - long sleeves
       - hoodie
@@ -3951,7 +4087,13 @@ content:
       - game cg
       - depth of field
       - cape hood
-  竜魔術師(-):
+    preview:
+      - ca56765db846825e1c33aac922c0ab482895143d51abccb358749d82a262035f
+      - 92cfd2f2b9a4002699686242e53196270cc3bf5a31b8b6458aba6930a5de8b87
+      - c63f238877667a21ed5ae746c0090879a6868ae6f43e65a03e6fe9512f8ab7ea
+      - 912590f554d5de800145fa8b5175e3120314692574e4eb85d9c6a4a3c7ee84d3
+      - 6b28b1d07551feda1a8656067e054cf766f39a18d314cb01480e212c6f0c1009
+  竜使い魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
     content:
@@ -4016,9 +4158,9 @@ content:
   竜機械魔法(+):
     description: |-
       作者:孤辰Null（QQ 2659055918）
-      "マシンレディにノーと言える男はいない!それなら、ドラゴンを加えてみよう！"
-      編集後記:ハンサムだが、男の顔はどこへやら
-      参考参数:ddim, steps 23, cfg 4.5
+      "マシンレディにノーと言える男はいない!それなら、ドラゴンを加えてみよう!"
+      編集後記:ハンサムだが、人の顔はどこへやら
+      参考パラメータ:ddim, steps 23, cfg 4.5
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - master piece:1.21
@@ -4044,6 +4186,10 @@ content:
       - lightning effect:1.1
       - beatiful detailed sliver dragon arnour
       - cold face
+    preview:
+      - 51ae4419b2b6a6a3e7402bff1f51e52ac46c139e843c238b3f46a102c5d62f9f
+      - f9f73c5854270d09ee285ac56e396871e8a6f1f63437976c02560884108d8c4c
+      - 5f31132693385c4ed57d69ef47e476fd7110a9e187787d7392d0a9d76a0bc584
   竜機械魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -4077,7 +4223,7 @@ content:
     description: |-
       作者:alleoha（QQ 3355401391）
       “原題は「戦争少女」mechanical armor は、メカのキーワードです。 ruins of city in the war,fire, burning buildingsは背景キーワードです。”
-      参考参数:Steps: 50, Sampler: Euler a, CFG scale: 5
+      参考パラメータ:Steps: 50, Sampler: Euler a, CFG scale: 5
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - solo:1.331
@@ -4101,6 +4247,14 @@ content:
       - air force fleet in the sky
       - dusk
       - bird see
+    preview:
+      - 54beb7d2fea2a01ee81b318f019d66c90d8267b02fab2ba53487edd7d8926147
+      - 93cc44f79c81f051c5e2d04aa120687ea22bfec63f1d571995236792ec3a6fdc
+      - b873f8b48e8cef8ca5fbb3e329c2bf0c8714e44877d747fc18483c33c3a4e359
+      - 315ebb9c8daf61a14ccd1acf7e111d3317361d3a4afafd254bb81306eb3ad76b
+      - 80e8e06c7d1d052eacc5ffcc753884157a444fca1660d58891fc6925039cf8f9
+      - 6aeb5e938dd92e8544e7b67167c768874ef8b10c7781e73b85c346d15d61a50a
+      - 1a290394f12d81bb7f1b96b4d2a1f7782ec0745319a667ad3934f4ae3bcc8921
   バトルバイク魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -4143,10 +4297,10 @@ content:
   銀錬金術(+):
     description: |-
       作者:孤辰Null（QQ 2659055918）
-      " お姉さんが私を踏んでくれる！？  "
+      " お姉さんが私を踏んでくれる!?  "
       編集後記:このタグは、タグの長さといい、グラフィック効果といい、非常によくできていて、目を見張るものがありますね。
       編集部注2:当初は「銀の玉座」というタイトルだったが、玉座を外した方が効果があるため、名称を変更した。
-      参考参数:step:23 scale:4.5  Sampler:ddim
+      参考パラメータ:step:23 scale:4.5  Sampler:ddim
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.331
@@ -4156,7 +4310,7 @@ content:
       - a girl
       - solo
       - bare shoulders
-      - flat chst
+      - flat chest
       - diamond and glaring eyes
       - beautiful detailed cold face
       - very long blue and sliver hair
@@ -4171,6 +4325,11 @@ content:
       - on the black
       - throne:1.21
       - depth of field:1.1
+    preview:
+      - 6b6addcc6f8b5c43f4a126f086417cd89da737ed99880b9fab0c4185aa9d11a7
+      - bc3ee78dcc03d6babad5a8c6b1d1186d0605e38a211b9f44e1be667840efc5f1
+      - a5a54cd62c634eb5fe5bead75869ae5db6b82cf522e77c63204b0215e73887df
+      - 63e5220798cce7bdb63711e29394a190abaeecb6b8bcc0442c768d05d284db03
   銀錬金術(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -4185,8 +4344,8 @@ content:
   星源魔法(+):
     description: |-
       作者:樱の雪（QQ 2923350844）
-      星は広大、宇宙は無限、アイデアは無限!もっと大召喚スタイルが欲しい!しばりを見たい！ cfgスケール2~20は全て異なるスタイルなので、自分で試すことができる 
-      参考参数:Steps: 50, Sampler: Euler, CFG scale: 4
+      星は広大、宇宙は無限、アイデアは無限!もっと大召喚スタイルが欲しい!しばりを見たい! cfgスケール2~20は全て異なるスタイルなので、自分で試すことができる 
+      参考パラメータ:Steps: 50, Sampler: Euler, CFG scale: 4
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - best quality
@@ -4233,6 +4392,12 @@ content:
       - cleavage:1.1
       - authentic and detailed face:1.331
       - unexposed:1.5
+    preview:
+      - 9b585351c33c4c20cbceea072c6db0f9c88f4bf5854e9dfa6a6fa8191c2cdeb8
+      - ef9fd15a00b7351ec2985bcdc5684bb90ffb50aac93085b8afec5d684cdb52e7
+      - 2d1f01d4649978272223ee4df62d7d07610e01d750c1642f42cdb7dfaf658eb9
+      - 07a3dc23e8fffd3fdc8eb9513d127811f4ed3ae51e65b6fcd95e26b2906ce14a
+      - ab1f3a489f97d5f3064d1d2177ef0c37a1cfe4ba9f79444beb461b6577329a90
   星源魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -4260,7 +4425,7 @@ content:
     description: |-
       作者:東雲（QQ 1450999793）
       キャラクターだけのキャラクターレベル、背景だけの背景レベルという組み合わせがあり、髪の色を変えることで仕上がりに差が出る傾向があります。
-      参考参数:
+      参考パラメータ:Steps: 50, Sampler: Euler, CFG scale: 4
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - best quality:1.1
@@ -4314,6 +4479,10 @@ content:
       - church
       - castle:1.1
       - fantasy:0.82644628:1.1
+    preview:
+      - 826cdefb66b64a5b1a26c2d204e80ef061e5039ac440e6570060dba107f3da03
+      - 3ac47ac3eff92905ed695316edc93c46ab898bb4c9d1cc540de0b783e7fb711b
+      - 61bddb7d9ba0c98443678ace28846e7873bee3a4e436b6489133e5e50a6c6a95
   学院魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -4353,7 +4522,9 @@ content:
       - low background
   浮世绘魔法(+):
     description: |-
-      参考参数:Steps: 28, Sampler: DDIM, CFG scale: 11
+      作者：アルツハイマーの魔導師（QQ 1431322374）
+      筆者は名前を考えるのが面倒なので、一般にはこれを使おう
+      参考パラメータ:Steps: 28, Sampler: DDIM, CFG scale: 11
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - watercolor medium:1.1
@@ -4381,6 +4552,16 @@ content:
       - ace
       - kagura suzu:1.1
       - sword
+    preview:
+      - 45e780f5d3a4c33d4c3b87336f6b5be947ef409f0063162bf074af3f94776472
+      - b579448bdfe832ef33f0818c2c82978e8f7d946af0cd5b8b1c6b8d7f79c59bb6
+      - dd79e7a8dd1133778a9b701b84f641d3797afec2aff7d74c000ca139182632e6
+      - 7d14ea1281edd12d11b6f43149539b1b04d6fde88e30641dba77c5fd6b1ef1dd
+      - 85db0c49830207d51e8f0457fe46921e0f43dee386f1c519ea91d56ba1faa0c9
+      - a896511d39130f63ac79c25087ab42c7e357e2adeb9f545f9ec1d7d2665254f6
+      - 6c4e63a0f5b2a85fcf5161063fef1849035424a4695c8b300d45aaba7317142f
+      - 5a8cd3e1afafaf7092d9a03cffaa2378170b17fa06826bc5ff81178e1164e2d7
+      - 86ce61015bff7592dfc37d52d213574e0602ba249f16ee1d1be482777d2a993e
   浮世绘魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -4416,7 +4597,7 @@ content:
     description: |-
       作者:明月珰（QQ 1816153515）
       これはナイーフと一緒に走らせないと超高品質なアウト率になる かわいくて愛嬌があるのが最高 
-      参考参数:512 768, DDIM, step 45 cfg 10 NAIFU
+      参考パラメータ:512 768, DDIM, step 45 cfg 10 NAIFU
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - dream
@@ -4473,6 +4654,12 @@ content:
       - detailed cloud
       - shell
       - fireworks:1.05
+    preview:
+      - 35d0d3533b47a6c559a3e6e4ebf0e9b5c3c1f3c5fe1d0fb5729326cb25cdfb1e
+      - bab7c3da7fc20733c08ef8fead17e61ee2c9b45f8e00d8d3d7f49e4e1ad727fd
+      - 6432dbbea28aa04818276e0cc7c455ee16e03b84591ee392f23cc8da85a86d00
+      - 6887c493c4d45e145fb8ff56d98f0f287b908500a5b31931915d08718c5a23c6
+      - 92c45ed266b9cb7747148fe02d59352a9f4d9a2d58b589f8d903e11d27a38875
   星霞海魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。
@@ -4522,8 +4709,8 @@ content:
   冬雪魔法(+):
     description: |-
       作者:陌桦（QQ 2503681391）
-      雪の日はやはり白い髪と赤い瞳孔が似合うって本当なんだ！
-      参考参数:Steps: 50, Sampler: DDIM, CFG scale: 7
+      雪の日はやはり白い髪と赤い瞳孔が似合うって本当なんだ!
+      参考パラメータ:Steps: 50, Sampler: DDIM, CFG scale: 7
       このセクションには、この記事のポジティブタグが含まれています。
     content:
       - masterpiece:1.331
@@ -4563,6 +4750,16 @@ content:
       - lantern:0.99321269
       - christmas:0.99321269
       - starfall:1.09253396
+    preview:
+      - 878d00343f52c975f2cad1625b803dcbe3417744e476d7d557af3451472bb4ad
+      - d5858ada80d5dd1bac00468765450094f1b4c028f61bb795b8bff09ceb0190a4
+      - 6c4207c4b79231627a90ac435b88a39baf889db37a2401ac698fbef5387eb793
+      - a59a9033958cf5b50ead869385a44c6aeee231cb747dcfa344d7197d432598b9
+      - cab2283cbf2e3a28d54bfa2a8b5640f6e3d6af1ad82089eebbe7070c03670ab4
+      - d23b73f9dafb5393ec13dd3fe9e1e4329582fc534b0a718d69508571d55be4bf
+      - cf8dff977828dce8df33e36f9db936855d15bdaa1bbab5fcfb952b1de3d078da
+      - 575302e2fd787286a6d5f88018dea0abb8a3973fcc568f1c68bc696576155179
+      - d756503dd9fac1461c5ae8f6c5ecc22f7667801a2e0bf21663a2eb432e9e20df
   冬雪魔法(-):
     description: |-
       本記事のネガティブタグを掲載しています。

@@ -493,12 +493,6 @@ content:
   flower trim:
     name: フラワートリム
     wikiURL: https://danbooru.donmai.us/wiki_pages/flower_trim.html
-  floral print:
-    name: 花柄（プリント）
-    wikiURL: https://danbooru.donmai.us/wiki_pages/floral_print.html
-    alias:
-      - floral pattern
-      - flower print
   hanafuda:
     name: 花札
     wikiURL: https://danbooru.donmai.us/wiki_pages/hanafuda.html

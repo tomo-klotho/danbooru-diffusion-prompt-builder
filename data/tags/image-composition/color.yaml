@@ -100,11 +100,6 @@ content:
   pastel colors:
     name: ソフトカラー
     wikiURL: https://danbooru.donmai.us/wiki_pages/pastel_colors.html
-  rainbow:
-    name: レインボー
-    wikiURL: https://danbooru.donmai.us/wiki_pages/rainbow.html
-    alias:
-      - rainbows
   rainbow order:
     name: レインボーカラー配列
     wikiURL: https://danbooru.donmai.us/wiki_pages/rainbow_order.html

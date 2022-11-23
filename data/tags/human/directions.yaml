@@ -72,9 +72,6 @@ content:
     name: アイコンタクト
     image: 269d4031e218d5f256dafd96e40ffc6c2841d5200c9be9009051199691f740bd
     wikiURL: https://danbooru.donmai.us/wiki_pages/eye_contact.html
-  female pov:
-    name: 女性主観視点
-    wikiURL: https://danbooru.donmai.us/wiki_pages/female_pov.html
   looking at breasts:
     restricted: true
     name: 胸を見ている

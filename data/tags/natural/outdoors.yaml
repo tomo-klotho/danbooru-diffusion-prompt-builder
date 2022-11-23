@@ -1,7 +1,7 @@
 name: 室外
 category:
   - 自然景観
-  - 位置
+  - 場所
 content:
   beach:
     name: ビーチ
@@ -45,7 +45,7 @@ content:
     alias:
       - hills
   island:
-    name: 縞
+    name: 島
     wikiURL: https://danbooru.donmai.us/wiki_pages/island.html
   floating island:
     name: 浮島
@@ -91,6 +91,9 @@ content:
   water:
     name: 水
     wikiURL: https://danbooru.donmai.us/wiki_pages/water.html
+    alias:
+      - beautifuldetailed water
+      - detailed water
   geyser:
     name: 泉水
   lake:

@@ -1,0 +1,1778 @@
+name: 第1章 スタイルに関する特別章
+category: 
+  - 元素法典
+  - 元素法典 2.0巻
+description: |-
+  元素法典 - 2.0巻 - 序
+  皆さん、こんにちは!編集部一同です!またまたお会いできて嬉しいです。
+  エレメンタル・コデックスの第1巻と第5巻の発売は、かなりの話題と賞賛を呼び、コミュニティはさらに投稿に熱中するようになりました。
+  発表前は、第1.5巻よりも一桁多く処理をしていたのです熱烈な応援、本当にありがとうございました。応募作品のクオリティは奇跡的に高く、皆さんのクリエイティビティを目の当たりにして嬉しくなりました。
+  今回は、応募作品が非常に多かったため、3つの章に分け、第1章は様式化された作品、第2章は物や風景を描いた作品、第3章は皆さんに楽しんでいただいているクラシックで質の高いショーケースを紹介します。
+  さあ～目の保養に、今すぐ旅に出よう
+
+  元素法典 - 2.0巻 - 第1章スタイルに関する特別章
+  この章では、特定の画風や構図を専門的に紹介する作品を収録しており、特に新鮮な印象を与えます。
+  新しいスタイルを導入しているが、あくまで補助的な要素として使われている作品は除外する。
+content:
+  白虎志(+):
+    description: |-
+      作者:洛心 QQ:1770285408
+      “国風、外来動物、聖獣、白虎。” (四神獣はその後、完成しました!!!!!!)
+
+      正面tag:
+      チャンティング・スターター:
+      ((masterpiece)),best quality, ((illustration)),,original,extremely detailed wallpaper,
+      ナショナルスタイル:
+      (((beijing opera))), (sketch),(wash painting),((color splashing)),((ink splashing)),((((dyeing)))),((Chinese painting)),((colorful))(beautiful and delicate mountain),
+      ホワイトタイガーの説明:
+      (solo),(Fantasy creatures),((Chinese white tiger)),(solo;1.8),Black markings,(white tiger),((solo)),beautiful and delicate golden eyes,Huge claws
+      Big and strong,Diabolical,Tyrannica,
+      背景説明:(mountains)
+
+      パラメータ:
+      Steps:40 Scale:5.5 Advanced: Sampling :k_euler_ancestral 512 x 1024
+
+      編集者コメント:
+      “帅 啊”（板）
+      ”rua!神話に超ハマってる!超クール。“ （麦子）
+      “とても中国らしい要素ですね。”（antwominy）
+      “このユニークなスタイルがとても気に入っています。”（老年痴呆的疾风法师）
+      “虎は月と海に向かって咆哮し、風は金色のゴリラを壊そうと立ち上がる。”（今宵）
+      “西の庚申金、主な卦のTui、そのイメージは白虎、金の神々。”（广夏沫）
+      “ビッグキャット!”（校长）
+    content:
+      - masterpiece:1.21
+      - best quality
+      - illustration:1.21
+      - original
+      - extremely detailed wallpaper
+      - beijing opera:1.331
+      - sketch:1.1
+      - wash painting:1.1
+      - color splashing:1.21
+      - ink splashing:1.21
+      - dyeing:1.4641
+      - chinese painting:1.21
+      - colorful\\\beautiful and delicate mountain:1.21
+      - solo:1.21
+      - fantasy creatures:1.21
+      - chinese white tiger:1.331
+      - solo;1.8:1.21
+      - black markings:1.1
+      - white tiger:1.21
+      - beautiful and delicate golden eyes:1.1
+      - huge claws       big and strong:1.1
+      - diabolical:1.1
+      - tyrannica:1.1
+      - mountains:1.21
+    preview:
+  白虎志(-):
+    description: |-
+
+    content:
+      - nsfw
+      - owres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - large breasts
+  工芸的獣本(+):
+    description: |-
+      作者:洛心 QQ:1770285408
+      “その姿は、豹変した犬のような文字。”
+
+      チャンティング・スターター:((masterpiece)),best quality, ((illustration)),original,extremely detailed wallpaper,
+      ナショナルスタイル:(((beijing opera))), (sketch),(wash painting),((color splashing)),((ink splashing)),((((dyeing)))),((Chinese painting)),((colorful))(beautiful and delicate mountain),:
+      狡猾な描写:Stone figure,(solo),(Fantasy creatures),dog body,((Chinese jiao)),(((Horns))),Horns,(golden dog body:1.3),(golden lion head), Leopard print,(solo), Canines,lion head,fly up to the cloudy regions,fly up to the cloudy regions
+      Big and strong,Diabolical,Tyrannica
+      環境の説明:simple background
+
+      パラメータ:
+      Steps:40
+      Scale:5.5
+      Advanced: Sampling :k_euler_ancestral
+      512 x 1024
+
+      編集者コメント:
+      “emmmm狡猾な動物がいることを初めて知った。”（今宵）
+      “今日の夜あたりはないのでしょうか?（笑)”（校长）
+    content:
+      - masterpiece:1.21
+      - best quality
+      - illustration:1.21
+      - original
+      - extremely detailed wallpaper
+      - beijing opera:1.331
+      - sketch:1.1
+      - wash painting:1.1
+      - color splashing:1.21
+      - ink splashing:1.21
+      - dyeing:1.4641
+      - chinese painting:1.21
+      - colorful\\\beautiful and delicate mountain:1.21
+      - stone figure:1.1
+      - solo:1.21
+      - fantasy creatures:1.21
+      - dog body:1.1
+      - chinese jiao:1.331
+      - horns:1.4641
+      - golden dog body:1.3
+      - golden lion head:1.1
+      - leopard print
+      - canines
+      - lion head
+      - fly up to the cloudy regions
+      - fly up
+      - to the cloudy regions
+      - big and strong
+      - diabolical
+      - tyrannica
+      - simple background
+    preview:
+  工芸的獣本(-):
+    content:
+      - nsfw
+      - owres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - large breasts
+  貧者の書 Euler(+):
+    description: |-
+      作者:玲 QQ:1298638795
+      “悪い:山には、ハリネズミの毛をした虎のような獣がいて、貧乏人の犬と呼ばれ、犬の遠吠えのような声で、人を食べている。”
+          
+      パラメータ:
+      Steps:40
+      Scale:5.5
+      Advanced: Sampling :k_euler_ancestral
+      512 x 1024
+      優越率:20％（悪い）
+      歩留まり:40％（牛马）
+      このバージョンはより現実的なものです
+      または 
+      Steps:30
+      Scale:5.5
+      Advanced: Sampling :DDIM
+      512 x 1024
+      このバージョンは気分の低い風水バージョンです
+
+      編集者コメント:
+      “四神獣のうち3体が揃うのは珍しいことではなく（” （板）
+      “ありえない!絶対にダメです!!”（今宵）  
+      “小さな蛇、小さな猫、小さな鳥、小さな亀”（校长）
+      “ローストチキンの未来をフェニックスに期待する!”（阴阳）
+    content:
+      - masterpiece:1.21
+      - best quality
+      - illustration:1.21
+      - original
+      - extremely detailed wallpaper
+      - beijing opera:1.331
+      - sketch:1.1
+      - wash painting:1.21
+      - ink splashing:1.21
+      - dyeing:1.4641
+      - chinese painting:1.21
+      - a mythical ferocious animal:1.21
+      - the bull:1.1025
+      -  long horns:1.1025
+      - with wings on its back:1.1025
+      - red and black wings:1.1
+      - solo:1.1
+      - mountain
+      - big and strong
+      - diabolical
+      - tyrannical
+    preview:
+  貧者の書 DDIM(+):
+    description: |-
+
+    content:
+      - masterpiece:1.21
+      - best quality
+      - illustration:1.21
+      - original
+      - extremely detailed wallpaper
+      - beijing opera:1.21
+      - sketch
+      - wash painting
+      - ink splashing
+      - dyeing:0.90909091
+      - chinese painting:1.1
+      - a mythical ferocious animal:1.1
+      - the bull:1.00227273
+      - long horns:1.00227273
+      - with wings on its back:1.00227273
+      - red and black wings
+      - solo
+      - mountain:0.90909091
+      - big and strong:0.90909091
+      - diabolical:0.90909091
+      - tyrannical:0.90909091
+  貧者の書(-):
+    description: |-
+
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - more than four hooves
+      - less than four hooves
+      - too many hooves
+      - too many horns
+      - less than two wings
+      - more than two wings
+      - more than two cows
+  故障魔法(+):
+    description: |-
+      作者:Winfrid(1664270853)
+      “イラストからコミックバーへ!”
+      パラメータ:
+      NAI Diffusion Anime (Full) （オプションなしcurated,そうでなければ、故障の芸術的効果は完全に失われてしまいます）
+      steps=28,scale=11,ddim,推奨世代portrait（w<h）
+
+      編集者コメント:
+      “この画風は見ごたえがあるrua!”（麦子）
+      “カラーパレットが優れている!”（阴阳）
+      “このコメントは、パソコンや携帯電話に不具合がない場合のみ、正しく表示されます。”（今宵）
+      “ウォーターアップトゥナイト!”（校长）
+      “失敗の芸術は素晴らしい。”（雪）
+    content:
+      - cute anime face:1.1025
+      - best quality:1.1
+      - ultra-detailed:1.1
+      - best illustration:1.1
+      - extremely delicate and beautiful:1.1
+      - album cover:1.1
+      - album:1.04761905
+      - album description:1.04761905
+      - error:1.1
+      - glitch lump}on face:1.155
+      - glitch art:1.5
+      - pixilation on face:1.05
+      - double exposure
+      - chromatic aberration:1.05
+      - light leaks
+      - noise and grain
+      - color degradation
+      - glitch lettering
+      - design
+      - 1 girl
+      - art
+      - abstract art
+      - flat chest:1.1
+      - short red hair:1.1
+      - short wavy hair:1.1
+      - floating black jacket:1.1
+      - white school uniform:1.1
+      - white beret:1.1
+      - bowknot over white beret:1.1
+      - floating black feathers:0.5:1.1
+      - geometry
+      - clear lines
+      - squares
+      - bright
+      - limited palette
+    preview:
+  故障魔法(-):
+    description: |-
+
+    content:
+      - nsfw
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - missing fingers
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - long neck
+      - humpbacked
+
+  立体魔法(+):
+    description: |-
+      作者:Winfrid
+      “安定性が低い。”
+      パラメータ:
+      Scale=10, steps=26絵画の中の少女のような効果を生むことができる。（がない場合,再生が可能seedレイズscale:同seedレイズscale,少女は徐々に具体化する）若い女の子を洗練させる必要がある場合は、タグを取り外すことができます{ Maidens of Avignon} , 参加painting style。
+
+      編集者コメント:
+      “rua。美術展に行ったような気分で、インスピレーションが湧いてくるんです。”（麦子）
+      “非常に独創的な画風です。”（antwominy）
+      “プリントアウトして額縁に入れ、10～20万円をゆすり取ろうと考えたことはありますか?（）”（今宵） 
+      “オークションに直行する（しない）”（校长）
+    content:
+      - maidens of avignon
+      - colorful
+      - flat color
+      - limited palette
+      - by picasso:1.1025
+      - cubism:1.1025
+      - a girl:1.1025
+      - pretty face
+      - upper body
+      - flat chest
+      - floating black jacket
+      - white school uniform
+      - white beret
+      - bowknot over white beret:0.90909091
+    preview:
+  立体魔法(-):
+    description: |-
+
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+  
+  ヒップホップ魔法(+):
+    description: |-
+      作者:夜雨咯（QQ 969943491）
+      “ご要望に応じて追加可能“high contrast”（高コントラスト）tag。”
+
+      パラメータ:
+      num_inference_steps: 50~80
+      guidance_scale: 7~7.5
+      sampler: DDIM
+      superres_model_name: falsr_a
+
+      編集者コメント:
+      “見てください、この圧倒的なビジュアルインパクト”（板）
+      “とてもクール（言葉にならない）”（老年痴呆的疾风法师）
+      “カッコイイという言葉以外にない。”（广夏沫）
+      “さあ、街へ出よう。”（今宵）
+      “ストリートコードへGO!”（阴阳）
+      “仮面ライダーeaが大開放!”（校长）
+    content:
+      - masterpiece:1.1025
+      - high quality:1.1025
+      - extreme details:1.157625
+      - clear facial features:1.1025
+      - backlight
+      - 1 girl
+      - dim scene:1.05
+      - complex and messy street fluorescent graffiti on the wall:1.1025
+      - face the viewer
+      - full body
+      - hip-hop style
+      - splashed paint dynamic angle
+      - demonic smile
+      - cool and fashionable hoodies
+      - hands in pockets
+      - visual impact
+      - spotlight:1.05
+      - american caricature painting style:1.1025
+      - contour deepening
+      - comic
+    preview:
+  ヒップホップ魔法(-):
+    description: |-
+
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - long neck
+      - humpbacked
+      - malformed limbs
+      - poorly drawn
+      - poorly drawn hands
+      - mutilated
+      - missing legs
+      - unclear eyes:1.05
+      - more than 2 thighs:1.05
+      - deformed
+      - extra legs
+      - mutated hands and fingers
+      - three legs
+      - bad face
+      - extra limbs
+      - worstquality
+      - malformed:1.1025
+  無声魔法(+):
+    description: |-
+      作者:Phoebe（QQ 3101516445）
+      “前世紀の白黒映画の女性スターをクローズアップしたヘッドショットを中心に要素を抽出したもの。”
+      パラメータ:
+      Steps: 40, Sampler: Euler, CFG scale: 12, Size: 512x512, Model hash: e6e8e1fc, Clip skip: 2, ENSD: 31337
+
+      編集者コメント:
+      “さよならチャップリン”（今宵）
+      “今夜は露出狂!”（校长）
+      “初期のフィルム作品に感じること”（雪）
+    content:
+      - best quality:1.21
+      - masterpiece:1.21
+      - highres
+      - original
+      - extremely detailed wallpaper
+      - an extremely delicate and beautiful
+      - illustration
+      - cinematic lighting
+      - volume lighting
+      - bloom effect
+      - light particles
+      - 1 girl:1.21
+      - beautiful detailed eyes
+      - long sleeves
+      - hoodie
+      - frills
+      - no shadow
+      - simple background
+      - black background:1.331
+      - european style
+      - bright skin
+      - 1980s \style:1.331
+      - movie theater:0.90909091
+      - silhouette:0.90909091
+      - greyscale:0.90909091
+      - monochrome:0.90909091
+      - big wavy curls:1.1
+      - slit pupils:0.90909091
+      - looking back:1.21
+      - cinematic angle:0.90909091
+      - close-up:1.21
+      - portrait:1.21
+      - lens flare:0.90909091
+      - seductive smile:0.90909091
+      - tarot:0.90909091
+      - medium hair:0.90909091
+    preview:
+  無声魔法(-):
+    description: |-
+
+    content:
+      - nsfw
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - standard quality
+      - peg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+  漫画魔法(+):
+    description: |-
+      作者:Winfrid（QQ1664270853）
+      “ イラストからコミックバーまで!?”
+
+       赤はペイントスタイルに関連するタグ,その内monochromeカラーコミックに変更する場合は削除,flat_color,{{{ limited palette}}}除去は基本的に他のペイントスタイルと互換性があります。青はシーン関連、緑はペルソナ関連（太字のものは、AIに神などを割り振らせる必要があるものです。）
+      (特別宣言,touhou project 二次創作契約により、著作権の対象外)
+
+      パラメータ:
+      steps=28,scale=10,k_euler_ancestral
+
+      編集者コメント:
+      “コミカルな小ネタか!!!しかも、同じキャラクターなのか!?なんてひどい仕上がりなんだrua。” （麦子）
+      “あなたはもう1ページ漫画を描けるAIなんだから、そろそろ......。”（广夏沫）
+      “おいおい、自分で台詞を埋めなきゃいけないのかよ、めんどくせえな。”（今宵）
+      “本当に初耳です!”（antwominy）
+      “次回はカラー漫画も見てみたいです〜。”（雪）
+    content:
+      - comic:1.1
+      - creative frame design:1.1
+      - flat color
+      -  limited palette:1.157625
+      - story
+      - girl:1.05
+      - gothic
+      - speech bubble:1.05
+      - monochrome:3
+      - speak arrow \symbol:1.05
+      - meme:0.90909091
+      - manga frame:0.90909091
+      - dark intense shadows:1.1
+      - cinematic lighting:1.1
+      - overexposure:1.1
+      - cute anime faces:0.90909091
+      - sketch:0.90909091
+      - storyboards:1.00227273
+      - pretty face
+      - section:0.90909091
+      - frame:0.90909091
+      - border:0.95454545
+      - split theme:0.95454545
+      - split screen:1.00227273
+      - cartoon split:0.95454545
+      - river:0.90909091
+      - forest
+      - palace:0.90909091
+      - fairyland
+      - feather
+      - flowers
+      - nature
+      - sunlight
+      - hazy fog:0.90909091
+      - mist:0.90909091
+      - beautiful detailed sky
+      - 2 girls:0.95454545
+      - flat chest:0.90909091
+      - diamond and glaring eyes:0.90909091
+      - black eyes:0.90909091
+      - beautiful detailed cold face:0.90909091
+      - short red hair:0.95454545
+      - short wavy hair:0.90909091
+      - beautiful detailed eyes:0.90909091
+      - glowing eyes:0.90909091
+      - touhou project:0.90909091
+      - 1girl:0.90909091
+      - braid:0.90909091
+      - dress:0.90909091
+      - eyelashes:0.90909091
+      - frilled skirt:0.90909091
+      - holding knife:0.90909091
+      - holster:0.90909091
+      - maid:0.90909091
+      - maid headdress:0.90909091
+      - medium hair:0.90909091
+      - pocket watch:0.90909091
+      - puffy short sleeves:0.90909091
+      - silver chain:0.90909091
+      - thigh strap:0.90909091
+      - wrist cuffs:0.90909091
+      - open mouth:0.90909091
+      - blank stare:0.90909091
+      - smile:0.90909091
+      - angry:0.90909091
+      - tears:0.90909091
+    preview:
+  漫画魔法(-):
+    description: |-
+
+    content:
+      - multiple breasts
+      - mutated hands and fingers:1.5 :1.1
+      - long body :1.3
+      - mutation:1.1
+      - poorly drawn :1.2:1.1
+      - black-white
+      - bad anatomy
+      - liquid body
+      - liquid tongue
+      - disfigured
+      - malformed
+      - mutated
+      - anatomical nonsense
+      - text font ui
+      - error
+      - malformed hands
+      - long neck
+      - blurred
+      - lowers
+      - lowres
+      - bad proportions
+      - bad shadow
+      - uncoordinated body
+      - unnatural body
+      - fused breasts
+      - bad breasts
+      - huge breasts
+      - poorly drawn breasts
+      - extra breasts
+      - liquid breasts
+      - heavy breasts
+      - missing breasts
+      - huge haunch
+      - huge thighs
+      - huge calf
+      - bad hands
+      - fused hand
+      - missing hand
+      - watermark
+      - unshaped
+      - duplicate
+  彩墨魔法(+):
+    description: |-
+      作者: 云舒白 
+      “中国式のマジックが増えることを期待していますし、中国式にAIを鍛えるお兄さんも出てきてほしいです。”
+
+      トラのような他の動物に変更することができる（white tiger）,龙（chinese dragon）とかいうのがありますが、安定しませんね,解像度512×512生成される写真の品質が良い,しかし、引き上げには、時に驚きがある
+      カラーインクの中ではブルーが重要視されているので、スタイルを試したい人は入れてみてください。
+      緑色のものは色を火や水に変えてサプライズを演出することもできますが、私は試していません。
+      タグの追加に関する推奨事項:  
+      雲colorful ink cloud, 
+      中国建築Oriental Chinese mythological architecture,（可用DDIM）
+      中国服・隠し子
+      (((full body but Arms in sleeves))), ((Red traditional Chinese ethnic gown))
+      ゾンビガール:
+      (((little girl, solo, Jiangshi girl, Chinese vampire, canines,1girl,delicate beautiful face, Chinese Charms on the forehead )))
+
+      パラメータ:
+      Steps: 40, Sampler: Euler, CFG scale: 8, Size: 512x512, Model hash: 925997e9, Clip skip: 2
+
+      編集者コメント:
+      “非常にインパクトがある!”（校长）
+      “surrounded by xxx的文章は完全に意味をなしている,さまざまなものを囲むことができることで、その姿は大きく豊かになります。”（雪）
+    content:
+      - colorful painting
+      - chinese colorful ink:1.21
+      - chinese color ink painting style:1.331
+      - masterpiece:1.331
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - very precise detailed:1.21
+      - a charming chinese girl:1.331
+      - 1girl:1.331
+      - solo:1.331
+      - delicate beautiful face:1.331
+      - floating:1.1
+      - illustration:1.1
+      - amazing:1.1
+      - absurd:1.1
+      - sharp focus:1.21
+      - extremely detailed:1.21
+      - high saturation:1.21
+      - surrounded by color ink splashes:1.1
+      - extremely detailed body:1.21
+      - colorful:1.21
+      - white tiger
+      - colorful ink cloud
+      - full body but arms in sleeves:1.331
+      - red traditional chinese ethnic gown:1.21
+      - little girl:1.331
+      - jiangshi girl:1.331
+      - chinese vampire:1.331
+      - canines:1.331
+      - chinese charms on the forehead :1.331
+    preview:
+  彩墨魔法(-):
+    description: |-
+
+    content:
+      - nsfw
+      - text font ui
+      - error
+      - blurred
+      - bad shadow
+      - jpeg artifacts
+      - signature
+      - 3d
+      - 3d game
+      - 3d game scene
+      - 3d character
+      - duplicate
+      - blurry
+      - strong girl
+      - obesity
+      - worst quality
+      - low quality
+      - normal quality
+      - black-white
+      - lowers
+      - cropped
+      - watermark
+      - username
+      - qr code
+      - bar code
+      - censored
+      - mosaic
+      - excrement
+      - faeces
+      - shit
+  
+  繁浮魔法(+):
+    description: |-
+      作者: 怪陆离辛
+      “真紅の夢の中で、彼は黒髪の少女に出会う。”
+      パラメータ:
+      Steps:50
+      Scale:4-12都可（最好8以下）
+      Ddim
+      768*512
+
+      編集者コメント:
+      “やっと、手に入れた。”（板）
+      “板に描かれたような感じです。”（今宵）
+
+      グレージング方式 // 注意：この投稿で使用したモデルのアルゴリズムが不明なため、一時的に削除を保留し、オリジナルの参考画像のみを残しています。この参考画像を類似したスタイルの参考オブジェクトとして考慮することはお勧めしません //。
+    content:
+      - ukiyo-e style:1.157625
+      - flat style:1.1025
+      - simple colors:1.05
+      - masterpiece:1.157625
+      - katsushika hokusai:1.05
+      - long hair
+      - hair flower
+      - black hair:1.1025
+      - red eyes
+      - red sky
+      - chinoiserie:1.05
+      - best quality:1.157625
+      - kimono
+      - ultra-detailed:1.1025
+      - illustration:1.05
+      - maple leaves flying
+      - 1girl:1.1025
+      - solo:1.157625
+      - an extremely delicate and beautiful:1.1025
+      - blank stare
+      - close to viewers
+      - breeze:1.05
+      - flying splashes:1.05
+      - flying petals:1.05
+      - wind
+      - gorgeous and rich graphics:1.05
+    preview:
+  繁浮魔法(-):
+    description: |-
+
+    content:
+      - multiple breasts
+      - no characters
+      - mutated hands and fingers:1.5 :1.1
+      - long body :1.3
+      - mutation:1.1
+      - poorly drawn :1.2:1.1
+      - black-white
+      - bad anatomy
+      - liquid body
+      - liquid tongue
+      - disfigured
+      - malformed
+      - mutated
+      - anatomical nonsense
+      - text font ui
+      - error
+      - malformed hands
+      - long neck
+      - blurred
+      - lowers
+      - lowres
+      - bad proportions
+      - bad shadow
+      - uncoordinated body
+      - unnatural body
+      - fused breasts
+      - bad breasts
+      - huge breasts
+      - poorly drawn breasts
+      - extra breasts
+      - liquid breasts
+      - heavy breasts
+      - missing breasts
+      - huge haunch
+      - huge thighs
+      - huge calf
+      - bad hands
+      - fused hand
+      - missing hand
+      - disappearing arms
+      - disappearing thigh
+      - disappearing calf
+      - disappearing legs
+      - fused ears
+      - bad ears
+      - poorly drawn ears
+      - extra ears
+      - liquid ears
+      - heavy ears
+      - missing ears
+      - fused animal ears
+      - bad animal ears
+      - poorly drawn animal ears
+      - extra animal ears
+      - liquid animal ears
+      - heavy animal ears
+      - missing animal ears
+      - text
+      - ui
+      - missing fingers
+      - missing limb
+      - fused fingers
+      - one hand with more than 5 fingers
+      - one hand with less than 5 fingers
+      - one hand with more than 5 digit
+      - one hand with less than 5 digit
+      - extra digit
+      - fewer digits
+      - fused digit
+      - missing digit
+      - bad digit
+      - liquid digit
+      - colorful tongue
+      - black tongue
+      - cropped
+      - watermark
+      - username
+  半厚塗(+):
+    description: |-
+      作者:白烛未央（QQ:2858463127）
+      “ カードドローゲームよりaiの絵の方が楽しいのでは?” 
+      ネガはない!?ぜひ、カードを引いてみてください。
+
+      パラメータ:
+      steps:40 scale:3-4,sampling:ddim
+
+      編集者コメント:
+      “しかし、厚く塗られたキャンバスの絵の具の粒子の荒さの温かさを否定できる人はいないでしょう。 薄塗りが透明感のあるフルーツプレートなら、良質な厚塗りは後味の悪い甘いクリームのスプーン1杯分です。”（七曜）
+      “これは全作品というより、未知の世界の扉を開ける鍵のようなものです。私の番だ!カードドロー!”（板）
+      “オイルと厚塗りの組み合わせで、sfgは低くするだけで気持ちいい、素晴らしい。”（雪）
+    content:
+      - extremely detailed\\\\\masterpiece:1.331
+      - best quality:1.4641
+      - ultra-detailed:1.331
+      - illustration:1.331
+      - disheveled hair:1.331
+      - colourful:1.4641
+      - solo:1.1
+      - 1girl:1.1
+      - breeze:1.1
+      - cinematic lighting:1.1
+      - vest:1.1
+      - fasle impasto paintings:1.331
+      - gradient eyes:1.1
+      - beautifully detailed sky:1.1
+      - watercolour:1.1
+      - ambient light:1.1
+    preview:
+  古典肖像魔法 大道版(+):
+    description: |-
+      作者:クリエイター:药隐(qq576065122)
+      エクステンション:Tom(qq2831763863)
+      “ Medicine Crypt:第四の壁を破ろうとしないでください。写真立てを使い切らないように!?”
+      
+      インカンテーションの説明:classicismそれは、呪文の魂,portrait和picture frameフィギュアがフレームからはみ出さないようにするためです,ミニマムな肖像画は、より二次的なものです。protrait必要に応じて胸像と交換可能bust
+
+      パラメータ:
+      Steps: 20, Sampler: Euler a, CFG どうでもいい, 512*768等 縦サイズ
+
+      編集者コメント:
+      “rua.....そこには...教会に戻って美術を見ているような感覚があります。”（麦子）
+      “とても芸術的で、絵の中の人物に命が吹き込まれているような気がします。”（老年痴呆的疾风法师）
+      “優しくて、堂々としている〜。”（校长）
+    content:
+      - classicism
+      - masterpiece
+      - best quality
+      - portrait
+      - picture frame
+    preview:
+  古典肖像法 厚重油画版(+):
+    description: |-
+
+    content:
+      - oil painting:1.21
+      - masterpiece:1.21
+      - best quality:1.21
+      - ultra-detailed:1.21
+      - illustration:1.1
+      - impasto:1.21
+      - highres
+      - beautiful detailed:1.1
+      - classicism
+      - rembrandt lighting
+      - brown background
+      - detailed face
+      - sitting on the chair
+      - portrait:1.1
+      - picture frame
+  古典肖像法(-):
+    description: |-
+
+    content:
+      - lowres
+      - bad anatomy
+      - error
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - artist name
+      - blurred
+      - poorly drawn face
+      - extra fingers
+      - missing fingers
+      - fused fingers
+      - abnormal fingers
+      - fused hands
+      - ugly
+  TRPG魔法(+):
+    description: |-
+      作者:麦子哒（QQ1355563745）
+      “ rua! 日本画のスタイルと西洋のファンタジー油絵の組み合わせが目標で、走ることが主目的とは言いません。dndグループはペルソナや切腹に使われるhhhhhh ”
+      パラメータ:
+      Steps: 42, Sampler: DDIM, CFG scale: 7, , Size: 896x704, Model hash: e6e8e1fc, Clip skip: 2
+
+      編集者コメント:
+      “西洋のファンタジーの淡いグリーンの中に、日本の遊び心が混じっていて、とてもよく描けていますね。おそらく、私を魅了することに大成功したのでしょう。”（板）
+      “くだらないことはやめて、ファーストダウンを投げてください。”（今宵）
+      “.rd20!”（校长）
+      ”失敗したアジャイルエクスペリエンスは8d6の対象になる...。エン48ポイントの火属性ダメージ、成功しても半分にしかならない。偶発的なTPKがルアを混乱させる...“ （麦子）
+    content:
+      - highly detailed:1.1
+      - masterpiece:1.21
+      - impasto:1.1
+      - intricate
+      - church painting
+      - 1 girl:1.331
+      - painting frame
+      - fantasy
+      - delicate grassland
+      - sorceress
+      - shepherd long white hair
+      - red dragon eye
+      - white dress
+      - pretty face:1.1
+      - beautiful detailed face
+      - extremely delicate and beautiful girls
+      - alps
+      - evergreen coniferous forest
+      - clear sky
+      - wind
+      - beautiful sky
+      - cumulus
+    preview:
+  TRPG魔法(-):
+    description: |-
+
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worth quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - realistic
+      - 3d
+      - large breast:1.1
+      - blush
+      - long neck
+      - bad arms
+      - multiple people
+      - animal
+      - missing legs
+      - huge person
+  宇宙兎(+):
+    description: |-
+      作者:可妮的树 （QQ:273014690）
+      “スペースブルー、イラスト風。”
+      パラメータ:
+      Step30  Scale5.5
+
+      編集者コメント:
+      “このブルーの色合いは、和のセンスが抜群です素晴らしいイメージシェイピング”（antwominy）
+      “一目惚れとはどういう意味ですか? ”（孤辰Null）
+    content:
+      - masterpiece:1.21
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.21
+      - 1girl
+      - aqua theme
+      - black hair
+      - blinking
+      - blue jacket
+      - book
+      - bookshelf
+      - closed mouth
+      - color edtips
+      - constel lation
+      - flat color
+      - holding
+      - holding wand
+      - jacket
+      - looking up
+      - lying
+      - malefocus
+      - multicolored hair
+      - noline art
+      - orange hair
+      - orbital path
+      - planet
+      - shirt
+      - short hair
+      - sitting
+      - solo
+      - space
+      - spacestation
+      - spacecraft interior
+      - starwand
+      - stuffedanima
+      - stuffed bunny
+      - stuffed toy
+      - tele scope
+      - utaite\singer
+      - wand1:0.90909091
+      - whitefootwear:0.90909091
+      - whiteshirt:0.90909091
+    preview:
+  宇宙兎(-):
+    description: |-
+
+    content:
+      - nsfw
+      - owres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - long neck
+      - humpbacked
+  肖像水墨魔法(+):
+    description: |-
+      作者:Phoebe（QQ 3101516445）
+      “インクを使ったポーズなら、どんなスタイルにも挑戦できます。”
+
+      パラメータ:
+      Steps: 30, Sampler: Euler a, CFG scale: 7, Size: 512x1024, Model hash: e6e8e1fc, Clip skip: 2, ENSD: 31337
+
+      編集者コメント:
+      “塵が雲を飲み込み、インクを飲み込むのは誰なのか?”（今宵）
+      “朝の花は墨で洗われるが、影は塵で描かれる。”（校长）  
+      “紙漉きという文化を抜きにして、すごい鴨!としか言いようがない。”（某不好意思署名的A）
+    content:
+      - full body:1.61051
+      - best detailed girl:1.61051
+      - 1girl:1.331
+      - black hair:1.4641
+      - solo:1.1
+      - extremely detailed:1.21
+      - detailed face:1.21
+      - ink painting:1.4641
+      - illustration
+      - chinese ink painting:1.21
+      - masterpiece:1.331
+      - best quality:1.331
+      - ink dyeing:1.4641
+      - watercolor:1.331
+      - chinese brush painting:1.21
+      - extremely delicate and beautiful girls:1.331
+      - ultra-detailed:0.90909091
+      - beautiful detailed eyes:1.21
+      - cheongsam
+      - chinese style
+      - red ink:1.1
+      - smile:0.90909091
+      - ink background:0.90909091
+      - long hair:0.90909091
+      - beautiful detailed hair:0.90909091
+      - petals:0.90909091
+      - soaked:1.21
+      - floating hair:1.331
+      - the character is in the center of the frame:1.21
+      - flowing:1.21
+    preview:
+  肖像水墨魔法(-):
+    description: |-
+
+    content:
+      - inverted mountain
+      - low-quality
+      - flowers
+      - grass
+      - distorted mountain
+      - distorted light
+      - low-quality light
+      - low-quality mountain
+      - low-quality illustration
+      - low-quality background
+      - nsfw
+      - owres
+      - bad anatomy
+      - ugly:1.331
+      - duplicate:1.331
+      - morbid:1.21
+      - mutilated:1.21
+      - tranny:1.331
+      - mutated hands
+      - poorly drawn hands:1.331
+      - blurry
+      - bad proportions:1.331
+      - extra limbs
+      - cloned face
+      - disfigured:1.331
+      - more than 2 nipples:1.331
+      - missing arms:1.4641
+      - extra legs:1.331
+      - fused fingers:1.61051
+      - too many fingers:1.61051
+      - unclear eyes:1.331
+      - lowers
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - bad feet
+      - text font ui
+      - malformed hands
+      - long neck
+      - missing limb
+      - mutated hand and finger:1.5
+      - long body:1.3
+      - mutation poorly drawn:1.2
+      - malformed mutated
+      - multiple breasts
+      - futa
+      - yaoi
+  断墨残楮(+):
+    description: |-
+      作者:Soller（QQ3083598843）
+      “ 気に入っていただき、ありがとうございます。”
+      
+      追加可能(female focus on,lens 135mm f1.8)（カメラの原理を想定）
+      middle finger手指の崩壊状態を軽減すると言われており、やはり古代中国で手袋を持つのは少し不思議な感じがします
+      また、飽きたら削除することも可能です yin yang（ストレート・トゥ・ドローイングボード（取り外しは推奨しません））
+      全体,
+      アンスリウム   Huaqing
+      藤黄    gamboge
+      オークル      ochre
+      ルージュ   Carmine
+      シノワズリーのすべての要素を認識することができる。
+      ink splashing(インクの飛散)
+      ink wash painting（墨水画）color ink wash paintingカラーインクペイント
+      sketch （素描）（より直線的な外観）
+      Splash ink painting（墨絵は認識できないが、墨の飛沫は認識できる）Splash ink
+      ピクセルサイズが大きければ大きいほど、細部まで再現できますが、一般的に少女や特定のキャラクターに無理に焦点を合わせると、大きなオブジェクト（ドラゴン、古代建築、大きな滝など）で問題が発生します。
+
+      パラメータ:
+      CGF 10 DPM2 a Karras Step40
+      .ckpt基本的に誰もが持っているものですanimefull-final-pruned （Model hash: 925997e9）
+      でも、モデルの変更が可能（Model hash: e6e8e1fc）良い結果も出ています。
+
+      というように、aiに自由度を持たせることもできます。CGF5.5
+      自由度とSamplings Stepsまた、いくつかの関連性があります。
+      PLMS場合によっては（色が派手だとより良い）中国水墨画は自由度が高いと散漫になりすぎる、雑になりすぎるという状況に効果的に対処し、水墨画風の未形成状態をある程度改善することができました。
+
+      編集者コメント:
+      “ロールケーキの匂いを嗅ぎました。”（今宵）
+      “東屋に足を踏み入れ、窓に触れ、馬鹿にされていた昔を悔やむ。脇差をどうするかはともかく、花はどうするかは迷うところ。”（校长）
+    content:
+      - dramatic angle
+      - fluttered detailed ink splashs:1.1
+      - illustration:1.1
+      - 1 girl:1.331
+      - long hair:1.1
+      - rain:0.6
+      - expressionless:1.1
+      - hair ornament:1.4:1.1
+      - there is an ancient palace beside the girl
+      - chinese clothes
+      - focus on:1.1
+      - color ink wash painting
+      - ink splashing:1.1
+      - color splashing
+      - colorful:1.21
+      - sketch:1.1
+      - masterpiece
+      - best quality
+      - beautifully painted
+      - highly detailed
+      - denoising:0.7
+      - splash ink:1.1
+      - yin yang
+    preview:
+  断墨残楮 花青水(+):
+    description: |-
+
+    content:
+      - dramatic angle
+      - fluttered detailed ink splashs:1.1
+      - illustration:1.1
+      - 1 girl:1.331
+      - long hair:1.1
+      - expressionless:1.1
+      - hair ornament:1.4:1.1
+      - chinese clothes
+      - night sky
+      - the girl is by the waterfall:1.1
+      - color ink wash painting
+      - ink splashing:1.1
+      - huaqing splashing:1.1
+      - colorful:1.1
+      - sketch:1.1
+      - masterpiece
+      - best quality
+      - beautifully painted
+      - highly detailed
+      - denoising:0.7
+      - splash ink:1.1
+      - yin yang
+      - focus on the girl:1.21
+      - middle finger
+    preview:
+  断墨残楮 ルージュ(+):
+    description: |-
+
+    content:
+      - dramatic angle
+      - fluttered detailed ink splashs:1.1
+      - illustration:1.1
+      - 1 girl:1.331
+      - long hair:1.1
+      - rain:0.6
+      - expressionless:1.21
+      - carmine hair ornament:1.4:1.21
+      - there is a palace far away from the girl:1.1
+      - chinese clothes
+      - focus on the girl:1.21
+      - color ink wash painting
+      - ink splashing:1.1
+      - huaqing splashing:1.1
+      - colorful:1.21
+      - sketch:1.1
+      - masterpiece
+      - best quality
+      - beautifully painted
+      - highly detailed
+      - denoising:0.7
+      - splash ink:1.1
+      - yin yang
+    preview:
+  断墨残楮 彩(+):
+    description: |-
+
+    content:
+      - dramatic angle
+      - fluttered detailed color splashs:1.1
+      - illustration:1.1
+      - 1 girl:1.331
+      - long hair:1.1
+      - rain:0.9
+      - hair ornament:1.4
+      - there is an ancient palace beside the girl
+      - chinese clothes
+      - focus on:1.1
+      - color ink wash painting
+      - color splashing:1.1
+      - colorful splashing
+      - colorful:1.331
+      - sketch:0.8
+      - masterpiece
+      - best quality
+      - beautifully painted
+      - highly detailed
+      - denoising:0.6
+      - splash ink:1.1
+      - ink refraction:1.21
+      - beautiful detailed sky:1.1
+      - moon
+      - highly
+      - detaild
+      - extremely detailed cg unity 8k wallpaper:1.1
+      - ultra-detailed:1.1
+      - lycoris radiata:1.1
+    preview:
+  断墨残楮(-):
+    description: |-
+
+    content:
+      - nsfw
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - ugly
+      - duplicate
+      - trannsexual
+      - hermaphrodite
+      - out of frame
+      - extra fingers
+      - mutated hands
+      - mutation
+      - deformed
+      - bad proportions
+      - cloned face
+      - disfigured
+      - more than 2 nipples
+      - extra limbs
+      - gross
+      - proportions
+      - malformed limbs
+      - missing arms
+      - missing legs
+      - extra arms
+      - extra legs
+      - long neck
+      - no girl
+      - very long hair
+      - more than one person
+  像素法(+):
+    description: |-
+      作者:东方（QQ904554409）
+      “ ピクセルは安定性を低下させますが、マルチプレイのマップには有効なようです。1girlを入れてみてください。multiple girlsに変更する。”
+      パラメータ:
+      Steps: 50, Sampler: Euler, CFG scale: 7, Size: 1280x832, Model hash: e6e8e1fc, Clip skip: 2
+
+      編集者コメント:
+      “ああああああああああああああああああああああああああああああああああああああああああああああああああああああピクセルアートが大好きです！ゲームのruaのグラフィックにそっくりです。” （麦子）
+      “Loading World...”（路过的不愿意透露姓名的板）
+      “これを見ていると、むしろあのドット絵のゲームが懐かしく思えてきますね～。”（阴阳）
+      “アルツハイマーの咎人魔道士が溶岩の中を泳ごうとする。”（老年痴呆的疾风法师）
+      “自動車教習所の教頭が、コードで発作を起こそうとする〜。”（校长）
+    content:
+      - pixel art:1.21
+      - masterpiece
+      - best quality
+      - cinematic lighting
+      - soft lighting
+      - 1girl :1.3
+      - morning
+      - red eyes
+      - beautiful white hair
+      - techwear :1.1
+      - transparent raincoatblack gloves
+      - black coat
+      - with red ornaments:1.05
+      - with blue ornaments:1.03
+      - looking to the side
+      - flat chest
+      - raining
+      - beautiful detailed water
+      - beautiful detailed sky
+      - ruins
+    preview:
+  像素法(-):
+    description: |-
+
+    content:
+      - nsfw
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing limbs
+      - three arms
+      - owres
+      - missing fngers
+      - extra digt
+      - wort quality
+      - bad feet
+      - text font ui
+      - malformed hands
+      - long neck
+      - limb
+      - sleeveles
+      - bad anatomy disfigured malformed mutated
+      - mutated hands and fingers :1.5
+      - mutation:1.1
+      - poorly drawn :1.2:1.1
+      - bad anatomy disfiguredmalformed mutated
+      - multiple breasts
+      - futa
+      - yaoi
+      - three legs
+  工程設計(+):
+    description: |-
+      作者:TNT科学家（TNTScientist）
+      “ 基本に立ち返る。”
+      パラメータ:
+      Steps: 50, Sampler: Euler a, CFG scale: 12
+
+      編集者コメント:
+      “...うーーーん、ptsdの三景を描きながら宿題を書くのは犯罪ルアになりそうだ” （麦子）
+      “AI描画は、もともとアートワークを描くために作られたものなのでしょうか...。基本に立ち返る。”（广夏沫)
+      “あなた...気にせず、今日も一日お仕事頑張ってください。”（今宵）
+      “今日も必死で絵を描いてます!AIの力を借りよう”（阴阳）
+      “ヒント、これはゴーダを塗るのに最適なんだ!”（雪）
+    content:
+      - solo:1.1
+      - cad
+      - blueprint
+      - engineering line drawings
+      - line diagram
+      - 2d
+      - overexposure:1.1
+      - masterpiece:1.331
+      - \extremely detailed:1.114514
+      - hdr
+    preview:
+  工程設計(-):
+    description: |-
+
+    content:
+      - nsfw
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - standard quality
+      - peg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+  世界文化 中式壁画(+):
+    description: |-
+      作者:白烛未央
+      “後日、DLCが登場する予定です”
+      
+      パラメータ:
+      steps:/    scale:/        sampling:ddim
+
+      編集者コメント:
+      “コイキング!”（板）
+      “エジプトのフレスコ画は新しすぎる。”（antwominy）
+      “エジプトのフレスコ画の永遠の神。”（老年痴呆的疾风法师）
+      “彼らは何かで遊んでいる...何か新しいもので!”（校长）
+      “あなたの手に、いつまでも水ぶくれがありませんように...。”（今宵老秦）
+      “ジャスミンが、アトミックエイジが。”（六边形格子里的七曜）
+    content:
+      - best quality:1.331
+      - dunhuang frescoes:1.21
+      - only murals :1.1
+      - chinece ancient
+      - macro shot
+      - longsleeve
+      - tradictional chinese painting:1.1
+      - shadow play
+      - old animation
+      - three-dimensional
+      - temple
+      - traditional chinese painting:1.1
+      - cloud
+      - painted on a rock wall
+      - mural
+      - cave
+      - characters step on the cloud
+      - tang painting
+      - rich rhyme
+      - buddhism
+      - comic
+      - chinese characters
+    preview:
+  世界文化 中式壁画(-):
+    description: |-
+
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+  世界文化 エジプト壁画(+):
+    description: |-
+      パラメータ:
+      steps:/    scale:12      sampling:ddim
+    content:
+    - ancient egyptian mural:1.331
+    - story
+    - pharaoh
+  世界文化 エジプト壁画(-):
+    description: |-
+
+    content:
+      - Redundant limb
+  世界文化 教会壁画(+):
+    description: |-
+      パラメータ:
+      steps:/    scale:4-10    sampling:ddim
+    content:
+      - best quality:1.331
+      - fresco:1.21
+      - christianity
+      - dome
+      - angel
+      - the creation of adam:1.1
+  世界文化 教会壁画(-):
+    description: |-
+
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+  世界文化 ストリートグラフィティ(+):
+    description: |-
+      パラメータ:
+      steps:/    scale:6-8     sampling:ddim
+    content:
+      - best quality:1.331
+      - fresco:1.21
+      - street mural
+      - character  graffiti :1.1
+      - colourful:1.1
+      - cyberpunk
+  世界文化 ストリートグラフィティ(-):
+    description: |-
+
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+  世界文化 ペーパーカットされたウィンドウフラワー(+):
+    description: |-
+      パラメータ:
+      steps:/    scale:/       sampling:euler_a or ddim
+    content:
+      - art of paper-cut:1.21
+      - china
+      - red and white
+      - paper-cut
+      - calligraphy
+      - man and wife
+      - flower:1.1
+      - bird:1.1
+      - insect and fish:1.1
+  世界文化 ペーパーカットされたウィンドウフラワー(-):
+    description: |-
+
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+  世界文化 ステンドグラス(+):
+    description: |-
+      パラメータ:
+      steps:/    scale:12     sampling:ddim
+    content:
+      - glass painting:1.05
+      - （stained glass）
+      - god light
+      - colorful
+      - story
+      - 1girl
+  世界文化 ステンドグラス(-):
+    description: |-
+
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+  世界文化 貨幣(+):
+    description: |-
+      ネガティブなし
+      gold coin or silver coin
+      パラメータ:
+      steps/      scale:12     sampling:e_a
+    content:
+      - gold coin
+      - silver coin
+      - relief craft:1.05
+      - stereoscopic feeling
+      - grey background
+    
+    
