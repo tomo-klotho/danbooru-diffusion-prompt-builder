@@ -3,9 +3,9 @@
 </p>
 <div align="center">
 
-# Danbooru ラベルスーパーマーケット
+# Danbooru to NovelAI呪文ビルダー
 
-https://tags.novelai.dev
+https://builder.aipixs.com
 
 </div>
 

@@ -43,24 +43,6 @@ content:
       - magical circle
       - magic circles
       - magical circles
-  valentine:
-    name: バレンタインデー
-    image: 47671b4ce86a87dc4da2cb4835dc1712316fb73677a598e05c2583b1ea445d8c
-    wikiURL: https://danbooru.donmai.us/wiki_pages/valentine.html
-    alias:
-      - valentines
-      - valentine's day
-      - valentines day
-  halloween:
-    name: ハロウィン
-    image: 1d7b5cf03e9d9123f44b97d29d17f6a79c6fb54f9dacfa1521845bc6f6442aba
-    wikiURL: https://danbooru.donmai.us/wiki_pages/halloween.html
-  christmas:
-    name: クリスマス
-    image: 29ea7411d022b6fea1c127fb45e3bf53b02eefc3c5aaec5040d4375acf2d568c
-    wikiURL: https://danbooru.donmai.us/wiki_pages/christmas.html
-    alias:
-      - xmas
   outdoors:
     name: 野外
     image: 38f205d587f54437d416a3e8c6bf0e08f074ef9049bd84050eba72c25bbda2fa
@@ -86,3 +68,16 @@ content:
     name: 白背景
     image: ceb888f570bcba9c0b70514d9828d782e31f2cd325fbf0823597e85e1655877e
     wikiURL: https://danbooru.donmai.us/wiki_pages/white_background.html
+  sparkling background:
+    name: きらめく背景
+    alias:
+      - shimmering background
+  only white background:
+    name: 白い背景のみ
+  Only Black background:
+    name: 黒い背景のみ
+  polka dot background:
+    name: 水玉模様の背景
+  clever background:
+    name: 巧妙な背景
+

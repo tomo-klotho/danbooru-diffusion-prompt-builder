@@ -178,5 +178,20 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/road_bicycle
     alias:
       - road bike
-
+  smart phone:
+    name: スマホ
+  sandwich:
+    name: サンドイッチ
+  wiring:
+    name: 配線
+  notebook:
+    name: ノート
+  spaceship:
+    name: 宇宙船
+    alias:
+      - spaceships
+  UFO:
+    name: UFO
+    alias:
+      - UFOs
 

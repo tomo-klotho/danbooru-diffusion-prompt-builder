@@ -47,4 +47,8 @@ content:
   leprechaun:
     name: レプラコーン
     wikiURL: https://danbooru.donmai.us/wiki_pages/leprechaun
+  alien:
+    name: エイリアン
+    alias:
+      - aliens
 

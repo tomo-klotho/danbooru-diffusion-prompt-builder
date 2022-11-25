@@ -367,6 +367,9 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/official_wallpaper.html
   ultra-detailed:
     name: すごく細かい
+    alias:
+      - ultra detailed
+      - super detailed
   steampunk:
     name: スチームパンク
     wikiURL: https://danbooru.donmai.us/wiki_pages/steampunk.html

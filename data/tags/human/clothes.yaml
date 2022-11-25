@@ -699,6 +699,8 @@ content:
     name: ストライプワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/striped_dress.html
     image: 748e980d4b0fffc7db58541f28d45c59686e9983ecc99058a27964df590c88fd
+  striped clothes:
+    name: ストライプの服
   vertical-striped dress:
     name: 縦縞ワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/vertical-striped_dress.html
@@ -885,6 +887,8 @@ content:
   track jacket:
     name: ジャージ
     image: 33795645bd02f7dc148bcc0e2648355036477428cfb9dfb169ec823bb80f668d
+  bomber jacket:
+    name: ボンバージャケット
   cycling uniform:
     name: サイクルウェア
     wikiURL: https://danbooru.donmai.us/wiki_pages/cycling_uniform.html
@@ -902,5 +906,9 @@ content:
     name: 鎧
     wikiURL: https://danbooru.donmai.us/wiki_pages/armor
     image: 7b28934fd2b865160355dee5aa9a8ea2184e86d54a831d99b688e73a4fd0e320
+  detailed clothes:
+    name: 詳細な服
+  shiny clothes:
+    name: 光沢のある服
 
   

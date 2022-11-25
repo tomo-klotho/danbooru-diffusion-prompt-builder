@@ -164,6 +164,17 @@ content:
     name: イルミネーション
     alias:
       - best illumination
+  black smoke:
+    name: 黒い煙
+  pink smoke:
+    name: ピンクの煙
+  spotlight:
+    name: スポットライト
+  colorful spotlight:
+    name: カラフルなスポットライト
+  dust:
+    name: ほこり
+  
 
 
   

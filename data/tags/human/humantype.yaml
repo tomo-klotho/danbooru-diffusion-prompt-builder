@@ -7,7 +7,11 @@ content:
     image: 740863a9d439ed6e01bb7b33ee6cf19367ecc8d679afe8a6b993f9b4618e4d2b
     wikiURL: https://danbooru.donmai.us/wiki_pages/1boy.html
     alias:
+      - 1 boy
+      - one boy
       - 1boys
+      - 1 boys
+      
   1girl:
     name: 1人の女の子
     image: 7494e763c0dea7a5f999d6e3251cbe5f5486fdc87aa6e99ac614f28441568914
@@ -20,6 +24,8 @@ content:
     name: 男1人
     alias:
       - 1 male
+  man:
+    name: 男
   mature female:
     name: 熟女
     description: 熟女、人妻、おばさん、年増
@@ -548,3 +554,10 @@ content:
     description: 客室乗務員/スチュワーデス/キャビンアテンダント
     wikiURL: https://danbooru.donmai.us/wiki_pages/flight_attendant.html
     image: f8249c55f0f42d616b226f8b5cb30b10fb12a0fb44b650d50d592d2234840826
+  handsome:
+    name: ハンサム
+  honor student:
+    name: 優等生
+  chairman:
+    name: 委員長
+  

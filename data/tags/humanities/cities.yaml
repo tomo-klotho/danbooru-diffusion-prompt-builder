@@ -22,3 +22,15 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/building.html
     alias:
       - buildings
+  tokyo:
+    name: 東京
+  harajuku:
+    name: 原宿
+  akihabara:
+    name: 秋葉原
+  shinjyuku:
+    name: 新宿
+  ginza:
+    name: 銀座
+  detailed and beautiful city:
+    name: 詳細で美しい都市

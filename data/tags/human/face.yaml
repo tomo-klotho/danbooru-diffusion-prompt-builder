@@ -1224,4 +1224,17 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/blank_stare.html
   cute face:
     name: 可愛い顔
-    
+  exquisite eyes:
+    name: 非常に美しい目
+  jewel-like eyes:
+    name: 宝石のような目
+  colorful eyes:
+    name: カラフルな目
+  asymmetrical eyes:
+    name: 非対称の目
+  cosmic eyes:
+    name: 宇宙の目
+  mockery:
+    name: あざけり
+
+

@@ -26,5 +26,9 @@ content:
   wolf:
     name: 狼
     wikiURL: https://danbooru.donmai.us/wiki_pages/wolf.html
+  frog:
+    name: 蛙
+    alias:
+      - frogs
   
   
