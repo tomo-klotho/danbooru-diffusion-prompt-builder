@@ -14,7 +14,7 @@ description: |-
   この章では、特定の画風や構図を専門的に紹介する作品を収録しており、特に新鮮な印象を与えます。
   新しいスタイルを導入しているが、あくまで補助的な要素として使われている作品は除外する。
 content:
-  白虎志(+):
+  白虎誌(+):
     description: |-
       作者:洛心 QQ:1770285408
       “国風、外来動物、聖獣、白虎。” (四神獣はその後、完成しました!!!!!!)
@@ -53,7 +53,8 @@ content:
       - ink splashing:1.21
       - dyeing:1.4641
       - chinese painting:1.21
-      - colorful\\\beautiful and delicate mountain:1.21
+      - colorful:1.21
+      - beautiful and delicate mountain:1.1
       - solo:1.21
       - fantasy creatures:1.21
       - chinese white tiger:1.331
@@ -61,14 +62,14 @@ content:
       - black markings:1.1
       - white tiger:1.21
       - beautiful and delicate golden eyes:1.1
-      - huge claws       big and strong:1.1
-      - diabolical:1.1
-      - tyrannica:1.1
-      - mountains:1.21
+      - huge claws
+      - big and strong
+      - diabolical
+      - tyrannica
+      - mountains:1.1
     preview:
-  白虎志(-):
-    description: |-
 
+  白虎誌(-):
     content:
       - nsfw
       - owres
@@ -123,7 +124,8 @@ content:
       - ink splashing:1.21
       - dyeing:1.4641
       - chinese painting:1.21
-      - colorful\\\beautiful and delicate mountain:1.21
+      - colorful:1.21
+      - beautiful and delicate mountain:1.1
       - stone figure:1.1
       - solo:1.21
       - fantasy creatures:1.21
@@ -215,7 +217,10 @@ content:
     preview:
   貧者の書 DDIM(+):
     description: |-
-
+      Steps:30
+      Scale:5.5
+      Advanced: Sampling :DDIM
+      512 x 1024
     content:
       - masterpiece:1.21
       - best quality
@@ -346,7 +351,10 @@ content:
       作者:Winfrid
       “安定性が低い。”
       パラメータ:
-      Scale=10, steps=26絵画の中の少女のような効果を生むことができる。（がない場合,再生が可能seedレイズscale:同seedレイズscale,少女は徐々に具体化する）若い女の子を洗練させる必要がある場合は、タグを取り外すことができます{ Maidens of Avignon} , 参加painting style。
+      Scale=10, steps=26は、絵画の中の少女のような効果を生み出すことができます。
+      (そうでない場合は、SEEDを複製してスケールを上げる。同じSEEDでスケールを上げると、少女は徐々に具体的になっていく。)
+      乙女を繊細にする必要がある場合は、{Maidens of Avignon}というタグを削除してください。
+      追加:painting style。
 
       編集者コメント:
       “rua。美術展に行ったような気分で、インスピレーションが湧いてくるんです。”（麦子）
@@ -504,7 +512,7 @@ content:
       - black background:1.331
       - european style
       - bright skin
-      - 1980s \style:1.331
+      - 1980s style:1.331
       - movie theater:0.90909091
       - silhouette:0.90909091
       - greyscale:0.90909091
@@ -546,8 +554,21 @@ content:
       作者:Winfrid（QQ1664270853）
       “ イラストからコミックバーまで!?”
 
-       赤はペイントスタイルに関連するタグ,その内monochromeカラーコミックに変更する場合は削除,flat_color,{{{ limited palette}}}除去は基本的に他のペイントスタイルと互換性があります。青はシーン関連、緑はペルソナ関連（太字のものは、AIに神などを割り振らせる必要があるものです。）
-      (特別宣言,touhou project 二次創作契約により、著作権の対象外)
+      ペイントスタイルに関連するタグ。
+      monochrome:カラーコミックに変更する場合は削除。
+      flat_color,{{{limited palette}}}:基本的に他のペイントスタイルと互換性があります。
+      (comic), (creative frame design), flat_color,{{{ limited palette}}},story, {girl}, gothic, {speech bubble}, (monochrome:3) , {speak arrow (symbol)} ,meme,  manga frame, ((dark intense shadows)), ((cinematic lighting)), ((overexposure)),cute anime faces, sketch,{{storyboards}}, (pretty face), section, frame, {border}, {split_theme}, {{split screen}}, {Cartoon split},
+
+      シーン関連
+      river, (forest),palace, (fairyland,feather,flowers, nature),(sunlight),Hazy fog, mist,(beautiful detailed sky)
+
+      ペルソナ関連
+      {2 girls}, flat_chest, diamond and glaring eyes, black eyes, beautiful detailed cold face, {short red hair}, short wavy hair, beautiful detailed eyes, glowing eyes, touhou project, 1girl,braid,dress,eyelashes,frilled skirt,holding knife, holster,maid,maid headdress, medium hair,pocket watch,puffy short sleeves,silver chain, thigh strap, wrist cuffs
+      
+      AIに神などを割り振らせる必要があるもの。
+      open mouth,blank stare, smile,angry,tears
+
+      (特別宣言:touhou project 二次創作契約により、著作権の対象外)
 
       パラメータ:
       steps=28,scale=10,k_euler_ancestral
@@ -559,82 +580,82 @@ content:
       “本当に初耳です!”（antwominy）
       “次回はカラー漫画も見てみたいです〜。”（雪）
     content:
-      - comic:1.1
-      - creative frame design:1.1
+      - comic:1.05
+      - creative frame design:1.05
       - flat color
       -  limited palette:1.157625
       - story
       - girl:1.05
       - gothic
       - speech bubble:1.05
-      - monochrome:3
-      - speak arrow \symbol:1.05
-      - meme:0.90909091
-      - manga frame:0.90909091
-      - dark intense shadows:1.1
-      - cinematic lighting:1.1
-      - overexposure:1.1
-      - cute anime faces:0.90909091
-      - sketch:0.90909091
-      - storyboards:1.00227273
+      - monochrome:3:1.05
+      - speak arrow (symbol):1.05
+      - meme:0.95238095
+      - manga frame:0.95238095
+      - dark intense shadows:1.05
+      - cinematic lighting:1.05
+      - overexposure:1.05
+      - cute anime faces:0.95238095
+      - sketch:0.95238095
+      - storyboards:1.05
       - pretty face
-      - section:0.90909091
-      - frame:0.90909091
-      - border:0.95454545
-      - split theme:0.95454545
-      - split screen:1.00227273
-      - cartoon split:0.95454545
-      - river:0.90909091
+      - section:0.95238095
+      - frame:0.95238095
+      - border
+      - split theme
+      - split screen:1.05
+      - cartoon split
+      - river:0.95238095
       - forest
-      - palace:0.90909091
+      - palace:0.95238095
       - fairyland
       - feather
       - flowers
       - nature
       - sunlight
-      - hazy fog:0.90909091
-      - mist:0.90909091
+      - hazy fog:0.95238095
+      - mist:0.95238095
       - beautiful detailed sky
-      - 2 girls:0.95454545
-      - flat chest:0.90909091
-      - diamond and glaring eyes:0.90909091
-      - black eyes:0.90909091
-      - beautiful detailed cold face:0.90909091
-      - short red hair:0.95454545
-      - short wavy hair:0.90909091
-      - beautiful detailed eyes:0.90909091
-      - glowing eyes:0.90909091
-      - touhou project:0.90909091
-      - 1girl:0.90909091
-      - braid:0.90909091
-      - dress:0.90909091
-      - eyelashes:0.90909091
-      - frilled skirt:0.90909091
-      - holding knife:0.90909091
-      - holster:0.90909091
-      - maid:0.90909091
-      - maid headdress:0.90909091
-      - medium hair:0.90909091
-      - pocket watch:0.90909091
-      - puffy short sleeves:0.90909091
-      - silver chain:0.90909091
-      - thigh strap:0.90909091
-      - wrist cuffs:0.90909091
-      - open mouth:0.90909091
-      - blank stare:0.90909091
-      - smile:0.90909091
-      - angry:0.90909091
-      - tears:0.90909091
+      - 2 girls
+      - flat chest:0.95238095
+      - diamond and glaring eyes:0.95238095
+      - black eyes:0.95238095
+      - beautiful detailed cold face:0.95238095
+      - short red hair
+      - short wavy hair:0.95238095
+      - beautiful detailed eyes:0.95238095
+      - glowing eyes:0.95238095
+      - touhou project:0.95238095
+      - 1girl:0.95238095
+      - braid:0.95238095
+      - dress:0.95238095
+      - eyelashes:0.95238095
+      - frilled skirt:0.95238095
+      - holding knife:0.95238095
+      - holster:0.95238095
+      - maid:0.95238095
+      - maid headdress:0.95238095
+      - medium hair:0.95238095
+      - pocket watch:0.95238095
+      - puffy short sleeves:0.95238095
+      - silver chain:0.95238095
+      - thigh strap:0.95238095
+      - wrist cuffs:0.95238095
+      - open mouth:0.95238095
+      - blank stare:0.95238095
+      - smile:0.95238095
+      - angry:0.95238095
+      - tears:0.95238095
     preview:
   漫画魔法(-):
     description: |-
 
     content:
       - multiple breasts
-      - mutated hands and fingers:1.5 :1.1
+      - mutated hands and fingers:1.5
       - long body :1.3
       - mutation:1.1
-      - poorly drawn :1.2:1.1
+      - poorly drawn :1.2
       - black-white
       - bad anatomy
       - liquid body
@@ -676,15 +697,18 @@ content:
       作者: 云舒白 
       “中国式のマジックが増えることを期待していますし、中国式にAIを鍛えるお兄さんも出てきてほしいです。”
 
-      トラのような他の動物に変更することができる（white tiger）,龙（chinese dragon）とかいうのがありますが、安定しませんね,解像度512×512生成される写真の品質が良い,しかし、引き上げには、時に驚きがある
+      （white tiger）や（chinese dragon）など、他の動物に変更することができるが安定しません。
+      解像度512x512生成される写真の品質が良い。
+      しかし、引き上げ時に驚きがある
       カラーインクの中ではブルーが重要視されているので、スタイルを試したい人は入れてみてください。
       緑色のものは色を火や水に変えてサプライズを演出することもできますが、私は試していません。
-      タグの追加に関する推奨事項:  
-      雲colorful ink cloud, 
-      中国建築Oriental Chinese mythological architecture,（可用DDIM）
-      中国服・隠し子
+      
+      追加タグの紹介:  
+      カラフルな雲:colorful ink cloud 
+      中国建築:Oriental Chinese mythological architecture,（DDIMで使用可能）
+      チャイナドレスと隠した手:
       (((full body but Arms in sleeves))), ((Red traditional Chinese ethnic gown))
-      ゾンビガール:
+      キョンシー:
       (((little girl, solo, Jiangshi girl, Chinese vampire, canines,1girl,delicate beautiful face, Chinese Charms on the forehead )))
 
       パラメータ:
@@ -766,15 +790,14 @@ content:
       “真紅の夢の中で、彼は黒髪の少女に出会う。”
       パラメータ:
       Steps:50
-      Scale:4-12都可（最好8以下）
-      Ddim
+      Scale:4-12可変（最良は8以下）
+      ddim
       768*512
 
       編集者コメント:
       “やっと、手に入れた。”（板）
       “板に描かれたような感じです。”（今宵）
 
-      グレージング方式 // 注意：この投稿で使用したモデルのアルゴリズムが不明なため、一時的に削除を保留し、オリジナルの参考画像のみを残しています。この参考画像を類似したスタイルの参考オブジェクトとして考慮することはお勧めしません //。
     content:
       - ukiyo-e style:1.157625
       - flat style:1.1025
@@ -888,6 +911,8 @@ content:
     description: |-
       作者:白烛未央（QQ:2858463127）
       “ カードドローゲームよりaiの絵の方が楽しいのでは?” 
+
+      ネガティブプロンプト：
       ネガはない!?ぜひ、カードを引いてみてください。
 
       パラメータ:
@@ -898,30 +923,37 @@ content:
       “これは全作品というより、未知の世界の扉を開ける鍵のようなものです。私の番だ!カードドロー!”（板）
       “オイルと厚塗りの組み合わせで、sfgは低くするだけで気持ちいい、素晴らしい。”（雪）
     content:
-      - extremely detailed\\\\\masterpiece:1.331
-      - best quality:1.4641
-      - ultra-detailed:1.331
-      - illustration:1.331
-      - disheveled hair:1.331
-      - colourful:1.4641
-      - solo:1.1
-      - 1girl:1.1
-      - breeze:1.1
-      - cinematic lighting:1.1
-      - vest:1.1
-      - fasle impasto paintings:1.331
-      - gradient eyes:1.1
-      - beautifully detailed sky:1.1
-      - watercolour:1.1
-      - ambient light:1.1
+      - extremely detailed:1.331
+      - masterpiece:1.21
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.21
+      - disheveled hair:1.21
+      - colourful:1.331
+      - solo
+      - 1girl
+      - breeze
+      - cinematic lighting
+      - vest
+      - fasle impasto paintings:1.21
+      - gradient eyes
+      - beautifully detailed sky
+      - watercolour
+      - ambient light
     preview:
   古典肖像魔法 大道版(+):
     description: |-
       作者:クリエイター:药隐(qq576065122)
       エクステンション:Tom(qq2831763863)
-      “ Medicine Crypt:第四の壁を破ろうとしないでください。写真立てを使い切らないように!?”
+      “ Medicine Crypt:第四の壁を破ろうとしないでください。額縁から逃げないように!?”
       
-      インカンテーションの説明:classicismそれは、呪文の魂,portrait和picture frameフィギュアがフレームからはみ出さないようにするためです,ミニマムな肖像画は、より二次的なものです。protrait必要に応じて胸像と交換可能bust
+      呪文に人物指定を追加してください。
+
+      呪文の説明:
+      classicism:呪文の魂。
+      portraitとpicture frame:人物がフレームからはみ出さないようにするためです。
+      ミニマムな肖像画はより二次的なものです。
+      protraitは必要に応じて胸像(bust)と交換可能。
 
       パラメータ:
       Steps: 20, Sampler: Euler a, CFG どうでもいい, 512*768等 縦サイズ
@@ -939,7 +971,8 @@ content:
     preview:
   古典肖像法 厚重油画版(+):
     description: |-
-
+      パラメータ:
+      Steps: 20, Sampler: Euler a, CFG どうでもいい, 512*768等 縦サイズ
     content:
       - oil painting:1.21
       - masterpiece:1.21
@@ -984,7 +1017,7 @@ content:
   TRPG魔法(+):
     description: |-
       作者:麦子哒（QQ1355563745）
-      “ rua! 日本画のスタイルと西洋のファンタジー油絵の組み合わせが目標で、走ることが主目的とは言いません。dndグループはペルソナや切腹に使われるhhhhhh ”
+      “rua!日本画と西洋ファンタジー油絵の融合が目標です!ペルソナや声優に使うdndグループの運営が主目的とは言いませんがhhhhhh”
       パラメータ:
       Steps: 42, Sampler: DDIM, CFG scale: 7, , Size: 896x704, Model hash: e6e8e1fc, Clip skip: 2
 
@@ -1098,7 +1131,8 @@ content:
       - stuffed bunny
       - stuffed toy
       - tele scope
-      - utaite\singer
+      - utaite
+      - singer:1.1
       - wand1:0.90909091
       - whitefootwear:0.90909091
       - whiteshirt:0.90909091

@@ -1,0 +1,4086 @@
+name: 元素法典 2.5巻
+category: 
+  - 元素法典
+description: |-
+  みなさん、こんにちは!編集部一同です!改めまして、こんにちは。コミュニティから素晴らしい作品がたくさん寄せられましたが、前回に比べるとかなりマイルドになったので、ウィザードの皆さんはコーデックスに入るのが難しくなったのでしょうか?さて、ここで秘密を打ち明けますが、2.5巻はある意味「半巻」であり、1.5巻と同じような重要な役割を担っていますエレメンタル・コードの「3.0」はどうなるのでしょうか。ご期待ください。
+  2.5巻では、スムーズにご覧いただけるよう、特別なチャプターは設けません。
+content:
+  雲海に浮かぶ白鶴(+):
+    description: |-
+      作者:单腿
+      “ 白鶴シリーズから3点。 ”
+      パラメータ:
+      Steps: 70, Sampler: DDIM, CFG scale: 7, Size: 1024x576, Model hash: 925997e9, Clip skip: 2, ENSD: 31337
+
+      編集者コメント:
+      “実は、何よりも白鶴が見たいんです。” (今宵)
+      “この水彩画の流れるようなリズムが好きです。”（雪）
+      “人物と風景の境界線のぼやけ具合がちょうどいい。”（阴阳）
+      “コントラストは珍しく、とてもシャープです。”（匿名）
+      “ruaさん!背景の色も素敵ですね。まるで油絵のような美しさ” （麦子）
+    content:
+      - illustration:1.8
+      - best quality:1.1
+      - masterpiece:1.5
+      - png
+      - extremely detailed cg unity 8k wallpaper:1.1
+      - colorful:1.1
+      - warm
+      - chinese style
+      - ink splashing:1.1
+      - color splashing:1.1
+      - watercolor:1.21
+      - 1 chinese girl:1.8
+      - solo
+      - depth of field
+      - dramatic angle
+      - silver detailed cyan ribbon and white flowers in the girl's long black hair:1.25
+      - detailed black hair:1.35
+      - \gold black taoist robes:1.35
+      - braid:1.1
+      - detailed beautiful face:1.3
+      - detailed symmetrical blue eyes
+      - ancient palace background far away:1.55
+      - a slight light
+      - pink flower:1.2
+      - chiaroscuro
+      - \lotus\ in beautiful detailed flowing clouds sea:1.3
+      - rayleigh scattering
+      - feather headdress:1.15
+  雲海に浮かぶ白鶴(-):
+    content:
+      - negative
+      - nsfw
+      - text
+      - ugly
+      - trannsexual
+      - extra fingers
+      - fused fingers
+      - too many fingers
+      - long neck
+      - mutated hands
+      - poorly drawn hands
+      - poorly drawn face
+      - deformed
+      - blurry
+      - bad anatomy
+      - malformed limbs
+      - gross proportions
+      - mutated breasts
+      - curled up
+      - single color
+      - too many legs
+      - wrong human body structure
+      - full body
+      - limb dislocation
+      - bad proportions
+      - more than 2 knee
+      - extra arms
+      - lowres
+      - bad hands
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - missing arms
+  アフタヌーンティー(+):
+    description: |-
+      作者:非鱼（3139590980）
+      “ 静かな午後のひととき、アフタヌーンティーをお楽しみください。”
+
+      正面tag:
+      masterpiece, [(draft, (one girl:1.5))::0.5], [(at an afternoon tea party)], (medium shot:1.5), extremely detailed CG, [[beautiful detailed red eyes:0.5]:0.7],
+      [[white and silver hair: 0.5]:0.7],
+      [red hair:0.7], (luxurious hair ornament), floating hair, [[graceful full dress:0.5]::0.8], top_sleeves, [delicate hands:0.8]
+
+      AIはアフタヌーンティーを具体的にイメージしていることがわかったので、タグはごくわずかでいいのです。
+
+      パラメータ:
+      Steps: 51, Sampler: Euler a 或 Euler, CFG scale: 7, Size: 1024x512
+
+      編集者コメント:
+      “紅茶だけでいいのですか?”（今宵）
+      “眠れる紅茶、ですね。（喜）”（孤辰）
+      “ゴージャスな部屋は最高です!!”（校长）
+      “エレガント〜 エレガントであれ〜。”（antwominy）
+      “ rua。。アフタヌーンティーはいかがですか?。” （麦子）
+    content:
+      - masterpiece
+      - draft:0.5
+      - one girl:1.5
+      - at an afternoon tea party
+      - medium shot:1.5
+      - extremely detailed cg
+      - beautiful detailed red eyes:0.5
+      - white and silver hair:0.5
+      - red hair:0.7
+      - luxurious hair ornament:1.1
+      - floating hair
+      - graceful full dress:0.5
+      - top sleeves
+      - delicate hands:0.8
+  アフタヌーンティー(-):
+    content:
+      - no person in the frame
+      - two heads:1.1
+      - multiple girls
+      - extra arms
+      - character too close
+      - headshot
+      - close-up
+      - deformed face
+      - two people:1.5
+      - long body
+      - bad anatomy
+      - worst quality
+      - water marks
+      - extra fingers
+      - malformed hands:1.5
+      - fused hands
+      - nsfw
+      - overhead perspective
+      - rough hands
+      - missing arms
+      - misplaced hands
+  孔雀仙(+):
+    description: |-
+      作者: 雪喵 + 今宵 + 神座出流 + 校长 + 匿名
+      “ 実は、ピーコックと呼ぶかどうか考えたのですが。”
+
+      正面tag:
+      起手式:best quality, (masterpiece:1.35), wallpaper, (illustration), original,
+      画面基础:(depth of field), (1girl:1.35), (solo), full body, dynamic,
+      人物描述:blue eyes, detailed eyes, peacock wing, [peacock feather gorgeous dress:(peacock feathers):0.65], (disheveled hair), colored tips, colored inner hair, jewelry, intricated filigree, feathers on dress,
+      景物与特效:volumetric lighting, jungle, Tyndall effect, peacock feathers, halation
+
+      反面tag:
+      lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet, realistic, 3d, animals, (large breast), blush, long neck
+
+      パラメータ:
+      Steps: 40~150それぞれの特徴
+      Sampler: DDIM
+      Model hash:e6e8e1fc
+      Clip skip: 2
+      Size: 少なくとも960x640
+      CFG scale: 8.5 或4.5
+      4.5基本的にはカードドローですが、ウルを手に入れることができます。
+
+      編集者コメント:
+      “命題の作文が疲れる。”（今宵）
+      “孔雀の妖精は、袖で森を舞う。天界のことを聞いても、笑顔で何も言ってはいけない。”（校长）
+      “孔雀は南東に飛び、五里を彷徨う。”（mahiru）
+      “世界一美しい妖精。”（匿名）
+      “黄金のヘアピンと美しい翡翠、緑の羽と花。”（匿名）
+      “みんなが拾ってくれたのは嬉しかったし、作業してくれたみんなに感謝します。”（神座）
+      “ ↑上の文章は、孔雀が格好いいとしか言いようがないくらいに ” （麦子）
+      “翼は緑色で空に輝き、歌は澄んで明るい。”（半生为夏甗麦至冬）
+    content:
+      - best quality
+      - masterpiece:1.35
+      - wallpaper
+      - illustration:1.1
+      - original
+      - depth of field:1.1
+      - 1girl:1.35
+      - solo:1.1
+      - full body
+      - dynamic
+      - blue eyes
+      - detailed eyes
+      - peacock wing
+      - peacock feather gorgeous dress
+      - peacock feathers:0.65
+      - disheveled hair:1.1
+      - colored tips
+      - colored inner hair
+      - jewelry
+      - intricated filigree
+      - feathers on dress
+      - volumetric lighting
+      - jungle
+      - tyndall effect
+      - peacock feathers
+      - halation
+  孔雀仙(-):
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - realistic
+      - 3d
+      - animal
+      - large breast:1.1
+      - blush
+      - long neck
+  合成器浪潮:彻夜之歌(+):
+    description: |-
+      作者:Winfrid（1664270853）
+      “研究vaporwaveの時間synthwave製品情報。”
+
+      正面tag:
+      1 synth wave style girl, extremely detailed CG ,(masterpiece), (flat color:1.5), (best quality), (limited palette) , pink fluorescent paint, , noline art, silhouette, partially colored, (alternate color):1.4, dynamic angle, (pink, dark violet):1.3, dark violet shadow, (synth wave), (chromatic aberration) , (((thick) outline)), pink outline, (solo focus), pink neon lights, perfect shadow, cowboy shot, blank stare, beret, bowknot on beret, flat chest, wearing an off- shoulder floating jacket, short wavy delicate hair, blank stare, delicate face, bare shoulder, sitting on the top of the building,  beautiful and delicate eyes, (1 girl):1.5, solo, from above, delicate background, streets with neon lights
+
+      再描画された単語が核となり、カラー単語は希望の色になるように調整できる
+      を追加することができます。glitch, retro art style偶数manga frameといった関連tag。
+      キャラクターやシーンの描写をフォローするときに、他の色の言葉を使わないように気をつけましょう
+
+      反面tag:
+      
+      パラメータ:
+      NAI 官网
+      NAI Diffusion Anime(full),steps=25,scale=10,ddim
+
+      編集者コメント:
+      “色彩の衝撃とサイバーパンク的な未来感を持った斬新な画風。”（阴阳）
+      “キーワードは、「レトロフューチャー」。”（今宵）
+      “雰囲気は全力投球!”（校长）
+      “もう頭の中で曲が流れている（”（板）
+    content:
+      - 1 synth wave style girl
+      - extremely detailed cg
+      - masterpiece:1.1
+      - flat color:1.5
+      - best quality:1.1
+      - limited palette:1.1
+      - pink fluorescent paint
+      - noline art
+      - silhouette
+      - partially colored
+      - alternate color\:1.4:1.1
+      - dynamic angle:1.1
+      - pink:1.21
+      - dark violet\:1.3:1.21
+      - dark violet shadow:1.21
+      - synth wave:1.331
+      - chromatic aberration:1.331
+      - thick\ outline:1.61051
+      - pink outline:1.331
+      - solo focus:1.4641
+      - pink neon lights:1.331
+      - perfect shadow:1.331
+      - cowboy shot:1.331
+      - blank stare:1.331
+      - beret:1.331
+      - bowknot on beret:1.331
+      - flat chest:1.331
+      - wearing an off- shoulder floating jacket:1.331
+      - short wavy delicate hair:1.331
+      - delicate face:1.331
+      - bare shoulder:1.331
+      - sitting on the top of the building:1.331
+      - beautiful and delicate eyes:1.331
+      - 1 girl:1.5
+      - solo:1.4641
+      - from above:1.4641
+      - delicate background:1.4641
+      - streets with neon lights:1.4641
+  合成器浪潮:彻夜之歌(-):
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - missing fingers
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - long neck
+  潘多拉猫法2.0(+):
+    description: |-
+      作者:八云绫 (QQ:1257383783)
+      “ 今回はすずらんさんのタグの仕分け方法で、2組のドラえもんの皆さんにご指導いただき、ありがとうございました。
+      パンドラキャット1.0以降、ドラゴンが出ないという問題を解決するのにこんなに時間がかかるとは思ってもいませんでした。
+      ニャー......ニャー......ニャー......ニャー
+      今回のPandora Cat 2.0は、グラフィックのインパクトと表現力を様々な形で向上させることを目的としており、1.0と比較して、グラフィックの緊張感と表現力の両方を大幅に向上させ、すずらんさん考案のシーケンス方式や、いまだに議論のある絵文字にも挑戦しています。
+      さらに、この魔法ですべての魔法使いが楽しい時間を過ごせますように!ww”
+
+      正面tag:
+      [((Delicate arms and hands),(✌:1.2))::20],(hands on hilt),Highly Detailed beautiful and aesthetic,extremely detailed CG unity 8k wallpaper,(((masterpiece))),(((best quality))),((ultra-detailed)), ((illustration)), ((an extremely delicate and beautiful)),(painting),(high close up:0.8),(High Score), Ultra Detail,, Detail, Wallpaper,[((samurai sword)):crystal:0.9],[((dragon)):(prims):0.3],clock,[crystal| dragon],((break out)),(floating water:1.2),((loli)),(((cat ears))),white hair,(deep red eyes:1.5),(the dragon is around the girl),[((dragon)):((prims)):0.3],[((samurai sword)):crystal:0.9],,clock,(prims:1.4),[((crystal)) :dragon:0.8],((break out)),(floating water:1.2),Perfect female body,slender waist,neat figure,((loli)),(((cat ears))),white hair,(deep red eyes:1.5),(shining eyes),(twintails),hair_bow,hair ribbon
+
+      反面tag:
+      worst quality, low quality,normal quality,black-white,(mutated hands and fingers:1.5 ), (long body :1.3), (mutation, poorly drawn :1.2), blurry, JPEG artifacts,bad anatomy, liquid body, liquid tongue, disfigured, malformed, mutated, malformed hands,
+      extra arms, extra legs, one foot with more than 5 toes, one foot with less than 5 toes, one hand with more than 5 fingers, one hand with less than 5 fingers,
+      fused fingers,fused toes,liquid digit,bad digit,extra digits,fewer digits,extra toes,extra digits,
+      cropped, watermark, username,signature, text font ui, error,
+      fused nipples,bad breasts,heavy breasts,different nipples,bad nipples,extra ears,
+      long neck, blurred, lowers, lowres, bad anatomy, bad proportions, bad shadow,obesity
+
+      パラメータ:
+      85step 6.5CFG cilp2 Euler 1024x512
+
+      編集者コメント:
+      “ハンサム”（广夏沫）
+      “ハンサムキャット〜。”（雪）
+      “75分集団論は、次の段階に進むかもしれない?”（匿名）
+      “オーバーレイの強化は、それにちょうどいい。”（匿名）
+    content:
+      - delicate arms and hands:1.1
+      - ✌:1.2
+      - hands on hilt:1.1
+      - highly detailed beautiful and aesthetic
+      - extremely detailed cg unity 8k wallpaper
+      - masterpiece:1.331
+      - best quality:1.331
+      - ultra-detailed:1.21
+      - illustration:1.21
+      - an extremely delicate and beautiful:1.21
+      - painting:1.1
+      - high close up:0.8
+      - high score:1.1
+      - ultra detail
+      - detail
+      - wallpaper
+      - samurai sword:1.21:crystal:0.9
+      - dragon:1.21
+      - prims:1.1:0.3
+      - clock
+      - crystal|dragon
+      - break out:1.21
+      - floating water:1.2
+      - loli:1.21
+      - cat ears:1.331
+      - white hair
+      - deep red eyes:1.5
+      - the dragon is around the girl:1.1
+      - dragon:1.21
+      - prims:1.21:0.3
+      - prims:1.4
+      - crystal:1.21
+      - dragon:0.8
+      - perfect female body
+      - slender waist
+      - neat figure
+      - shining eyes:1.1
+      - twintails:1.1
+      - hair bow
+      - hair ribbon
+  潘多拉猫法2.0(-):
+    content:
+      - worst quality
+      - low quality
+      - normal quality
+      - black-white
+      - mutated hands and fingers:1.5
+      - long body :1.3
+      - mutation:1.1
+      - poorly drawn :1.2
+      - blurry
+      - jpeg artifacts
+      - bad anatomy
+      - liquid body
+      - liquid tongue
+      - disfigured
+      - malformed
+      - mutated
+      - malformed hands
+      - extra arms
+      - extra legs
+      - one foot with more than 5 toes
+      - one foot with less than 5 toes
+      - one hand with more than 5 fingers
+      - one hand with less than 5 fingers
+      - fused fingers
+      - fused toes
+      - liquid digit
+      - bad digit
+      - extra digit
+      - fewer digits
+      - extra toes
+      - cropped
+      - watermark
+      - username
+      - signature
+      - text font ui
+      - error
+      - fused nipples
+      - bad breasts
+      - heavy breasts
+      - different nipples
+      - bad nipples
+      - extra ears
+      - long neck
+      - blurred
+      - lowers
+      - lowres
+      - bad proportions
+      - bad shadow
+      - obesity
+  冰与火之歌(+):
+    description: |-
+      作者:千秋夢（QQ1798780261）
+      “ 利回りはセンセーショナルですが、キャップが非常に高いです。
+      ビギナーズ時代のアイス＆ファイヤーメソッドにインスパイアされました。
+      氷と炎、分離と融合の両方。”
+
+      正面tag:
+      (masterpiece,best quality,ultra detailed),(best illumination,best shadow,an extremely delicate and beautiful),
+      [((half decorational vertical border in the middle:1.3),(left and right border and symmetry split_theme and symmetry split screen):1.3):20],
+      (2Queens:1.3),(beautiful and detailed Queen and face:1.2),full body,big forhead,Long hair,( bule hair:1.2),fluffy hair, ,disheveled hair,long bangs, hairs between eyes,Exquisite cloth,floating,((white blue golden dress)),black ribbon,blank stare,flower,large top sleeves, (pretty ice:1.17),(blue Ice crystals texture the wings:1.3),(( beautiful and detailed Queen and face:1.2),full body,big forhead,Long hair,red hair,fluffy hair, ,disheveled hair,long bangs, hairs between eyes,Exquisite cloth,floating,((red black sliver dress)),black ribbon,blank stare,flower,large top sleeves, (pretty flame:1.3),(Flame textured wing:1.3),
+      (floating palaces:1.2),dynamic pose,light shafts
+
+      反面tag:
+      (mutated hands and fingers:1.5 ), (mutation, poorly drawn :1.2) , liquid body, text font ui, long neck, ((((uncoordinated body)))),fused ears,(ugly:1.5),(((Mutant legs))),(huge breasts:1.5)
+
+      パラメータ:
+      Steps: 60, Sampler: DPM2 a Karras, CFG scale: 7, Size: 1408x704, Model hash: 925997e9, Eta: 0.667, Clip skip: 2
+
+      編集者コメント:
+      “氷と火という正反対の要素を両立させることは、自分のスタイルが向上するだけでなく、魔法界全体の進歩の度合いを示すことにもなる。”（广夏沫）
+      “アイスファイアが2週間走り続け、ようやく結果を出した姿を見て、文字通り涙が出ました。”（antwominy）
+      “森 林 冰 火 人”（校长）
+      “寒さと炎が出会う 始まりと終わりが出会う。”（神座）
+    content:
+      - masterpiece:1.1
+      - best quality:1.1
+      - ultra detailed:1.1
+      - best illumination:1.1
+      - best shadow:1.1
+      - an extremely delicate and beautiful:1.1
+      - \half decorational vertical border in the middle:1.3
+      - left and right border and symmetry split theme and symmetry split screen\:1.3
+      - 2queens:1.3
+      - beautiful and detailed queen and face:1.2
+      - full body
+      - big forhead
+      - long hair
+      -  bule hair:1.2
+      - fluffy hair
+      - disheveled hair
+      - long bangs
+      - hairs between eyes
+      - exquisite cloth
+      - floating
+      - white blue golden dress:1.21
+      - black ribbon
+      - blank stare
+      - flower
+      - large top sleeves
+      - pretty ice:1.17
+      - blue ice crystals texture the wings:1.3
+      - beautiful and detailed queen and face:1.2
+      - red hair
+      - red black sliver dress:1.21
+      - pretty flame:1.3
+      - flame textured wing:1.3
+      - floating palaces:1.2
+      - dynamic pose
+      - light shafts
+  冰与火之歌(-):
+    content:
+      - mutated hands and fingers:1.5
+      - mutation:1.1
+      - poorly drawn :1.2
+      - liquid body
+      - text font ui
+      - long neck
+      - uncoordinated body:1.4641
+      - fused ears
+      - ugly:1.5
+      - mutant legs:1.331
+      - huge breasts:1.5
+  铁驭术(+):
+    description: |-
+      作者:神座出流
+      “ 敵の巨人を発見指示を仰ぐ!?指示を仰ぐ!?”
+
+      正面tag:
+
+      反面tag:
+      Santa Claus,lowres, bad anatomy, (bad hands), text, error, missimng fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, (bad feet), many hands, duplicate, from back, back view
+
+      パラメータ:
+      Steps: 100+, Sampler: DPM++ 2S a Karras或DDIM, CFG scale: 5.5以上, Size: 横幅皆可, Model hash: 925997e9, Eta: 0.67, Clip skip: 2
+
+      編集者コメント:
+      “わかった、わかった、もうビッグボットの心臓にはならないから、プロトコル3の話はやめてくれ!!!!”（今宵）
+      “合意その1:校長先生のために、クレイジー木曜日を買おう”（校长）
+      “規約2:フライドチキンを掴む神の座に注意!”（板）
+      “スチームのため、2以上4未満のプロトコルはありません。” （板）
+      “協定4:KFCを使って、誠の姉とバンバンを騙して家に帰らせる!?”（匿名）
+      “規約5:本当の日妹に基板を運転させる!”（匿名）
+      “契約書6:小さな本番の日は私のもの!!!!”（校长）
+      “合意事項7:真のデイライトは共有できる!!!!”（匿名）
+      “同意書8:陰陽師は、あなたが私のために這うことを知っている!!!（笑）。”（校长）
+      “合意9:若者は元気だ、審判を習いに来ないか-。”（神座）
+      “プロトコル10:前を忘れ、真ん中を忘れ、後ろを忘れる。”（孤辰）
+      “上記について、現地で契約書を作成することはご遠慮ください。” （麦子）
+    content:
+      - masterpiece:1.331
+      - best quality
+      - illustration:1.21
+      - solo
+      - depth of field
+      - fps
+      - pov
+      - anime coloring
+      - cockpit:1.1
+      - console:1.2
+      - control panel:1.3
+      - science fiction
+      - dashboard
+      - spaceship interior
+      - piloting a giant mech
+      - battle against a giant robot:1.4
+      - backlight
+      - clould
+      - black tracing
+  铁驭术(-):
+    content:
+      - santa claus
+      - lowres
+      - bad anatomy
+      - bad hands:1.1
+      - text
+      - error
+      - missimng fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet:1.1
+      - many hands
+      - duplicate
+      - from back
+      - back view
+  冰箱贴(+):
+    description: |-
+      作者:Winfrid（1664270853）
+      “ 2Dライザーをラフにトレースしたショースタイル。”
+
+      正面tag:
+      
+      Thick outlineより多くの人が出てくる確率が高くなるのです。
+      情景を描写する際、それが生成されない場合は、さらに言葉を足して表現してみる（単に数回繰り返したり、ウェイトを増やすのではない）
+      背景が特に本格的な場合。背景が一体化していると、非常にリニアートになります（通常、リニアートタグを付けるか付けないかの違いもあります）。
+      リニアートを削除してリアルな背景を強調すれば、3Dに2Dの効果が加わり、「マルチレイヤー」効果がある程度再現されます（それでも本質的にはかなり遠いのですが）。
+
+      (詳しい解説は後日書くかもしれません)
+
+      反面tag:
+      
+      パラメータ:
+      NAI 公式サイト
+      NAI Diffusion Anime(full),steps=28,scale=11,ddim
+
+      編集者コメント:   
+      “異なる画層を重ねることで、白の縁取りでインパクトを与える効果を実現しました。”（阴阳）
+      “ハイサイエンス”（校长）
+      “特に白枠のスタイルは、音楽pvを観ているような雰囲気があって好きです。”（雪）
+      “強調するのが超好き!!!” （麦子）
+    content:
+      - lineart
+      - masterpiece
+      - cool posing
+      - lab reaction systems:1.4
+      -  experiment:1.05
+      - lab:1.05
+      - chemistry laboratory:1.21550625
+      - delicate background:1.05
+      - cool:1.05
+      - with a  laboratory as background:1.1025
+      - best quality
+      - a girl
+      - solo
+      - papercut
+      - thick outline:2
+      - short red hair
+      - short wavy hair
+      - floating lab-gown
+      - flat chest
+      - white school uniform
+      - white beret
+      - bowknot over white beret
+      - outline
+  冰箱贴(-):
+    content:
+      - q-version
+      - nsfw
+      - lowres
+      - bad anatomy
+      - bad hands
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - symmetry
+      - text
+  靛金术(+):
+    description: |-
+      作者:孤辰Null
+      “ 文字・都市の重みを適切に調整することで、文字を消すことができる。”
+
+      正面tag:
+      
+      反面tag:
+      
+      パラメータ:
+      Steps: 23, Sampler: Euler a/ddim, CFG scale: 12, Size: 1024x512, Model hash: 925997e9, Eta: 0.67, Clip skip: 2
+
+      編集者コメント:
+      “これはローンスターの「アルケミー・オブ・シルバー」の進化版で、金と銀はとても...あ、先生、ダメです。” （板）	
+      “うーん！？ローンスターのオリジナル女性用コスチュームです!”（校长）
+      “ローンスター地区 ロリ耳（フードはどこだ？）”（阴阳）
+      “ローンスター・ローリが欲しい ローンスター・ローリが欲しい ローンスター・ローリが欲しい”（匿名）
+      “陰と陽があるからこそのロリ(╬▔皿▔)╯（フードはリトル・イン・ヤンへ）”（孤辰）
+    content:
+      - masterpiece
+      - best quality
+      - flat color
+      - offical art
+      - white theme
+      - ultra-detailed:1.1
+      - illustration:1.1
+      - an extremely delicate and beautiful harbour city:1.1
+      - an extremely delicate and beautiful girl with golden pupil:1.1
+      - blue hair:1.1
+      - four ponytail
+      - long shot:1.3
+      - golden eyes:1.3
+      - low twintails:1.6
+      - super fucking beautiful
+      - very long sleeves
+  靛金术(-):
+    content:
+      - text
+      - nsfw
+      - lowres
+      - bad anatomy
+      - bad hands
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worth quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - realistic
+      - 3d
+      - large breast:1.1
+      - long neck
+      - bad arms
+      - multiple people
+      - animal
+      - missing legs
+      - huge person
+      - optical illusion
+      - upper body
+      - profile
+  发光二极管(+):
+    description: |-
+      作者:Voraz
+      “ concept art , electric current , circle shape, cyan color scheme核となるものです。
+      キーワードを変更したり、他のいろいろな図形に置き換えたりすることで、プレイアビリティは高いが、抽象化しやすく、キーワードに重みをつける必要があるが、1.3を超えないようにしないと、非常に具体的なイメージになってしまう。”
+
+      正面tag:
+      
+      反面tag:
+      
+      パラメータ:
+      Steps: 50, Sampler: Euler a, CFG scale: 12.0, Size: 512x512, Model hash: 925997e9, Model: pruned, Clip skip: 2, ENSD: 31337
+
+      編集者コメント:
+      “だから、何、私は大きな移動の準備ができている、私に従う?”（今宵）
+      “クラシックグループビル（bushi）”（antwominy）
+      “私の究極のスキルは、チャージアップです”（校长）
+      “強化されましたね!送ってください” （板）
+      “猫を女の子に置き換えて、ちびスタイルで超かわいい♡缶バッジにしてみました”（雪）
+      “あなたのLEDは、正しく電源が供給されず、焼けてぐちゃぐちゃになっています（電子工学ptsd）” （麦子）
+    content:
+      - concept art
+      - a cat cloth emblem
+      - electric current
+      - circle shape
+      - cyan color scheme
+      - vector graphics
+      - hyperrealism
+      - octane render
+      - high quality
+      - illustration
+  发光二极管(-):
+    content:
+      - nsfw
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - standard quality
+      - peg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+  古卷魔女(+):
+    description: |-
+      作者:tlzmybm（QQ 1445291014）
+      “ キャンドルの灯りの中で、魔術、魔法、自然哲学を楽しむ。 ”
+
+      パラメータ:
+      Steps: 40, Sampler: DDIM, CFG scale: 7, Size: 1024x640, Model hash: 925997e9, Clip skip: 2, Eta: 0.68, ENSD: 31337
+
+      編集者コメント:
+      “🐮🍺”（今宵）
+      “🐮🍺”（板）
+      “🐮🍺（附和）”（mahiru）
+      “認知革命を起こした絵文字にふさわしく、マイナス面も絵文字だらけになる日を待ち望んでいます。”（阴阳）
+      “どんな呪文なんだ?どうしてこんなに抽象的なんだろう?”（匿名）
+      “ドアEです。”（匿名）
+      “WHY!!!絵文字効果!!!すごくいい!!!” （被emoji大法逼疯的麦子）
+    content:
+      - 📜:1.21
+      - ✏
+      - 🎶
+      - 🧙‍♀️:1.1
+      - ✡
+      - 🕯
+      - ✨
+  古卷魔女(-):
+    content:
+      - normal quality
+      - highres
+      - blurry foreground
+      - text
+      - error
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+  鬼火骷髅法(+):
+    description: |-
+      作者:南枫 （QQ:1617816247）
+      “ 来歴:幼い頃に両親を骸骨アンデッドに魂を奪われ、闇の世界と血の軋みを持つ少女。
+      幼い頃、叙事詩の魔術師ハクレイの養女となり、「幽霊の火と骸骨の魔術」の呪文を教えられた。
+      彼は、ギガレスが自分の両親の魂の行方を、おぞましい「魂と髑髏の血の源」の闇の底で知っていることを知る。
+      両親の魂の行方を探るため、伝説の人生を歩み始め、後世に賞賛される「幽霊と髑髏の乙女」の冒険が始まった...。”
+
+      正面tag:
+      
+      反面tag:
+      
+      パラメータ:
+      Steps: 30, Sampler: DPM2 a, CFG scale: 7, Size: 1280x512, Model hash: 925997e9, Model: pruned, Eta: 0.667, Clip skip: 2, ENSD: 31337
+
+      編集者コメント:
+      “長尺のキャンバスをデスクトップ壁紙にするのは勿体無い!”（雪）
+    content:
+      - masterpiece:1.21
+      - best quality:1.21
+      - highly detailed:1.21
+      - ultra-detailed:1.21
+      - wallpaper:1.21
+      - artbook:1.21
+      - extremely detailed cg unity 8k wallpaper:1.21
+      - illustration:1.331
+      - cinematic lighting
+      - dynamic angle
+      - floating:1.21
+      - original
+      - depth of field:1.331
+      - solo
+      - an extremely delicate and beautiful girl:1.331
+      - loli:1.331
+      - detailed cute anime face:1.1
+      - fighting:1.21
+      - long bright low-tied long red hair
+      - silvery fourpetal flower hair ornament
+      - beautiful detailed eyes
+      - small breasts
+      - bishop sleeve golden flower pattern
+      - long sleeve:2
+      - frills:1.1
+      - skull:1.21
+      - gold and silver bicolor skulls burn:1.4641
+      - skull in her hand:1.1
+      - beautiful detailed glow:1.1
+      - beautiful detailed pearl necklace
+      - skull request
+      - flowing golde fire
+      - flowing silvery fire
+      - surrounded by beautiful detailed golden fire spin:1.331
+      - surrounded by beautiful detailed silvery fire spin:1.331
+      - fantasism
+      - nature
+      - fantasy style
+      - refined rendering
+      - contour deepening:1.21
+      - melt:1.61051
+      - flowing:1.331
+  鬼火骷髅法(-):
+    content:
+      - nsfw
+      - owres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - long neck
+      - humpbacked
+      - shadow
+      - nude
+      - 2 girls
+  黑洞构成法(+):
+    description: |-
+      作者:Antonia （qq 453873541)
+      “ 半減期卍の半径タグと、毛色の変わった兄弟たちの新技術のおかげで、ブラックホール組成の安定性が大きく前進したのです。”
+
+      正面tag:
+      
+      “フィボナッチ・スパイラル”(Fibonacci spiral) コアを安定させるために
+
+      反面tag:
+      
+      パラメータ:
+      step > 80
+      模型 e6e
+      使用Euler采样 因DDIM带上了无比浓厚的笔触让宇宙场景极其难受 因此仅推荐Euler
+      投稿图片大多为1024*512    因适配性问题不保证高分辨率下良品率
+      测试512*512效果也较好 但由于边幅关系 只能生成单一黑洞  大可能无其他元素支撑
+      Cfg 强烈推荐5.5 不建议往上拉 宇宙是如此广阔 为何不让AI尽情发挥?
+
+      編集者コメント:
+      “こちら@halfsummer”（今宵）
+      “ブラックホールを強化したのは、あなたが最初ではありませんよ!コノアントニアダ!!!HANCHA!!!!” （板）
+      “ブラックホールをうまく描くには、やはり数学の勉強が必要です。”（雪）
+      “ブラックホールの直径を参照し、ブラックホールの質量を要求している”（麦子）
+    content:
+      - masterpiece:1.2:1.1
+      - best quality:1.2:1.331
+      - ultra-detailed:1.4674275
+      - 8k wallpaper:1.4674275
+      - lifelike:1.331
+      - fibonacci spiral:1.331
+      - wide-angle:1.331
+      - extremely detailed background description:1.4674275
+      - depth of field:1.331
+      - best quality:1.39755
+      - highly detailed:1.39755
+      - revolve round stellar black hole:1.15:1.4674275
+      - schwarzschild radius:1.35:1.4674275
+      - black-hole accretion disk:1.4:1.4674275
+      - quasar:1.953146
+      - windstorm:1.86013905
+      - the distant milky way:1.953146
+      - supernova star:1.953146
+      - star cluster:1.86013905
+      - nebula:1.86013905
+      - star river:0.8
+      - light with beautiful details:1.86013905
+      - shine:1.77558728
+      - stars surround:1.77558728
+      - depth:1.6910355
+      - ether:1.6910355
+      - fisheye lens:1.537305
+  黑洞构成法(-):
+    content:
+      - nsfw
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+  灭世魔神(+):
+    description: |-
+      作者: 某驾校校长     
+      “ これは世界を揺るがす力だ、だからお前ら人間は引っ込んでろ!フロントは私が...あーーーー助けてーーーー ”
+
+      正面tag:
+      masterpiece), (best quality), (super delicate), (illustration), (extremely delicate and beautiful),//起手式
+      hyperrealism,(Realistic style:1.2),cel shading,(dynamic angle),//风格强调
+      War Photography,(giant monster:1.8),solo,(Missile Bombing:1.3),complex details,metal armor,blood,metal texture,Visual impact,Backlight,(dark intense shadows),//怪物描写
+      broken buildings,detailed and intricate,ruins,fog,(magic array circle the sky:1.5)//环境渲染
+
+      反面tag:
+      
+      パラメータ:
+      Steps: 50, Sampler: DDIM, CFG scale: 11, Size: 960x512, Model hash: e6e8e1fc, Clip skip: 2（lms有时候跑出来会有奇效）
+
+      編集者コメント:
+      “とても校長先生らしい。”（今宵）
+      “パーディションスタイルが秀逸私にとっては悪くない!”（校长）
+      “体に悪くない（読書）”（antwominy）
+      “アグレッシブな感覚、素晴らしいです。”（神座）
+      “妹（x）魔神（√）に踏み潰される!?”（孤辰）
+      “踏みつけられて死ぬぞ...。”（校长）
+    content:
+      - masterpiece
+      - best quality
+      - super delicate
+      - illustration
+      - extremely delicate and beautiful
+      - hyperrealism:0.90909091
+      - realistic style:1.2
+      - cel shading
+      - dynamic angle:1.1
+      - war photography
+      - giant monster:1.8
+      - solo
+      - missile bombing:1.3
+      - complex details
+      - metal armor
+      - blood
+      - metal texture
+      - visual impact
+      - backlight
+      - dark intense shadows:1.1
+      - broken buildings
+      - detailed and intricate
+      - ruins
+      - fog
+      - magic array circle the sky:1.5
+  灭世魔神(-):
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+  伏魔经(+):
+    description: |-
+      作者:噂噂子 Twitter:Utanomiya_
+      “ (メッセージなし) ”
+
+      正面tag:
+      
+      反面tag:
+      
+      パラメータ:
+      Steps: 30, Sampler: DDIM, CFG scale: 7, Size: 1280x448, Model hash: 925997e9
+
+      編集者コメント:
+      “戦いはこれから始まる 5-4-3-2-1”（雪）
+    content:
+      - masterpiece:1.21
+      - best quality:1.21
+      - ultra-detailed:1.1
+      - illustration:1.1
+      - an extremely delicate and beautiful:1.21
+      - back:1.4641
+      - from behind:1.4641
+      - center:1.4641
+      - a chinese girl holds a long sword:1.21
+      - a big alien moster in the back ground:1.21
+      - detailed face:1.21
+      - full body:1.21
+      - messy floating hair:1.21
+      - disheveled hair:1.21
+      - focus:1.21
+      - perfect hands:1.21
+  伏魔经(-):
+    content:
+      - nsfw
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - long neck
+      - humpbacked
+      - shadow
+      - nude
+  立绘法(+):
+    description: |-
+      作者:单腿
+      “ 図面コアtag:white backgroundこの種のものとしては初めてではない。”
+
+      正面tag:
+      
+      反面tag:
+      
+      パラメータ:
+      Steps: 30, Sampler: DDIM, CFG scale: 5,Size: 1024x1024, Model hash: 925997e9, Clip skip: 2, ENSD: 17415
+      (より良いオープンなHDレストア)
+
+      編集者コメント:
+      "カウンターの呪いのnsfwは結構しっかりしてるんだけどな...。"(今宵)
+      "今晩は、その通りです。"（广夏沫）
+      “今晩は、その通りです。”（mahiru）
+      “シゴトをしない!”（阴阳）
+      “シバリでいいじゃないですか。”（孤辰）
+      “不 准 涩 涩!!! [○･｀Д´･ ○] , グループはあなたによって迷わされているのです!!!” （麦子）
+    content:
+      - white background:1.4
+      - original
+      - illustration:1.1
+      - best quality:1.1
+      - masterpiece:1.1
+      - extremely detailed cg unity 8k wallpaper:1.1
+      - colorful:0.9
+      - imid shot:0.95
+      - full body:1.25
+      - dynamic angle
+      - solo:1.2
+      - bottle bottom:1.1
+      - 1 younger cute girl:1.35
+      - the legendary sword of lightning:1.25
+      - detailed beautiful eyes:1.15
+      - beautiful face:1.15
+      - glowing blue eyes:1.25
+      - silver pink gradient disheveled:0.8
+      - +perfect hand+:1.21
+      - air bangs
+      - explosive lightning
+      - perfect sword:1.21
+      - lightning and sword interweave:1.331
+      - expressionless
+      - purple flame around the wings behind the girl:1.1
+      - the black dragon king is behind the girl:1.1
+  立绘法(-):
+    content:
+      - nsfw:1.21
+      - lowres
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - worst quality
+      - low quality
+      - watermark
+      - username
+      - blurry
+      - poorly drawn
+      - poorly drawn hands
+      - mutilated
+      - unclear eyes
+      - deformed
+      - poorly drawn face
+      - bad face
+      - three legs
+      - bad feet
+      - disfigured
+      - text font ui
+      - extra arms
+      - extra digit
+      - long neck
+      - humpbacked
+      - bad leg
+      - wrong leg
+      - misplaced leg
+      - 3 legs
+      - fused leg
+      - bad sword:1.4
+  蘑菇森林法v1.5(+):
+    description: |-
+      作者:愿良辰美景（QQ:242467164）
+      “ キャラクターの出現確率を安定させたが、旧バージョンよりやや低い上限を設定した。”
+
+      正面tag:
+      
+      反面tag:
+      
+      パラメータ:
+      Steps: 60, Sampler: DDIM, CFG scale: 4.5, Size: 960x640, Model hash: e6e8e1fc, Clip skip: 2, ENSD: 31337
+
+      編集者コメント:
+      “赤い傘、白いポール、ああああああああああああああああ。”（雪）
+      “黄色い傘はどうですか?ピンクの傘はどうですか?”（匿名）
+    content:
+      - 1girl
+      - alone
+      - single
+      - solo
+      - only one
+      - one character
+      - personage as the main perspective:1.331
+      - character in the middle:1.331
+      - masterpiece:1.21
+      - best quality:1.21
+      - ultra-detailed:1.1
+      - illustration:1.1
+      - clear-cut margin
+      - alphonse mucha
+      - extremely detailed cg unity 8k wallpaper
+      - an extremely delicate and beautiful:1.21
+      - dynamic angle:1.1
+      - an enchanted forest at night illuminated by glowing mushrooms
+      - tyndall effect:1.21
+      - fluorescent mushroom forests background:1.1
+      - arms behind back:1.1
+      - beautiful detailed eyes:1.1
+      - cute pink eyes
+      - golden pupil
+      - detailed face
+      - upper body
+      - white dress
+      - messy floating pink hair
+      - disheveled hair
+      - focus
+      - beautiful water:1.1
+      - river
+      - flying butterfly
+      - sunlight
+      - shine
+      - chiaroscuro
+      - ray tracing
+      - painting:1.1
+      - 8 k artistic photography:1.771561
+  蘑菇森林法v1.5(-):
+    content:
+      - lowres
+      - badanatomy
+      - badhands
+      - badfoots
+      - wrong
+      - badfingers
+      - text
+      - error
+      - missingfingers
+      - extradigit
+      - fewerdigits
+      - cropped
+      - worstquality
+      - lowquality
+      - normalquality
+      - jpegartifacts
+      - signature
+      - watermark
+      - usemame
+      - blury
+      - badfeet
+      - futa
+      - futanari
+      - small penis
+      - yaoi
+      - huge breasts
+      - large breasts
+      - three legs
+      - wrong hand
+      - wrong feet
+      - wrong fingers
+      - deformed leg
+      - abnormal
+      - malformation
+      - bad anatomy
+      - bad hands
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - username
+      - blurry
+      - bad art
+      - ugly
+      - messy drawing
+      - flesh pile
+      - deformed
+      - disfigured
+      - mutation
+      - mutated
+      - extra limbs
+      - fat
+      - obese
+      - missing limb
+      - floating limbs
+      - disconnected limbs
+      - long neck
+      - long body
+      - part of the head
+      - poorly drawn feet
+      - mutated skeleton
+      - long skeleton
+      - bad proportions
+      - mutated hands and fingers
+      - intricate human hands fingers
+      - poorly drawn hands
+      - malformed hands
+      - poorly drawn face
+      - poorly drawn asymmetrical eyes
+      - big ears
+      - mutated face
+      - extra nipples
+      - tits
+      - inverted mountain
+      - low-quality
+      - flowers
+      - grass
+      - distorted mountain
+      - distorted light
+      - low-quality light
+      - low-quality mountain
+      - low-quality illustration
+      - low-quality background
+      - two girls:1.21
+  暗海术(+):
+    description: |-
+      作者:樱の雪（2923350844）
+      “ 触手ヘイヘイヘイ、乙女ヘイヘイヘイ、ダークネス!!!!本格的なカードドローtag!  5%ur 60%ssr 20%sr 15%r ”
+
+      正面tag:
+      
+      反面tag:
+      
+      パラメータ:
+      Steps: 50/150, Sampler: Euler a, CFG scale: 4, Size: 1024x512（越高越好）, Model hash: 925997e9, Clip skip: 2
+
+      編集者コメント:
+      “何かに掴まれるまでは、ただベタベタと沈んでいくだけ。”（今宵）
+      “囁き:色が出る可能性がある。(以上)”（匿名）
+      “触手!?suki!”（mahiru）
+      “妻よ!suki!”（校长）
+    content:
+      - best quality
+      - amazing
+      - beautiful golden eyes
+      - finely detail
+      - depth of field
+      - extremely detailed cg unity 8k wallpaper
+      - 1 girl :1.5
+      - deep sea background
+      - jellyfish
+      - masterpiece
+      - fluttered detailed splashs
+      - beautiful detailed water
+      - cosmic eyes
+      - shock sensation
+      - realistic :0.5
+      - octopus
+      - original
+  暗海术(-):
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - nsfw
+  秋水之淚(+):
+    description: |-
+      作者:琥珀青葉
+      “ 葉っぱが落ちているのか、それともあなたの涙なのか?”
+
+      正面tag:
+      
+      反面tag:
+      
+      パラメータ:
+      1024*512, CFG 5, DPM2 a Karras, Steps: 35
+      使用模型:925997e9與e6e8e1fc皆可。
+      使用Sampler:Euler、LMS、Heun、DPM2 a Karras、DDIM、PLMS皆可。
+      步數:依Sampler選擇不同而異,約為20~60步。
+      圖片大小:推薦長邊1024、短邊512~640。(橫豎皆可)
+      CFG Scale:4.5~7皆可,5.5~6.5最為穩定。
+      Hypernetwork:402c9025(anime_3)。
+      Hypernet Strength:0.5~0.6
+      ENSD:17415
+      Skip CLIP:1
+
+      編集者コメント:
+      “琥珀は春、夏、秋、冬の4回です”（校长）
+    content:
+      - original
+      - masterpiece:1.1
+      - illustration:1.2
+      - extremely fine and beautiful:1.1
+      - perfect details:1.1
+      - unity cg 8k wallpaper:1.05
+      - ray tracing:1.1
+      - beautiful and clear background:1.25
+      - depth of field:0.6
+      - crying:0.6
+      - river:1.2
+      - beautiful face:1.2
+      - hair blowing with the wind:1.1
+      - solo:1.3
+  秋水之淚(-):
+    content:
+      - lowres
+      - bad anatomy
+      - text
+      - error
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality:1.2
+      - low quality:1.2
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - artist name
+      - nsfw:1.3
+  冬雪之兔(+):
+    description: |-
+      作者:琥珀青菜
+      “ ピュアな氷は、あなたの心の奥底を映し出します。
+      鏡の中に一歩足を踏み入れれば、遠い峰の間に心の陽光が輝いている。
+      振り向く。
+      無垢の名残があなたの前に立ちはだかる。
+      無言であなたを見つめる。 ”
+
+      正面tag:
+      
+      反面tag:
+      
+      パラメータ:
+      使用模型:925997e9與e6e8e1fc皆可。
+      使用Sampler:Euler、LMS、Heun、DPM2 a Karras、DDIM、PLMS皆可。
+      步數:依Sampler選擇不同而異,約為20~60步。
+      圖片大小:推薦長邊1024、短邊512~640。(橫豎皆可)
+      CFG Scale:4.5~7皆可,5.5~6.5最為穩定。
+      Hypernetwork:402c9025(anime_3)。
+      Hypernet Strength:0.5~0.6
+      ENSD:17415
+      Skip CLIP:1
+
+      編集者コメント:
+      “アンパンマンが本格的なシーズンを迎えました” (匿名)
+      “穏やかな湖面が淡い光を反射し、ぼやけた雪山が氷に刻まれ、まるですべての心配事が消え去ったかのようだ。” （匿名）
+    content:
+      - original
+      - masterpiece:1.1
+      - illustration:1.1
+      - detailed and beautiful:1.1
+      - perfect details:1.1
+      - unity cg 8k wallpaper:1.05
+      - beautiful and clear background:1.25
+      - depth of field:0.75
+      - 1 cute young girl:0.9
+      - snowflake:0.4
+      - beautiful face:1.2
+      - hair blowing with the wind:1.05
+      - blue eyes:1.1
+      - solo
+      - snow:0.4
+      - aurora
+      - stars.
+  冬雪之兔(-):
+    content:
+      - lowres
+      - bad anatomy
+      - text
+      - error
+      - extra digit
+      - fewer digits
+      - cropped
+      - jpeg artifacts
+      - signature:1.1
+      - watermark:1.1
+      - username:1.1
+      - blurry
+      - artist name:1.1
+      - big breasts:1.5
+      - nsfw:1.3
+  赛博chibi(+):
+    description: |-
+      作者:凌霜雪猫 + 神座
+      “ 次はパワーパフガールズを描きます!(そして定番のゆず倶楽部).”
+
+      正面tag:
+      (best quality),masterpiece, (best illuminate, best shadow),(best illustration), dynamic angle, (chibi:1.15), thick outline,//起手式加上chibi风格强调
+      (1girl:1.2), detailed eyes, white hair, detailed face, crop top, frilled sleeves, pleated skirt, fishnet thighhighs, cowboy shot,Volumetric Lighting,(outline),//人物细节描写
+      (messy cyberpunk room:1.1),window,//内部场景描述 平面化风格上增加景深
+      colourful, neon trim, cyberpunk city, High saturation, clouds and stars sky, Galaxy,((citylight))//可选项目 例图未添加 窗外风景描述以及风格强调增加景深
+
+      反面tag:
+      lowres, bad anatomy, text, bad face, error, extra digit, fewer digits, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, {blurry:1.1}, missing arms, missing legs, more than two legs
+
+      パラメータ:
+      Steps: 50, Sampler: DPM++ 2S a Karras /DDIM, CFG scale: 9, Size: 960x576, Model hash: e6e8e1fc, Eta: 0.667, Clip skip: 2
+
+      編集者コメント:
+      “chubi戗抢!”（校长）
+      “ゆず会の詳しい説明?”（匿名）
+      “うわあああああああああああああああああああああああああああああああああああああああああああああああああああとてもかわいいです。” （麦子）
+    content:
+      - best quality:1.1
+      - masterpiece
+      - best illuminate:1.1
+      - best shadow:1.1
+      - best illustration:1.1
+      - dynamic angle
+      - chibi:1.15
+      - thick outline
+      - 1girl:1.2
+      - detailed eyes
+      - white hair
+      - detailed face
+      - crop top
+      - frilled sleeves
+      - pleated skirt
+      - fishnet thighhighs
+      - cowboy shot
+      - volumetric lighting
+      - outline:1.1
+      - messy cyberpunk room:1.1
+      - window
+      - colourful
+      - neon trim
+      - cyberpunk city
+      - high saturation
+      - clouds and stars sky
+      - galaxy
+      - citylight:1.21
+  赛博chibi(-):
+    content:
+      - lowres
+      - bad anatomy
+      - text
+      - bad face
+      - error
+      - extra digit
+      - fewer digits
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry:1.1:1.05
+      - missing arms
+      - missing legs
+      - more than two legs
+  沙画法(+):
+    description: |-
+      作者:Winfrid  + 阿比盖尔·威廉姆斯  + 药隐 +  麦子
+      “ かつて「AI絵画問題ベスト10」と言われたこともありましたが、それ以上に深い意味はないようです。
+      最終的には、アビさんの「世界の壁画」という全体的なスタイルのアイデアと、私の「夜の歌」という部分最適のアイデアがベースになっています。
+      マックさん、ヤクザさんには大変お世話になりましたorz
+      その後、最適化、削除に時間がかかり、flat color, impressionism!”
+
+      正面tag:
+      
+
+      反面tag:
+      
+
+      パラメータ:
+      steps=25,scale=11,plms,e6e,640*384
+
+      編集者コメント:
+      “神!”	（antwominy）
+      “神!”	（板）
+      “I Love You!”（校长）
+      ”神出鬼没!?”（孤辰）
+      “???” （麦子）
+    content:
+      - particle texture:1.6
+      - divisionism
+      - simple
+      - thick white outline:1.4
+      - impasto
+      - limited palette:1.1
+      - yellow:1.1
+      - anaglyphy
+      - relief craft:1.1
+      - backlight
+      - silhouette
+      - yellow and black
+      - noline art
+      - monochrome:2
+      - partially colored
+      - alternate color:1.4:1.1
+      - black shadow:1.1
+      - smoke:1.2 
+      - black tree:1.1
+      - yellow deer:1.1
+      - white deer
+      - city
+  沙画法(-):
+    content:
+      - clear lines
+      - detailed and detailed lines
+      - 3d
+  AI鬼画符在线掐诀(+):
+    description: |-
+      作者:TNT科学家（TNTScientist）
+      “ アベニューがすべて摩耗している可能性があります。”
+
+      正面tag:
+
+      反面tag:
+      
+      パラメータ:
+      Steps: 28~150, Sampler: Euler a, CFG scale: 4.5, Model hash: e6e8e1fc
+
+      編集者コメント:
+      "まあ、アベノミクスが磨り減ってるからね。”（今宵）
+      “サイバーウィザードがaiのゴーストライターと組まされるのはよくあること()”（广夏沫）
+    content:
+      - floating chinese calligraphy paper with words:1.21
+      - yin yang
+      - glitch art
+      - abstract art
+      - cinematic lighting:1.21
+      - sharp focus:1.21
+      - masterpiece:1.21
+      - best quality:1.331
+      - extremely detailed:1.2012712:1.21
+      - colorful
+      - hdr
+  AI鬼画符在线掐诀(-):
+    content:
+      - nsfw
+      - ugly:1.331
+      - longbody
+      - lowres
+      - bad anatomy
+      - bad hands:1.21
+      - missing fingers:1.21
+      - public hair
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - missing arms:1.1
+      - missing limb:1.1
+      - unclear eyes:1.21
+      - owres
+      - error
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - long neck
+      - humpbacked
+      - gigantic breasts
+      - huge breasts
+      - large breasts
+      - bad feet:1.1
+      - bad ear:1.1
+      - bad face:1.1
+      - low-quality light
+      - low-quality illustration
+      - low-quality background
+  山水小注(+):
+    description: |-
+      作者:匿名
+      “（メッセージなし）”
+
+      正面tag:
+     
+      反面tag:
+     
+      パラメータ:
+      Steps: 40, Sampler: DDIM, CFG scale: 5.5
+
+      編集者コメント:
+      “水墨画のようでもあり、自然主義的な構図でもあるように思います。”（匿名）
+      “大好きです!シースルーが最高です。”（雪）
+    content:
+      - masterpiece:1.331
+      - best quality
+      - illustration:1.21
+      - beautiful detailed girl:1.4641
+      - extremely detailed cg 8k wallpaper:1.331
+      - official art:1.21
+      - 1girl:2.5
+      - solo:1.21
+      - loli:1.21
+      - petite:1.21
+      - female focus on:1.331
+      - macro shot:1.5
+      - focus on face:1.1
+      - portrait of girl
+      - the girl is in the center of the frame
+      - close-up of girl:1.331
+      - long black hair:1.21
+      - very long hair:1.1
+      - floating hair:1.1
+      - diamond and glaring eyes:1.21
+      - beautiful detailed cold face:1.331
+      - handsome
+      - a cute and anime face:1.21
+      - beautiful eyes
+      - green eyes:1.1
+      - bangs
+      - bare shoulders
+      - a girl wears clothes black and white hanfu:1.331
+      - small breasts
+      - super clothes detailed:1.1
+      - white sleeves:1.21
+      - edged hanfu:1.331
+      - black ribbon
+      - wide sleeves
+      - looking at viewer
+      - perfect details
+      - gold fringes:1.331
+      - armsbehind back:1.331
+      - silk
+      - sleeves past fingers:1.21
+      - standing:1.21
+      - ancient palace background:1.331
+      - chinese place on the mountain
+      - chinese style architecture behind the girl:1.61051
+      - depth of field:1.61051
+      - beautiful sky:1.61051
+      - beautiful cloud:1.9487171
+      - mountain:1.61051
+      - waterfall from the mountaintop:2.35794769
+      - mist:2.35794769
+      - beautiful and delicate water:2.35794769
+      - beautiful detailed background:2.85311671
+      - wudang:3.45227121
+      - a girl in zhangjiajie:2.35794769
+      - dramatic angle:1.9487171
+      - chinese classical wooden tower:1.9487171
+      - chinese ancient multistoried buildings:2.14358881
+      - colorful:1.9487171
+      - pine:1.9487171
+  山水小注(-):
+    content:
+      - ugly:1.331
+      - duplicate:1.331
+      - morbid:1.21
+      - mutilated:1.21
+      - tranny:1.331
+      - mutated hands
+      - poorly drawn hands:1.331
+      - blurry
+      - bad anatomy:1.21
+      - bad proportions:1.331
+      - extra limbs
+      - cloned face
+      - disfigured:1.331
+      - more than 2 nipples:1.331
+      - missing arms:1.4641
+      - extra legs:1.331
+      - fused fingers:1.61051
+      - too many fingers:1.61051
+      - unclear eyes:1.331
+      - lowers
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - bad feet
+      - text font ui
+      - malformed hands
+      - long neck
+      - missing limb
+      - mutated hand and finger:1.5:1.1
+      - long body:1.3:1.1
+      - mutation poorly drawn:1.2:1.1
+      - malformed mutated
+      - multiple breasts
+      - futa
+      - yaoi
+      - none place
+      - none girl
+  深秋枫庭(+):
+    description: |-
+      作者:望霙  (QQ:1430170486)
+      “ 中国庭園の森の要素をそのまま置き換えても効果はない。何しろ藍は中国庭園の意味合いをまだ理解できていないのだから。”
+
+      正面tag:
+      
+      反面tag:
+      
+      パラメータ:
+      CFG scale: 8.5, Model hash: e6e8e1fc, Eta: 0.91, Clip skip: 2 
+      1280x768 1344x832 均可
+
+      Sampler:
+      DPM++ 2M / Karras / DPM++ 2S a Karras -> steps  35
+      Eulera / ddim / DPM2 a karrs -> steps 75
+
+      編集者コメント:
+      “確かに、どちらかというと日本庭園に近い?”（今宵）
+      “日本庭園だ、今夜はバカヤロー!!”（校长）
+      “とても爽やかなイメージです。”（孤辰）
+    content:
+      - super delicate:1.1
+      - illustration:1.1
+      - extremely delicate and beautiful:1.1
+      - faux traditional media
+      - perfect body
+      - cowboy shot
+      - perspective:1.1
+      - kyoto style
+      - sketch:1.1
+      - close-up:1.1
+      - a beautiful detailed girl in washitsu:1.47
+      - washitsu
+      - solo:1.4
+      - hdbackground:1.1
+      - japanese courtyard:1.25:1.1
+      - creek:0.55
+      - wooden bridge
+      - cinematic lighting:1.1
+      - beautiful detailed glow:1.0:1.1
+      - beautiful detailed pink eyes:1.1
+      - ponytail
+      - shiny platinum blonde hair
+      - messy floating hair
+      - black capelet:1.21
+      - red kimono
+      - hair flower
+      - hair ornament
+      - hair over shoulder
+      - japanese clothes
+      - lace-trimmed kimono
+      - pom pom hair ornament
+      - tassel
+      - wavy hair
+      - glint
+      - blue sky
+      - autumn:1.1
+      - outdoors
+      - glowing particles:0.85
+      - maples in the distance
+      - an epic scene
+      - stone lantern:1.1
+      - bonsai:1.0:1.1
+      - white sand:0.85
+      - rockery:0.8
+      - japanese architecture:1.1
+      - contour deepening:1.1
+      - fluttered fallen leaves:1.1
+      - dappled sunlight on her:1.25
+      - tyndall effect:1.1
+      - cloud retained background:1.1
+      - depth of field:1.1
+      - highlights
+  深秋枫庭(-):
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - extra arms
+      - extra hands
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - blurry
+      - missing arms
+      - long neck
+      - humpbacked
+      - nsfw
+      - nude
+      - shadow
+      - signature
+      - watermark
+      - username
+      - medium breasts
+      - big breasts
+      - huge breasts
+      - large breasts
+      - pencil
+      - torii
+  时代之风(+):
+    description: |-
+      作者:東雲
+      “ この呪文は、私が最も苦労した呪文です。 2日間、行ったり来たりしてやっと安定しました。無私の教えを受けたゴージャスアーツと、グループの皆さんに感謝します。
+      大正時代+スチームパンクという、ちょっとニッチだけどとてもロマンチックなアートスタイルで、そのロマンチックさゆえに、AIが理解して実装するのはとても難しいものになっています。着物＋メイド、スチームパンク＋東洋建築、歴史とファンタジー、真鍮と古都、それぞれが相反するものです。しかし、この矛盾こそが大正流スチームパンクの尽きない魅力であり、より多くの人に楽しんでもらえることを願っています。
+      PS.不運から生まれた独特の画風も、この時代の画風を最もよく表しているはずです。”
+        正面tag:
+      
+
+      反面tag:
+      
+      パラメータ:
+      Steps: 150, Sampler: DDIM, CFG scale: 5, Size: 1024x640, Model hash: e6e8e1fc, Clip skip: 2
+      备注:step最好120以上,最少100以上
+
+      編集者コメント:
+      “人々は、過ぎ去った時代に想像された未来に憧れているのでしょうか。それとも、過ぎ去った時代の希望とロマンなのでしょうか。”（今宵）
+      “このファンタジー時代の融合が、AIによって最高の形で描かれているのがとてもカッコいい。” （板）
+      “時代感が素晴らしい。”（校长）
+      “過去と現実が出会い、虚しさと希望と真実が感じられる。”（阴阳）
+    content:
+      - extremely detailed cg unity 8k wallpaper:1.1
+      - masterpiece:1.1
+      - best quality:1.1
+      - ultra-detailed:1.1
+      - best illustration:1.1
+      - best shadow:1.1
+      - an extremely delicate and beautiful:1.1
+      - dynamic angle
+      - floating
+      - finely detail
+      - bloom:1.1
+      - shine:1.1
+      - glinting stars
+      - classic
+      - painting:1.1
+      - sketch:1.1
+      - taisho steampunk
+      - steampunk:1.2
+      - 2020s:1.1
+      - cute face:1.3
+      - anime face
+      - solo:1.21
+      - beautiful detailed face
+      - shiny hair
+      - colorful clothes
+      - kimono:1.1
+      - japanese maid:1.1
+      - maid dress
+      - maid headdress
+      - hair flower
+      - hair ornament
+      - frill:1.1
+      - brass pocket watch
+      - extremely delicate and beautiful girls
+      - beautiful detailed eyes
+      - cowboy shot
+      - steam train
+      - building architecture
+      - japanese style architecture:1.1
+      - street:1.2
+  时代之风(-):
+    content:
+      - nsfw
+      - lowes
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - from above
+      - furrowed brow raised eyebrows
+      - naughty face:0.1:1.1
+      - open mouth:0.1:1.1
+  兽灵术(+):
+    description: |-
+      作者:匿名
+      “ (未留言) ”
+
+      正面tag:
+      
+      青:画質向上tag
+      绿色:背景の要素や全体のスタイルfantasy style編集不可。
+      その他:主にキャラクター設定  グループのみんなに感謝 @道化师 ,原tagここでマジックは読みます。legendary wolf Empress,wolf他の動物に置き換えても、公平な結果が得られる。
+      パターンの再現性は主にcomplex details提供,chinese armor他のスタイルに着せ替え可能
+      産卵された動物は通常頭部、少数が全身、ごくまれに人間と動物の融合がある。
+
+      反面tag:
+      
+      パラメータ:
+      Steps: 40, Sampler: DPM2 a Karras, CFG scale: 6.5, Size: 1280x640, Model hash: e6e8e1fc, Clip skip: 2
+
+      編集者コメント:
+      “このアイシャドウはとても気に入っています。"(今宵）
+      “スピリットフォックス!あなたのために道を切り開く!!!”（校长）
+      “キツネじゃないんだから...。”（匿名）
+      “赤ずきんちゃんと大悪党。”（雪）
+    content:
+      - masterpiece:1.1
+      - super delicate:1.1
+      - illustration:1.1
+      - extremely delicate and beautiful:1.1
+      - dynamic angle:1.1
+      - black highlights
+      - fluttered detailed ink splashs
+      - legendary wolf empress:1.3
+      - 1 girl:1.1
+      - upper body
+      - full moon
+      - chinese armor
+      - fairy
+      - delicate face
+      - complex details:1.1
+      - beautiful and delicate eyes:1.1
+      - golden eyes
+      - grey hair
+      - messy floating hair
+      - disheveled hair
+      - focus
+      - perfect hands
+      - eyeshadow
+      - red eyeliner
+      - fantasy style:1.1
+  兽灵术(-):
+    content:
+      - owres
+      - bad anatomy
+      - text
+      - error
+      - extra digit
+      - fewer digits
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark:1.2
+      - username
+      - blurry:1.1
+      - missing arms
+      - two girls
+      - lowres
+      - bad hands
+      - missing fingers
+      - cropped
+      - artist name
+      - bad feet
+      - two head wolf
+  水龙吟(+):
+    description: |-
+      作者:KaioNeptune  QQ:972939598
+      “ パンチングネイションならパンチングネイション・ドラゴンレディーを殴るしかない（#funny）”
+
+      正面tag:
+      
+      可选(建筑):
+      , palace, {{ancient Chinese cityscape}}, {{ancient Chinese palace}}, {east Asian architecture:1.2}
+
+      反面tag:
+      
+      パラメータ:
+      施法工具:naifu
+      Step:28/50 Scale:5.5-7 采样:DDIM/Euler a
+
+      編集者コメント:
+      "パンチング禁止!もじもじしない!?“（今宵）
+      “なぜ白髪ではないのか?なぜ白髪ではないのか?なぜ白髪ではないのか?”（不愿透露姓名的某人）
+      “どんなドラゴンレディでも!は、いずれ裁かれることになる!”（校长）
+      “白い毛が薄くなってきた（悲）”（匿名）
+    content:
+      - masterpiece:1.1025
+      - best quality:1.05
+      - extremely detailed cg unity 8k wallpaper
+      - highly detailed
+      - extremely detailed
+      - dramatic angle
+      - 1girl:2:1.05
+      - solo:1.1025
+      - full body:2:1.05
+      - beautiful detailed eyes:1.157625
+      - beautiful detailed face:1.157625
+      - cute face:1.157625
+      - smile:1.3:1.05
+      - black hair:5:1.05
+      - long hair:1.1025
+      - flowing hair:1.3:1.1025
+      - cone hair bun:1.1025
+      - gorgeous hanfu:4:1.05
+      - black hanfu:1.1025
+      - hidden hands:1.1025
+      - long sleeve
+      - sleeves past wrists:1.157625
+      - antlers:4:1.05
+      - gold hair stick:1.1025
+      - gold hair ornament:1.1025
+      - gold gorgeous necklace:1.1025
+      - gold lace:1.1025
+      - gold tassel:1.1025
+      - medium breasts:1.1025
+      - under water:2:1.05
+      - stream
+      - wet:1.1025
+      - wet clothes
+      - standing:1.1025
+      - ocean bottom
+      - sea beds
+      - beautiful and detailed bubbles
+      - beautiful and detailed oceans
+      - beautiful and detailed water
+      - beautiful and detailed corals
+      - gravels
+      - top-down light:1.05
+      - dim light:1.05
+      - lighting
+      - dream like benthos
+      - transparent fish
+      - pearl
+      - gemstone
+      - seaweed
+  水龙吟(-):
+    content:
+      - ugly:1.157625
+      - duplicate:1.157625
+      - morbid:1.1025
+      - mutilated:1.1025
+      - tranny:1.157625
+      - mutated hands
+      - poorly drawn hands:1.157625
+      - blurry
+      - bad anatomy:1.1025
+      - bad proportions:1.157625
+      - extra limbs
+      - cloned face
+      - disfigured:1.157625
+      - more than 2 nipples:1.157625
+      - missing arms:1.21550625
+      - extra legs:1.157625
+      - fused fingers:1.27628156
+      - too many fingers:1.27628156
+      - unclear eyes:1.157625
+      - lowers
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - bad feet
+      - text font ui
+      - malformed hands
+      - long neck
+      - missing limb
+      - mutated hand and finger:1.5:1.05
+      - long body:1.3:1.05
+      - mutation poorly drawn:1.2:1.05
+      - malformed mutated
+      - multiple breasts
+      - futa
+      - yaoi
+      - 3d:1.157625
+  水裙法(+):
+    description: |-
+      作者:Winfrid 1664270853
+      “ 何年か前に波をスカートにしたヘイのイラストを見て以来、「寄生木の種」で草の精が胸から背筋を伸ばしているように、......水の精は水と一体になるべきだという忘れがたい思いがあるのです。
+      のつるを使用しています。
+      水を絹に織り、波を踏み、歌え。”
+
+      正面tag:
+      
+      反面tag:
+      
+      パラメータ:
+      NAI官网
+      NAI Diffusion Anime(full),K_euler,steps28,cfg9
+
+      編集者コメント:
+      “ステップバイステップ、インテグレーション、はありません。splashing和flowing,服を水に溶かすことができるのか。”（匿名）
+      “水の群れの技?”（匿名）
+    content:
+      - depth of field
+      - wave at the edge of dress
+      - masterpiece
+      - flat color
+      - best quality
+      - a girl
+      - solo:{dress<wave>
+      - dissolving dress:1.1025
+      - dress having the same color with ocean
+      - dress floating into sea
+      - wave:0.95238095
+      - colorful refraction:1.15238095
+      - beautiful detailed sky:1.15238095
+      - dark intense shadows:1.15238095
+      - cinematic lighting:1.15238095
+      - overexposure:1.15238095
+      - water on the dress:0.95238095
+      - water sea blue dress blending with sea:1.04761905
+      - from side:0.95238095
+      - beautiful detailed girl:1.04761905
+      - beautiful detailed glow:0.95238095
+      - detailed lighting:0.95238095
+      - detailed water:0.95238095
+      - beautiful detailed eyes:1.04761905
+      - expressionless:0.95238095
+      - standing in the ocean:0.95238095
+      - detailed wet clothes:0.95238095
+      - partially submerged:0.95238095
+      - long dress blending with ocean:1.04761905
+      - blue water long dress:1.5
+      - liquid clothes:1.2
+      - solo
+      - flat chest
+      - diamond and glaring eyes
+      - black eyes
+      - beautiful detailed cold face
+      - short red hair
+      - short wavy hair
+      - water texture liquid clothes
+      - backless dress
+      - perfect light
+      - white beret with a bowknot on it
+  水裙法(-):
+    content:
+      - q version
+      - nsfw
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - symmetry
+      - outline
+  黑蛊(+):
+    description: |-
+      作者:匿名
+      “ 触手を伸ばし、黒いゲルのように流れ、飛び散り、広がり、浸透する。”
+
+      正面tag:
+      
+      无ink无chinese style也是可以泼出来的,跳出大多数水墨画难以跳出的扁平化框架。用black goo与tentacles起底,dripping营造如同墙面上徐徐流下的液滴感,然后覆盖一层high contrast和limited palette即可。black goo多次描述是必要的。
+
+      反面tag:
+      
+      パラメータ:
+      Steps: 30, Sampler: DPM++ 2S a, CFG scale: 12, Size: 960x640(大小画布都不错), Model hash: e6e8e1fc, Eta: 0.68, Clip skip: 2, ENSD: 31337
+
+      为什么我30Step就敢跑分步?因为我用 中 国 算 法!
+
+      編集者コメント:
+      “インスパイアされたバターを忘れる（笑”（校长）
+      “(中国のアルゴリズムが高く評価されています)”（antwominy）
+      “シブい!と感じる人はいないのでしょうか?”（匿名）
+    content:
+      - masterpiece
+      - wallpaper
+      - highly detailed:1.1
+      - street:1.1
+      - wall:\1girl:1.1
+      - solo:1.1
+      - pale skin
+      - black eyes|red eyes:1.1
+      - hollow eyes:1.1
+      - black hair
+      - long hair
+      - liquid hair:1.2
+      - floating hair
+      - bangs
+      - expressionless
+      - black goo:1.4
+      - white dress:1.2
+      - white skirt:1.1
+      - white
+      - intricated filigree
+      - stained clothes:1.2
+      - black dripping:1.1
+      - black splashing:0.85
+      - tentacle:0.85
+      - shiny
+      - :face focus:1.1
+      - upper body:1.1
+      - cowboy shot:1.21
+      - lateral view:1.1
+      - dutch angle:1.1
+      - dynamic:0.25:1.1
+      - white background|black goo:1.1
+      - volumetric lighting
+      - high contrast:0.85
+      - limited palette:0.65
+  黑蛊(-):
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+  佛法(+):
+    description: |-
+      作者:五月不蓝
+      “ 仏の教えは無限であり、引き返すことは良いことである。 ”
+
+      正面tag:
+      [[[[[画面效果自用:0]]]]],
+      finely detail, Depth of field,(masterpiece),(((Extremely realistic))),((extremely detailed CG unity 8k wallpaper)),best quality,high resolution illustration,Amazing,(detailed,clear and beautiful:1.4),intricate detail,(best illumination, best shadow, an extremely delicate and beautiful),Detailed beautiful and aesthetic,
+      [[[[[人物特征自设:0]]]]],
+      1figure of Buddha,Gatling gun, electron,(many floating firearms:1.2),
+      All kinds of weapons were floating around the statue,
+      [[[[[风格:0]]]]],
+      View from below,Global Illumination,auspicious cloud and golden cornfield,Nan Wusan,holy light,oppressive,Sharp Focus
+
+      反面tag:
+      vague, (simple background), owres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,missing fingers,bad hands,missing arms
+
+      パラメータ:
+      Steps: 39, Sampler: Euler, CFG scale: 8.5, Model hash: e6e8e1fc,  Size: 宽幅均可
+      出图率60-70%的样子,想体验具有强大威力之武装的释迦机体吗,赶快行动吧（笑）
+
+      編集者コメント:
+      “我々、仏陀は慈悲深い...。”（今宵）
+      “ナモ・ガトリング菩薩、劣化ウラン弾の六根清浄。3,600回転の息吹、世界への大いなる慈しみ!”（孤辰 ）
+      “ 諸行無常 ” （板）
+      “ 物理的超絶技巧 ”（校长）
+      “一眼は見事、二眼は衝撃的、本当だ......物理的超絶技巧。”（阴阳）
+      “仏法は無量大数” （麦子）
+    content:
+      - finely detail
+      - depth of field
+      - masterpiece:1.1
+      - extremely realistic:1.331
+      - extremely detailed cg unity 8k wallpaper:1.21
+      - best quality
+      - high resolution illustration
+      - amazing
+      - detailed:1.1
+      - clear and beautiful:1.4:1.1
+      - intricate detail
+      - best illumination:1.1
+      - best shadow:1.1
+      - an extremely delicate and beautiful:1.1
+      - detailed beautiful and aesthetic
+      - 1figure of buddha
+      - gatling gun
+      - electron
+      - many floating firearms:1.2
+      - all kinds of weapons were floating around the statue
+      - view from below
+      - global illumination
+      - auspicious cloud and golden cornfield
+      - nan wusan
+      - holy light
+      - oppressive
+      - sharp focus
+  佛法(-):
+    content:
+      - vague
+      - simple background:1.1
+      - owres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+  卧狐(+):
+    description: |-
+      作者:匿名
+      “ステップ数が少なく、スプリットステップリペアハンドを試さない一般的なモデル。 ”
+
+      正面tag:
+      
+
+      每75物量一组是WEB-UI的分割特征,所以这里每75物量按一下回车。一般来说前两组的效果会比较显著,从第三组开始会稍显乏力。
+      在best quality前算准75物量,之后进入第二组,顺序重置,镜头和修手都有很高的关注度。双写front view很重要。修手(顺带包括修腿)关键是delicate fingers, delicate fingernails, (delicate feet),一定要放在第一组或第二组的靠前部分。
+      姿势关键是kneeling, lying, (on stomach), (bent over), (arched back), (top-down bottom-up),呼吁大家生成AI作品时多给人物加上有个性的姿势,默认站姿看多了同质化难免会疲劳。
+
+      反面tag:
+      
+      パラメータ:
+      Steps: 25, Sampler: DPM++ 2S a, CFG scale: 10, Size: 768x512, Model hash: e6e8e1fc, Hypernet: anime_2, Eta: 0.68, Clip skip: 2, ENSD: 31337
+
+      DPM++ 2S a是关键。只要25步,20步应该也能修。记得加上hypernetworks。
+
+      編集者コメント:
+      “ハンド!手だ!実はこれ、手なんです!”（匿名）
+      “えへへへへ〜。”（匿名）
+      “はあ”（匿名）
+      “ボインボイン-。”（匿名）
+      “まず第一にこれは、途中で忘れられたり、後ろに忘れられたりする、どこかのしばり狐であってはならないのです。”（匿名）
+      “不可” （麦子）
+    content:
+      - masterpiece
+      - wallpaper
+      - 1girl:1.35
+      - solo:1.1
+      - front view
+      - fox girl
+      - fox tail:1.1
+      - blue eyes
+      - beautiful detailed eyes:1.1
+      - white hair
+      - long hair
+      - petite
+      - miko:1.1
+      - hakama
+      - sleeves
+      - white stocking:1.2
+      - smirk
+      - kneeling
+      - lying
+      - on stomach:1.1
+      - bent over:1.1
+      - arched back:1.1
+      - top-down bottom-up:1.1
+      - ass
+      - paw pose:1.35
+      - hands up
+      - best quality
+      - close shot
+      - full body
+      - face focus:1.1
+      - cute face
+      - delicate fingers
+      - delicate fingernails
+      - delicate feet:1.1
+      - looking at viewer
+      - dynamic angle
+      - best illuminate
+      - best shadow
+      - volumetric lighting
+      - wooden floor
+      - shrine:0.85
+      - torii:0.85
+      - cherry trees
+      - cherry blossoms
+      - floating petals
+      - pink sky:1.1
+      - wind
+      - cloud
+      - day
+      - impasto:1.1
+      - skirt
+  卧狐(-):
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands:1.1
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet:1.1
+      - many hands
+      - duplicate
+      - from back
+      - back view
+  闲潭梦花(+):
+    description: |-
+      作者:東雲
+      “ 春川に花と月光の夜。 ”
+        正面tag:
+     
+      反面tag:
+      
+      パラメータ:
+      Steps: 30, Sampler: DPM++ 2S a Karras, CFG scale: 7, Size: 896x896, Model hash: e6e8e1fc, Eta: 0.68, Clip skip: 2, ENSD: 31337
+
+      編集者コメント:
+      “フットウォッシュ（bushi”（校长）
+    content:
+      - best quality:1.1
+      - masterpiece:1.1
+      - incredibly absurdres
+      - highly detailed
+      - refined rendering
+      - illustration
+      - highres:1.1
+      - original
+      - night sky
+      - close on:1.2
+      - close shot:1.1
+      - a girl:1.3
+      - light smile:1.21
+      - baby blue hair:1.1
+      - very long hair
+      - water inner hair
+      - little double bun
+      - beautiful detailed eyes:1.1
+      - red eyes:1.1
+      - floating ribbon
+      - peach blossom:1.1
+      - flowers
+      - flower\ tree:1.1
+      - petals on water:1.1
+      - floating petals:1.1
+      - full moon:1.331
+  闲潭梦花(-):
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worstquality
+      - low quality
+      - normal quality
+      - jpegartifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - extra fingers
+      - extra limbs
+      - extra arms
+      - extra legs
+      - malformed limbs
+      - fused fingers
+      - too many fingers
+      - long neck
+      - cross-eyed
+      - mutated hands
+      - peach:1.1
+      - wince
+  星际公民法(+):
+    description: |-
+      作者:sugar-free qq:1093613373
+      “座標が発行され、艦隊が出港する準備が整いました。”
+      “ATCガイダンス受信、方位:地球、前進4!”
+        正面tag:
+      
+      反面tag:
+      必要なし
+
+      パラメータ:
+      Steps: 60, Sampler: Euler a, CFG scale: 5, Size: 512x768, Model hash: 925997e9, Clip skip: 2, ENSD: 31337
+
+      編集者コメント:
+      “あなたのウォールブレイカーは誰ですか?”（孤辰）
+      “私たちの旅は、星の海”（今宵）
+      “自然選択フォワード3!”（校长）
+      “深海のアクセラレータ!?フォワード4!”（阴阳）
+    content:
+      - masterpiece
+      - best quality
+      - highly detailed
+      - illustration
+      - science fiction:1.3
+      - realistic
+      - open air operations center:1.3
+      - cockpit deck:1.2
+      - big room:1.1
+      - huge window on the top:1.1
+      - bilateral symmetry:1.1
+      - space
+      - earth in the distance
+      - planet
+      - 1girl\solo
+      - long hair
+      - beautiful hair decoration
+      - floating hair
+      - extremely delicate and beautiful girl
+      - back of head
+      - from bebind
+      - standing
+      - navy uniform
+  虚无之境(+):
+    description: |-
+      作者:碎星砂（827781068） P站ID:2138106
+      “ロック構成では、ミラーと図のうち、呪文の文字のブラインドボックスの種類をロールバックすると、一般的に、より安定している。
+      通常、鏡の前に座るキャラクター（鏡は背もたれとしてシートに取り付けられていることが多い）、鏡に座ったキャラクターが下半身を外側の鏡に通す、そして完全に鏡に座っているキャラクターの3つの構図がある。
+      ddim平均画質出力は高くなるが、室内シーンが多くなる,euler_A天井が高い方がイメージしやすい構図になっています。”
+        正面tag:
+      
+      反面tag:
+      
+      パラメータ:
+      NovelAI官网
+      Portrait 512x768 | Step 28 | Scale12为主
+      采样:euler_A/ddim
+
+      編集者コメント:
+      “午前2時半に鏡を見てはいけない!?”（今宵）
+      “将来の自分の姿が見えるようになる 笑”（匿名）
+      “早く美少女の写真を撮りたいです!”（校长）
+      “校長が美女に変身して、ゼニスとともに私のもとに帰ってきたのですへっへっへっへ〜。”（匿名）
+      “陰陽師......殺すぞ”（校长）
+      “鏡の中のマネキンもいい感じです!” (麦子）
+    content:
+      - eddy:1.21
+      - front view:1.1
+      - cave:1.331
+      - grand mirror:1.21550625
+      - firefly:1.1025
+      - mist:1.157625
+      - rainbow:1.21550625
+      - imagination:1.1025
+      - masterpiece:1.1025
+      - best quality:1.1025
+      - illustration:1.1025
+      - floor
+      - solo focus
+      - full body:1.05
+      - sitting:1.1025
+      - seat:1.05
+      - an extremely delicate and beautiful girl:1.34009564
+      - tsurime:1.05
+      - harajuku fashion
+      - scenery
+      - depth of field
+      - ray tracing
+      - wonderland
+      - spooky
+      - extreme detailed effect
+      - delicate detailed face:1.1025
+  虚无之境(-):
+    content:
+      - nsfw
+      - r18
+      - text
+      - 3d
+      - blackwhite
+      - simple background:1.05
+      - oil painting:1.05
+      - landscape
+      - close view
+      - wedding
+      - long legs
+      - indoors
+      - forest:1.05
+      - alice:1.1025
+      - crossed legs
+      - adult
+      - mature
+      - sexy
+      - blurry
+      - purple hair:1.1025
+      - reflection:1.1025
+      - sitting on the ground
+      - bed
+      - arm up
+      - m legs:1.05
+      - from blow
+      - miku:1.05
+      - gold
+      - religion
+      - fairy
+      - structure
+      - hand mirror:1.05
+      - no human
+      - wide shot
+      - standing
+  游戏人间(+):
+    description: |-
+      作者:某驾校校长
+      “単なる暇つぶしのゲームではなく、人生の雑念から逃れて新しいことを始めることも多いのです。”
+        正面tag:
+      ((masterpiece)), (((best quality))), ((illustration)),(depth of field:1.2)
+      //通常のスタート姿勢
+      ,solo,dynamic angle,(1 girl:1.3),bangs,headphones,red eyes,white hair,(disheveled hair),Baseball cap,(jacket|hoodie),jeans,thigh strap,hands in pocket,cowboy shot,
+      //キャラクターのディテール
+      Moody Lighting,(arcade games:1.1),(Game Center:1.5),(Game Hall:1.1),(backlight:1.3),intricate detail,cyberpunk,slot machine,claw crane game machine,(crowd:1.1),  //场景描写以及打光
+      (Pixel particles exploding:1.2)
+      //塗りつぶし画面
+      人群tag(crowd)自行选择加入与否
+
+      反面tag:
+      lowres, bad anatomy, bad legs,bad hands, text,error, missing fngers,extra digt ,fewer digits,cropped, wort quality ,low quality,normal quality, jpeg,artifacts,signature,watermark, username, blurry, bad feet,artist name,bad anatomy,bad hands,bad body,bad proportions,worst quality,low quality
+
+      パラメータ:
+      Steps: 150, Sampler: DPM++ 2S a Karras, CFG scale: 11, Size: 1280x896, Model hash: e6e8e1fc, Eta: 0.67, Clip skip: 2
+
+      編集者コメント:
+      “アーケード!ハイになれ!”（antwominy）
+      “校長の株はどうした!?”（今宵）
+      “在庫が一滴もない力作すべて在庫あり”（校长）
+      “ゲームルームにあまり行ってない（悲）。”（mahiru）
+      “校長先生、またゲームやってるんですか、ちょっと休んだらどうですか?” （板）
+      “ゲームセンターで遊んでいた頃を思い出し、懐かしく思います。”（神座）
+    content:
+      - masterpiece:1.21
+      - best quality:1.331
+      - illustration:1.21
+      - depth of field:1.2
+      - solo
+      - dynamic angle
+      - 1 girl:1.3
+      - bangs
+      - headphones
+      - red eyes
+      - white hair
+      - disheveled hair:1.1
+      - baseball cap
+      - jacket|hoodie:1.1
+      - jeans
+      - thigh strap
+      - hands in pockets
+      - cowboy shot
+      - moody lighting
+      - arcade games:1.1
+      - game center:1.5
+      - game hall:1.1
+      - backlight:1.3
+      - intricate detail
+      - cyberpunk
+      - slot machine
+      - claw crane game machine
+      - crowd:1.1
+      - pixel particles exploding:1.2
+  游戏人间(-):
+    content:
+      - lowres
+      - bad anatomy
+      - bad legs
+      - bad hands
+      - text
+      - error
+      - missing fngers
+      - extra digt
+      - fewer digits
+      - cropped
+      - wort quality
+      - low quality
+      - normal quality
+      - jpeg
+      - artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - artist name
+      - bad body
+      - bad proportions
+      - worst quality
+  银河潜航(+):
+    description: |-
+      作者:噂噂子  Twitter:Utanomiya
+      “(メッセージなし) ”
+        正面tag:
+
+      反面tag:
+     
+      パラメータ:
+      Steps: 30, Sampler: DDIM, CFG scale: 7, Size: 1024x576, Model hash: e6e8e1fc
+
+      編集者コメント:
+      “背景にあるのは月か、ルーシー・マイ・ルーシー、うーーん”（孤辰）
+      “545C↩呜呜” （匿名,因为哭的太大声被校长拖走）
+      “なぜ私が?!”（校长）
+      “校長先生、よかったですね!外から来た女性を家に引っ張り込んで。”（真昼NO.2）
+    content:
+      - masterpiece:1.331
+      - best quality:1.331
+      - an extremely delicate and beautiful:1.331
+      - illustration:1.331
+      - from side:1.1
+      - medium long shot:1.1
+      - a cute detailed girl in spacesuit:1.21
+      - beautiful detailed face in aerospace helmet:1.21
+      - upper body:1.331
+      - disheveled hair:0.3
+      - clouds:0.3
+      - multiple luna
+      - floating fortress technology machinery:1.1
+      - night sky background
+      - cyberpunk aerospace helmet:0.90909091
+  银河潜航(-):
+    content:
+      - nsfw
+      - lowres
+      - bad anatomy
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - missing arms
+      - long neck
+      - humpbacked
+      - nude
+  手绘法(+):
+    description: |-
+      作者:Paracosm QQ:1185392879
+      “お絵かきAIは電子ペンの夢を見るか?”
+
+      正面tag:
+      
+      反面tag:
+      
+      パラメータ:
+      Steps: 50, Sampler: Euler a, CFG scale: 11, Size: 768x768
+
+      編集者コメント:
+      “このTAGから出るペンはとてもリアルで、写真の乱れなのか・・・と思うような確率です。”（阴阳）
+      “ママ!描ける!!!!”（今宵）
+      “本当にほぼ同じものを描きました!!!!”（mahiru）
+    content:
+      - masterpiece
+      - best quality
+      - floating
+      - beautiful detailed eyes
+      - angel:1.1
+      - blush
+      - back:1.1
+      - floating hair
+      - sketch paper:1.1
+      - pencils:1.1
+      - graphite
+      - drawing board
+      - partially colored
+      - spot color
+  手绘法(-):
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - duplicate
+      - grossproportions
+      - deformed
+      - out of frame
+      - ugly
+      - morbid
+      - mutation
+      - death
+      - kaijuu
+      - no hunmans.monster girl
+      - arthropod girl
+      - arthropod limbs
+      - tentacle
+      - blood
+      - size difference
+      - sketch
+      - blurry face
+      - blurry background
+      - blurry foreground
+      - disfigured
+      - extra
+      - extra arms
+      - extra ears
+      - extra breasts
+      - extra legs
+      - extra penises
+      - extra mouth
+      - multiple arms
+      - multiple legs
+      - mutilated
+      - tranny
+      - trans
+      - trannsexual
+      - poorly drawnhands
+      - extra fingers
+      - mutated hands
+      - poorly drawn face
+      - bad proportions
+      - extralimbs
+      - more than 2 nipples
+      - extra limbs
+      - malformed limbs
+      - missing arms
+      - miss finglegs
+      - fused fingers
+      - too many fingers
+      - long neck
+      - bad finglegs
+      - bad feet
+      - bad anatomy disfigured
+      - malformed mutated
+      - missing limb
+      - malformed hands
+      - nsfw
+  元素幻兽 地(+):
+    description: |-
+      作者:必得时机(qq:3112284710)
+      “世界のあらゆる元素を操る、かわいい動物たち。”
+
+      パラメータ:
+      NAIFU
+      steps:28,sampler:"k_euler_ancestral",strength:0.69,noise:0.667,scale:12, Size: 768x512
+
+      編集者コメント:
+      “私のポケボールはどこ?”（今宵）
+      “できない” （板）
+      “それはあなたの選択です!ぜひ、お出かけください。ピックアップボード!”（校长）
+      “ピクシーボールでJKを集められることが判明?”（antwominy）
+      “無敵のカプセルをご紹介します。”（孤辰）
+      “土・水・火・風、四元素のように......いや、実はこれ、抜粋なんです。”（匿名）
+      “rua?furry 【 虽然很可爱就是惹” （麦子）
+    content:
+      - best quality:1.05
+      - masterpiece:1.1025
+      - extremely gorgeous magic style
+      - cave background
+      - legendary wolf empress:1.05
+      - fantasy
+      - solo
+      - detailed anime cat:1.1025
+      - red tatoo:1.157625
+      - stone accessory:1.1025
+      - anime eyes:1.1025
+      - anime style:1.1025
+      - cute:1.1025
+      - furry:1.1025
+      - mascot:1.1025
+      - chibi:1.1025
+      - brown:1.1025
+      - wing:1.21550625
+      - amber:1.1025
+      - golden headdress:1.1025
+      - body fur:1.1025
+  元素幻兽 水(+):
+    content:
+      - masterpiece:1.1025
+      - extremely gorgeous magic style:1.05
+      - blue sea
+      - blue sky
+      - crystal orb
+      - beautiful detailed water
+      - beautiful detailed sky
+      - fluttered detailed splashs
+      - fantasy
+      - highlights
+      - solo
+      - detailed anime cat:1.157625
+      - anime eyes:1.157625
+      - anime style:1.157625
+      - detailed fox ears:1.157625
+      - cute:1.157625
+      - furry:1.157625
+      - mascot:1.157625
+      - chibi:1.157625
+      - dragon tail:1.21550625
+      - wings:1.157625
+      - white jewelry on head:1.157625
+      - blue skin:1.157625
+  元素幻兽 火(+):
+    content:
+      - best quality:1.05
+      - masterpiece:1.1025
+      - extremely gorgeous magic style:1.1
+      - magic
+      - fire
+      - burning ground
+      - volocano background
+      - fantasy
+      - solo
+      - detailed anime dog:1.157625
+      - fox:1.157625
+      - wolf:1.157625
+      - dog:1.157625
+      - yellow skin:1.21550625
+      - anime eyes:1.157625
+      - chinese accessory:1.157625
+      - anime style:1.157625
+      - cute:1.157625
+      - furry:1.157625
+      - chibi:1.157625
+      - mascot:1.157625
+      - body fur:1.157625
+      - gold accessory:1.157625
+      - red pubic tatoo:1.21550625
+      - red jewelry:1.157625
+  元素幻兽 风(+):
+    content:
+      - best quality:1.05
+      - masterpiece:1.1025
+      - extremely gorgeous magic style:1.1
+      - grassland
+      - fantasy
+      - solo
+      - highlights
+      - legendary wolf:1.05
+      - detailed anime cat:1.157625
+      - fox:1.157625
+      - wolf:1.157625
+      - dog:1.157625
+      - anime eyes:1.27628156
+      - anime style:1.27628156
+      - cute:1.157625
+      - furry:1.157625
+      - mascot:1.157625
+      - magic:1.157625
+      - chibi:1.157625
+      - flower wing:1.27628156
+      - jewelry:1.157625
+      - light green skin:1.21550625
+      - floating magic ball:1.157625
+  元素幻兽(-):
+    content:
+      - nsfw
+      - owres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - long neck
+      - humpbacked
+      - lowres
+  阈限空间 怪核(+):
+    description: |-
+      作者:非鱼（3139590980）
+      “Weirdcore、Dreamcore、Woundcore、Poolcore、Old Webのベースバージョンを含むThreshold空間が探検されました。
+      このリアルで非現実的な感じをどう形にするか、しばらく手探り状態でした。:
+      （1）Era Words Realistic Film texture Overexposure Steamwave works well（エラワード リアルスティック フィルムテクスチャー オーバーエクスポージャー スチームウェーブ ワークスウェル；
+      （2）各タイプの "コア "の下にあるタグの順番は、非常に特殊です。
+      以下は、その言葉の簡単な説明です。。
+      ウィアードコア、シンプルで怖くなく楽しい。私のように、夜中に100枚もテストするような人は別ですが。
+      傷ついた核である人形は、主人公の幼い頃の空想や恐怖を具象化したもので、時には手の届かない存在になる。
+      プール核、プールの水に隣接し、圧迫感から閉ざされる。
+      Old Web,古代のウェブページを模倣。
+      （Threshold Spaceのテーマは他にもたくさんあります。ここでは、フィルターを変えることで遊べるいくつかのテーマをご紹介します。
+      （Wounded Coreの最初のバージョンは、素敵なゲームルームだったのですが、うまく機能しなかったので破棄されました。”
+
+      伤核:
+      池核:
+      网核:
+
+      パラメータ:
+      Model hash: e6e8e1fc/无所谓
+      怪核:Steps: 50/无所谓  Sampler: DDIM, CFG scale: 7/无所谓 , Size: 512x512
+      梦核:Steps: 50/无所谓  Sampler: DDIM, CFG scale: 7/无所谓 , Size: 512x512
+      伤核:Steps: 52, Sampler: DDIM, CFG scale: 11, Size: 768x512
+      池核:Steps: 61, Sampler: Euler a, CFG scale: 10, Size: 512x512
+      网核:Steps: 90, Sampler: DDIM或Euler a, CFG scale: 12, Size: 1024x640
+
+      編集者コメント:
+      “あのニッチな、見慣れたようで見慣れない、懐かしくてたまらないアレがついに登場です意味を知らないAIによって常に適切に管理された奇妙さと歪みのセンスで、『Inhuman Things』は最高のドリーミー・スリラーの美学をお届けしましょう。”（匿名）
+      “隣のドアの向こう側、それは何ですか?”（今宵）
+      “それがすべてです。”（匿名）
+    content:
+      - photographic
+      - realistic
+      - liminal space
+      - backrooms
+      - weirdcore
+      - one line of advertising words
+  阈限空间 怪核(-):
+    content:
+      - longbody
+      - lowres
+      - bad anatomy
+      - bad hands
+      - missing fingers
+      - pubic hair
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+  阈限空间 梦核1(+):
+    content:
+      - liminal space
+      - a candyhouse
+      - dreamcore
+      - clouds
+  阈限空间 梦核2(+):
+    content:
+      - room
+      - in the 1980s
+      - there are a lot of clouds outside the window
+      - overexposure
+  阈限空间 梦核(-):
+    content:
+      - longbody
+      - lowres
+      - bad anatomy
+      - bad hands
+      - missing fingers
+      - pubic hair
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+  阈限空间 伤核(+):
+    description: |-
+       #防污染 #你可以在这里加vaporwave抽更刺激的
+    content:
+      - photographic
+      - realistic
+      - a big white humanoid doll is standing aside an old bed
+      - a pink and yellow bedroom
+      - liminal space
+      - dim light:1.21
+      - blood stains:0.8
+  阈限空间 伤核(-):
+    content:
+      - low quality
+      - watermark
+      - girls
+      - there are people in the picture
+      - arms and legs
+      - malformed face
+      - close-up shot
+  阈限空间 池核(+):
+    content:
+      - masterpiece
+      - detailed
+      - poolcore
+      - liminal space
+      - dream pools
+      - the pool is so clean that you can see the tiles and steps under it
+      - underwater shot
+      - photographic
+      - flowing water
+      - a black hole under the water
+      - hyper-realism
+      - cg
+      - detailed shadow
+      - overexposure
+      - film texture
+  阈限空间 池核(-):
+    content:
+      - low quality
+      - watermark
+      - children
+      - girls
+      - there are people in the picture
+      - sun
+      - sky
+      - tree
+      - clouds
+      - hands
+      - legs
+      - fish
+      - heads
+  阈限空间 网核(+):
+    content:
+      - masterpiece
+      - highly detailed
+      - windows xp screen cap
+      - video game website pageandan email pageandwindows xp start menu
+      - message boxandold school memes
+      - noise
+  阈限空间 网核(-):
+    content:
+      - low quality
+      - watermark
+      - normal quality
+      - two screens
+      - multiple computers
+      - people
+      - hands
+  源宝病毒(+):
+    description: |-
+      作者:朔耶真子
+      “データ方式です。だいぶ前に入手し始め、その後散々最適化し、今はほとんど出ていません（悲）。 データ方式はキャラクターの細かい描写が無いので、キャラタグを追加して指定キャラを出現させ続けることもできますが、ステップ数を上げた方が良いと思います。”
+
+      正面tag:
+      
+      反面tag:
+      
+      パラメータ:
+      Steps: 39, Sampler: DDIM, CFG scale: 9, Size: 1024x640, Model hash: 925997e9
+
+      編集者コメント:
+      “この世界この世界には、ただ一つの永遠の、広く通用する真理がある。それは、原因と結果という、ただ一つの真理を使うことである。”（今宵）
+      “リンカーンの4頭身!?”（校长）
+      “つまり、あなたのためにnsfwを一枚一枚描いてくれるaiが、そのデータ空間の中で、毎日そんな表情であなたを見ている可能性が少しでもあるとしたら、想像できるでしょうか?”（匿名）
+      “それは......私が毎日R18Xを塗るためではないでしょうか!?”（校长）
+      “良い告白をしよう!”（阴阳）
+      “校長先生にセックスはダメ!!!” （麦子）
+    content:
+      - impasto
+      - 1girl:1.4641
+      - metaverse
+      - original
+      - an extremely delicate and beautiful:1.21
+      - cyan theme:1.1
+      - intricate detail:1.21
+      - ultra-detailed:1.4641
+      - illustration:1.331
+      - masterpiece:1.4641
+      - extremely detailed cg unity 8k wallpaper:1.331
+      - highlights:1.1
+      - sharpening:1.1
+      - detailed face:1.1
+      - perfect details:1.331
+      - binary numbers:1.21
+      - science fiction:1.1
+      - sense of digital:1.1
+      - cold light:1.1
+      - data in the eyes:1.331
+      - data adorns hair:1.331
+      - 0 and 1 code:1.1
+      - digitization:1.1
+      - running data:1.1
+      - system screen:1.1
+      - mathematical equation:1.1
+      - young girl:1.1
+      - solo:1.21
+      - yubao:1.21
+  源宝病毒(-):
+    content:
+      - ugly:1.157625
+      - duplicate:1.157625
+      - morbid:1.1025
+      - mutilated:1.1025
+      - tranny:1.157625
+      - flat color
+      - nsfw
+      - lowers
+      - polar lowres:1.1
+      - bad anatomy:1.2
+      - bad hands:1.2
+      - bad body
+      - bad proportions
+      - gross proportions
+      - missing fingers
+      - missing arms
+      - missing legs
+      - extra fingers
+      - extra limbs
+      - extra arms
+      - extra legs
+      - malformed limbs
+      - fused fingers
+      - too many fingers
+      - long neck
+      - cross-eyed
+      - mutated hands
+      - cropped
+      - poorly drawn hands
+      - poorly drawn face
+      - mutation
+      - deformed
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - lowres
+      - username
+      - blurry
+      - bad feet
+      - standard quailty
+  月下湖中仙女(+):
+    description: |-
+      作者:凌霜雪猫
+      “パレットを書く際に偶然生まれたもので、背景の多くのカラーワードには余分な効果があります。シンプルで華麗なアートプレフィックス、最初の段落は全体の説明、2番目は特定のキャラクターの説明、ミッドショット、さらにキャラクターの頭や顔のウェイトで、生成されたキャラクターの大きさをコントロールすることができます。第3パラグラフでは、人物と情景の関係を通じて情景を描写している。最終段落では、距離における一般的な背景を説明しています。”
+        正面tag:
+      
+      反面tag:
+      
+      パラメータ:
+      Steps: 50, Sampler: Euler a, CFG scale: 7,  Size: 1024x576, Model hash: e6e8e1fc, Clip skip: 2, ENSD: 31337
+
+      編集者コメント:
+      “ラニとの最初の出会いを思い出す。”（孤辰）
+      “静かで上品な雰囲気でした...真夜中?夜更かし?すみません、どなたか時間を認識するのを手伝っていただけませんか?”（匿名）
+      “勝手に美術の授業を地理の授業にしないようにお願いします。”（匿名）
+    content:
+      - masterpiece:1.1
+      - wallpaper:1.1
+      - best quality:1.1
+      - best illuminate:1.1
+      - best shadow:1.1
+      - best illustration:1.1
+      - dynamic angle
+      - a girl is walking in front of a delicate and beautiful moon-blue sky:1.1
+      - solo:1.1
+      - from side:1.1
+      - backlight:1.21
+      - mid shot:1.1
+      - the beautiful and delicate girl:1.3
+      - beautiful bare back
+      - detailed face:1.2
+      - long floating hair:1.2
+      - beautiful long dress:1.2
+      - floating dress
+      - the girl walking on surface of the water
+      - beautiful and delicate violet light water surface
+      - reflective water surface
+      - high saturation blue clouds and \stars sky\ in the background
+      - cold color
+  月下湖中仙女(-):
+    content:
+      - ugly:1.4641
+      - lowres
+      - bad anatomy
+      - worst quality
+      - low quality
+      - normal quality
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing limbs
+      - three arms
+      - bad feet
+      - text font ui
+      - malformed hands
+      - long neck
+      - long body :1.3
+      - mutation:1.1
+      - poorly drawn :1.2:1.1
+      - disfigured
+      - malformed
+      - mutated
+      - multiple breasts
+      - futa
+      - yaoi
+      - three legs
+      - huge breasts
+  云作壁上观 木刻画(+):
+    description: |-
+      作者:江湖夜雨十年灯
+      “木と石で彫られています。 ”
+
+      正面tag:
+      木刻画:
+      
+      石刻画:
+      
+      木壁画:
+      
+      石壁画:
+      
+      挂画:tag不变,将clip改为2,可以抽卡玩,会抽到角色画风非常独特的卡。
+      云纹的核心tag是cloudy和stratocumulus_stratiformis。
+      不想要画面里面固定的圈可以把the bottom of the bottle background删掉,这样就会变成概率出圈。
+      我只对眼睛,莲花,云的颜色进行了限定,想得到其他配色组合的画,可以更改这些元素的颜色。
+      刻画由于优化了人物细节和出现概率,使人物更加融入作画媒介,但是相对于壁画,层次感较弱,风格也没那么粗犷。因为背景方面相对薄弱,我加入了cirrus spissatus,你也可以替换成其他背景元素。
+      把人物删了,留下纯背景也会很好看,而且风格更加明显。
+
+      反面tag:
+      
+      パラメータ:
+      clip:1（当clip为2时,画风会更加精致,变成挂画）
+      分辨率:768*1152,1152*768
+      模型:e6e8e1fc
+      采样:DPM2 a Karras（也可以使用Euler a,DPM2 Karras）
+      CFG:5.5,6.5,7 
+      Steps:30 
+
+      編集者コメント:
+      “幽霊のような作品。”（今宵）
+      “芸術性が高いのが特徴です。”（板）
+      “良いものを見るのは良いことです。”（校长）
+      “天上人の仕事。”（阴阳）
+      “息をのむような美しさ。”   (孤辰）
+    content:
+      - wooden gorgeous chinese borders:1.55
+      - best quality:1.1
+      - extremely detailed cg unity 8k wallpaper:1.1
+      - ultra-detailed:1.1
+      - best illumination:1.1
+      - best shadow:1.1
+      - an extremely delicate and beautiful:1.1
+      - ink:1.2
+      - graphite:0.75
+      - ink wash painting:1.05
+      - 1 girl:1.15
+      - solo
+      - the character is in the center of the frame:1.1
+      - medium full shot
+      - hanfu
+      - taoist robes
+      - celestial being uniform
+      - very long hair
+      - a small \black:1.25
+      - beautiful detailed eyes
+      - black eyes
+      - tai chi:1.05
+      - yin yang:1.05
+      - ba gua
+      - the bottom of the bottle background:0.85
+      - girl surrounded by floating ink water flow:1.1
+      - swirl:0.01
+      - studio lighting
+      - medium breasts
+      - cyan cloudy:1.15
+      - stratocumulus stratiformis:1.1
+      - cirrus spissatus:1.1
+      - white lotus:1.1
+      - detailed lines:0.85
+      - uhd
+  云作壁上观 石刻画(-):
+    content:
+      - stone gorgeous chinese borders:1.55
+      - best quality:1.1
+      - extremely detailed cg unity 8k wallpaper:1.1
+      - ultra-detailed:1.1
+      - best illumination:1.1
+      - best shadow:1.1
+      - an extremely delicate and beautiful:1.1
+      - ink:1.2
+      - graphite:0.75
+      - ink wash painting:1.05
+      - 1 girl:1.15
+      - solo
+      - the character is in the center of the frame:1.1
+      - medium full shot
+      - hanfu
+      - taoist robes
+      - celestial being uniform
+      - very long hair
+      - a small \black:1.25
+      - beautiful detailed eyes
+      - black eyes
+      - tai chi:1.05
+      - yin yang:1.05
+      - ba gua
+      - the bottom of the bottle background:0.85
+      - girl surrounded by floating ink water flow:1.1
+      - swirl:0.01
+      - medium breasts
+      - cyan cloudy:1.15
+      - stratocumulus stratiformis:1.1
+      - cirrus spissatus:1.1
+      - white lotus:1.1
+      - detailed lines:0.55
+  云作壁上观 木壁画(-):
+    content:
+      - detailed lines:0.85
+      - wooden gorgeous chinese card borders:1.55
+      - 4k
+      - masterpiece:1.1
+      - best quality:1.1
+      - extremely detailed cg unity 8k wallpaper:1.1
+      - ultra-detailed:1.1
+      - best illumination:1.1
+      - best shadow:1.1
+      - an extremely delicate and beautiful:1.1
+      - ink:1.2
+      - graphite:1.05
+      - ink wash painting:1.05
+      - tai chi diagram:1.25
+      - yin yang:1.25
+      - chaos
+      - ba gua
+      - swirl
+      - the bottom of the bottle background:1.1
+      - 1 girl:1.1
+      - solo
+      - the character is in the center of the frame
+      - medium full shot
+      - hanfu
+      - taoist robes
+      - celestial being uniform
+      - very long hair
+      - black:1.25
+      - beautiful detailed eyes
+      - black eyes
+      - girl surrounded by floating ink water flow:1.2
+      - medium breasts
+      - wind
+      - white lotus:1.1
+      - cyan cloudy:1.15
+      - stratocumulus stratiformis:1.2
+  云作壁上观 石壁画(-):
+    content:
+      - detailed lines:0.85
+      - stone gorgeous chinese borders:1.55
+      - uhd
+      - movie poster
+      - splash art
+      - studio lighting
+      - best quality:1.1
+      - extremely detailed cg unity 8k wallpaper:1.1
+      - ultra-detailed:1.1
+      - best illumination:1.1
+      - best shadow:1.1
+      - an extremely delicate and beautiful:1.1
+      - ink:1.2
+      - graphite:0.75
+      - ink wash painting:1.05
+      - tai chi:1.05
+      - yin yang:1.05
+      - chaos:0.5
+      - ba gua
+      - swirl:0.05
+      - the bottom of the bottle background:0.85
+      - 1 girl:1.2
+      - solo
+      - the character is in the center of the frame:1.1
+      - medium full shot
+      - hanfu
+      - taoist robes
+      - celestial being uniform
+      - very long hair
+      - a small \black:1.25
+      - beautiful detailed eyes
+      - black eyes
+      - girl surrounded by floating ink water flow:1.2
+      - medium breasts
+      - wind
+      - white lotus:1.1
+      - cyan cloudy:1.15
+      - stratocumulus stratiformis:1.2
+  云作壁上观(-):
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - large breasts
+  中国道家古风(+):
+    description: |-
+      作者:大葱 QQ:1547618037
+      “玄海灘戦記風を試してみたい!超カッコイイ! ”
+
+      正面tag:
+      
+      反面tag:
+      
+      パラメータ:
+      Steps:50
+      Scale:5.5
+      Advanced: Sampling :Euler
+      512 x 1024
+
+      編集者コメント:
+      “緊急!”（孤辰）
+      “グッド・コンの国民的スタイルガールです。”（广夏沫）
+      “悪魔とモンスターが去る!?”（校长）
+      “悪魔がビューティークイーンになったら、帰る必要はないのでしょうか?”（匿名）
+      “宣長戦記、いきなりチェックしたくなりました。”（匿名）
+      “魔物やモンスターが美少女だったらいいと思いませんか?【 ” （麦子）
+    content:
+      - illustration:1.21
+      - floating hair:1.21
+      - extremely detailed eyes and face:1.21
+      - chromatic aberration:1.21
+      - caustics:1.21
+      - lens flare
+      - dynamic angle
+      - portrait:1.21
+      - 1 girl:1.1
+      - solo:1.21
+      - cute face:1.21
+      - hidden hands:1.21
+      - asymmetrical bangs
+      - eye shadow
+      - giant tai chi:1.21
+      - colorful refraction:1.21
+      - beautiful detailed sky:1.1
+      - dark intense shadows:1.21
+      - cinematic lighting:1.21
+      - overexposure:1.21
+      - expressionless:1.1
+      - blank stare
+      - big top sleeves
+      - frills:1.21
+      - small breasts:1.331
+      - pleated skirt
+      - sharp focus:1.21
+      - masterpiece:1.21
+      - best quality:1.331
+      - extremely detailed:1.21
+      - colorful
+      - hdr
+      - cheongsam:1.331
+      - exquisite chinese sword:1.331
+      - scattered runes:1.21
+      - magnificent ancient pagoda:1.331
+      - architectural community
+      - fluttering long hair
+      - mysterious dragon:1.331
+      - gentle wind
+      - yellow paper all over the sky:1.331
+      - spells written on paper:1.21
+      - antique glasses:1.21
+      - dragon pattern
+      - a solemn atmosphere:1.21
+      - beautiful and delicate eyes:1.1
+      - black and white dress pattern:1.21
+      - yellow glass light column:1.1
+      - mysterious:1.21
+      - chinese architecture:1.21
+  中国道家古风(-):
+    content:
+      - nsfw
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - missing arms
+      - long neck
+      - humpbacked
+  真空管(+):
+    description: |-
+      作者:Blackout (QQ:449231419)
+      “ 真空管パンクはグラフィック要素が複雑なため、キャラクターを追加した後のプロンプトの総尺が長くなり、背景が極端に簡略化され、キャラクターが条件に合わなくなったため、今回の応募では分散クロスレンダリングという手法を用いました。ライトトレースやカメラ用語など、グループの皆さんにはお世話になりました。”
+
+      正面tag:
+      
+      在前75%的step渲染背景（蓝色部分）,在后75%的step渲染角色（红色部分）,其中前25%是单独渲染背景,中间50%同时渲染角色和背景,后25%单独渲染角色,同样适用于任何需要兼顾复杂元素的场合。语法为[a::0.75], [b:0.25]。
+
+      反面tag:
+      
+      パラメータ:
+      Sampling Steps: 100, Sampling Method: Euler, Size: 1024*640, CFG Scale: 15, Model hash: 925997e9, Clip Skip: 2
+
+      編集者コメント:
+      “過去の奔放なイマジネーションが、未来に絡み合う。”（今宵）
+      “チューブパンクと呼んでいいのでしょうか?”（匿名）
+    content:
+      - flat color
+      - masterpiece:1.5
+      - best quality:1.5
+      - amazing
+      - beautiful detailed
+      - extremely detailed wallpaper
+      - extremely detailed cg unity 8k wallpaper
+      - extremely delicate and beautiful
+      - finely detailed
+      - fantasy
+      - official art
+      - detailed background
+      - beautiful detailed shadow:1.5:1.1
+      - cinematic lighting:1.1
+      - backlight:1.1
+      - symmetrical geometry:1.331
+      - science fiction:1.5
+      - vacuumpunk:1.5:1.331
+      - 1960s style:1.5
+      - artdeco:1.331
+      - control room:1.331
+      - nixie tubes:1.8
+      - machines:1.331
+      - silver:1.331
+      - metallochrome:1.331
+      - wires:1.331
+      - vacuum tubes:1.331
+      - old computers:1.331
+      - simple screens:0.75
+      - solo:1.5
+      - 1 girl:1.61051
+      - teenage girl:1.61051
+      - cute:1.61051
+      - extremely detailed eyes and face:1.61051
+      - clear eyes:1.61051
+      - clear face:1.61051
+      - white medium hair:1.61051
+      - red eyes:1.61051
+      - white lab coat:1.5
+      - hands in pocket:1.5
+      - black shirt:1.5
+      - black trousers:1.61051
+      - looking at viewer:1.61051
+      - light smile:1.3
+      - cropped torso:1.8
+      - medium close up:1.5
+      - waist shot:1.5
+      - depth of field:0.25
+  真空管(-):
+    content:
+      - multiple breasts
+      - mutated hands and fingers:1.5:1.1
+      - long body:1.3:1.1
+      - mutation:1.1
+      - poorly drawn:1.2:1.1
+      - black-white
+      - bad anatomy
+      - liquid body
+      - liquid tongue
+      - disfigured
+      - malformed
+      - mutated
+      - anatomical nonsense
+      - error
+      - malformed hands
+      - long neck
+      - blurred
+      - lowres
+      - bad proportions
+      - bad shadow
+      - uncoordinated body
+      - unnatural body
+      - mutated breasts
+      - huge haunch
+      - huge thighs
+      - huge calf
+      - mutated ears
+      - text
+      - ui
+      - missing fingers
+      - missing limb
+      - cropped
+      - watermark
+      - username
+      - blurry
+      - jpeg artifacts
+      - signature
+      - 3d
+      - malformed feet
+      - bad gloves
+      - bad cum
+      - bad hairs
+      - big muscles
+      - ugly
+      - bad face
+      - obesity
+      - worst quality
+      - low quality
+      - normal quality
+      - duplicate
+      - morbid
+      - mutilated
+      - fused tentacles
+      - qr code
+      - bar code
+      - censored
+  自走棋(+):
+    description: |-
+      作者: 神座出流
+      “素晴らしいタグには、簡単な料理しか必要ないことが多い...。”
+
+      正面tag:
+      
+      反面tag:
+      
+      パラメータ:
+      Steps: 43, Sampler: Euler a, CFG scale: 10, e6e8e1fc
+
+      編集者コメント:
+      “ なんでシンゾーもゲームしてるの?” （板）
+      “(理事長がグループ作りに参加するのは当たり前ではないか）。”（antwominy）
+      “神の玉座の審判は最低でも5~のコストがかかります。”（校长）
+      "エンターテインメントは必要な強壮剤です。“（神座）
+      “その通りなんですが、倒置カンマを間違えてますね(” （板）
+    content:
+      - masterpiece
+      - best quality
+      - illustration
+      - autochess:0.9
+      - symmetric:0.6
+      - auto battler
+      - +dynamic
+      - chibi
+      - moba
+      - game
+      - pvp
+      - ++chequer
+  自走棋(-):
+    content:
+      - lowres
+      - bad anatomy
+      - bad legs
+      - bad hands
+      - text
+      - error
+      - missing fngers
+      - extra digt
+      - fewer digits
+      - cropped
+      - wort quality
+      - low quality
+      - normal quality
+      - jpeg
+      - artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - artist name
+      - bad body
+      - bad proportions
+      - worst quality
+  世界终焉(+):
+    description: |-
+      作者: 呼噜噜猫咪与她的小迷妹JK
+      “もう終わり!?”
+  
+      正面tag:
+      
+      反面tag:
+      
+      パラメータ:
+      Steps: 25, Sampler: Euler a, CFG scale: 12, Size: 960x640, Model hash: e6e8e1fc, Eta: 0.68, Clip skip: 2, ENSD: 31337
+
+      編集者コメント:
+      “カオスに会いに来てくださいこれで万事休す!”（匿名）
+      “世界から拒絶された。”（今宵)
+      “砕け散った世界...。思い出せるものは何も残っていない...。”（校长）
+      “この一連のdissolving+fading+disintegration+transparent+dimensional space+broken glass超ハイウエイトとの併用は、本当に、見事です。グラフィックよりも、この呪文が極限まで崩れることに美しさを見出すことができます。”（匿名）
+      “リトルファンガール詳細JK”（匿名）
+      「猫に迫る”（匿名）
+      “壊れた画像と壊れた顔で表現される感情がよく描かれているTHE END”（神座）
+    content:
+      - masterpiece:1.1
+      - best quality
+      - wallpaper:1.1
+      - highly detailed
+      - 1 girl:1.1
+      - solo
+      - black hair
+      - long hair
+      - white eyes
+      - detailed eyes
+      - black dress
+      - dynamic
+      - lateral view
+      - cowboy shot
+      - dynamic angle
+      - ether:1.5
+      - landscape:1.2
+      - dissolving:1.2
+      - fading:1.35
+      - disintegration:1.5
+      - transparent
+      - grey sky
+      - wings
+      - dimensional space:0.35
+      - broken glass:1.2
+      - reclaimer of my name
+      - the end
+  世界终焉(-):
+    content:
+      - lowres
+      - bad anatomy
+      - bad hands
+      - text
+      - error
+      - missing fingers
+      - extra digit
+      - fewer digits
+      - cropped
+      - worst quality
+      - low quality
+      - normal quality
+      - jpeg artifacts
+      - signature
+      - watermark
+      - username
+      - blurry
+      - bad feet
+      - big breasts
+      - front view
+      - face focus
+      - solo focus
+      - close view
+  天国(+):
+    description: |-
+      作者:布隆的龙虾  qq 381642088
+      “AIのおかげで、自分の頭の中にある絵を表現することができました。
+      制作過程も勉強になりました。 開始までに4日かかりましたが、そのうち2日半はこのマジックのコーディングに費やされました。
+      その間、400枚以上の画像を走らせ、前後のパラメータを変えて試行錯誤を繰り返しました。(断片化したタグを文章に書き直し、AIの描き方に合わせて文章の順番を何度か調整し、さらにサンプリングを繰り返してddimを選択しました。”
+      
+      パラメータ:
+      Steps: 50-350（不建议300）, Sampler: 低步数用ddim,高步数ddim和euler a 都可以, CFG scale: 7,Model hash: e6e8e1fc, Clip skip: 2,size:2:1
+
+      この方法は、解像度に強く影響される,なるべく1408*704以上の解像度をお選びください。。
+
+      編集者コメント:
+      “背景が素晴らしく、キャラクターと映像の調和も良く、全体的にとてもムーディな雰囲気です。”（antwominy）
+      “あらゆる意味で、とても適切なのです。”（匿名）
+      “ああ、地球よ、もう二度と来ることはない。”（今宵）
+      “見事で、極上の画像、本当に美しく、細部まで描き込まれています。”（雪）
+      “姉に踏まれた!?”（孤辰）
+      “踏まれたいだけなんだろ?” （路过的,匿名）
+      “背景の神聖さが引き出され、人物の困惑した表情が天の国というテーマを盛り上げています。”（神座）
+      “ ✟ 升 天 ✟” (麦子）
+    content:
+      - ultra-detailed:1.1
+      - best shadow:1.1
+      - classic
+      - cinematic lighting:1.1
+      - dynamic angle
+      - finely detail:1.1
+      - best masterpiece:1.6
+      - extremely detailed cg unity 8k wallpaper:1.45
+      - extremely detailed illustration
+      - 3d:0.90909091
+      - solo:1.1
+      - an extremely delicated and beautiful:1.1
+      - girl is spreading her
+      - beautiful wings:1.1
+      - flying in the sky:1.21
+      - she has an extremely detailed and beautiful cute anime face:1.1
+      - extremely detailed body:1.1
+      - long white hair:0.90909091
+      - bare shoulders:0.90909091
+      - floating hair and detailed mouth:1.1
+      - the girl is wearing
+      - white hair ribbon:0.90909091
+      - with black edge
+      - white translucent silk hood:1.1
+      - white robe with gold pattern:0.90909091
+      - white boots with black pattern:0.82644628
+      - detailed white stockings
+      - the background is very detailed:0.82644628
+      - there are many castles in the background:1.1
+      - the castles are
+      - on the clouds:0.82644628
+      - clouds surround the base of the castles:0.68301346
+      - many birds fly in the sky:0.62092132
+      - there are many gorgeous colorful hues at the top of the planting:1.4641
+      - and there are some detailed feathers falling in the sky:1.331
+      - the background is the sky at dawn:1.771561
+      - the light of dawn blooms gloriously:1.1
+      - the painting depicts a scene with many well-defined clouds have beautiful light and shadow
+  天国(-):
+    content:
+      - missing girl:1.331
+      - blurry girl:1.331
+      - small girl:1.21
+      - got something in mouth:1.1
+      - open mouth:1.1
+      - ugly mouth:1.21
+      - raised hand:1.331
+      - golden castle:1.331
+      - pleats:1.4641
+      - wave-like:1.61051
+      - oversized wings:1.21
+      - dress:1.331
+      - too long and big robe:1.21
+      - plants:1.331
+      - blurred background:1.1
+      - blurred wings:1.1
+      - twisted wings:1.1
+      - ugly:1.21
+      - watermark:1.4641
+      - malformed limbs:1.331
+      - missing limbs:1.1
+      - poorly drawn face:1.331
+      - missing legs:1.1
+      - two girls
+      - nsfw
+      - too many fingers:1.1
+      - poorly drawn hands:1.1
+      - deformed:1.1
+      - missing fngers:1.1
+      - mutated hands and fingers:1.1
+      - bad hands:1.1
+      - three legs:1.1
+      - mutilated
+      - more than 2 thighs
+      - unclear eyes:1.1
+      - extra legs
+      - bad face
+      - multiple breasts
+      - malformed mutated
+      - bad feet
+      - cropped
+      - extra limbs
+      - missing arms
+      - three arms
+      - long neck
+      - text:1.1
+      - missing fingers
+      - jpeg artifacts
+      - signature:1.21
+      - disfigured
+      - low quality
+      - worst quality
+      - bad anatomy:1.1
+      - error
+      - the lower half of the disappearance:1.1

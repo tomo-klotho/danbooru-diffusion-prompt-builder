@@ -46,6 +46,10 @@ content:
     alias:
       - 2 girls
       - 2girl
+  2 cute girls:
+    name: 2人のかわいい女の子
+    image: 2a478fac6a48230332df8342af169071de59251a1beadc92e89501be5aa8d4da
+      - tow cute girls
   multiple girls:
     name: 複数の女の子
     wikiURL: https://danbooru.donmai.us/wiki_pages/multiple_girls.html
@@ -534,11 +538,11 @@ content:
     alias:
       - fmm threesome
   mother and daughter:
-    name: 母女
+    name: 母娘
     image: 7054266d0f7c7f9f08f57515344c0fd202f20f2789bea7ffac7f3f68898629ea
     wikiURL: https://danbooru.donmai.us/wiki_pages/mother_and_daughter.html
   mother and son:
-    name: 母子
+    name: 母と息子
     image: 21593a53e62a8cebcc1e1e0a199bb2513fe51729fd7a55a347aa29cc6fe70e8a
     wikiURL: https://danbooru.donmai.us/wiki_pages/mother_and_son.html
   twins:
@@ -560,4 +564,19 @@ content:
     name: 優等生
   chairman:
     name: 委員長
+  beautiful detailed girl:
+    name: 美しい繊細な女の子
+    alias:
+      - beautiful detailed girls
+  two cute girls hug:
+    name: 2人の女の子が抱き合う
+    image: 33b02918fda49a531b254a402cd7572ada1f929f02fb99d96d5b91ffe7da3ab4
+    alias:
+      - two little cute girls hug
+  old woman:
+    name: 老婆
+  hag:
+    name: 鬼婆/鬼女
+  old man:
+    name: 老人/爺
   

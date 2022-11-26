@@ -1236,5 +1236,9 @@ content:
     name: 宇宙の目
   mockery:
     name: あざけり
+  big forhead:
+    name: 大きな額
+    alias:
+      - big for head
 
 

@@ -244,13 +244,16 @@ export const useTagStore = defineStore('tags', {
                         a
                             .map((meta): Tag & { score: number } => {
                                 let score = meta.score
-                                if (meta.key.toLowerCase() === lcQuery)
+                                // console.log(meta.key + ":" + meta.name)
+                                let meta_key = meta.key.toLowerCase()
+                                let meta_name = meta.name.toLowerCase()
+                                if (meta_key === lcQuery)
                                     score += 300
-                                if (meta.key.toLowerCase().includes(q))
+                                if (meta_key.includes(q))
                                     score += 100
-                                if (meta.name.toLowerCase() === lcQuery)
+                                if (meta_name === lcQuery)
                                     score += 50
-                                if (meta.name.toLowerCase().includes(q))
+                                if (meta_name.includes(q))
                                     score += 50
                                 if (
                                     meta.alias?.some(

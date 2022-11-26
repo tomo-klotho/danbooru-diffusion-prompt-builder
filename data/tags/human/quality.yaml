@@ -17,3 +17,5 @@ content:
     name: エクストラフィンガー
   missing arms:
     name: ミッシングアーム
+  bad feet:
+    name: 足の形が違う

@@ -5,18 +5,24 @@ content:
     name: サバイバル
   camp:
     name: キャンプ
+    image: 8f5a374dbcb0173cf2809a30c289cd9e022db97e2b1952520766e95db51c6452
   party:
     name: パーティー
   drinking party:
     name: 飲み会
+    image: 7138087ab4762a8f2ed0378425f4c63ea6a365afe44f41a7e51de194aa551f66
   year-end party:
     name: 忘年会
+    image: d598a0fd378e1e3501cbec6a0009c74ac94d06a776eca615c0970212c2d7c382
   new year's party:
     name: 新年会
+    image: 5081818e224839f9796a6c2395a5f1858c26c18ed29a5c2d8ea981a8313c1559
   vacation:
     name: バケーション
+    image: 4d775bb18d1c3ad033342b5db13e7775f1937592b8076f519777dd4bb3b3c3f9
   summer vacation:
     name: 夏休み
+    image: 8c7a9e7101ea0cce0c73efbf7f71ab95ec1b0a28b90383a55f0e4cc6afe88a26
   valentine:
     name: バレンタインデー
     image: 47671b4ce86a87dc4da2cb4835dc1712316fb73677a598e05c2583b1ea445d8c

@@ -68,6 +68,8 @@ content:
   bloom:
     name: ブルーム
     wikiURL: https://danbooru.donmai.us/wiki_pages/bloom.html
+    alias:
+      - bloom effect
   bokeh:
     name: 背景のボケ
     wikiURL: https://danbooru.donmai.us/wiki_pages/bokeh.html
@@ -160,6 +162,8 @@ content:
     name: 飛び散る飛沫
   flying petals:
     name: 飛んでいる花びら
+  flying snow:
+    name: 雪が降る
   illumination:
     name: イルミネーション
     alias:
@@ -174,6 +178,28 @@ content:
     name: カラフルなスポットライト
   dust:
     name: ほこり
+  floating glass fragments:
+    name: 飛び散るガラス片
+  dark intense shadows:
+    name: 暗い強烈な影
+  sharp focus:
+    name: しっかりと合ったピント
+  extremely detailed:
+    name: 非常に詳細
+  beautiful detailed glow:
+    name: 美しい詳細な輝き
+  volume lighting:
+    name: ボリュームライティング
+  light particles:
+    name: 光の粒子
+  a lot of glowing particles:
+    name: 多くの光の粒子
+  luminous particles:
+    name: 発光する粒子
+    alias:
+      - glowing particles
+  ambient light:
+    name: 周囲光
   
 
 

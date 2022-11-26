@@ -112,6 +112,7 @@ content:
     alias:
       - v sign
       - peace sign
+      - ✌
   waving:
     name: 手を振る
     image: 89da0b0153edb5a223752b529b015aaf29d3e4e01bf746f0ac8306c7b4991f43
@@ -585,10 +586,10 @@ content:
   hand on another's hand:
     name: 互いの手をつなぐ
   hand in pocket:
-    name: ポケットに手を入れる
+    name: 片手をポケットに入れる
     wikiURL: https://danbooru.donmai.us/wiki_pages/hand_in_pocket.html
   hands in pockets:
-    name: ポケットに手を入れる
+    name: 両手をポケットに入れる
     wikiURL: https://danbooru.donmai.us/wiki_pages/hands_in_pockets.html
   air quotes:
     name: 逆コンマジェスチャー
@@ -596,8 +597,9 @@ content:
     alias:
       - finger quotes
   bunny pose:
-    name: うさみみ pose
+    name: うさ耳ポーズ
     wikiURL: https://danbooru.donmai.us/wiki_pages/bunny_pose.html
+    image: fd690996b92429c56ca8b9f49d71f84d683cbd34b60fa15e183b19adcb9a35b7
   carry me:
     name: ホールドミー・ジェスチャー
     wikiURL: https://danbooru.donmai.us/wiki_pages/carry_me.html
@@ -908,3 +910,6 @@ content:
   floating:
     name: 空中に浮く
     wikiURL: https://danbooru.donmai.us/wiki_pages/floating.html
+  kiss:
+    name: キス
+    image: 9ef314a714feb57d5fd15eb7576bd8abdf33e1551e0d5dd6b79183ceee9ecea4

@@ -65,12 +65,22 @@ content:
   best quality:
     name: 最高品質
     image: 3c25a58c3e639a5c2253efffee379e114172c5de65587c9814ae7d1b71258ad4
+  high quality:
+    name: 高品質
   worst quality:
     name: 品質が悪い
   low quality:
     name: 低品質
   normal quality:
     name: 一般的な品質
+  extreme details:
+    name: きわめて細部描画
+  perfect details:
+    name: 完璧な細部描画
+  a lot of details:
+    name: 多くの細部描画
+    alias:
+      - lots of details
   error:
     name: エラー
     wikiURL: https://danbooru.donmai.us/wiki_pages/error.html
@@ -383,6 +393,18 @@ content:
       - extremely detailed wallpaper
   4k wallpaper:
     name: 4kサイズの壁紙
+  hdr:
+    name: HDR
+  colourful:
+    name: カラフル
+  fasle impasto paintings:
+    name: ファッレインパスト絵画
+  classicism:
+    name: 古典主義
+  picture frame:
+    name: 額縁
+
+
     
 
 

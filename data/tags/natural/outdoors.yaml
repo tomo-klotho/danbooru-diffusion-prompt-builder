@@ -6,28 +6,35 @@ content:
   beach:
     name: ビーチ
     wikiURL: https://danbooru.donmai.us/wiki_pages/beach.html
+    image: 9391f0d0d33bd7e0fc9a74758a8a325cfd99c0e2bda329c888fe06026ad7c1a4
   shore:
     name: 岸
     wikiURL: https://danbooru.donmai.us/wiki_pages/shore.html
+    image: 67b74db4180f9d835c5006072b24b3ff3a01a61ee9f9464469f42c881ccecb8d
     alias:
       - coast
       - shoreline
   canyon:
     name: 峡谷
     wikiURL: https://danbooru.donmai.us/wiki_pages/canyon.html
+    image: 43795a4cc66796be8a5e4be942d05bd19edb1caa18d5c21aa7914e2c7f663c28
   cave:
     name: 洞穴
     wikiURL: https://danbooru.donmai.us/wiki_pages/cave.html
+    image: 524f7f961fbeacb71be26cf898151e8293e2e6f20704ca75c1a33b650c9b04e1
     alias:
       - caves
   cliff:
     name: 崖
     wikiURL: https://danbooru.donmai.us/wiki_pages/cliff.html
+    image: 89a53170d8504e81e4adac8a73cc4906aec7dd65e5f9b947ccf65b9241c2266a
   desert:
     name: 砂漠
     wikiURL: https://danbooru.donmai.us/wiki_pages/desert.html
+    image: 65986e0efe9e3f342039d87281a91fd7b0c74ffcc31fcf0cc3d53dd37236eb3f
   oasis:
     name: オアシス
+    image: fc0505c840127a409aff2b6c3a72669eb7b4d92aed674b77888cca8c30a4af2f
   forest:
     name: 森林
     image: 4fd9949b27f320803b117777ffbeef778c98b0b7d259bf57cce9c4a88ab1180f
@@ -37,36 +44,46 @@ content:
   bamboo forest:
     name: 竹林
     wikiURL: https://danbooru.donmai.us/wiki_pages/bamboo_forest.html
+    image: 36debf357dab4814217d8fbd0f9b9747103ecee1daa3de44f689d64cf9171260
   glacier:
     name: 氷河
+    image: fb93c17c243ce2b2a7b5251ddbdc1969001c57a1a40f43c533ac60279fa20208
   hill:
     name: 丘
     wikiURL: https://danbooru.donmai.us/wiki_pages/hill.html
+    image: 629533be81e56c915a16201caee0a5713514cd73f88aa035fb94290c17930562
     alias:
       - hills
   island:
     name: 島
     wikiURL: https://danbooru.donmai.us/wiki_pages/island.html
+    image: 144811eceb0c57f8f2d1ec4b75a66f7470efab0d3e541e7a2cd05051e9e266df
   floating island:
     name: 浮島
     wikiURL: https://danbooru.donmai.us/wiki_pages/floating_island.html
+    image: 6553330a6a2c81dfb26ad250f622254af1c91cca547f1ecd185a589d74591d3e
   jungle:
     name: ジャングル
     wikiURL: https://danbooru.donmai.us/wiki_pages/jungle.html
+    image: 4b95ee0785b5618b4e25e6295c5c39227998e736c0ac82d26716cd14499ca035
   meadow:
     name: 草原
     wikiURL: https://danbooru.donmai.us/wiki_pages/meadow.html
+    image: a7b3414600fe56e2ffd75911e58cea113ea0f4ece07d23bf0f3c58d9b6dd8d19
   mountain:
     name: 山
     wikiURL: https://danbooru.donmai.us/wiki_pages/mountain.html
+    image: e213bfc194baafd190d1c714fbc425ad0da7575e0ab7848ba7ebcfba9886c921
     alias:
       - mountains
   volcano:
     name: 火山
     wikiURL: https://danbooru.donmai.us/wiki_pages/volcano.html
+    image: 9d912a949b090a78a202f94498de980628a3c15e834e6af832ccd9f3f9c117d0
   nature:
     name: 大自然
     wikiURL: https://danbooru.donmai.us/wiki_pages/nature.html
+    image: ce933905056866f67d57c453022d45cb538a3832988331a1b9fbd2542d41bd8f
   park:
     name: 公園
     image: 45833d8a6529a29f54d8ad9f429fe97835b14b01b89ed6febb7211dd8164af12
@@ -74,31 +91,38 @@ content:
   playground:
     name: 遊び場
     wikiURL: https://danbooru.donmai.us/wiki_pages/playground.html
+    image: 09942bafeda2222f4973e553da7bbfc5dddf96f360d16e6d34789e22a4ab8bab
   parking lot:
     name: 駐車場
     wikiURL: https://danbooru.donmai.us/wiki_pages/parking_lot.html
-  plain:
-    name: 平原
+    image: bc09aa29a1bb068a23e679baa7ec44e2034cfa2f21eb03c530b7a32b559eaaa7
   savannah:
     name: サバンナ
     wikiURL: https://danbooru.donmai.us/wiki_pages/savannah.html
+    image: 300950abed00ed0f9fe2af80033f6a22062eb878275bb7851b15c2613069aaeb
+    alias:
+      - africa savannah
   wetland:
     name: 湿地
     wikiURL: https://danbooru.donmai.us/wiki_pages/wetland.html
+    image: c965061c87c93e0008b3a664478ece061a8b210c092076f3b7e08a042b8a724a
     alias:
       - swamp
       - marsh
   water:
     name: 水
     wikiURL: https://danbooru.donmai.us/wiki_pages/water.html
+    image: 3c3174a2051a291aa691fb7237d83abe7f0deec7e92382d8908d9abcf296cb53
     alias:
       - beautifuldetailed water
       - detailed water
   geyser:
     name: 泉水
+    image: 53766cb764a94c2508d7db8bd533d246854863bf1e85e4e306e0d66b2ba669c9
   lake:
     name: 湖
     wikiURL: https://danbooru.donmai.us/wiki_pages/lake.html
+    image: 95521a431b3183794cb765631f7e3329a2ca52982fa8151de471e147236a08c3
   ocean:
     name: 海
     image: e7e528cb9cf6fe96737560a340c38dd7fb1607d2231d55ece277700363e9ee6f
@@ -108,23 +132,30 @@ content:
   ocean bottom:
     name: 海底
     wikiURL: https://danbooru.donmai.us/wiki_pages/ocean_bottom.html
+    image: eb3b173fe43bdfa8a2a68ddee09f6e261cbb89c7a10913ef1c047e69ee6205a3
   pond:
     name: 池
     wikiURL: https://danbooru.donmai.us/wiki_pages/pond.html
+    image: 885093900f373b0972cc740e91d1f7c287068b6f4d855f1e0f6e5fb5ec2c797f
   river:
     name: 川
     wikiURL: https://danbooru.donmai.us/wiki_pages/river.html
+    image: 29bf6453fc409d7ca6367f0e31807c5377fef7cf8ef6571bf55aae57e01f6c1a
   stream:
     name: 溪流
     wikiURL: https://danbooru.donmai.us/wiki_pages/stream.html
+    image: 9a5981e6cf074fa7e0120cf31592e8ba37389c81af36f05d7e15367332faf814
     alias:
       - creek
   waterfall:
     name: 滝
     wikiURL: https://danbooru.donmai.us/wiki_pages/waterfall.html
+    image: e2884bb77d4afb1b4f9bd21b7952242c817506f40751ed160ea30ab11139b9f4
   wasteland:
     name: 荒地
     wikiURL: https://danbooru.donmai.us/wiki_pages/wasteland.html
+    image: e0a1336fa6d68f79800d712ba7ac806ee2a90b97f1ff51112c036168eac99c3c
   flower field:
     name: 花畑
     wikiURL: https://danbooru.donmai.us/wiki_pages/flower_field.html
+    image: 8a24371330fff69d173b32891fefbbfdece4c344c0048e627bed4fe41e8095c1

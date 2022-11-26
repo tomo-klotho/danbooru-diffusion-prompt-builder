@@ -194,4 +194,8 @@ content:
     name: UFO
     alias:
       - UFOs
+  ice:
+    name: 氷
+  detailed ice:
+    name: 精密な氷
 
