@@ -62,6 +62,7 @@ content:
   charcoal (medium):
     name: 炭
     wikiURL: https://danbooru.donmai.us/wiki_pages/charcoal_(medium).html
+    image: 38c36e5e1c8589a2c9a14044e49159e7b13623beed3dbe807250dbaeca59cb8a
   clay (medium):
     name: 粘土
   color ink (medium):
@@ -79,6 +80,7 @@ content:
     alias:
       - pencil crayon (medium)
       - coloured pencil (medium)
+    image: ff2b3fcbe3edcbb8b987b7785087b48abd7270ad67c58bfb94f16150d723b0ac
   cosplay:
     image: 0b0db2c52bd954418ddf13d59a0e60f4f6ff52f45ac8ec628352bb84bb927253
     name: コスプレ
@@ -145,6 +147,7 @@ content:
     description: mangaと組み合わせると少し利くかも?
   google sketchup (medium):
     name: Google Sketchup
+    image: ed8694bbe73ac9fc3a290d224f2c1bf5e28c6968e70e2a6f3255cb3a8cc7ba90
   gouache (medium):
     name: ガッシュ
     image: f36a0aaa568020e2954549e19e7e5bd0018105e3aa5219f82c599867c90a4dd7
@@ -276,6 +279,7 @@ content:
     name: シュールレアリズム
     image: 4a4ba956550bba8e64a11779856fbeec2016c2f3d3d1cb978b1368b0dbc244a2
     wikiURL: https://danbooru.donmai.us/wiki_pages/surreal.html
+    image: e03d83ac9590ed4403b80bd62678f167840fbc502d0ec71e6af9ff08aaad1dba
   swapnote (medium):
     name: いつの間に交換日記
     wikiURL: https://danbooru.donmai.us/wiki_pages/swapnote.html

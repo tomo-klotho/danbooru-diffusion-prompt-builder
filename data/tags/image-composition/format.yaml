@@ -101,6 +101,7 @@ content:
     alias:
       - polygon
       - 3dcg
+    image: 7efc63aeacffd98dcf6ad0f161844c3c33f8d41c5d56537420197241dce9a084
   animated:
     name: アニメーション
     wikiURL: https://danbooru.donmai.us/wiki_pages/animated.html
@@ -141,6 +142,7 @@ content:
   roulette animation:
     name: ランダムアニメーション
     wikiURL: https://danbooru.donmai.us/wiki_pages/roulette_animation.html
+    image: d5b6fec510f81c823aae95770a17a28a56110f5e050ee6009430bc37bfc42453
   live2d:
     name: Live2D
     wikiURL: https://danbooru.donmai.us/wiki_pages/live2d.html
@@ -215,6 +217,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/cover.html
     alias:
       - front cover
+    image: 67104ee20ae36fe9eda124e526b31c590fe2fdc2f8acc16dee3a598b90e3effd
   album cover:
     name: アルバムカバー
     wikiURL: https://danbooru.donmai.us/wiki_pages/album_cover.html
@@ -230,6 +233,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/cover_page.html
     alias:
       - book cover
+    image: 712849aad2b5ecbd5ea53f7f753afb85c63d56f81ca2501b7432a9a01a4d0eca
   doujin cover:
     name: 同人表紙
     wikiURL: https://danbooru.donmai.us/wiki_pages/doujin_cover.html
@@ -239,11 +243,13 @@ content:
   fake cover:
     name: 偽の表紙
     wikiURL: https://danbooru.donmai.us/wiki_pages/fake_cover.html
+    image: 39af983d0de40a54679e014bc58a446e04113f2cd3a6d31c212d289aedfcd5f9
   video game cover:
     name: ビデオゲーム表紙
     wikiURL: https://danbooru.donmai.us/wiki_pages/video_game_cover.html
     alias:
       - game cover
+    image: 7e49c1f96e3cd9bb16801ba63c552bad2f80548f23f2364f8e3566fc5b475978
   magazine cover:
     name: 雑誌の表紙
     wikiURL: https://danbooru.donmai.us/wiki_pages/magazine_cover.html
@@ -317,6 +323,7 @@ content:
   papercraft:
     name: ペーパークラフト
     wikiURL: https://danbooru.donmai.us/wiki_pages/papercraft.html
+    image: 3e1fe530c7aee8c6e7750670870bdd860b5cfeece98c22c7ceda824685f02d28
   paper child:
     name: 紙細工
     wikiURL: https://danbooru.donmai.us/wiki_pages/paper_child.html

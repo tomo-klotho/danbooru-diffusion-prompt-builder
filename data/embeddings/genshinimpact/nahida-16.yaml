@@ -5,7 +5,7 @@ name: 纳西妲
 # 模型作者
 author: konata @ t.me/StableDiffusion_CN
 # 模型分类
-category: 
+category:
   - 游戏
   - 原神
 # 该模型对应的主模型名称
@@ -17,4 +17,4 @@ vectorSize: 16
 # 模型图片右下角 s 字符旁的数字
 steps: 4700
 # 模型文件的 SHA256 Hash
-payloadHash: 9269169ca5626715c1ec4ac7f4a7b8c742241d168677fdb6a54c8d4d6f7f4098
+payloadHash: 891e676c09ba7bd23a5731a69b68a75cf9cdec3acf0ea8969f4a76ac4ab2e901

@@ -155,6 +155,10 @@ content:
     image: fc7b4acf18f88b760f9f1f7f85ed4914b7821bb9278d6a3fb47db19493b367fa
     alias:
       - shrine maiden
+    image: 930957c59248659d7cf0eea7c713436a5e4c559f61e76f61020274f669461298
+  milf:
+    name: 熟女
+    image: 1bbdfb477365e75c7b6c55d8b83e206a3071625f2a00509c1fd8a882ae263318
   minigirl:
     name: 小人女子
     image: c034c34cf134bea43b4767567ed1122d4015b4dbe5ea6b18054ad94878d37ab7
@@ -462,6 +466,7 @@ content:
   oppai loli:
     name: ロリ巨乳
     wikiURL: https://danbooru.donmai.us/wiki_pages/oppai_loli.html
+    image: 788009411a8f77777d22c7cd5b3e62c01bd5db117b956c75ccdfe6a3f26d2605
   police:
     name: 警察
     image: 1ec8f66977e22dad148e3e9c18a483d7bb6f568b975a74a55feffe774acd4174

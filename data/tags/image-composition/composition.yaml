@@ -12,11 +12,13 @@ content:
       - bordered
       - windowboxed
       - windowbox
+    image: a463b46c110c4d4354a6ec1169d7e346101c5777e75f3785425bf732070cefa4
   framed:
     name: 額装
     wikiURL: https://danbooru.donmai.us/wiki_pages/framed.html
     alias:
       - frame
+    image: 313a7269d070dcf0f702a11aad702205b1d1d6e946882109d4c5bd8fef74665e
   outside border:
     name: 外側の境界
     wikiURL: https://danbooru.donmai.us/wiki_pages/outside_border.html
@@ -55,6 +57,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/reference_sheet.html
     alias:
       - character sheet
+    image: d0cf7ff124bc3cd44151531fb91b8870b33989cbf2c9a7cbdb7b43023e19d598
   diagram:
     name: 図面
     wikiURL: https://danbooru.donmai.us/wiki_pages/diagram.html
@@ -101,6 +104,7 @@ content:
   glitch:
     name: グリッチ
     wikiURL: https://danbooru.donmai.us/wiki_pages/glitch.html
+    image: 81e281523bee879a5fe29dd22437f5787e72af4ebc997623f1b5b40bb2a55a75
   isometric:
     name: アイソメトリック
     wikiURL: https://danbooru.donmai.us/wiki_pages/isometric.html
@@ -110,6 +114,7 @@ content:
     alias:
       - letterbox
       - letter boxed
+    image: 508aa89f2a5317e944b4f548f72aa5e80b6a7eb2765c7840d48036bf052a7442
   pillarboxed:
     name: ピラーボックス
     wikiURL: https://danbooru.donmai.us/wiki_pages/pillarboxed.html
@@ -127,6 +132,7 @@ content:
   photomosaic:
     name: フォトモザイク
     wikiURL: https://danbooru.donmai.us/wiki_pages/photomosaic.html
+    image: ca68ad957dc423bf3707a6e000c4e6fedc18cde089be3afa793d26e5332335cf
   negative space:
     name: ネガティブスペース
     wikiURL: https://danbooru.donmai.us/wiki_pages/negative_space.html
