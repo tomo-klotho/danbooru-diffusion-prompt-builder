@@ -1,20 +1,18 @@
 name: 室内
 category:
-  - 風景
+  - 文化風景
   - 場所
 content:
   bathroom:
     name: バスルーム
     image: db5b77688aba5ccab30a62a0736e14d4a9ab1cb10036a67b45fb65313101a8ff
     wikiURL: https://danbooru.donmai.us/wiki_pages/bathroom.html
-    image: b9670bb836a045d1f02968a454c0a2eef1eda0cc2fe63658093a7151630e2eef
   bathtub:
     name: バスタブ
     image: eb579ff31f2ff6f52b91c538205cd91730ef4634d698298501d4e815e026f4e6
     wikiURL: https://danbooru.donmai.us/wiki_pages/bathtub.html
     alias:
       - bath tub
-    image: 49cbcd566aba2b81ba9a6f856078c46912c65ec267d8cbfe4f1c589c497696db
   toilet stall:
     name: トイレの個室
     wikiURL: https://danbooru.donmai.us/wiki_pages/toilet_stall.html
@@ -92,7 +90,6 @@ content:
     name: ロッカールーム
     image: 97d874e2559d80d53edaccea85fadd0b1ed5ceda77b6fe0b6599a750b698014e
     wikiURL: https://danbooru.donmai.us/wiki_pages/locker_room.html
-    image: 0a1971e2900d3dc20efef3a24bf433057ca05744ed68a6ef948205bf71095ee8
   gym storeroom:
     name: 体育倉庫
     wikiURL: https://danbooru.donmai.us/wiki_pages/gym_storeroom.html
@@ -109,7 +106,6 @@ content:
     name: キッチン
     image: 52c06675f3ec022fc67f3f23dab91d996c60b0e5febef7ab4bccfee1cd923d9b
     wikiURL: https://danbooru.donmai.us/wiki_pages/kitchen.html
-    image: 00799e0d09d53a3e5c9cd085656559631f3677ced8ea0a8890c076cf0b03ae47
   laboratory:
     name: 研究室
     wikiURL: https://danbooru.donmai.us/wiki_pages/laboratory.html

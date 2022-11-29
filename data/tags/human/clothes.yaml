@@ -643,7 +643,6 @@ content:
     image: bccef08cbb47daf285a0cdde80552d1d5f42ed5b0997448937d73c21530b3a4f
     alias:
       - gray dress
-    image: e25cd449ae13874cc6c1f4983baad317a026f72294f66e9299561ca268bcbe20
   orange dress:
     name: オレンジのワンピ
     wikiURL: https://danbooru.donmai.us/wiki_pages/orange_dress.html
@@ -692,9 +691,6 @@ content:
   flag dress:
     name: 国旗连衣裙
     image: a05c800caa1a013027f5b367b52beebfe962d692d46815d5f684341f6a183c04
-  plaid dress:
-    name: 格子连衣裙
-    wikiURL: https://danbooru.donmai.us/wiki_pages/plaid_dress.html
   polka dot dress:
     name: 水玉模様ワンピース
     image: 3eb6b092602f7bb577b2f521a4ff01c7a1290bfd490f00238011967283339d36
@@ -915,11 +911,16 @@ content:
     name: 鎧
     wikiURL: https://danbooru.donmai.us/wiki_pages/armor
     image: 7b28934fd2b865160355dee5aa9a8ea2184e86d54a831d99b688e73a4fd0e320
+    alias:
+      - white armor
+      - black armor
   detailed clothes:
     name: 詳細な服
   shiny clothes:
     name: 光沢のある服
   skyblue dress:
     name: スカイブルーのワンピース
+  cool and fashionable hoodies:
+    name: クールでファッショナブルなパーカー
 
   

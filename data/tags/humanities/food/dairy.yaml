@@ -1,6 +1,6 @@
-name: 乳制品
+name: 乳製品
 category:
-  - 人文景观
+  - 文化風景
   - 食物
 content:
   butter:
@@ -16,10 +16,10 @@ content:
     name: 瑞士奶酪
     wikiURL: https://danbooru.donmai.us/wiki_pages/swiss_cheese.html
   cream:
-    name: 奶油
+    name: クリーム
     wikiURL: https://danbooru.donmai.us/wiki_pages/cream.html
   whipped cream:
-    name: 打发的奶油
+    name: ホイップクリーム
     wikiURL: https://danbooru.donmai.us/wiki_pages/whipped_cream.html
   eggnog:
     name: 蛋酒

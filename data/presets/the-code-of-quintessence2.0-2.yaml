@@ -9,13 +9,13 @@ description: |-
 content:
   魂機械魔法(+):
     description: |-
-      作者：溺水之幸 qq1638434669
-      “ この手のソウルメカは、とにかく強そうに見えるんだよ？”
+      作者:溺水之幸 qq1638434669
+      “ この手のソウルメカは、とにかく強そうに見えるんだよ?”
       
       パラメータ:
       Steps: 45, Sampler: Euler a, CFG scale: 7, Size: 1280x960, Model hash: e6e8e1fc, Eta: 0.68, Clip skip: 2, ENSD: 31337
 
-      編集者コメント：
+      編集者コメント:
       “雨嵐、炎、メカ、ドラゴン!私のストライクゾーンに完璧に突き刺さりました。”（广夏沫）
       “ビッグロボットだ!!!”（今宵）
     content:
@@ -45,6 +45,14 @@ content:
       - cloak
       - two arms:1.1
     preview:
+      - 90bdaf17dafbf091334c977e3419f4c3f28b6f97c6b7e16411020881f8e7f69a
+      - 13a8359f218e0508076d2fe4124f2e232fe23087d10b11e9f249ea76a909024c
+      - 4860bb0ffdede282d8186d8cca8fb5dea3bfe9b9115c2549cb0e3657a574244c
+      - b391d104fa8dd84a53da739af11b0f4a1e4f4c68550a5e6e82cedf78545745d1
+      - aa94af242a7cc986666da06e4e23ed5f3bc54c95443195816bb945294ce8df34
+      - 1d8715663bd08b2dba625be319ddf246e035d1f30904427cb88904c52a4611b7
+      - 84094b2d69fd6dae94b8249c5ce7f3877ad83dddcf72a6c29f5e31151d28bd72
+      - b7342ed8c9b20464859706efd8a0f76a0d8154fe0a8405acbda9c6717b318c44
   魂機械魔法(-):
     description: |-
 
@@ -92,12 +100,12 @@ content:
       - fused fingers
       - too many fingers
       - long neck
-  失われた海8(+):
+  失われた海(+):
     description: |-
-      作者：麦子哒（QQ1355563745）
-      “RUA、実は幽霊船や海賊船が好きだから！？ご存知、帆船です!”
+      作者:麦子哒（QQ1355563745）
+      “RUA、実は幽霊船や海賊船が好きだから!?ご存知、帆船です!”
 
-      正面tag：
+      正面tag:
       extremely detailed 8k wallpaper,(highly detailed:1.1), ((masterpiece:1.1)),[anime:Impasto:0.5], intricate , fantasy,(1ship),(ocean:1.2),[golden boat:golden boat with (green fire:1.2):0.1], clear sky ,wind ,beautiful sky,(nightsky),(galaxy), (huge blood moon in the background:1.05)
 
       ↑ここでは、ボートを生成し、その周りに緑の炎を生成するというステップを踏んでいる
@@ -105,18 +113,19 @@ content:
       パラメータ:
       Steps: 150, Sampler: DDIM, CFG scale: 5, Size: 1024x576, Model hash: e6e8e1fc, Clip skip: 2
 
-      編集者コメント：
+      編集者コメント:
       “マックのバンドワゴンに乗ったのはこれ。”（板）
-      “準備はいいかい？”（校长）	
+      “準備はいいかい?”（校长）	
       “はい、船長!--”（板）
       “wu——
       (タクティカル・チャンティング -Tactical Chanting）
-      フライングダッチマンだ！”（今宵）
+      フライングダッチマンだ!”（今宵）
     content:
       - extremely detailed 8k wallpaper
       - highly detailed:1.1
-      - \masterpiece:1.1
-      - anime:impasto:0.5:1.1
+      - masterpiece:1.1
+      - anime:0.5
+      - impasto:0.5
       - intricate
       - fantasy
       - 1ship:1.1
@@ -129,7 +138,10 @@ content:
       - galaxy:1.1
       - huge blood moon in the background:1.05
     preview:
-  失われた海8(-):
+      - 83ce09fb56b413c511f203788bc913da3660eb787365d2041d0191afe60ce519
+      - fbded0e8109544b5c60859e9cbf546f260124f539f7c4a675ad55ba51ccce354
+      - e16f2cbb9d9d3634e87f19a9e6906235386182784ed5ea033a4979951af368f9
+  失われた海(-):
     description: |-
 
     content:
@@ -161,19 +173,19 @@ content:
       - mature
       - mutiple ship
       - more than 1ship
-  深海の巨人恐怖症(+):
+  深海巨人恐怖症(+):
     description: |-
-      作者：易者     (QQ:1608090027)
+      作者:易者     (QQ:1608090027)
       “ 階下のメカとの戦闘を提案する。”
 
       パラメータ:
       Steps: 45, Sampler: Euler a, CFG scale: 4.5
 
-      編集者コメント：
+      編集者コメント:
       “素敵な雫。”（校）
       “emmm……”（antwominy）
-      “もし、そんなモンスターがあなたのところにやってきて、「ハグして！」と言ったら、あなたはどうしますか？"(今宵）
-      “私の友人、私はあなたの時間を割いて、私たちの偉大な父と救い主を紹介したいと思います。JPG，えへん，未知のものへの恐怖と海への恐怖は違うのか、海の怪物のさまざまなイメージは、私たちの中にある自然のとらえどころのない顔なのではないのだろうか。”（七曜）
+      “もし、そんなモンスターがあなたのところにやってきて、「ハグして!」と言ったら、あなたはどうしますか?"(今宵）
+      “私の友人、私はあなたの時間を割いて、私たちの偉大な父と救い主を紹介したいと思います。JPG,えへん,未知のものへの恐怖と海への恐怖は違うのか、海の怪物のさまざまなイメージは、私たちの中にある自然のとらえどころのない顔なのではないのだろうか。”（七曜）
     content:
       - best quality:1.21
       - masterpiece:1.21
@@ -192,7 +204,9 @@ content:
       - searchlight
       - you can't see the whole picture
     preview:
-  深海巨物恐惧症(-):
+      - 8beb32523a36672df9757cbd3faa6fe4e2668dd4ba2e7402815ebfd763af1235
+      - 73992b0edd3d98f248d2a82bd844c05637a1bc4a25ed930d570e860cdfca5b99
+  深海巨人恐怖症(-):
     description: |-
 
     content:
@@ -213,23 +227,23 @@ content:
       - watermark
       - username
       - blurry
-  萝卜法(+):
+  巨兵魔法(+):
     description: |-
-      作者：Tom qq2831763863
+      作者:Tom qq2831763863
       “現在は安定し、最終的な視点や環境をカスタマイズすることで、また違った効果のイメージを得ることができるようになりました。 ”
 
-      正面tag：
-      基本：
-      ((best quality)), ((masterpiece)), ((ultra-detailed))，(oil paint),
-      主体：
+      正面tag:
+      基本:
+      ((best quality)), ((masterpiece)), ((ultra-detailed)), (oil paint),
+      主体:
       power armor,(epic),(steam),Only the upper body and head can be seen, (A magnificent scene),knight,shock,Warlord,war machine,Titan,in ruins,Jesus Light,grey sky,(illustration), (detailed light),night,rainy,from side, from below
 
       パラメータ:
       step30 Sampler DDIM cfg 7
 
-      編集者コメント：
+      編集者コメント:
       “For the Emperor.”（广夏沫）
-      “うひょー、俺のビッグロボットが！？”（刚打完泰坦陨落2的今宵）
+      “うひょー、俺のビッグロボットが!?”（刚打完泰坦陨落2的今宵）
       “アグリーメントIII - アイアンハーネスを保護する。” （板）
       “信じてくれ、久保!”（校长）
       “私のバッテリーを引っ張らないでください。”（半生为夏甗麦至冬）
@@ -260,7 +274,12 @@ content:
       - from side
       - from below
     preview:
-  萝卜法(-):
+      - e9a27b7b5ede4c7235afbb9d3daf4cadf0216def420eaf04fd0c92f4b1608010
+      - d09bf0f778ef415e76bbcd4d141764fd130bf8177151243537577d0f89afdee2
+      - 7b2251e5321aac2ac7806dd9fc75772b2d5ebe96dec26122ec4abe211a6e5501
+      - 525cf3193e2ec5b1710eab7ac1bd4dca5ebcc110d601fe44d3957776dc03b21b
+      - df1c5638fd6e60f7592aa5a46fe90e28e1e5adb687f01667bac90e4aa537bb89
+  巨兵魔法(-):
     description: |-
 
     content:
@@ -299,14 +318,14 @@ content:
       - full body
   霊鎧魔法(+):
     description: |-
-      作者：Gloaming（QQ2762215011）
+      作者:Gloaming（QQ2762215011）
       “ 美女とヤるのは無理だし、美女を転がすのも無理。”
 
       パラメータ:
-      Steps：45   CFG: scale:13
+      Steps:45   CFG: scale:13
 
-      編集者コメント：
-      “Warframeへの応募を検討しているデザイナーの方はいらっしゃいますか？”（今宵） 
+      編集者コメント:
+      “Warframeへの応募を検討しているデザイナーの方はいらっしゃいますか?”（今宵） 
     content:
       - masterpiece
       - best quality
@@ -341,6 +360,8 @@ content:
       - dark souls
       - two arms
     preview:
+      - 636ff3b0960964914e786ee34d6c7614343cdae48b686cf0032d6c229c6238d9
+      - b6e22896ac6d6c2db7fe8572b75e54d6aae8f0e93a8aac5b073e2c9679f5648a
   霊鎧魔法(-):
     description: |-
 
@@ -390,13 +411,13 @@ content:
       - long neck
   星戦魔法 2.0(+):
     description: |-
-      作者：wcx（QQ2867371170）
-      “ 1.0改良版，船はリーズナブルでイケメンになったが、数は少なく、送料は安定していると思われる（本当は1.0の方がいいのだが）。”
+      作者:wcx（QQ2867371170）
+      “ 1.0改良版:船はリーズナブルでイケメンになったが、数は少なく、送料は安定していると思われる（本当は1.0の方がいいのだが）。”
 
       パラメータ:
       Steps: 50, Sampler: Euler a, CFG scale: 5.5, Size: 1024x512, Model hash: e6e8e1fc, Eta: 0.68, Clip skip: 2, ENSD: 31337
 
-      編集者コメント：
+      編集者コメント:
       “スペースオペラをやろう!”（阴阳）
       “フォースがあなたと共にありますように。”（今宵）
       “宇宙のロマンに出会える”（雪）
@@ -405,7 +426,7 @@ content:
       - best quality:1.2
       - ultra-detailed:1.21
       - illustration:1.21
-      - depth\ of \field:1.1
+      - depth of field:1.1
       - extremely detailed cg
       - 8k wallpaper:1.1
       - space:1.3
@@ -433,6 +454,11 @@ content:
       - high quality blast
       - spacestation
     preview:
+      - cc576198a48a84a9fc0874f5e6bc7dac05cb7f2f13e90a822ea9e1fee4fcb6de
+      - 9a18bb0a42cc82d4cc467ad2b01b5c7fde4ecceac50e4c601461ea5c3a833589
+      - 96bb8f472b04af33c393c006fe3529072d68c7fe0330f43a2365c792a03f279d
+      - 0ec3f95c94e33b144f3f2f1f5f15a48d82bd19b50d5079b29d4922bef6c519a6
+      - 18291a30c75c30a28c610c1e6843ad48c1b3744440f98ca0840c441141ae3d36
   星戦魔法 2.0(-):
     description: |-
 
@@ -454,19 +480,19 @@ content:
       - signature
       - watermark
       - username
-  巨星法(+):
+  巨星魔法(+):
     description: |-
-      作者：Phoebe（QQ 3101516445）
+      作者:Phoebe（QQ 3101516445）
       “ 極上の星、極上の月。 ”
       パラメータ:
       Steps: 50, Sampler: Euler, CFG scale: 7.5, Size: 1024x512, Model hash: e6e8e1fc, Clip skip: 2, ENSD: 31337
 
-      編集者コメント：
+      編集者コメント:
       “天体の巨大なプロポーションと地平線上に現れる視覚的なインパクトは、いつも自然に、宇宙の中の幽玄な創造物であるという意識で世界を見つめ直させるのである。とはいえ、このような球体は、軌道上の衛星というよりも、ボイジャーの「グレートホワイトボール」のような地球近傍のホバリング天体のように感じられ、より堂々としたものである。”（七曜）
       “アースバースト!”（校长）
-      “rua~お米1袋で何階も耐えられる！？” （麦子）
+      “rua~お米1袋で何階も耐えられる!?” （麦子）
       “あなたの惑星の密度とその月の半径を知り、互いに相互作用するこれらの2つの星の間の引力の大きさを求めよ。”（今宵）
-      “ロキシーリミットはどこだ？保存してください。”（半生为夏甗麦至冬）
+      “ロキシーリミットはどこだ?保存してください。”（半生为夏甗麦至冬）
     content:
       - cola exists
       - planetarium
@@ -492,7 +518,12 @@ content:
       - ultra-detailed:1.05
       - extremely delicate and beautiful:1.05
     preview:
-  巨星法(-):
+      - 39a394953d80bf528f68aa168b35719892de8fe7982d7c9bfb42ff848d6163f5
+      - a7fd93d5d89cd23ad53acebf8dc3c4e40f4138eb86a8fd3493b91fb1a1a5b591
+      - d4066d789b63da759c4765616778bf434b2745402584a5b183a439943096f760
+      - 5ae85562ae4247c1cede0ab47a9eceecda5a34a0bb3a82454b0af44a699c6ce5
+      - dc04d8ac930962afa1b714cc36e3f7640d96ffd74ba04cd21c453e9541394d53
+  巨星魔法(-):
     description: |-
 
     content:
@@ -531,9 +562,9 @@ content:
       - disfigured
       - malformed
       - mutated
-  黒洞魔法(+):
+  暗黒魔法(+):
     description: |-
-      作者：半生为夏甗麦至冬（QQ 167894905）
+      作者:半生为夏甗麦至冬（QQ 167894905）
       “ ブラックホールでありながら、少しオーバーリッチな色合い。”
 
       Kagantua black holeをメインタグに使用します。その他はすべてサブコアタグです。
@@ -541,15 +572,15 @@ content:
 
 
       パラメータ:
-      Sampling Steps：60，cfg7，960×768，Model hash: e6e8e1fc，Eta: 0.68, Clip skip: 2, ENSD: 31337
+      Sampling Steps:60,cfg7,960×768,Model hash: e6e8e1fc,Eta: 0.68, Clip skip: 2, ENSD: 31337
 
-      編集者コメント：
-      “？” （麦子）
+      編集者コメント:
+      “?” （麦子）
       “良い……”（阴阳）
       “くっそー、なんでもっと見栄えのする写真を見せないんだ。”（半生为夏甗麦至冬）
       “チャンドラセカール制限を越える可愛い子ちゃんを見てみよう。”（今宵）
       “クロスドメイン・ロキシーリミッツ、あなたに会うためだけに。” （板）
-      “ブラックホールに着陸して、旗を立てるのは初めてですか？” （匿名）
+      “ブラックホールに着陸して、旗を立てるのは初めてですか?” （匿名）
     content:
       - very detailed cg unified 8k wallpaper:1.1
       - masterpiece:1.1
@@ -574,7 +605,12 @@ content:
       - schwarzschild radius:1.2
       - chandrasekhar limit
     preview:
-  黒洞魔法(-):
+      - fe70d8d33d04b790f0955846f98c8a15b3b46ea96906eaf66d6309af46b20e43
+      - b7f72c4026e0063d8c68d4cc40574fc77287c40ddf04137473c5b61e9fe53100
+      - 13e65b92780df2980f158aec6940b6ba3bac5601f20c13e177630a951958fb3b
+      - c1cab274b4121e062a340ff52a44a98bb1219585240284024d58af009692ccd6
+      - 9f35d06e5b3f225aab83aedca8a58a2967a52ff7fcb0cd8338fdd74ab13abc95
+  暗黒魔法(-):
     description: |-
 
     content:
@@ -586,24 +622,20 @@ content:
       - text watermark
   茶会魔法(+):
     description: |-
-      作者：霓虹鎏金（QQ3197588016）
+      作者:霓虹鎏金（QQ3197588016）
       “ 腹ペコ。”
-
-      正面tag：
-      
-      反面tag：
       
       パラメータ:
       Steps: 55, Sampler: DDIM, CFG scale: 7, Size: 832x832, Model hash: 925997e9, Clip skip:2
 
-      編集者コメント：
+      編集者コメント:
       “テーブルを開く-。”（antwominy）
       “まずは100円から。”（老年痴呆的疾风法师）
       “皆さん、通りすがりにお参りしてください～ 今日は、ばんばんが結婚する日なんですよ～。”（校长）
-      “バンバンの結婚相手は？”（阴阳）
+      “バンバンの結婚相手は?”（阴阳）
       “I...食事は無理しない程度に。”（今宵）
       “私、いい人と結婚したいんです!”（板板 已被证实是伪装者）
-      “2階のみんな、気をつけろよ！”（真 · 板板）
+      “2階のみんな、気をつけろよ!”（真 · 板板）
       “嗝~”（雪）
     content:
       - masterpiece
@@ -630,6 +662,11 @@ content:
       - seasoning
       - state banquet
     preview:
+      - 94239d02d5969d2ce73521a66e1f70eafca25c6df35d675a6e81a918d0edc1d1
+      - 365ed6ab6459e647f2c014f01c66ae05b3365896ea0be38a1daeb5e09f4c7590
+      - 623fca2cec2cdc741a6df2b61ecd9be9b83e58c10980051d517713582600f03e
+      - 723cb560c28e58e9e1cb46f4eb7f3a39cba08c190454f83df6ce7045022aae97
+      - fc61847a9a41816f6b9537eabac48477185fd7e6ba8b36eb9235e8d37114efde
   茶会魔法(-):
     description: |-
 
@@ -655,14 +692,14 @@ content:
       - food that has been eaten
   記章魔法(+):
     description: |-
-      作者：TNT科学家（TNTScientist）
-      “ なんで丸っこいんだ？ ” 
-      欲しい効果に合わせてマジカルチェンジをすることをお勧めします。
+      作者:TNT科学家（TNTScientist）
+      “ なんで丸っこいんだ? ” 
+      欲しい効果に合わせて呪文を変更することをお勧めします。
       
       パラメータ:
       Steps: 40, Sampler: Euler a, CFG scale: 4.5
 
-      編集者コメント：
+      編集者コメント:
       “もし私が子供の頃にこの呪文を知っていたら、中つ国の本を書けたかもしれませんね。”（今宵）
       “まだ逆三角形がありますね。（” （板）
     content:
@@ -679,6 +716,11 @@ content:
       - colorful
       - hdr
     preview:
+      - a4b2d8d1c24b1e4bfbdd56f288a42fbcb016ab949be09921855a791abc5cc281
+      - 786d725a70c5d205945a792a72137cfde483b23d64f345d55f91e11a294f33f3
+      - 66621d456b446f7e9555031bf075f867c56ffee16bd402f3f4670fd53c6cd68b
+      - 7c6e1c52fd6dadf271b83ce60f89717206880db30ea52762ccffe92d390bfdfb
+      - 5295a39b28bb1fcb8c4c2631db0a2f291351e68125f269220ea6a9c37e3d4837
   記章魔法(-):
     description: |-
 
@@ -702,13 +744,13 @@ content:
       - blurry
   積木魔法(+):
     description: |-
-      作者：白烛未央
+      作者:白烛未央
       “ (メッセージなし)” 
-      ポジティブタグ： 希望する街の建物や動物を追加
+      ポジティブタグ: 希望する街の建物や動物を追加
       パラメータ:　随意
 
-      編集者コメント：
-      “ブロック遊びが嫌いな人はいないはず！？”（校长）
+      編集者コメント:
+      “ブロック遊びが嫌いな人はいないはず!?”（校长）
       “私も子供の頃、ブロック遊びが大好きでした。レゴの破片が床に落ちるまでは。”（今宵）
       “二階のブロック街の警備員か何かか。” （板）
       “グラフィックや空間芸術が豊かで、次の瞬間には回転し、視覚の錯覚で無数の変化をもたらすかのようです。”（七曜）
@@ -717,6 +759,13 @@ content:
       - grey background
       - stereoscopic feeling
     preview:
+      - 765fee62934c468d52210faebd8933ca2a7ff81dd6082710d77d728b894c1f35
+      - e44d1d41a1b2b70f38388d8e9ad638acc17538e517daf336070fdd4a29b47d35
+      - 22aba2cdb8e576909c75f3894a000151ac61c7eff24c77a9339606603d2ef53a
+      - 948ccdb469123f4af0da9135327df3bc70143c782a0a7859f9201dac4c14ed42
+      - a17e983a5080588cbb4563bb1beefe1303148373afbad83b4cfd372fe57b443a
+      - c2c1a32255fc9c909fd9b505211d6b5ad6e76f6d5ac180ee33ced72fbdf489e0
+      - a76756557531bc2b0762f1b553db57185babf28a637b1bbfd98e2e94edbc3a7e
   積木魔法(-):
     description: |-
 
@@ -741,13 +790,13 @@ content:
       - bad feet
   純粋美術魔法(+):
     description: |-
-      作者：麦子哒
+      作者:麦子哒
       “rua!実際にdndのシーンを作るのに使ったのですが、見事に成功し、タグセットは下のシーン説明を変更することで素晴らしいシーンが生成されました。”
 
       パラメータ:
       Steps: 30, Sampler: DDIM, CFG scale: 4, Size: 1024x768, Model hash: e6e8e1fc, Clip skip: 2
 
-      編集者コメント：
+      編集者コメント:
       “怖いくらいにディテールがあるのですが、一見してカオスに見えるような感覚は生まれないんです。この大きな風景の中に建物や風景が千鳥足で配置され、そびえ立つ建物と穏やかな湖が、遠くのたなびく雲や海と自然に超然としたハーモニーを奏でています。”（板）
       “何か壮大な感じがしますよねー。”（阴阳）
       “叙事詩的で壮大。”（广夏沫）
@@ -772,6 +821,10 @@ content:
       - cumulus
       - night star:1.1
     preview:
+      - e53032c24d1a3d91eac1cd5e6b3537577da27206cb3f0dc282d6f88859d6e0ca
+      - 5c3cc1adfaf171bc1dc31af820174948ec09919ec94971bb6c9467be8bd4a5e2
+      - 6f922419774f1795f6b5adf7d16fa79f0f657cd61bb41af96c8f8e2de3f5adc3
+      - d9371a2d310805403794c534222bcd88bfdc9359b1e72003a8717731d2359ce2
   純粋美術魔法(-):
     description: |-
 
@@ -804,13 +857,13 @@ content:
       - bad face
   水鏡魔法(+):
     description: |-
-      作者：Phoebe（QQ 3101516445）
+      作者:Phoebe（QQ 3101516445）
       “シンプルで使い勝手が良い。雲を他のオブジェクトに置き換えたり、水鏡に他のオブジェクトを反射させたりすることができます。ほとんどの風景とかなり相性が良いが、人間とは相性が悪い。バナーとの相性も抜群で、ストレッチバナーは非常に効果的です。”
 
       パラメータ:
       Steps: 50, Sampler: Euler a, CFG scale: 6.5, Size: 1024x512, Model hash: e6e8e1fc, Clip skip: 2, ENSD: 31337
 
-      編集者コメント：
+      編集者コメント:
       “光と影が燃え、浮遊する光が見えてくる。”（半生为夏甗麦至冬）
       “純粋な美しさを前にして、何も言うことはありません。”（回想起在玻利维亚和圣塔布兰卡对线经历（指幽灵行动）的七曜）
     content:
@@ -844,6 +897,9 @@ content:
       - sunlight:1.1
       - fairyland
     preview:
+      - b94d223ec86ce138cc1376c1674c4a41b1ce9763c70671b900b8eb5d4ccc1b5e
+      - b5dc278c38ae699958063f824d53bdc808d8e0f60105277e572deebd685846f9
+      - 56fb6aeaec48134a64ebdc09b069d1872858a19542bc95ddbf498e5d5f72d5eb
   水鏡魔法(-):
     description: |-
 
@@ -889,70 +945,72 @@ content:
       - thrones:1.157625
   天国階段 人物(+):
     description: |-
-      作者：Phoebe（QQ 3101516445）
+      作者:Phoebe（QQ 3101516445）
       “人からのタグ出しと風景からのタグ出しは微妙に違う。”
 
       パラメータ:
       Steps: 50, Sampler: Euler a, CFG scale: 6.5, Size: 1024x768, Model hash: e6e8e1fc, Clip skip: 2, ENSD: 31337
 
-      編集者コメント：
+      編集者コメント:
       “私はこの呪文をかなり気に入ったので、この作品に唯一の推薦文を書くことにした。フライングウィングス、ローズ、ホワイトシティ白色は、神の純粋さと力の表れです。階段が少しゆがんでいたり、パラペットが完全に連続していなかったりするのが美点です。しかし、全体の仕上がりや重なりを損ねることはありません。がんばれー天使の螺旋階段「ロングウィング」を駆け抜けるのはあなた次第。(バフ - アリスの好意)”（爱丽丝）
       “天の彼方の仙人の宮殿に吊るされ、世界の塵を見下ろす。”（半生为夏甗麦至冬）
       “歌と雲は天にあり、舞は九天にあり。”（校长）
     content:
-      - there are suspended staircase above the sky:1.331
-      - only suspended staircase:1.331
-      - clouds surround the white suspended staircase:1.331
+      - there are suspended staircase above the sky:1.157625
+      - only suspended staircase:1.157625
+      - clouds surround the white suspended staircase:1.157625
       - the suspended staircase are snow-white
       - there are only suspended staircase in the sky
       - white feathers fluttered around the suspended staircase
-      - heaven:1.331
-      - beautiful detailed sky:1.331
+      - heaven:1.157625
+      - beautiful detailed sky:1.157625
       - beautiful detailed cumulonimbus
-      - extremely detailed cg unity 8k wallpaper:1.331
-      - masterpiece:1.331
-      - best quality:1.331
-      - ultra-detailed:1.331
-      - best illumination:1.1
-      - best shadow:1.1
-      - an extremely delicate and beautiful:1.1
+      - extremely detailed cg unity 8k wallpaper:1.157625
+      - masterpiece:1.157625
+      - best quality:1.157625
+      - ultra-detailed:1.157625
+      - best illumination:1.05
+      - best shadow:1.05
+      - an extremely delicate and beautiful:1.05
       - dynamic angle
       - floating
       - finely detail
-      - bloom:1.1
-      - shine:1.1
+      - bloom:1.05
+      - shine:1.05
       - glinting stars
       - feather
       - nature
-      - sunlight:1.1
+      - sunlight:1.05
       - fairyland
       - extremely delicate and beautiful girls
       - full body
       - cloud gap light
     preview:
+      - b172080e96d712ea5b944859cff458d5fabf9c07d48cfb3a296b9084fb4c416f
+      - fa75ab973d4ba2b184badd8d3bfed2ca56d4991a94b3eb6e4614b945b5073b74
   天国階段 人物(-):
     description: |-
 
     content:
-      - ugly:1.157625
-      - duplicate:1.157625
-      - morbid:1.1025
-      - mutilated:1.1025
-      - tranny:1.157625
+      - ugly:1.331
+      - duplicate:1.331
+      - morbid:1.21
+      - mutilated:1.21
+      - tranny:1.331
       - mutated hands
-      - poorly drawn hands:1.157625
+      - poorly drawn hands:1.331
       - blurry
-      - bad anatomy:1.1025
-      - bad proportions:1.157625
+      - bad anatomy:1.21
+      - bad proportions:1.331
       - extra limbs
       - cloned face
-      - disfigured:1.157625
-      - more than 2 nipples:1.157625
-      - missing arms:1.21550625
-      - extra legs:1.157625
-      - fused fingers:1.27628156
-      - too many fingers:1.27628156
-      - unclear eyes:1.157625
+      - disfigured:1.331
+      - more than 2 nipples:1.331
+      - missing arms:1.4641
+      - extra legs:1.331
+      - fused fingers:1.61051
+      - too many fingers:1.61051
+      - unclear eyes:1.331
       - lowers
       - bad hands
       - text
@@ -969,67 +1027,70 @@ content:
       - watermark
       - username
       - bad feet
-      - monotone:1.27628156
-      - palaces:1.157625
-      - ruins:1.157625
-      - thrones:1.157625
-  天国階段 景物(+):
+      - monotone:1.61051
+      - palaces:1.331
+      - ruins:1.331
+      - thrones:1.331
+  天国階段 風景(+):
     description: |-
 
     content:
-      - there are suspended staircase above the sky:1.331
-      - only suspended staircase:1.331
-      - clouds surround the white suspended staircase:1.331
+      - there are suspended staircase above the sky:1.157625
+      - only suspended staircase:1.157625
+      - clouds surround the white suspended staircase:1.157625
       - the suspended staircase are snow-white
       - there are only suspended staircase in the sky
       - white feathers
-      - white feathers fluttered around the suspended staircase:1.331
-      - heaven:1.331
-      - cloud gap light:1.21
+      - white feathers fluttered around the suspended staircase:1.157625
+      - heaven:1.157625
+      - cloud gap light:1.1025
       - beautiful detailed sky
       - beautiful detailed cumulonimbus
-      - extremely detailed cg unity 8k wallpaper:1.331
-      - masterpiece:1.331
-      - best quality:1.331
-      - ultra-detailed:1.331
-      - best illumination:1.1
-      - best shadow:1.1
-      - an extremely delicate and beautiful:1.1
+      - extremely detailed cg unity 8k wallpaper:1.157625
+      - masterpiece:1.157625
+      - best quality:1.157625
+      - ultra-detailed:1.157625
+      - best illumination:1.05
+      - best shadow:1.05
+      - an extremely delicate and beautiful:1.05
       - dynamic angle
       - floating
       - finely detail
-      - bloom:1.1
-      - shine:1.1
+      - bloom:1.05
+      - shine:1.05
       - glinting stars
       - feather
       - nature
-      - sunlight:1.1
+      - sunlight:1.05
       - fairyland
-  天国階段 景物(-):
+    preview:
+      - f543b5f113ab5ec710608a6ffa515a1e8c779b96172083f70c8c7267b11e98c1
+      - 59b8a5965705855ccb77d3c613bce75a637690621fd16eb658757ad6edf92e6c
+  天国階段 風景(-):
     description: |-
 
     content:
-      - 1girl:1.40710042
-      - girl:1.157625
-      - ugly:1.157625
-      - duplicate:1.157625
-      - morbid:1.1025
-      - mutilated:1.1025
-      - tranny:1.157625
+      - 1girl:1.9487171
+      - girl:1.331
+      - ugly:1.331
+      - duplicate:1.331
+      - morbid:1.21
+      - mutilated:1.21
+      - tranny:1.331
       - mutated hands
-      - poorly drawn hands:1.157625
+      - poorly drawn hands:1.331
       - blurry
-      - bad anatomy:1.1025
-      - bad proportions:1.157625
+      - bad anatomy:1.21
+      - bad proportions:1.331
       - extra limbs
       - cloned face
-      - disfigured:1.157625
-      - more than 2 nipples:1.157625
-      - missing arms:1.21550625
-      - extra legs:1.157625
-      - fused fingers:1.27628156
-      - too many fingers:1.27628156
-      - unclear eyes:1.157625
+      - disfigured:1.331
+      - more than 2 nipples:1.331
+      - missing arms:1.4641
+      - extra legs:1.331
+      - fused fingers:1.61051
+      - too many fingers:1.61051
+      - unclear eyes:1.331
       - lowers
       - bad hands
       - text
@@ -1046,25 +1107,26 @@ content:
       - watermark
       - username
       - bad feet
-      - monotone:1.27628156
-      - palaces:1.157625
-      - ruins:1.157625
-      - thrones:1.157625
+      - monotone:1.61051
+      - palaces:1.331
+      - ruins:1.331
+      - thrones:1.331
   中国龍(+):
     description: |-
-      作者：铸币马猴烧酒卡莎（QQ：2633743535）
-      “マップアウト率はあまり高くないが、aiを何度か走らせて慣れることで成功率が上がるだろう。”
+      作者:铸币马猴烧酒卡莎（QQ:2633743535）
+      “出現率はあまり高くないが、aiを何度か走らせて慣れることで成功率が上がるだろう。”
 
       パラメータ:
       Steps: 60, Sampler: DDIM, CFG scale: 11
 
-      編集者コメント：
-      “中国の龍の祖先！？4つの方向性を確立し始めましょう”（校长）
-      “おい、煙だ！なんで吸わないんだ！？中国の龍です!カードを引け!”（今宵）
+      編集者コメント:
+      “中国の龍の祖先!?4つの方向性を確立し始めましょう”（校长）
+      “おい、煙だ!なんで吸わないんだ!?中国の龍です!カードを引け!”（今宵）
     content:
       - master piece:1.1025
       - best quality:1.331
-      - ultra detailed\\\grand movement:1.331
+      - ultra detailed
+      - grand movement:1.331
       - illustration:1.4641
       - cool movement:1.331
       - 1 orient dragon:1.61051
@@ -1093,6 +1155,12 @@ content:
       - chinese int:1.331
       - mount the cloud and ride the mist:1.771561
     preview:
+      - 1e64d345abb8eed507841b9e3dcbd51a47012a0b5849b9a4ca4600ec30e0a5ba
+      - 02bdbc1e32bcbeb9bbc978028f8545692c09816beafeb35d0c1d6167921c6d6f
+      - 8efef241425b4f6fe084d9177af8221d518f0bc711b8b8e55938ba3e2b54c269
+      - 2f9001ccfcc7acc13e7604fe1dfbe76f86e5c3db91d47d0a5bfd8f55c3ee1de4
+      - 7a5df1132ed5e5287a43f5dee2111c21c6d7b5be1aa58e3056860971c2b2d53b
+      - 61d4e1c8f1dd0eee358113c0bf3fb00c63ce41cd325f483d0fde8dd364b7e4e9
   中国龍(-):
     description: |-
 
@@ -1140,13 +1208,13 @@ content:
 
   蒸汽世界(+):
     description: |-
-      作者： 明月珰（QQ1816153515）
+      作者: 明月珰（QQ1816153515）
       “呪文も豪華なのに（たぶん）、スチームパンクのファンタジーと美しさ、テクノロジーとマジックで、aiの絵に似ていると感じるほどです。”
 
       パラメータ:
       Step:40 cfg:4.5 ddim
 
-      編集者コメント：
+      編集者コメント:
       “どんなパンクにもロマンがあるが、スチームパンクには、壊れた油絵のような質感の下にボーダーレスな青空が広がる、荒々しい理想と未来に挑む人間の自由な希望がある。”（七曜)
       “もっとギアを増やしてほしい。”（校长）
       “産業界の巨人、Modomodo。”（老年痴呆的疾风法师 )
@@ -1231,6 +1299,14 @@ content:
       - magic:0.90909091
       - street:0.90909091
     preview:
+      - 76bea3f0c668d83905d7b12d2be9d5baf530c5a462342278cca98f0e2e08479b
+      - 387dcc92b491858ce1d04d59916e33e6a5a8ab578040a84f43dea87dd453e433
+      - fe07b58bd4f28bf10592032b85ec293363baa5a82718ce3e51b72c04c9356ecc
+      - 345d0ba8d7790a571391013f75d643c110568019caee561e96e8f71aa3a7c3cf
+      - d668918e8e58ff4d97e54ff092e7d1205ae06d4d873f44337891bb245aab7267
+      - 81972e193a640d0109e8512239a5b6a09c57a4b19c5b30622a09d33b34f5c64b
+      - 9794e7c37720c437556ea52e64e59c95f9f23a5ea2eacdabb147c76a20d37827
+      - 3ddc08133f7138175faa676cefcf30608685af18c3e2b030be8d6ad8dea96690
   蒸汽世界(-):
     description: |-
 

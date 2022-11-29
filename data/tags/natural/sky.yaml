@@ -124,3 +124,9 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/rainbow.html
   beautifully detailed sky:
     name: 綺麗で細く描きこまれた空
+  sunrise:
+    name: 日の出
+  planet:
+    name: 惑星
+  sunlight:
+    name: 太陽光

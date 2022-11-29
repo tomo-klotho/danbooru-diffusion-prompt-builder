@@ -1,0 +1,383 @@
+name: 目
+category:
+  - 人物
+  - 顔
+content:
+  exquisite eyes:
+    name: 非常に美しい目
+  jewel-like eyes:
+    name: 宝石のような目
+  colorful eyes:
+    name: カラフルな目
+  asymmetrical eyes:
+    name: 非対称の目
+  cosmic eyes:
+    name: 宇宙の目
+  beautiful detailed eyes:
+    name: 美しい細く描画された目
+  aegyo sal:
+    name: 眼袋
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aegyo_sal.html
+  bruised eye:
+    name: 傷ついた目
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bruised_eye.html
+    alias:
+      - black eye
+  flaming eyes:
+    name: 燃えるような目
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flaming_eyes.html
+    alias:
+      - burning eyes
+      - fiery eyes
+  glowing eye:
+    name: 輝く目(単眼)
+    wikiURL: https://danbooru.donmai.us/wiki_pages/glowing_eye.html
+  mako eyes:
+    name: 魔眼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mako_eyes.html
+  amphibian eyes:
+    name: 両生類の目
+  cephalopod eyes:
+    name: 頭足類の目
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cephalopod_eyes.html
+    alias:
+      - octopus eyes
+  compound eyes:
+    name: 複眼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/compound_eyes.html
+    alias:
+      - insect eyes
+  orange eyes:
+    name: オレンジ色の目
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_eyes.html
+  pink eyes:
+    name: ピンク色の目
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pink_eyes.html
+  amber eyes:
+    name: 琥珀色の目
+    wikiURL: https://danbooru.donmai.us/wiki_pages/amber_eyes.html
+    image: b1e9134dddec90ee07ff120588aceb04e4a893979090130f53f8ee733aaf04a9
+  '@ @':
+    name: ぐるぐる目
+    wikiURL: https://danbooru.donmai.us/wiki_pages/@_@.html
+    alias:
+      - spiral eyes
+      - al bhed eyes
+      - swirly eyes
+  pac-man eyes:
+    name: パックマンの目
+    wikiURL: https://danbooru.donmai.us/wiki_pages/pac-man_eyes.html
+    alias:
+      - pacman eyes
+  horizontal pupils:
+    name: 水平瞳孔/カエル目
+    wikiURL: https://danbooru.donmai.us/wiki_pages/horizontal_pupils.html
+    alias:
+      - goat eyes
+      - frog eyes
+  + +:
+    name: 目がしいたけ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/+_+.html
+    alias:
+      - star eyes
+      - starry eyes
+  diamond-shaped pupils:
+    name: ひし形の瞳孔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/diamond-shaped_pupils.html
+    image: ccd5a9f48390b8baf62284e6f62cfde33912d9398418de709c06a17def5804f4
+  flower-shaped pupils:
+    name: 花形の瞳孔
+    wikiURL: https://danbooru.donmai.us/wiki_pages/flower-shaped_pupils.html
+    image: 07929bef9728d79d890116c4ced564bfa89af8ea53d6aff486c75a88293617ec
+  blue sclera:
+    name: 白目部分が青い
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_sclera.html
+  black sclera:
+    name: 白目部分が黒い
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_sclera.html
+  bloodshot eyes:
+    name: 血走った目
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bloodshot_eyes.html
+    alias:
+      - bloodshot eye
+  green sclera:
+    name: 白目部分が緑
+    wikiURL: https://danbooru.donmai.us/wiki_pages/green_sclera.html
+  no sclera:
+    name: 白目部分が無い
+    wikiURL: https://danbooru.donmai.us/wiki_pages/no_sclera.html
+  orange sclera:
+    name: 白目部分がオレンジ色
+    wikiURL: https://danbooru.donmai.us/wiki_pages/orange_sclera.html
+  red sclera:
+    name: 白目部分が赤
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_sclera.html
+  yellow sclera:
+    name: 白目部分が黄色
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_sclera.html
+  bags under eyes:
+    name: 目の下のクマ
+    wikiURL: https://danbooru.donmai.us/wiki_pages/bags_under_eyes.html
+    alias:
+      - eye circles
+      - eyebags
+      - dark circles
+  cross-eyed:
+    name: より目
+    wikiURL: https://danbooru.donmai.us/wiki_pages/cross-eyed.html
+    alias:
+      - crossed eyes
+  solid circle eyes:
+    name: 黒丸目
+    wikiURL: https://danbooru.donmai.us/wiki_pages/solid_circle_eyes.html
+  heart-shaped eyes:
+    name: ハート型の目
+    wikiURL: https://danbooru.donmai.us/wiki_pages/heart-shaped_eyes.html
+    alias:
+      - heart eyes
+      - heart eye
+  glowing eyes:
+    name: 輝く目
+    image: 11dc46b5d6ca1508352b27758f15d6755747b75e8a6cca79110886f69c3ee523
+    wikiURL: https://danbooru.donmai.us/wiki_pages/glowing_eyes.html
+  half-closed eye:
+    alias:
+      - half closed eye
+    name: 半分閉じた目(单眼)
+    image: 63d9aa5f42a31f7315ee12270adeece1eb58d37c72f3b1f5976334159eddc815
+    wikiURL: https://danbooru.donmai.us/wiki_pages/half-closed_eye.html
+  happy tears:
+    name: 嬉し涙
+    image: 48c40ffbca7d89705bd3b5e58e410741817fa179f7c271bdde365131fc341d31
+    wikiURL: https://danbooru.donmai.us/wiki_pages/happy_tears.html
+  sparkling eyes:
+    name: キラキラな目
+    image: fbe51ad8d114862609b9c526d0fcaa9e30e090ff52ea9a038a94eb2d563b3658
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sparkling_eyes.html
+    alias:
+      - sparkle eyes
+  glaring:
+    name: ニラマレジト目
+    image: 4999c11a716611c14dd7073779e07fa0d08b30cbaf2309721c9f9a1e4b6dd0e4
+    wikiURL: https://danbooru.donmai.us/wiki_pages/glaring.html
+    alias:
+      - glare
+  tsurime:
+    name: ツリ目
+    image: b350cdd64e5d41efbe12e2337eb0979ee2e868569c33a36af4ea37ec217ba290
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tsurime.html
+  eyeball:
+    name: 眼球
+    wikiURL: https://danbooru.donmai.us/wiki_pages/eyeball.html
+    alias:
+      - eyeballs
+  tears:
+    name: 涙
+    image: 1d58fa13dc6304fb087b8b63b78ef1405a9539c0ddeea5d9ead6360d00654dca
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tears.html
+    alias:
+      - tear
+  gradient eyes:
+    name: グラデーションの目
+    wikiUrl: https://danbooru.donmai.us/wiki_pages/gradient_eyes.html
+    image: 509fe35618a92dbc10c65ca4900af53b9130a56b9849229dc59ffba8709c4476
+    wikiURL: https://danbooru.donmai.us/wiki_pages/gradient_eyes.html
+  aqua eyes:
+    name: アクアアイズ
+    image: 0b8db7d15e5bc6c4809e6ea159823e160c341ab898234f33b02a8524ed87d0eb
+    wikiURL: https://danbooru.donmai.us/wiki_pages/aqua_eyes.html
+  closed eyes:
+    name: 目を閉じて
+    image: a12c73e9492bff738f76551caa75d9d3070f6630ef8f13db6a8f624adb390130
+    wikiURL: https://danbooru.donmai.us/wiki_pages/closed_eyes.html
+    alias:
+      - eyes closed
+  one eye closed:
+    name: ウィンク
+    image: 4af68f047ec053fdff5fd584364c22241f2ff52a77e432e22f9882c44bc5ce1a
+    wikiURL: https://danbooru.donmai.us/wiki_pages/one_eye_closed.html
+    alias:
+      - wink
+  half-closed eyes:
+    alias:
+      - half closed eyes
+    name: 半目
+    image: 385efafabe8e6f892b2e7581ac897902c04039e5d3ca432445448bf3d3b2da12
+    wikiURL: https://danbooru.donmai.us/wiki_pages/half-closed_eyes.html
+  dashed eyes:
+    name: 目に横線
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dashed_eyes.html
+    alias:
+      - dash eyes
+      - line in eye
+  multicolored eyes:
+    name: 色とりどりの目
+    image: a7660dd76ad6982e767fc8935c7deef06721f4ac735ab72f654d4c4a0d21b63e
+    wikiURL: https://danbooru.donmai.us/wiki_pages/multicolored_eyes.html
+  mismatched pupils:
+    name: 左右目で瞳孔が異なる
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mismatched_pupils.html
+    alias:
+      - asymmetrical pupils
+  mismatched sclera:
+    name: 左右目で白目が異なる
+    wikiURL: https://danbooru.donmai.us/wiki_pages/mismatched_sclera.html
+  no pupils:
+    name: 瞳孔の無い目
+    image: 057a6f1ac71b03b814b72411a0a72cd1bdd115f481c28beb639ff9e2c8c43c7a
+    wikiURL: https://danbooru.donmai.us/wiki_pages/no_pupils.html
+  empty eyes:
+    name: レイプ目
+    image: 8933a045bcd55b51e673479bc910e2552806627e7f659427907d071cb18fc838
+    wikiURL: https://danbooru.donmai.us/wiki_pages/empty_eyes.html
+    alias:
+      - dead eyes
+  blank eyes:
+    name: 白目
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blank_eyes.html
+  dilated pupils:
+    name: 散大した瞳孔
+    image: c2542aedb53e4eb1da6749a8ef97a47ca56a07a6cbbdb8d79435469a7635e6d8
+    wikiURL: https://danbooru.donmai.us/wiki_pages/dilated_pupils.html
+  hollow eyes:
+    name: 空虚な目
+    image: 4dbecb60eca1a653ad4e97f59fb8446065e901105d357874b672d7bcc7b9ef47
+    wikiURL: https://danbooru.donmai.us/wiki_pages/hollow_eyes.html
+  constricted pupils:
+    name: 収縮した瞳孔
+    image: 5bd94bcbd8449991c8495ab54738aa48ead3c03e75314a903b36554d1d94e563
+    wikiURL: https://danbooru.donmai.us/wiki_pages/constricted_pupils.html
+    alias:
+      - contracted pupils
+      - shrunk pupils
+      - shrunk eyes
+  symbol-shaped pupils:
+    name: シンボル形の瞳孔
+    image: ab4f255d31e997373ce365bda1f688612c2e9057fbadb87e678e2a65b262e8ac
+    wikiURL: https://danbooru.donmai.us/wiki_pages/symbol-shaped_pupils.html
+  star-shaped pupils:
+    name: 目が星
+    image: e413919099de5329069ba6fb41c8fa99dee2d09946077b2da8d87f2707f7f0c8
+    wikiURL: https://danbooru.donmai.us/wiki_pages/star-shaped_pupils.html
+  x-shaped pupils:
+    name: X 字型の瞳孔
+    image: cb0d7337beb3e68f9cfcdf6018923b3e1994260e74b68bcced00444e1e344c15
+    wikiURL: https://danbooru.donmai.us/wiki_pages/x-shaped_pupils.html
+  button eyes:
+    name: ボタン目
+    image: 7d70e4243e78d1d12c069c43b45d357fe3207c04f1624d498e0cfed00ee2cdf6
+    wikiURL: https://danbooru.donmai.us/wiki_pages/button_eyes.html
+  eye reflection:
+    name: 目の反射
+    image: ad484bc12bfeaf6c2821477958c80062810c720a97784d4eba15b4f8dafd3e49
+    wikiURL: https://danbooru.donmai.us/wiki_pages/eye_reflection.html
+  black eyes:
+    name: 黒い目
+    image: 17b8bbb8afd29094b28f1e03db17f9790f81677ce00fac4f36170c8db2a187c0
+    wikiURL: https://danbooru.donmai.us/wiki_pages/black_eyes.html
+  blue eyes:
+    name: 青い目
+    image: e7ffb034164da3b7b0c16c85b8020ac8b52be8f306c21648e92e82727f0b297d
+    wikiURL: https://danbooru.donmai.us/wiki_pages/blue_eyes.html
+  brown eyes:
+    name: ブラウンの目
+    image: 84f5507b659c88ead0437dbf73f3a93c087c84b51336af7af7445072a34fcd7b
+    wikiURL: https://danbooru.donmai.us/wiki_pages/brown_eyes.html
+  green eyes:
+    name: グリーンの目
+    image: e3db6b6b6a42cfcc945308b052a4dc53f7d6e025d02c8fe74e5e0ce8bbf91983
+    wikiURL: https://danbooru.donmai.us/wiki_pages/green_eyes.html
+  grey eyes:
+    name: グレーの目
+    image: 897185217d72271d95380f406724ee6ccd36910a14b7ac83e610b68e988b5949
+    wikiURL: https://danbooru.donmai.us/wiki_pages/grey_eyes.html
+    alias:
+      - silver eyes
+      - gray eyes
+  heart-shaped pupils:
+    name: ハートの目
+    image: dbd1bc5b89481633efbd4c148c083ee37fecbc3862884271033240168983a43a
+    wikiURL: https://danbooru.donmai.us/wiki_pages/heart-shaped_pupils.html
+  heterochromia:
+    name: オッドアイ/ヘテロクロミア
+    image: 750b940bfad52ecc1c8f5311c09c58fdf9ee8a30bd2eccfbcc659ecf40603666
+    wikiURL: https://danbooru.donmai.us/wiki_pages/heterochromia.html
+    alias:
+      - odd eye
+  purple eyes:
+    name: 紫の目
+    image: e5c9ab77719dad02a01a13969fd48e7044ef431ced92fae169fcea190ce535bb
+    wikiURL: https://danbooru.donmai.us/wiki_pages/purple_eyes.html
+  red eyes:
+    name: 赤い目
+    image: dd4ffd5dd7f8ff1bd63c71510e736a75038e3b550cdc3690b037fb155f2e3cca
+    wikiURL: https://danbooru.donmai.us/wiki_pages/red_eyes.html
+    alias:
+      - red eye
+  slit pupils:
+    name: ネコ目
+    image: d6d191469f5fa0cbcc7a2ea317cc4114d2612bdf676b2fa4ab096c6800b30d6e
+    wikiURL: https://danbooru.donmai.us/wiki_pages/slit_pupils.html
+    alias:
+      - cat eyes
+      - snake eyes
+  white eyes:
+    name: 白眼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/white_eyes.html
+    image: 2b63567c49259107c16a39ff222affa505e751296f4ae9803f3c0596ae7b1173
+  yellow eyes:
+    name: 金眼
+    image: 2d7aab3af701b80566edd5f825b971e5a71f0e48dc08c9b8a1627e26c66d8440
+    wikiURL: https://danbooru.donmai.us/wiki_pages/yellow_eyes.html
+  tareme:
+    name: タレ目
+    image: 390c241baedf33a972ee845138cbfe295539e39c902a31c9fe506e14d0e46607
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tareme.html
+  sanpaku:
+    name: 三白眼
+    wikiURL: https://danbooru.donmai.us/wiki_pages/sanpaku.html
+  upturned eyes:
+    name: 上目づかい
+    image: 7258cd92e6ba33fd50b69f9aff1c7db9d64e00c960d0fe4dcb2f96161990e7fd
+    wikiURL: https://danbooru.donmai.us/wiki_pages/upturned_eyes.html
+  wide-eyed:
+    name: 見開いた目
+    image: 19ad79ac0f8119090000721373813b2a93f2c21d50dad60e5eda9478a1dbb06b
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wide-eyed.html
+    alias:
+      - eyes wide
+      - wide eyes
+      - shocked eyes
+  ringed eyes:
+    name: 環状の目
+    image: f1bf3099c4c01d66ce975a552ea7407301713bba183751cdc8740eee92d7d346
+    wikiURL: https://danbooru.donmai.us/wiki_pages/ringed_eyes.html
+  rolling eyes:
+    name: 上向きに回転した目
+    wikiURL: https://danbooru.donmai.us/wiki_pages/rolling_eyes.html
+    alias:
+      - rolleyes
+      - rolled eyes
+      - eye roll
+  crazy eyes:
+    name: 狂った目
+    image: 6eb802ad6ac22168d68ffc921a18cd4c8f9e241fb555f3f8c46cdc73876ce2a5
+    wikiURL: https://danbooru.donmai.us/wiki_pages/crazy_eyes.html
+  wide eyed:
+    name: 目を見開く
+    wikiURL: https://danbooru.donmai.us/wiki_pages/wide_eyed.html
+  jitome:
+    name: ジト目
+    image: d08cb57bb81da42fd3819e1bb9ff415dca61e5d8841eb450c0337d5c7a560f6d
+    wikiURL: https://danbooru.donmai.us/wiki_pages/jitome.html
+    alias:
+      - flat gaze
+  tearing up:
+    name: 涙目
+    image: bd70e043328d95deaec2620fdc0ea921fbca9f801b322cfa598ffb866b0ecf67
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tearing_up.html
+  eyes visible through hair:
+    name: 髪を通して見える目
+    wikiURL: https://danbooru.donmai.us/wiki_pages/eyes_visible_through_hair.html
+    alias:
+      - eye through hair

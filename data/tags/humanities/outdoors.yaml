@@ -1,6 +1,6 @@
 name: 屋外
 category:
-  - 風景
+  - 文化風景
   - 場所
 content:
   airfield:
@@ -210,3 +210,8 @@ content:
     name: 灯笼
     wikiURL: https://danbooru.donmai.us/wiki_pages/paper_lantern.html
     image: ca7bebb09a22fe3775e345352f120afb6110a90dfcca64e379873897ed3c9190
+  black hole:
+    name: ブラックホール
+    alias:
+      - 黑洞视界
+

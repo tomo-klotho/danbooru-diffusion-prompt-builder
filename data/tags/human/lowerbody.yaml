@@ -498,9 +498,10 @@ content:
   neck garter:
     name: ガーターベルト
   white garter straps:
+    name: 白いガーターストラップ
     image: 8f1accc6ff3c1c6dcd0f4f24f31ccce8c4430e650b20e275b0774a9134b09ba4
   black garter straps:
-    name: ブラックガーターストラップ
+    name: 黒いガーターストラップ
   ankle garter:
     name: アンクルガーター
     wikiURL: https://danbooru.donmai.us/wiki_pages/ankle_garter.html
@@ -511,4 +512,6 @@ content:
       - covering pussy
   long legs:
     name: 長い脚
+  evil paws:
+    name: 邪悪な足
   

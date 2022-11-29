@@ -19,3 +19,17 @@ content:
     name: ミッシングアーム
   bad feet:
     name: 足の形が違う
+  abnormal eye size:
+    name: 異常な目のサイズ
+  abnormal eye distribution:
+    name: 異常な目の配置
+  abnormal eye proportion:
+    name: 異常な目の比率
+  abnormal hands:
+    name: 異常な手
+  abnormal legs:
+    name: 異常な脚
+  abnormal feet:
+    name: 異常な足
+  abnormal fingers:
+    name: 異常な指

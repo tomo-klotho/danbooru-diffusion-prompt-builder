@@ -62,7 +62,7 @@ watch(toRef(props, 'category'), () => {
         v-model="searchTerms"
         :prefix-icon="IconSearch"
         class="search"
-        placeholder="搜索" />
+        placeholder="検索" />
     <ElScrollbar ref="scrollRef">
         <ClientOnly>
             <Masonry

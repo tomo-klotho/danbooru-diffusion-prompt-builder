@@ -62,7 +62,7 @@ function loadMore() {
         v-model="searchTerms"
         :prefix-icon="IconSearch"
         class="search"
-        placeholder="搜索" />
+        placeholder="検索" />
     <ElScrollbar>
         <div v-if="description && searchTerms === ''" class="description">
             <p v-for="(paragraph, i) in description.split('\n')" :key="i">

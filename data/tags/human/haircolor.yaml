@@ -74,15 +74,15 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/red_hair.html
     image: f1ccc74bd664d4bd00f022990584224a294bf902bd49d7cbb2a464c60a1161b9
   blue hair:
-    name: 青髪/水色髪
+    name: 青髪
     wikiURL: https://danbooru.donmai.us/wiki_pages/blue_hair.html
     image: 1cb2a05cbf82a7ad637781af0a4fa11fe1c30a48872c66f7723ee9d785b67866
   dark blue hair:
-    name: ダークブルー
+    name: ダークブルーの髪
     wikiURL: https://danbooru.donmai.us/wiki_pages/dark_blue_hair.html
     image: ab8058377eed2597e9caae7b4f62d60b2b77b6c7e5cbe064f42d42f7fe59109f
   light blue hair:
-    name: ライトブルー
+    name: ライトブルーの髪
     wikiURL: https://danbooru.donmai.us/wiki_pages/light_blue_hair.html
     image: 686038dc38cd29eb0c189f93425d3711d82559828d2c8b91d088a844377002ce
   green hair:
@@ -104,5 +104,5 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/rainbow_hair.html
   thin blonde hair:
     name: 薄いブロンドの髪
-  gentle hair:
-    name: 優しい髪
+  azure hair:
+    name: 青空のような髪

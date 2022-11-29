@@ -1,6 +1,6 @@
-name: 肉类与海鲜
+name: 肉魚
 category:
-  - 人文景观
+  - 文化風景
   - 食物
 content:
   bacon:
@@ -91,9 +91,6 @@ content:
     name: 红鱼子酱
     wikiURL: https://danbooru.donmai.us/wiki_pages/ikura.html
     image: 909b19a19db295b697415090b5838385bd18e0eba51ade8111853b69df1d1bfd
-  fish:
-    name: 鱼
-    wikiURL: https://danbooru.donmai.us/wiki_pages/fish.html
   fish bone:
     name: 鱼骨
     wikiURL: https://danbooru.donmai.us/wiki_pages/fish_bone.html

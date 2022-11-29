@@ -92,6 +92,8 @@ content:
     name: カメラ目線
     image: 936b1689a184411377a94303c2b012daaad44588833ae4408d940fa6f63ff678
     wikiURL: https://danbooru.donmai.us/wiki_pages/looking_at_viewer.html
+    alias:
+      - face the viewer
   looking away:
     name: よそ見
     image: 6a1fc30408cea2a1739dc4d1efba4f727338d31246bc209a95b370851d5feb94

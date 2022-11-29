@@ -273,6 +273,7 @@ function appendPreset(
                 children: null,
             }
         } else {
+            console.log(tag)
             return {
                 label: tag,
                 name: tag,

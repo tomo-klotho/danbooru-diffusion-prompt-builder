@@ -155,10 +155,6 @@ content:
     image: fc7b4acf18f88b760f9f1f7f85ed4914b7821bb9278d6a3fb47db19493b367fa
     alias:
       - shrine maiden
-    image: 930957c59248659d7cf0eea7c713436a5e4c559f61e76f61020274f669461298
-  milf:
-    name: 熟女
-    image: 1bbdfb477365e75c7b6c55d8b83e206a3071625f2a00509c1fd8a882ae263318
   minigirl:
     name: 小人女子
     image: c034c34cf134bea43b4767567ed1122d4015b4dbe5ea6b18054ad94878d37ab7
@@ -349,6 +345,8 @@ content:
   kyuubi:
     name: 九尾|九尾狐
     wikiURL: https://danbooru.donmai.us/wiki_pages/kyuubi.html
+  mecha:
+    name: メカ
   mecha musume:
     name: メカ娘
     wikiURL: https://danbooru.donmai.us/wiki_pages/mecha_musume.html

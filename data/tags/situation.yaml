@@ -45,6 +45,12 @@ content:
     name: 遭難
     alias:
       - shipwreck
+  birthday party:
+    name: 誕生日会
+    wikiURL: https://danbooru.donmai.us/wiki_pages/birthday_party.html
+  tea party:
+    name: 茶会
+    wikiURL: https://danbooru.donmai.us/wiki_pages/tea_party.html
   
 
   

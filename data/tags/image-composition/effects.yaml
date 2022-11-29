@@ -62,6 +62,7 @@ content:
     wikiURL: https://danbooru.donmai.us/wiki_pages/backlighting.html
     alias:
       - backlit
+      - backlight
   blending:
     name: 混合
     wikiURL: https://danbooru.donmai.us/wiki_pages/blending.html
@@ -203,8 +204,32 @@ content:
       - glowing particles
   ambient light:
     name: 周囲光
-  
+  fluttered detailed ink splash:
+    name: なびく細かなインク スプラッシュ
+    alias:
+      - fluttered detailed ink splashs
+  splash ink:
+    name: 飛び散るインク
+    alias:
+      - ink splashing
+  denoising:
+    name: ノイズ除去
+  beautifully painted:
+    name: 美しく描かれた
+  fog:
+    name: 霧
+  dry ice fog:
+    name: ドライアイスの霧
+  blood fog:
+    name: 血の霧
+  black fog:
+    name: 黒い霧
+  dim scene:
+    name: 薄暗いシーン
+  splashed paint dynamic angle:
+    name: 飛び散った塗料のダイナミック アングル
 
+  
 
   
 

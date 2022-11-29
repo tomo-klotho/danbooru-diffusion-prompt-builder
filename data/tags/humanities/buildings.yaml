@@ -1,6 +1,6 @@
 name: 建物
 category:
-  - 風景
+  - 文化風景
   - 場所
 content:
   airport:
@@ -334,5 +334,10 @@ content:
     name: 2階建て
   3 stories:
     name: 3階建て
+  tokyo dome:
+    name: 東京ドーム
+  complex and messy street fluorescent graffiti on the wall:
+    name: 壁に複雑で乱雑な落書き
+
   
 

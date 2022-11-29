@@ -1,0 +1,54 @@
+name: 文化
+category:
+  - 文化風景
+content:
+  christianity:
+    name: キリスト教
+  islam:
+    name: イスラム教
+  buddhism:
+    name: 仏教
+  judaism:
+    name: ユダヤ教
+  shinto:
+    name: 神道
+  taoism:
+    name: 道教
+  zoroastrianism:
+    name: ゾロアスター教
+  hinduism:
+    name: ヒンドゥー教
+  greek mythology:
+    name: ギリシャ神話
+  roman mythology:
+    name: ローマ神話
+  norse mythology:
+    name: 北欧神話
+  Finnish mythology:
+    name: フィンランド神話
+  celtic mythology:
+    name: ケルト神話
+  inca mythology:
+    name: インカ神話
+  mayan mythology:
+    name: マヤ神話
+  aztec mythology:
+    name: アステカ神話
+  egyptian mythology:
+    name: エジプト神話
+  druid:
+    name: ドルイド
+  spiritualism:
+    name: 心霊主義
+    description: スピリチュアリズム、スピリティズム
+  war:
+    name: 戦争
+  hip-hop style:
+    name: ヒップホップスタイル
+
+
+
+
+  
+
+  

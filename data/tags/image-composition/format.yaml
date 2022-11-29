@@ -65,6 +65,8 @@ content:
   best quality:
     name: 最高品質
     image: 3c25a58c3e639a5c2253efffee379e114172c5de65587c9814ae7d1b71258ad4
+    alias:
+      - the best quality
   high quality:
     name: 高品質
   worst quality:
@@ -101,6 +103,7 @@ content:
     alias:
       - polygon
       - 3dcg
+      - 3d cg
     image: 7efc63aeacffd98dcf6ad0f161844c3c33f8d41c5d56537420197241dce9a084
   animated:
     name: アニメーション
@@ -398,6 +401,7 @@ content:
       - very fine 8kcg wallpapers
       - very fine 8k cg wallpaper
       - extremely detailed wallpaper
+      - extremely detailed 8k wallpaper
   4k wallpaper:
     name: 4kサイズの壁紙
   hdr:
@@ -410,7 +414,10 @@ content:
     name: 古典主義
   picture frame:
     name: 額縁
-
+  unreal engine 5:
+    name: ue5
+    alias:
+      - ue5
 
     
 
