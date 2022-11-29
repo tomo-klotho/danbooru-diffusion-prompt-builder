@@ -25,11 +25,11 @@ https://builder.aipixs.com
 
 ## 開発・改善
 
-### ラベルやプリセットの修正
+### タグやプリセットの修正
 
 ファイル `data/tags/**/*.yaml` と `data/presets/**/*.yaml` を編集してください。
 
-#### 広める
+#### 追加
 
 ラベルの追加には、ラベルの英語名と日本語名の両方が必要であることが最低条件です。
 
@@ -193,10 +193,6 @@ suggestNegative:
 ```
 
 ### 開発環境
-
-> Proのアイコンを一部使用しているため、このプロジェクトの構築には[Font Awesome v6 Proライセンス](https://fontawesome.com/plans)が必要になります。
-> を実行し、Font AwesomeのプライベートNPMサーバーに接続します。開発中に一時的にFreeアイコンに置き換えることができます。
-
 ```bash
 # 依存関係のインストール
 yarn

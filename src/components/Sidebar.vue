@@ -84,7 +84,6 @@ function select(index: string, indexPath: string[]) {
                 :hierarchy="presetStore.categoryHierarchy"
                 :category-size="presetStore.categorySize" />
         </ElSubMenu>
-        <!--
         <ElSubMenu v-loading="!embeddingStore.loaded" index="embeddings">
             <template #title>
                 <ElIcon>
@@ -108,7 +107,6 @@ function select(index: string, indexPath: string[]) {
                 :hierarchy="hypernetworkStore.categoryHierarchy"
                 :category-size="hypernetworkStore.categorySize" />
         </ElSubMenu>
-        -->
     </ElMenu>
 </template>
 

@@ -9,6 +9,7 @@
         "preview": "vite preview",
         "generate": "eslint . && vue-tsc --noEmit && vite build --ssrManifest && vite build --ssr src/entry-server.ts --outDir dist/server && node prerender.js",
         "dupcheck": "tsx ./src/cli/dupcheck.ts",
+        "tagsyntaxcheck": "tsx ./src/cli/tagsyntaxcheck.ts",
         "importimage": "tsx ./src/cli/importimage.ts",
         "importimages": "tsx ./src/cli/importimages.ts",
         "importembedding": "tsx ./src/cli/importembedding.ts",
